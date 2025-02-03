@@ -4,7 +4,8 @@ Basic Python Script for Extracting Data out of a .pdf file and calculating times
 
 
 Terminal Output:
-![grafik](https://github.com/user-attachments/assets/9bf2a64f-e8fc-49d4-a371-d028af1790c5)
+![grafik](https://github.com/user-attachments/assets/2d20f088-7bd2-4238-a5cc-6a1aea5506d6)
+
 
 
 Fake Delivery Note:
