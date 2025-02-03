@@ -1,0 +1,3 @@
+![grafik](https://github.com/user-attachments/assets/9bf2a64f-e8fc-49d4-a371-d028af1790c5)
+
+Basic Python Script for Extracting Data out of a .pdf file and calculating times per Item + Total time. ((WORK IN PROGRESS))
