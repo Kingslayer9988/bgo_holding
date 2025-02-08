@@ -1,4 +1,4 @@
-# WORK STUFF:
+# BGO HOLDING - WORK STUFF
 
 ## Profi-Tour
 For Profi-Tour things, look in the documentation folder.
