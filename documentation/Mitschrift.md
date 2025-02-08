@@ -24,6 +24,7 @@
 - FORCE_GREEN_BUTTON => $Kunden_avis_bestätigen & $Aktualisieren => Kein Avis versendet trotzdem GRÜN!
 - [DIR | STK | PST] -> Alle DIREKT
 - [Ausftragsnummer: 034] -> Internet bestellung -> DIREKT
+- Rechtsklick auf Datenbank-Row => Transportauftrag => Für Planung und Calculation-Script
 
 - Vor-Avisieren
     - Gleich wie Avisieren nur im Vorfeld -> Nicht Offizeles Aviso verwenden!
