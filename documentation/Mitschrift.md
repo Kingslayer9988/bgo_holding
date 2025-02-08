@@ -43,10 +43,11 @@
 - Immer Excel-Tabelle der Folge-KW auf Papier am Tisch haben und Touren nach Senden der PDF abhaken! -> 2PDF's pro Touren [_NON-TB & _TB]
 - Ablage auf Onedrive[PUKE] Ordner that never syncs even 10MB's :)
 
-## Auslieferlisten:
+## Auslieferlisten Infos:
 - Für SC-Leiter == alle Touren außer [POST, Direkt, Lager-WAB's]
 - Für Hersteller == Alle Touren außer [Lager-WAB's] -> %%Immer Freitags für Nächste KW (UNSURE ASK ISABEL)
 
+## Auslieferliste Guide:
 - Single .csv Excel file -> Apply Makro -> Save as .xlsx so $SC-Leiter_ and $HERSTELLER_ receives it without Makros
 - Touren markieren -> Auslieferliste -> Saved as .csv on Remote [Profi-Tour-Server] -> Copy to [Local] and open in Excel
 - Apply Excel "MAGIC" Makros :DD [Strg+Umschalt+A "For Austria + D for "Germany"] -> [HARDCODED IN MAKRO]
