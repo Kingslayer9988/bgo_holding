@@ -26,7 +26,7 @@
 - [Ausftragsnummer: 034] -> Internet bestellung -> DIREKT
 - Rechtsklick auf Datenbank-Row => Transportauftrag => Für Planung und Calculation-Script
 
-- Vor-Avisieren (Gesamter Prozess könnte ohne großen Aufwand automatisiert werden. NICHT-GRATIS-MACHEN!)
+- Vor-Avisieren (Gesamter Prozess könnte easy automatisiert werden. [NICHT-GRATIS-MACHEN])
     - Gleich wie Avisieren nur im Vorfeld -> Nicht Offizeles Aviso verwenden!
     - Daten & Mail auß Profitour "Aviso-Pdf" ziehen und Mail erfassen!
     - Wichtige Daten: Kunde, KW, Auftragsnummer
