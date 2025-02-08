@@ -22,6 +22,7 @@
 - [Ausftragsnummer: 034] -> Internet bestellung -> DIREKT
 
 - Datenbank Stuff:
+    - Import von Hersteller_H => Immer 06:30 & 14:00 Mo-Fr
     - Für Auslieferlisten  => Abfrage von [Prod & Lieferwoche]
     - Für Anvisieren und erstellen von Touren => Abfrage von [Lieferwoche]
 
