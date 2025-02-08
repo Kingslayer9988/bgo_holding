@@ -18,9 +18,7 @@
 
 ## Tipps im Bearbeitungsfenster: [Nach der Auswahl der gewünschten bzw. zugeteilten Arbeitsbereiche bsp. Wien, Linz etc.]
 - Grün = Kunde wurde bereits Avisiert.
-
 - FORCE_GREEN_BUTTON => $Kunden_avis_bestätigen & $Aktualisieren => Kein Avis versendet trotzdem GRÜN!
-
 - [DIR | STK | PST] -> Alle DIREKT
 - [Ausftragsnummer: 034] -> Internet bestellung -> DIREKT
 
