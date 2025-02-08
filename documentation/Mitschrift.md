@@ -15,10 +15,6 @@
 - Bei Baustellen mit Trennwänden -> Trennwand vermerken braucht spezille Montage Boys
 - Bei Baustellen mit Küchen -> L&M Küchenmontage => Einige sachen (UNSURE ASK ISABEL)
 
-## Frachtbriefe & Auslieferlisten: (Unterschiedlich für SC-Leiter und Produktion)
-- Immer bei der Abfrage [Prod & Lieferwoche auswählen]
-- Immer bei der Abfrage [Mo. - Sa.] der gewünschten [KW] auswählen!
-
 ## Tipps im Bearbeitungsfenster: [Nach der Auswahl der gewünschten bzw. zugeteilten Arbeitsbereiche bsp. Wien, Linz etc.]
 - Grün = Kunde wurde bereits Avisiert.
 - FORCE_GREEN_BUTTON => $Kunden_avis_bestätigen & $Aktualisieren => Kein Avis versendet trotzdem GRÜN!
@@ -43,7 +39,7 @@
 
 - Datenbank Stuff:
     - Import von Hersteller_H => Immer 06:30 & 14:00 Mo-Fr (AUCH Import von Hersteller_B und Hersteller_N ???) (UNSURE ASK ISABEL)
-    - Für Auslieferlisten  => Abfrage von [Prod & Lieferwoche]
+    - Für Auslieferlisten  => Abfrage von [Prod & Lieferwoche] - [Mo. - Sa.] der gewünschten [KW] auswählen!
     - Für Anvisieren und erstellen von Touren => Abfrage von [Lieferwoche]
     - Für Transportbestellung (Winkler, etc) => Abfrage von [Touren]
 
