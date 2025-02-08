@@ -46,7 +46,13 @@
     - 3,5t Tonnen Fahrzeug => bis zu 600kg [LAGER-WAB] (B-FS)
 
 - Tipps für erstellen von Linien:
-    - LKW gewünscht (UNSURE ASK ISABEL)
+    - LKW gewünscht - Komische Mitschrift von mir und Vergessen :) (UNSURE ASK ISABEL)
+    - 2 Arten von Lager-WAB's (Immer ins Kommentarfeld des WAB's)
+        - [Rampe] bei Umnladen in 7,5t bzw 3,5t Fahrzeugen beim Lager (eher = Bei vielen Kleinkunden)
+        - [Platz] Wenn mit LKW zu von Kunde zu Kunde gefahren wird (eher = Bei wenig Großkunden)
+        - Wenn 1 WAP bereits Rampe nächster muss auf Platz (max 1 Rampe pro Tag)
+        - Nochmal mit Isabel durchgehen [Platz] macht irgendwie keinen Sinn (DIREKT?) (UNSURE ASK ISABEL)
+
     - Bei knappen/komischen Touren => Plant SC-Leiter bzw. Absprache mit SC-Leiter [UNSURE ASK BIG-BOSS]
 
 ## Frachtbriefe (Bestehen aus 2-PDF's):
@@ -71,3 +77,4 @@
 - Trennwände: (Speical_Montage_Workers)
     - Aufbau => pro 1 Laufmeter = 3h
     - Abbau => pro 1 Laufmeter = 1,5 Zeit
+
