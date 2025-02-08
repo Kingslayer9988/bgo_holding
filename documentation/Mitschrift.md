@@ -44,20 +44,11 @@
 - Ablage auf Onedrive[PUKE] Ordner that never syncs even 10MB's :)
 
 ## Auslieferlisten:
-- Single .csv Excel file -> Apply Makro -> Save as .xlsx so $SC-Leiter_ and $HERSTELLER_ receives it without Makros
-
 - Für SC-Leiter == alle Touren außer [POST, Direkt, Lager-WAB's]
 - Für Hersteller == Alle Touren außer [Lager-WAB's] -> %%Immer Freitags für Nächste KW (UNSURE ASK ISABEL)
 
+- Single .csv Excel file -> Apply Makro -> Save as .xlsx so $SC-Leiter_ and $HERSTELLER_ receives it without Makros
 - Touren markieren -> Auslieferliste -> Saved as .csv on Remote [Profi-Tour-Server] -> Copy to [Local] and open in Excel
 - Apply Excel "MAGIC" Makros :DD [Strg+Umschalt+A "For Austria + D for "Germany"] -> [HARDCODED IN MAKRO]
 - Save as .xlsx -> So Anti-Virus doesn't cry because of Makros in File :D
 - Naming_Scheme: ALL_$ORT[WIEN,LINZ,GRAZ,etc]_[KW$$].xlsx
-
-
-
-
-
-
-
-
