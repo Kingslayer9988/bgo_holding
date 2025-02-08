@@ -3,10 +3,11 @@
 I Strongly advice anybody to not copy or clone this Repo.
 
 I would wish to make this Repository private but i have no acces to it in work then.
-I know this things here a probably against company policy and I will take it off asap if needed.
-I use this to learn not to damage the company.
 
-There would be an easy fix that helps me and the company
+There would be an easy fix: please somehow make this 3 programms accesable on Work-Devices.
+ - VS-Code [Developed by Microsoft, Free as in Price, there is a Opensource Client Version]
+ - WSL (Windows-Subsystem-for-Linux) [Developed by Microsoft + Linux which if ofcourse OpenSource]
+ - Github [Godfather of Opensource Community]
 
 ## Profi-Tour
 For Profi-Tour things, look in the documentation folder.
