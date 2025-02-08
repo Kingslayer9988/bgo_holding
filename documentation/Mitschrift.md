@@ -83,7 +83,7 @@
 - Save as .xlsx -> So Anti-Virus doesn't cry because of Makros in File :D
 - Naming_Scheme: ALL_$ORT[WIEN,LINZ,GRAZ,etc]_[KW$$].xlsx
 
-## Other Things I got told and is probably Useful:
+## Other Things I got told and are probably Useful:
 - Trennwände: (Speical_Montage_Workers)
     - Montage => pro 1 Laufmeter = 3h
     - Demontage => pro 1 Laufmeter = 1,5h
