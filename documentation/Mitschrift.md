@@ -28,7 +28,10 @@
 - Vor-Avisieren
     - Gleich wie Avisieren nur im Vorfeld -> Nicht Offizeles Aviso verwenden!
     - Daten & Mail auß Profitour "Aviso-Pdf" ziehen und Mail erfassen!
-    - Nicht notwendig laut Isabel - Scheint aber wichtig persöhnliche Meinung! 
+    - Wichtige Daten: Kunde, KW, Auftragsnummer
+    - Mail-Wichtigkeit auf "High"
+    - Nicht notwendig laut Isabel - Scheint aber wichtig persöhnliche Meinung!
+    - Transportauftrag in der Mail anhängen!
 
 - Avisieren:
     - Alles 2x kontrollieren -> Kein Spaß wenn Kunde Böse!
