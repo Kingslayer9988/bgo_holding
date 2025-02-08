@@ -85,7 +85,6 @@
     - Montage => pro 1 Laufmeter = 3h
     - Demontage => pro 1 Laufmeter = 1,5h
 
-
 ## Weird Notes
 - $HERSTELLER
     - NOS - GRÜN - Hersteller_N
