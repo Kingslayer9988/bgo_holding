@@ -22,6 +22,14 @@
 - [DIR | STK | PST] -> Alle DIREKT
 - [Ausftragsnummer: 034] -> Internet bestellung -> DIREKT
 
+- Beim Avisieren:
+    - Alles 2x kontrollieren -> Kein Spaß wenn Kunde Böse!
+    - Datum bei Touren & WAB's 3x kontrollieren -> Kein Spaß wenn Montage Boys & SC-Leiter Böse!
+        - Datum kann sich aufgrund von Tagesarbeitszeit oder fucked build_times from $HERSTELLER auf nächsten Tag rutschen!
+        - Fehler passieren hier leicht und keine Software-Kontrolle für Fehler wie diese!
+        - NOTE: Probably a big reason that "AI" is not already taking Disponenten-Jobs :D (I get sick imagining a Algorithm getting this shit right :O )
+    
+
 - Datenbank Stuff:
     - Import von Hersteller_H => Immer 06:30 & 14:00 Mo-Fr (AUCH Import von Hersteller_B und Hersteller_N ???) (UNSURE ASK ISABEL)
     - Für Auslieferlisten  => Abfrage von [Prod & Lieferwoche]
