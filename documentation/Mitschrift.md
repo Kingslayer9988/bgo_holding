@@ -26,6 +26,8 @@
     - Für Auslieferlisten  => Abfrage von [Prod & Lieferwoche]
     - Für Anvisieren und erstellen von Touren => Abfrage von [Lieferwoche]
 
+- Fahrzeuge are completly fucked for some Areas - Needs fixing but probably low priority! [UNSURE ASK BIG-BOSS]
+
 - Fahrzeuge:
     - LKW (Direkt) => 30m³ & Gewicht = EGAL (C-FS)
     - 7,5t Tonnen Fahrzeug => around 15m³ & Gewicht = 1000kg [LAGER-WAB] (C-FS)
