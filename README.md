@@ -1,3 +1,14 @@
+WORK STUFF:
+
+NEEDS TO BE ADDED:
+-> Script that re-names all Frachtbriefe & Tourenplan .PDF Files in the Correct Way and pushes them to right locations
+-> Native-Windows-Contextmenu-Stuff for making Lists of worng calculated things from "$HERSTELLER"
+-> Automations for to "GREP" things from PDFS to make a List of Items with their buildtimes.
+==> Probably make everything work in Powershell oder BATCH [PUKE] - People refusing me LINUX again :((
+ 
+
+WORKING: (Still needs Adoption for "$Hersteller") 
+ANTI-BORING-SCRIPT: (Better Name -> Time_Calc.sh)
 Basic Python Script for Extracting Data out of a .pdf file and calculating times per Item + Total time. ((WORK IN PROGRESS))
 
 -> It reads Item Number + Item Name and accepts a list of build_times for differnt items and multiplies them.
