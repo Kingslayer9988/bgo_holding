@@ -25,6 +25,11 @@
 - [DIR | STK | PST] -> Alle DIREKT
 - [Ausftragsnummer: 034] -> Internet bestellung -> DIREKT
 
+- Vor-Avisieren
+    - Gleich wie Avisieren nur im Vorfeld -> Nicht Offizeles Aviso verwenden!
+    - Daten & Mail auß Profitour "Aviso-Pdf" ziehen und Mail erfassen!
+    - Nicht notwendig laut Isabel - Scheint aber wichtig persöhnliche Meinung! 
+
 - Beim Avisieren:
     - Alles 2x kontrollieren -> Kein Spaß wenn Kunde Böse!
     - Datum bei Touren & Ladereihenfolge der WAB's 3x kontrollieren -> Kein Spaß wenn Montage Boys & SC-Leiter Böse!
