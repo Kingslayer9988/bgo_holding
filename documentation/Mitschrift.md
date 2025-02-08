@@ -1,5 +1,7 @@
 # Bgo Holding:
 
+## Number One LAW => Dont fuck with Profi-Tour-Profile from Isabel -> Copy and make "Erik"
+
 ## Tipps für Excel-Listen: [Excel_Listen_Immer_pro_KW$$]
 - Werden LIVE am Onedrive Ordner bearbeitet == WEIRD :O
 - SC-Leiter & BGO = R,W,D-Rights == WEIRD x 2 :O
@@ -15,8 +17,6 @@
 - Immer bei der Abfrage [Mo. - Sa.] der gewünschten [KW] auswählen!
 
 ## Tipps im Bearbeitungsfenster: [Nach der Auswahl der gewünschten bzw. zugeteilten Arbeitsbereiche bsp. Wien, Linz etc.]
-- Number One LAW => Dont fuck with Profi-Tour-Profile from Isabel -> Copy and make "Erik"
-
 - Grün = Kunde wurde bereits Avisiert.
 - [DIR | STK | PST] -> Alle DIREKT
 - [Ausftragsnummer: 034] -> Internet bestellung -> DIREKT
@@ -34,7 +34,6 @@
 - Tipps für erstellen von Linien:
     - LKW gewünscht (UNSURE ASK ISABEL)
     - Bei knappen/komischen Touren => Plant SC-Leiter bzw. Absprache mit SC-Leiter [UNSURE ASK BIG-BOSS]
-
 
 ## Frachtbriefe (Bestehen aus 2-PDF's):
 - Auswahl der Tour -> Frachtbrief -> Print as PDF -> Naming_Scheme: TT_TOURNUMMER
