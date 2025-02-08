@@ -13,7 +13,7 @@ There would be an easy fix: please somehow make this 3 programms accesable on Wo
 For Profi-Tour things, look in the documentation folder.
 
 ## NEEDS TO BE ADDED:
-- Fix/Create Profi-Tour Documentation -> Make it useful for other Humans
+- Fix/Create Profi-Tour Documentation -> Make it useful for other Humans => Later: "https://github.com/Kingslayer9988/BGO_Guides"
 - Script that re-names all Frachtbriefe & Tourenplan .PDF files in the correct way and pushes them to the right locations.
 - Native-Windows-Contextmenu-Stuff for making lists of wrongly calculated things from "$HERSTELLER".
 - Automations to "GREP" things from PDFs to make a list of items with their build times.
