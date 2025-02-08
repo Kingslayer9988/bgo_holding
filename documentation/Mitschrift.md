@@ -16,6 +16,18 @@
 
 ## Tipps im Bearbeitungsfenster: [Nach der Auswahl der gewünschten bzw. zugeteilten Arbeitsbereiche bsp. Wien, Linz etc.]
 - Grün = Kunde wurde bereits Avisiert.
+- [DIR | STK | PST |] -> Alle DIREKT
+- [Ausftragsnummer: 034] -> Internet bestellung -> DIREKT
+
+- Fahrzeuge:
+    - LKW (Direkt) => 30m³ & Gewicht = EGAL (C-FS)
+    - 7,5t Tonnen Fahrzeug => around 15m³ & Gewicht = 1000kg [LAGER-WAB] (C-FS)
+    - 3,5t Tonnen Fahrzeug => bis zu 600kg [LAGER-WAB] (B-FS)
+
+- Tipps für erstellen von Linien:
+    - LKW gewünscht (UNSURE ASK ISABEL)
+    - Bei knappen/komischen Touren => Plant SC-Leiter bzw. Absprache mit SC-Leiter [UNSURE ASK BIG-BOSS]
+     
 
 ## Frachtbriefe (Bestehen aus 2-PDF's):
 - Auswahl der Tour -> Frachtbrief -> Print as PDF -> Naming_Scheme: TT_TOURNUMMER
@@ -26,7 +38,7 @@
 
 ## Auslieferlisten (Single .csv Excel file -> Apply Makro -> Save as .xlsx so SC-Leiter receives it without Makros!):
 - Für SC-Leiter == alle Touren außer [POST, Direkt, Lager-WAB's]
-- Für Hersteller == Alle Touren außer [Lager-WAB's] -> %%Immer Freitags für Nächste KW (UNSURE ASK ISABEL)%%
+- Für Hersteller == Alle Touren außer [Lager-WAB's] -> %%Immer Freitags für Nächste KW (UNSURE ASK ISABEL)
 
 - Touren markieren -> Auslieferliste -> Saved as .csv on Remote [Profi-Tour-Server] -> Copy to [Local] and open in Excel
 - Apply Excel "MAGIC" Makros :DD [Strg+Umschalt+A "For Austria + D for "Germany"] -> [HARDCODED IN MAKRO]
