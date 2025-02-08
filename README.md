@@ -12,7 +12,7 @@ For Profi-Tour things, look in the documentation folder.
  
 ## WORKING: (Still needs adoption for "$Hersteller")
 ### ANTI-BORING-SCRIPT: (Better Name -> Time_Calc.sh)
-Executes One of Two basic Python-Script for extracting data out of a .pdf or a Screenshot file and calculating times per item + total time. ((WORK IN PROGRESS))
+Executes One of Two basic Python-Script for extracting data out of a .pdf or a Screenshot file and calculating times per item + total time.
 
 - It reads item number + item name and accepts a list of build times for different items and multiplies them.
 
