@@ -10,7 +10,10 @@
 - Aufpassen auf richtiges Kopieren in untere Zeilen:
   - Vorletzte == DIREKT WAB'S
   - Letzte == LAGER WAB'S
+
 - Bei Baustellen mit Nächtigung -> Nächtigung in Excel Liste eintragen (Bis zum Endtag)
+- Bei Baustellen mit Trennwänden -> Trennwand vermerken braucht spezille Montage Boys
+- Bei Baustellen mit Küchen -> L&M Küchenmontage => Einige sachen (UNSURE ASK ISABEL)
 
 ## Frachtbriefe & Auslieferlisten: (Unterschiedlich für SC-Leiter und Produktion)
 - Immer bei der Abfrage [Prod & Lieferwoche auswählen]
@@ -28,7 +31,6 @@
         - Datum kann sich aufgrund von Tagesarbeitszeit oder fucked build_times from $HERSTELLER auf nächsten Tag rutschen!
         - Fehler passieren hier leicht und keine Software-Kontrolle für Fehler wie diese!
         - NOTE: Probably a big reason that "AI" is not already taking Disponenten-Jobs :D (I get sick imagining a Algorithm getting this shit right :O )
-    
 
 - Datenbank Stuff:
     - Import von Hersteller_H => Immer 06:30 & 14:00 Mo-Fr (AUCH Import von Hersteller_B und Hersteller_N ???) (UNSURE ASK ISABEL)
@@ -63,3 +65,6 @@
 - Apply Excel "MAGIC" Makros :DD [Strg+Umschalt+A "For Austria + D for "Germany"] -> [HARDCODED IN MAKRO]
 - Save as .xlsx -> So Anti-Virus doesn't cry because of Makros in File :D
 - Naming_Scheme: ALL_$ORT[WIEN,LINZ,GRAZ,etc]_[KW$$].xlsx
+
+## Other Things I got told and is probably Useful:
+- Trennwände brauchen extra
