@@ -52,6 +52,7 @@
         - [Platz] Wenn mit LKW zu von Kunde zu Kunde gefahren wird (eher = Bei wenig Großkunden)
         - Wenn 1 WAP bereits Rampe nächster muss auf Platz (max 1 Rampe pro Tag)
         - Nochmal mit Isabel durchgehen [Platz] macht irgendwie keinen Sinn (DIREKT?) (UNSURE ASK ISABEL)
+        - Verlade-Reihenfolge = 99 ==> EGAL
 
     - Bei knappen/komischen Touren => Plant SC-Leiter bzw. Absprache mit SC-Leiter [UNSURE ASK BIG-BOSS]
 
