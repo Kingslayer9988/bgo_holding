@@ -18,7 +18,7 @@
 - Number One LAW => Dont fuck with Profi-Tour-Profile from Isabel -> Copy and make "Erik"
 
 - Grün = Kunde wurde bereits Avisiert.
-- [DIR | STK | PST |] -> Alle DIREKT
+- [DIR | STK | PST] -> Alle DIREKT
 - [Ausftragsnummer: 034] -> Internet bestellung -> DIREKT
 
 - Datenbank Stuff:
