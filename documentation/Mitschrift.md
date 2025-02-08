@@ -45,6 +45,7 @@
     - Import von Hersteller_H => Immer 06:30 & 14:00 Mo-Fr (AUCH Import von Hersteller_B und Hersteller_N ???) (UNSURE ASK ISABEL)
     - Für Auslieferlisten  => Abfrage von [Prod & Lieferwoche]
     - Für Anvisieren und erstellen von Touren => Abfrage von [Lieferwoche]
+    - Für Transportbestellung (Winkler, etc) => Abfrage von [Touren]
 
 - Fahrzeuge are completly fucked for some Areas - Needs fixing but probably low priority! [UNSURE ASK BIG-BOSS]
 
