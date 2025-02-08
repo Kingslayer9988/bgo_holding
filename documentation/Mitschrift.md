@@ -15,9 +15,15 @@
 - Immer bei der Abfrage [Mo. - Sa.] der gewünschten [KW] auswählen!
 
 ## Tipps im Bearbeitungsfenster: [Nach der Auswahl der gewünschten bzw. zugeteilten Arbeitsbereiche bsp. Wien, Linz etc.]
+- Number One LAW => Dont fuck with Profi-Tour-Profile from Isabel -> Copy and make "Erik"
+
 - Grün = Kunde wurde bereits Avisiert.
 - [DIR | STK | PST |] -> Alle DIREKT
 - [Ausftragsnummer: 034] -> Internet bestellung -> DIREKT
+
+- Datenbank Stuff:
+    - Für Auslieferlisten  => Abfrage von [Prod & Lieferwoche]
+    - Für Anvisieren und erstellen von Touren => Abfrage von [Lieferwoche]
 
 - Fahrzeuge:
     - LKW (Direkt) => 30m³ & Gewicht = EGAL (C-FS)
@@ -27,7 +33,7 @@
 - Tipps für erstellen von Linien:
     - LKW gewünscht (UNSURE ASK ISABEL)
     - Bei knappen/komischen Touren => Plant SC-Leiter bzw. Absprache mit SC-Leiter [UNSURE ASK BIG-BOSS]
-     
+
 
 ## Frachtbriefe (Bestehen aus 2-PDF's):
 - Auswahl der Tour -> Frachtbrief -> Print as PDF -> Naming_Scheme: TT_TOURNUMMER
