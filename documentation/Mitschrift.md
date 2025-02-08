@@ -40,7 +40,7 @@
 - Fahrzeuge are completly fucked for some Areas - Needs fixing but probably low priority! [UNSURE ASK BIG-BOSS]
 
 - Fahrzeuge:
-    - Jumbo_WAP (LKW) => BIG BOY bis zu 35 m³ => NUR FÜR DIREKT - PASST NICHT INS LAGER
+    - Jumbo_WAP (LKW) => BIG BOY bis zu 35 m³ => NUR FÜR DIREKT - PASST NICHT INS LAGER (C-FS)
     - LKW (Direkt) => 30m³ & Gewicht = EGAL (C-FS)
     - 7,5t Tonnen Fahrzeug => around 15m³ & Gewicht = 1000kg [LAGER-WAB] (C-FS)
     - 3,5t Tonnen Fahrzeug => bis zu 600kg [LAGER-WAB] (B-FS)
