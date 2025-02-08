@@ -85,6 +85,6 @@
 
 ## Other Things I got told and is probably Useful:
 - Trennwände: (Speical_Montage_Workers)
-    - Aufbau => pro 1 Laufmeter = 3h
-    - Abbau => pro 1 Laufmeter = 1,5 Zeit
+    - Montage => pro 1 Laufmeter = 3h
+    - Demontage => pro 1 Laufmeter = 1,5h
 
