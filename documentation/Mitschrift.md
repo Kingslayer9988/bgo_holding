@@ -30,7 +30,7 @@
     - Daten & Mail auß Profitour "Aviso-Pdf" ziehen und Mail erfassen!
     - Nicht notwendig laut Isabel - Scheint aber wichtig persöhnliche Meinung! 
 
-- Beim Avisieren:
+- Avisieren:
     - Alles 2x kontrollieren -> Kein Spaß wenn Kunde Böse!
     - Datum bei Touren & Ladereihenfolge der WAB's 3x kontrollieren -> Kein Spaß wenn Montage Boys & SC-Leiter Böse!
         - Datum kann sich aufgrund von Tagesarbeitszeit oder fucked build_times from $HERSTELLER auf nächsten Tag rutschen!
