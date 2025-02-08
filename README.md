@@ -19,7 +19,7 @@ Executes One of Two basic Python-Script for extracting data out of a .pdf or a S
 ### Terminal Output:
 ![grafik](https://github.com/user-attachments/assets/2d20f088-7bd2-4238-a5cc-6a1aea5506d6)
 
-### Fake Delivery Note:
+### Fake Delivery Note: (Wird später TRANSPORT-AUFTRAG)
 ![grafik](https://github.com/user-attachments/assets/2c998447-417f-433b-854c-bfe1cf59f8c3)
 
 
