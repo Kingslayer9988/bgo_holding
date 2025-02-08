@@ -68,4 +68,6 @@
 - Naming_Scheme: ALL_$ORT[WIEN,LINZ,GRAZ,etc]_[KW$$].xlsx
 
 ## Other Things I got told and is probably Useful:
-- Trennwände Aufbau => 1 Laufmeter = 3h Aufbauzeit
+- Trennwände: (Speical_Montage_Workers)
+    - Aufbau => pro 1 Laufmeter = 3h
+    - Abbau => pro 1 Laufmeter = 1,5 Zeit
