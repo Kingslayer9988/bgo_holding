@@ -43,7 +43,9 @@
 - Immer Excel-Tabelle der Folge-KW auf Papier am Tisch haben und Touren nach Senden der PDF abhaken! -> 2PDF's pro Touren [_NON-TB & _TB]
 - Ablage auf Onedrive[PUKE] Ordner that never syncs even 10MB's :)
 
-## Auslieferlisten (Single .csv Excel file -> Apply Makro -> Save as .xlsx so SC-Leiter receives it without Makros!):
+## Auslieferlisten:
+- Single .csv Excel file -> Apply Makro -> Save as .xlsx so $SC-Leiter_ and $HERSTELLER_ receives it without Makros
+
 - Für SC-Leiter == alle Touren außer [POST, Direkt, Lager-WAB's]
 - Für Hersteller == Alle Touren außer [Lager-WAB's] -> %%Immer Freitags für Nächste KW (UNSURE ASK ISABEL)
 
