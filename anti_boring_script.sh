@@ -41,7 +41,7 @@ python3 -m venv venv
 source venv/bin/activate
 
 # Install necessary Python packages
-pip install PyPDF2 pytesseract Pillow
+#pip install PyPDF2 pytesseract Pillow
 
 # Prompt the user for input
 echo "Press 'r' to read from PDF or 't' for telekinesis (read from clipboard):"
