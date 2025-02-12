@@ -3,17 +3,17 @@
 ## Number One LAW => Dont fuck with Profi-Tour-Profile from Isabel :smile: -> Copy&make "Erik"
 
 ## Tipps für Excel-Listen: [Excel_Listen_Immer_pro_KW$$]
-- Werden LIVE am Onedrive Ordner bearbeitet == WEIRD :smile:
-- SC-Leiter & BGO = R,W,D-Rights == WEIRD :smile:
+- Werden LIVE am Onedrive Ordner bearbeitet :open_mouth:
+- SC-Leiter & BGO = R,W,D-Rights :open_mouth:
 
-- ==Hinterlegen mit Farbe== == DIREKT_BAUSTELLE == Kein LAGER-WAB -> WAB direkt auf Baustelle!**
+- **Hinterlegen mit Farbe** == DIREKT_BAUSTELLE == **Kein LAGER-WAB** -> **WAB direkt auf Baustelle!**
 - Aufpassen auf richtiges Kopieren in untere Zeilen:
   - Vorletzte == DIREKT WAB'S
   - Letzte == LAGER WAB'S
 
-- Bei Baustellen mit **Nächtigung -> Nächtigung in Excel Liste eintragen (Bis zum Endtag)
-- Bei Baustellen mit Trennwänden -> Trennwand vermerken braucht spezille Montage Boys
-- Bei Baustellen mit Küchen -> L&M Küchenmontage => Einige sachen (UNSURE ASK ISABEL)
+- Bei Baustellen mit **Nächtigung** -> Nächtigung in Excel Liste eintragen (Bis zum Endtag)
+- Bei Baustellen mit **Trennwänden** -> Trennwand vermerken = Special Montage Workers
+- Bei Baustellen mit **Küchen** -> L&M Küchenmontage => **Einige sachen??** (UNSURE ASK ISABEL :smile:)
 
 ## Tipps im Bearbeitungsfenster: [Nach der Auswahl der gewünschten bzw. zugeteilten Arbeitsbereiche bsp. Wien, Linz etc.]
 - Grün = Kunde wurde bereits Avisiert.
@@ -34,10 +34,10 @@
     - Datum bei Touren & **Ladereihenfolge der WAB's 3x kontrollieren**
         - **Datum** kann sich aufgrund von Tagesarbeitszeit oder Falschen $BUILD_TIMES from $HERSTELLER auf nächsten Tag rutschen!
         - Fehler passieren hier leicht und **keine Software-Kontrolle** für Fehler wie diese!
-        - _NOTE: Probably a big reason that "AI" is not already taking Disponenten-Jobs (I get sick imagining a Algorithm getting this shit right :O )_
+        - _NOTE: Probably a big reason that "AI" is not already taking Disponenten-Jobs (needs a sick Algorithm :smile:)_
 
 - Datenbank Stuff:
-    - Import von Hersteller_H => Immer 06:30 & 14:00 Mo-Fr (AUCH Import von Hersteller_B und Hersteller_N ???) (UNSURE ASK ISABEL)
+    - Import von Hersteller_H => Immer 06:30 & 14:00 Mo-Fr (AUCH Import von Hersteller_B und Hersteller_N ???) (UNSURE ASK ISABEL :smile:)
     - Für **Auslieferlisten**  => Abfrage von **[Prod & Lieferwoche] - [Mo. - Sa.] der gewünschten [KW]** auswählen!
     - Für **Anvisieren** und erstellen von Touren => Abfrage von **[Lieferwoche]**
     - Für **Transportbestellung** (Winkler, etc) => Abfrage von **[Touren]**
@@ -51,33 +51,33 @@
     - 3,5t Fahrzeug => **max. ~ 600kg** [LAGER-WAB] (B-FS)
 
 - Tipps für erstellen von Linien:
-    - LKW gewünscht - Komische Mitschrift (UNSURE ASK ISABEL)
-    - 2 Arten von Lager-WAB's (Immer ins Kommentarfeld des WAB's)
-        - [Rampe] bei Umladen in 7,5t bzw 3,5t Fahrzeugen beim Lager (eher = Bei vielen Kleinkunden)
-        - [Platz] Wenn mit LKW zu von Kunde zu Kunde gefahren wird (eher = Bei wenig Großkunden)
-        - Wenn 1 WAP bereits Rampe nächster muss auf Platz (max 1 Rampe pro Tag)
-        - Nochmal mit Isabel durchgehen [Platz] macht irgendwie keinen Sinn (DIREKT?) (UNSURE ASK ISABEL)
-        - Verlade-Reihenfolge = 99 ==> EGAL
+    - LKW gewünscht - Komische Mitschrift (UNSURE ASK ISABEL :smile:)
+    - 2 Arten von Lager-WAB's **(Immer ins Kommentarfeld des WAB's)**
+        - [Rampe] bei Umladen in 7,5t bzw. 3,5t Fahrzeugen beim Lager **(eher = Bei vielen Kleinkunden)**
+        - [Platz] Wenn mit LKW zu von Kunde zu Kunde gefahren wird **(eher = Bei wenig Großkunden)**
+        - Wenn 1 WAP bereits Rampe nächster muss auf Platz **(max 1 Rampe pro Tag)**
+        - Nochmal mit Isabel durchgehen [Platz] macht irgendwie keinen Sinn (DIREKT?) (UNSURE ASK ISABEL :confused:)
+        - **Verlade-Reihenfolge = 99 ==> EGAL**
 
     - Bei knappen/komischen Touren => Plant SC-Leiter bzw. Absprache mit SC-Leiter [UNSURE ASK BIG-BOSS]
 
 ## Frachtbriefe (Bestehen aus 2-PDF's):
-- Auswahl der Tour -> Frachtbrief -> Print as PDF -> Naming_Scheme: TT_TOURNUMMER
-- Auswahl der Tour -> Tourenplan -> Print as PDF -> Naming_Scheme: TT_TOURNUMMER_TB
-- Frachtbrief und Tourenplan für SC-Leiter immer $Montags_Aktuelle_KW für %Nächste_KW -> Bsp.: Montag in KW7 -> Ausdrücke für KW08 an SC-Leiter
-- Immer Excel-Tabelle der Folge-KW auf Papier am Tisch haben und Touren nach Senden der PDF abhaken! -> 2PDF's pro Touren [_NON-TB & _TB]
-- Ablage auf Onedrive[PUKE] Ordner that never syncs even 10MB's :smile:
+- **Auswahl der Tour im Oberen Fenster** -> Frachtbrief -> Print as PDF -> Naming_Scheme: **[TT]_TOURNUMMER**
+- **Auswahl der Tour im Oberen Fenster** -> Tourenplan -> Print as PDF -> Naming_Scheme: **[TT]_TOURNUMMER_TB**
+- Frachtbrief und Tourenplan für SC-Leiter immer **$Montags_Aktuelle_KW** für **%Nächste_KW** -> Bsp.: **Montag in KW7** -> **Ausdrücke für KW08 an SC-Leiter**
+- Immer Excel-Tabelle der Folge-KW auf Papier am Tisch haben und Touren nach Senden der PDF abhaken! -> **2PDF's pro Touren [_NON-TB & _TB]**
+- Ablage auf Onedrive :fearful: Ordner that never syncs even 10MB's :laughing:
 
 ## Auslieferlisten Infos:
-- Für SC-Leiter == alle Touren außer [POST, Direkt, Lager-WAB's]
-- Für Hersteller == Alle Touren außer [Lager-WAB's] -> %%Immer Freitags für Nächste KW (UNSURE ASK ISABEL)
+- Für **SC-Leiter == alle Touren außer [POST, Direkt, Lager-WAB's]**
+- Für **Hersteller == Alle Touren außer [Lager-WAB's] -> %%Immer Freitags für Nächste KW** (UNSURE ASK ISABEL :confused:)
 
 ### Auslieferliste Guide:
-- Single .csv Excel file -> Apply Makro -> Save as .xlsx so $SC-Leiter_ and $HERSTELLER_ receives it without Makros
-- Touren markieren -> Auslieferliste -> Saved as .csv on Remote [Profi-Tour-Server] -> Copy to [Local] and open in Excel
-- Apply Excel "MAGIC" Makros :DD [Strg+Umschalt+A "For Austria + D for "Germany"] -> [HARDCODED IN MAKRO]
-- Save as .xlsx -> So Anti-Virus doesn't cry because of Makros in File :D
-- Naming_Scheme: ALL_$ORT[WIEN,LINZ,GRAZ,etc]_[KW$$].xlsx
+- Single .csv Excel file -> Apply Makro -> **Save as .xlsx** save for **SC-Leiter** & **HERSTELLER**  = **receive it without Makros**
+- Touren markieren -> **Auslieferliste** -> Saved as .csv on Remote [Profi-Tour-Server] -> Copy to [Local] and open in Excel
+- Apply Excel **Magic-Makros** :smile: [Strg+Umschalt+A "For Austria + D for "Germany"] -> **[HARDCODED IN MAKRO]**
+- Save as **.xlsx** => **(Will delete Makros)**
+- Naming_Scheme: ALL_$ORT[WIEN,LINZ,GRAZ,etc]_[KW$$].xlsx 
 
 ## Other Things I got told and are probably Useful:
 - Trennwände: (Speical_Montage_Workers)
