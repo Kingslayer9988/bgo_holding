@@ -1,13 +1,12 @@
 # BGO HOLDING - WORK STUFF
 
-I Strongly advice anybody to not copy or clone this Repo.
+⚠️ **I strongly advise anybody to not copy or clone this Repo.** ⚠️  
+I would wish to make this Repository private but I have no access to it at work.
 
-I would wish to make this Repository private but i have no acces to it in work then.
-
-There would be an easy fix: please somehow make this 3 programms accesable on Work-Devices.
- - VS-Code [Developed by Microsoft, Free as in Price, there is a Opensource Client Version]
- - WSL (Windows-Subsystem-for-Linux) [Developed by Microsoft + Linux which if ofcourse OpenSource]
- - Github [Godfather of Opensource Community]
+There would be an easy fix: please somehow make these 3 programs accessible on Work-Devices:
+- **VS-Code** [Developed by Microsoft, Free as in Price, there is an Open-source Client Version]
+- **WSL (Windows-Subsystem-for-Linux)** [Developed by Microsoft + Linux which is of course OpenSource]
+- **GitHub** [Godfather of Open-source Community]
 
 ## Profi-Tour
 For Profi-Tour things, look in the documentation folder.
@@ -17,11 +16,11 @@ For Profi-Tour things, look in the documentation folder.
 - Script that re-names all Frachtbriefe & Tourenplan .PDF files in the correct way and pushes them to the right locations.
 - Native-Windows-Contextmenu-Stuff for making lists of wrongly calculated things from "$HERSTELLER".
 - Automations to "GREP" things from PDFs to make a list of items with their build times.
-- Probably make everything work in Powershell or BATCH [PUKE] - People refusing me LINUX again :((
- 
+- Probably make everything work in Powershell or BATCH 🤢 - People refusing me LINUX again 😢
+
 ## WORKING: (Still needs adoption for "$Hersteller")
 ### ANTI-BORING-SCRIPT: (Better Name -> Time_Calc.sh)
-Executes One of Two basic Python-Script for extracting data out of a .pdf or a Screenshot file and calculating times per item + total time.
+Executes one of two basic Python scripts for extracting data out of a .pdf or a screenshot file and calculating times per item + total time.
 
 - It reads item number + item name and accepts a list of build times for different items and multiplies them.
 
