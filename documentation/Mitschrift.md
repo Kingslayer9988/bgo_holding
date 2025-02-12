@@ -3,8 +3,8 @@
 ## Number One LAW => Dont fuck with Profi-Tour-Profile from Isabel :smile: -> Copy&make "Erik"
 
 ## Tipps für Excel-Listen: [Excel_Listen_Immer_pro_KW$$]
-- Werden LIVE am Onedrive Ordner bearbeitet :open_mouth:
-- SC-Leiter & BGO = R,W,D-Rights :open_mouth:
+- Werden LIVE am Onedrive Ordner bearbeitet :skull:
+- SC-Leiter & BGO = R,W,D-Rights :skull:
 
 - **Hinterlegen mit Farbe** == DIREKT_BAUSTELLE == **Kein LAGER-WAB** -> **WAB direkt auf Baustelle!**
 - Aufpassen auf richtiges Kopieren in untere Zeilen:
@@ -13,7 +13,7 @@
 
 - Bei Baustellen mit **Nächtigung** -> Nächtigung in Excel Liste eintragen (Bis zum Endtag)
 - Bei Baustellen mit **Trennwänden** -> Trennwand vermerken = Special Montage Workers
-- Bei Baustellen mit **Küchen** -> L&M Küchenmontage => **Einige sachen??** (UNSURE ASK ISABEL :smile:)
+- Bei Baustellen mit **Küchen** -> L&M Küchenmontage => **Einige sachen??** (UNSURE ASK ISABEL :confused:)
 
 ## Tipps im Bearbeitungsfenster: [Nach der Auswahl der gewünschten bzw. zugeteilten Arbeitsbereiche bsp. Wien, Linz etc.]
 - Grün = Kunde wurde bereits Avisiert.
@@ -37,12 +37,12 @@
         - _NOTE: Probably a big reason that "AI" is not already taking Disponenten-Jobs (needs a sick Algorithm :smile:)_
 
 - Datenbank Stuff:
-    - Import von Hersteller_H => Immer 06:30 & 14:00 Mo-Fr (AUCH Import von Hersteller_B und Hersteller_N ???) (UNSURE ASK ISABEL :smile:)
+    - Import von Hersteller_H => Immer 06:30 & 14:00 Mo-Fr (AUCH Import von Hersteller_B und Hersteller_N ???) (UNSURE ASK ISABEL :confused:)
     - Für **Auslieferlisten**  => Abfrage von **[Prod & Lieferwoche] - [Mo. - Sa.] der gewünschten [KW]** auswählen!
     - Für **Anvisieren** und erstellen von Touren => Abfrage von **[Lieferwoche]**
     - Für **Transportbestellung** (Winkler, etc) => Abfrage von **[Touren]**
 
-- Fahrzeuge are completly fucked for some Areas - Needs fixing but probably low priority! [UNSURE ASK BIG-BOSS]
+- Fahrzeuge are completly fucked for some Areas - Needs fixing but probably low priority! [UNSURE ASK BIG-BOSS :confused:]
 
 - Fahrzeuge:
     - Jumbo_WAP (LKW) => **max. ~ 35m³ => NUR FÜR DIREKT** = PASST NICHT INS LAGER (C-FS)
@@ -51,7 +51,7 @@
     - 3,5t Fahrzeug => **max. ~ 600kg** [LAGER-WAB] (B-FS)
 
 - Tipps für erstellen von Linien:
-    - LKW gewünscht - Komische Mitschrift (UNSURE ASK ISABEL :smile:)
+    - LKW gewünscht - Komische Mitschrift (UNSURE ASK ISABEL :confused:)
     - 2 Arten von Lager-WAB's **(Immer ins Kommentarfeld des WAB's)**
         - [Rampe] bei Umladen in 7,5t bzw. 3,5t Fahrzeugen beim Lager **(eher = Bei vielen Kleinkunden)**
         - [Platz] Wenn mit LKW zu von Kunde zu Kunde gefahren wird **(eher = Bei wenig Großkunden)**
@@ -59,7 +59,7 @@
         - Nochmal mit Isabel durchgehen [Platz] macht irgendwie keinen Sinn (DIREKT?) (UNSURE ASK ISABEL :confused:)
         - **Verlade-Reihenfolge = 99 ==> EGAL**
 
-    - Bei knappen/komischen Touren => Plant SC-Leiter bzw. Absprache mit SC-Leiter [UNSURE ASK BIG-BOSS]
+    - Bei knappen/komischen Touren => Plant SC-Leiter bzw. Absprache mit SC-Leiter [UNSURE ASK BIG-BOSS :confused:]
 
 ## Frachtbriefe (Bestehen aus 2-PDF's):
 - **Auswahl der Tour im Oberen Fenster** -> Frachtbrief -> Print as PDF -> Naming_Scheme: **[TT]_TOURNUMMER**
@@ -75,7 +75,7 @@
 ### Auslieferliste Guide:
 - Single .csv Excel file -> Apply Makro -> **Save as .xlsx** save for **SC-Leiter** & **HERSTELLER**  = **receive it without Makros**
 - Touren markieren -> **Auslieferliste** -> Saved as .csv on Remote [Profi-Tour-Server] -> Copy to [Local] and open in Excel
-- Apply Excel **Magic-Makros** :smile: [Strg+Umschalt+A "For Austria + D for "Germany"] -> **[HARDCODED IN MAKRO]**
+- Apply Excel :dizzy: **Magic-Makros** :dizzy: [Strg+Umschalt+A "For Austria + D for "Germany"] -> **[HARDCODED IN MAKRO]**
 - Save as **.xlsx** => **(Will delete Makros)**
 - Naming_Scheme: ALL_$ORT[WIEN,LINZ,GRAZ,etc]_[KW$$].xlsx 
 
