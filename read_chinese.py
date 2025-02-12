@@ -1,4 +1,5 @@
 import re
+import csv
 from PyPDF2 import PdfReader
 
 # Function to extract text from PDF
@@ -23,16 +24,14 @@ def parse_text(text, item_list):
     items = {}
     for line in lines:
         for item in item_list:
-            if item in line:
-                match = re.search(rf'(\d+)\s+{re.escape(item)}\s+(\d+)\s+(\d+)\s+min', line, re.IGNORECASE)
-                if match:
-                    item_number = match.group(1)
-                    quantity = int(match.group(2))
-                    build_time = int(match.group(3))
-                    items[item] = {'item_number': item_number, 'quantity': quantity, 'build_time': build_time}
-                else:
-                    # Debug print to check the line that failed to match
-                    print(f'Failed to match line: {line}')
+            # Allow space wiggle room in item detection
+            item_pattern = re.sub(r'\s+', r'\\s*', re.escape(item))
+            match = re.search(rf'(\d+)\s+{item_pattern}\s+(\d+)\s+(\d+)\s*min', line, re.IGNORECASE)
+            if match:
+                item_number = match.group(1)
+                quantity = int(match.group(2))
+                build_time = int(match.group(3))
+                items[item] = {'item_number': item_number, 'quantity': quantity, 'build_time': build_time}
     return big_number, items
 
 # Function to calculate the required values
@@ -45,14 +44,22 @@ def calculate_values(items):
         total_time += total_item_time
     return results, total_time
 
-# Define the item list
-item_list = [
-    'DOCKLANDS DOCK-IN-BAY',
-    'BASIC WORKSTATION',
-    'CASUAL Outdoor Table High',
-    'C-Side Table',
-    'T-PANEL BASIC'
-]
+# Function to read item list from CSV
+def read_item_list(csv_path):
+    with open(csv_path, newline='') as csvfile:
+        reader = csv.reader(csvfile)
+        return [row[0] for row in reader]
+
+# Function to save extracted items to CSV
+def save_extracted_items(csv_path, items, big_number):
+    with open(csv_path, 'w', newline='') as csvfile:
+        writer = csv.writer(csvfile)
+        writer.writerow(['item', 'buildtime', 'Bignumber'])
+        for item, data in items.items():
+            writer.writerow([item, data['build_time'], big_number])
+
+# Read the item list from CSV
+item_list = read_item_list('Item_list.csv')
 
 # Extract text from PDF
 pdf_path = 'winshit/FAKE_CHINESE_COMPANY_DELIVERY_NOTE.pdf'
@@ -71,6 +78,9 @@ for item, value in results.items():
     minutes = value % 60
     print(f'{items[item]["item_number"]} | {item} | {items[item]["quantity"]} Units x {items[item]["build_time"]} min = {value} mins => {hours},{minutes}h')
 print(f'Total Time for all items = {total_time // 60},{total_time % 60}h')
+
+# Save extracted items to CSV
+save_extracted_items('Item_list.csv', items, big_number)
 
 # Debug output for the PDF parsing
 print("\nDebug Output:")
