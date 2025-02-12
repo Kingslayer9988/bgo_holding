@@ -68,6 +68,6 @@ results = calculate_values(items, item_values)
 print(f'Calculated results: {results}')
 
 # Print the results
-print(f'Big Number: {big_number}')
+print(f'Auftragsnummer: {big_number}')
 for item, value in results.items():
     print(f'{item}_Time = {value}')

@@ -24,9 +24,9 @@ def parse_text(text, item_list):
     for line in lines:
         for item in item_list:
             if item in line:
-                match = re.search(rf'(\d+\s*\d*)\s+{re.escape(item)}\s+©\s+(\d+)\s+(\d+)\s+min', line, re.IGNORECASE)
+                match = re.search(rf'(\d+)\s+{re.escape(item)}\s+(\d+)\s+(\d+)\s+min', line, re.IGNORECASE)
                 if match:
-                    item_number = match.group(1).replace(' ', '')
+                    item_number = match.group(1)
                     quantity = int(match.group(2))
                     build_time = int(match.group(3))
                     items[item] = {'item_number': item_number, 'quantity': quantity, 'build_time': build_time}
@@ -47,10 +47,10 @@ def calculate_values(items):
 
 # Define the item list
 item_list = [
-    'DOCKLANDS DOCK-IN-BAY', 
-    'BASIC WORKSTATION', 
-    'CASUAL Outdoor Table High 420', 
-    'C-Side Table', 
+    'DOCKLANDS DOCK-IN-BAY',
+    'BASIC WORKSTATION',
+    'CASUAL Outdoor Table High',
+    'C-Side Table',
     'T-PANEL BASIC'
 ]
 
@@ -71,3 +71,8 @@ for item, value in results.items():
     minutes = value % 60
     print(f'{items[item]["item_number"]} | {item} | {items[item]["quantity"]} Units x {items[item]["build_time"]} min = {value} mins => {hours},{minutes}h')
 print(f'Total Time for all items = {total_time // 60},{total_time % 60}h')
+
+# Debug output for the PDF parsing
+print("\nDebug Output:")
+print(f'Extracted Text:\n{text}')
+print(f'Parsed Items:\n{items}')
