@@ -16,8 +16,8 @@
 - Bei Baustellen mit **Küchen** -> L&M Küchenmontage => **Einige Sachen??** (UNSURE ASK ISABEL 😕)
 
 ## Tipps im Bearbeitungsfenster: [Nach der Auswahl der gewünschten bzw. zugeteilten Arbeitsbereiche bsp. Wien, Linz etc.]
-- Grün = Kunde wurde bereits Avisiert.
-- **FORCE_GREEN_BUTTON** => $Kunden_avis_bestätigen & $Aktualisieren => Kein Avis versendet trotzdem GRÜN!
+- 🟢 = Kunde wurde bereits Avisiert.
+- **FORCE_GREEN_BUTTON** => $Kunden_avis_bestätigen & $Aktualisieren => Kein Avis versendet trotzdem 🟢!
 - **[DIR | STK | PST]** -> Alle DIREKT
 - **[Ausftragsnummer: 034]** -> Internet bestellung -> DIREKT
 - Rechtsklick auf Datenbank-Row => **Transportauftrag** => Für Planung und Calculation-Script
@@ -42,7 +42,7 @@
     - Für **Anvisieren** und erstellen von Touren => Abfrage von **[Lieferwoche]**
     - Für **Transportbestellung** (Winkler, etc) => Abfrage von **[Touren]**
 
-- Fahrzeuge are completely messed up for some areas - Needs fixing but probably low priority! (UNSURE ASK BIG-BOSS 😕)
+- Fahrzeuge are completely messed up for some areas - Needs fixing but probably low priority! (UNSURE ASK BIG-BOSS 😕
 
 - Fahrzeuge:
     - Jumbo_WAP (LKW) => **max. ~ 35m³ => NUR FÜR DIREKT** = PASST NICHT INS LAGER (C-FS)
@@ -59,7 +59,7 @@
         - Nochmal mit Isabel durchgehen [Platz] macht irgendwie keinen Sinn (DIREKT?) (UNSURE ASK ISABEL 😕)
         - **Verlade-Reihenfolge = 99 ==> EGAL**
 
-    - Bei knappen/komischen Touren => Plant SC-Leiter bzw. Absprache mit SC-Leiter (UNSURE ASK BIG-BOSS 😕)
+    - Bei knappen/komischen Touren => Plant SC-Leiter bzw. Absprache mit SC-Leiter (UNSURE ASK BIG-BOSS 😕
 
 ## Frachtbriefe (Bestehen aus 2-PDF's):
 - **Auswahl der Tour im Oberen Fenster** -> Frachtbrief -> Print as PDF -> Naming_Scheme: **[TT]_TOURNUMMER**
@@ -70,7 +70,7 @@
 
 ## Auslieferlisten Infos:
 - Für **SC-Leiter == alle Touren außer [POST, Direkt, Lager-WAB's]**
-- Für **Hersteller == Alle Touren außer [Lager-WAB's] -> %%Immer Freitags für Nächste KW** (UNSURE ASK ISABEL 😕)
+- Für **Hersteller == Alle Touren außer [Lager-WAB's] -> %%Immer Freitags für Nächste KW** (UNSURE ASK ISABEL 😕
 
 ### Auslieferliste Guide:
 - Single .csv Excel file -> Apply Makro -> **Save as .xlsx** save for **SC-Leiter** & **HERSTELLER**  = **receive it without Makros**
@@ -86,6 +86,6 @@
 
 ## Weird Notes
 - $HERSTELLER
-    - NOS - GRÜN - Hersteller_N
-    - H**I - BLAU - Hersteller_H
-    - B**E - ROT - Hersteller_B
+    - NOS -  🟢 - Hersteller_N
+    - H**I - 🔵 - Hersteller_H
+    - B**E - 🔴 - Hersteller_B
