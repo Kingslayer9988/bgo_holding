@@ -11,30 +11,29 @@
   - Vorletzte == DIREKT WAB'S
   - Letzte == LAGER WAB'S
 
-- Bei Baustellen mit Nächtigung -> Nächtigung in Excel Liste eintragen (Bis zum Endtag)
+- Bei Baustellen mit **Nächtigung -> Nächtigung in Excel Liste eintragen (Bis zum Endtag)
 - Bei Baustellen mit Trennwänden -> Trennwand vermerken braucht spezille Montage Boys
 - Bei Baustellen mit Küchen -> L&M Küchenmontage => Einige sachen (UNSURE ASK ISABEL)
 
 ## Tipps im Bearbeitungsfenster: [Nach der Auswahl der gewünschten bzw. zugeteilten Arbeitsbereiche bsp. Wien, Linz etc.]
 - Grün = Kunde wurde bereits Avisiert.
-- FORCE_GREEN_BUTTON => $Kunden_avis_bestätigen & $Aktualisieren => Kein Avis versendet trotzdem GRÜN!
-- [DIR | STK | PST] -> Alle DIREKT
-- [Ausftragsnummer: 034] -> Internet bestellung -> DIREKT
-- Rechtsklick auf Datenbank-Row => Transportauftrag => Für Planung und Calculation-Script
+- **FORCE_GREEN_BUTTON** => $Kunden_avis_bestätigen & $Aktualisieren => Kein Avis versendet trotzdem GRÜN!
+- **[DIR | STK | PST]** -> Alle DIREKT
+- **[Ausftragsnummer: 034]** -> Internet bestellung -> DIREKT
+- Rechtsklick auf Datenbank-Row => **Transportauftrag** => Für Planung und Calculation-Script
 
-- Vor-Avisieren (Gesamter Prozess könnte easy automatisiert werden. [NICHT-GRATIS-MACHEN])
+- Vor-Avisieren (Gesamter Prozess könnte easy automatisiert werden)
     - Gleich wie Avisieren nur im Vorfeld -> Nicht Offizeles Aviso verwenden!
     - Daten & Mail auß Profitour "Aviso-Pdf" ziehen und Mail erfassen!
     - Wichtige Daten: Kunde, KW, Auftragsnummer
     - Mail-Wichtigkeit auf "High"
-    - Nicht notwendig laut Isabel - Scheint aber wichtig persöhnliche Meinung!
     - Transportauftrag in der Mail anhängen!
 
 - Avisieren:
-    - Alles 2x kontrollieren -> Kein Spaß wenn Kunde Böse!
-    - Datum bei Touren & Ladereihenfolge der WAB's 3x kontrollieren -> Kein Spaß wenn Montage Boys & SC-Leiter Böse!
-        - Datum kann sich aufgrund von Tagesarbeitszeit oder fucked build_times from $HERSTELLER auf nächsten Tag rutschen!
-        - Fehler passieren hier leicht und keine Software-Kontrolle für Fehler wie diese!
+    - **Alles 2x kontrollieren**
+    - Datum bei Touren & **Ladereihenfolge der WAB's 3x kontrollieren**
+        - **Datum** kann sich aufgrund von Tagesarbeitszeit oder Falschen $BUILD_TIMES from $HERSTELLER auf nächsten Tag rutschen!
+        - Fehler passieren hier leicht und **keine Software-Kontrolle** für Fehler wie diese!
         - NOTE: Probably a big reason that "AI" is not already taking Disponenten-Jobs :D (I get sick imagining a Algorithm getting this shit right :O )
 
 - Datenbank Stuff:
