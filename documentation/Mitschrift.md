@@ -1,12 +1,12 @@
 # PROFI TOUR MITSCHRIFT 03.02.2025 - 07.02.205
 
-## Number One LAW => Dont fuck with Profi-Tour-Profile from Isabel -> Copy and make "Erik"
+## Number One LAW => Dont fuck with Profi-Tour-Profile from Isabel :smile: -> Copy&make "Erik"
 
 ## Tipps für Excel-Listen: [Excel_Listen_Immer_pro_KW$$]
-- Werden LIVE am Onedrive Ordner bearbeitet == WEIRD :O
-- SC-Leiter & BGO = R,W,D-Rights == WEIRD x 2 :O
+- Werden LIVE am Onedrive Ordner bearbeitet == WEIRD :smile:
+- SC-Leiter & BGO = R,W,D-Rights == WEIRD :smile:
 
-- Hinterlegen mit Farbe == DIREKT_BAUSTELLE == Kein LAGER-WAB -> WAB direkt auf Baustelle!
+- ==Hinterlegen mit Farbe== == DIREKT_BAUSTELLE == Kein LAGER-WAB -> WAB direkt auf Baustelle!**
 - Aufpassen auf richtiges Kopieren in untere Zeilen:
   - Vorletzte == DIREKT WAB'S
   - Letzte == LAGER WAB'S
@@ -23,35 +23,35 @@
 - Rechtsklick auf Datenbank-Row => **Transportauftrag** => Für Planung und Calculation-Script
 
 - Vor-Avisieren (Gesamter Prozess könnte easy automatisiert werden)
-    - Gleich wie Avisieren nur im Vorfeld -> Nicht Offizeles Aviso verwenden!
+    - Gleich wie Avisieren nur im Vorfeld -> **Nicht Offizeles Aviso verwenden!**
     - Daten & Mail auß Profitour "Aviso-Pdf" ziehen und Mail erfassen!
-    - Wichtige Daten: Kunde, KW, Auftragsnummer
+    - Wichtige Daten: **Kunde, KW, Auftragsnummer**
     - Mail-Wichtigkeit auf "High"
-    - Transportauftrag in der Mail anhängen!
+    - **Transportauftrag in der Mail anhängen!**
 
 - Avisieren:
     - **Alles 2x kontrollieren**
     - Datum bei Touren & **Ladereihenfolge der WAB's 3x kontrollieren**
         - **Datum** kann sich aufgrund von Tagesarbeitszeit oder Falschen $BUILD_TIMES from $HERSTELLER auf nächsten Tag rutschen!
         - Fehler passieren hier leicht und **keine Software-Kontrolle** für Fehler wie diese!
-        - NOTE: Probably a big reason that "AI" is not already taking Disponenten-Jobs :D (I get sick imagining a Algorithm getting this shit right :O )
+        - _NOTE: Probably a big reason that "AI" is not already taking Disponenten-Jobs (I get sick imagining a Algorithm getting this shit right :O )_
 
 - Datenbank Stuff:
     - Import von Hersteller_H => Immer 06:30 & 14:00 Mo-Fr (AUCH Import von Hersteller_B und Hersteller_N ???) (UNSURE ASK ISABEL)
-    - Für Auslieferlisten  => Abfrage von [Prod & Lieferwoche] - [Mo. - Sa.] der gewünschten [KW] auswählen!
-    - Für Anvisieren und erstellen von Touren => Abfrage von [Lieferwoche]
-    - Für Transportbestellung (Winkler, etc) => Abfrage von [Touren]
+    - Für **Auslieferlisten**  => Abfrage von **[Prod & Lieferwoche] - [Mo. - Sa.] der gewünschten [KW]** auswählen!
+    - Für **Anvisieren** und erstellen von Touren => Abfrage von **[Lieferwoche]**
+    - Für **Transportbestellung** (Winkler, etc) => Abfrage von **[Touren]**
 
 - Fahrzeuge are completly fucked for some Areas - Needs fixing but probably low priority! [UNSURE ASK BIG-BOSS]
 
 - Fahrzeuge:
-    - Jumbo_WAP (LKW) => BIG BOY bis zu 35 m³ => NUR FÜR DIREKT - PASST NICHT INS LAGER (C-FS)
-    - LKW (Direkt) => 30m³ & Gewicht = EGAL (C-FS)
-    - 7,5t Tonnen Fahrzeug => around 15m³ & Gewicht = 1000kg [LAGER-WAB] (C-FS)
-    - 3,5t Tonnen Fahrzeug => bis zu 600kg [LAGER-WAB] (B-FS)
+    - Jumbo_WAP (LKW) => **max. ~ 35m³ => NUR FÜR DIREKT** = PASST NICHT INS LAGER (C-FS)
+    - WAP (LKW) **(Direkt | Lager_WAP) => 30m³ => EGAL** (C-FS)
+    - 7,5t Fahrzeug => **max. ~ 15m³ & 1000kg** [LAGER-WAB] (C-FS)
+    - 3,5t Fahrzeug => **max. ~ 600kg** [LAGER-WAB] (B-FS)
 
 - Tipps für erstellen von Linien:
-    - LKW gewünscht - Komische Mitschrift von mir und Vergessen :) (UNSURE ASK ISABEL)
+    - LKW gewünscht - Komische Mitschrift (UNSURE ASK ISABEL)
     - 2 Arten von Lager-WAB's (Immer ins Kommentarfeld des WAB's)
         - [Rampe] bei Umladen in 7,5t bzw 3,5t Fahrzeugen beim Lager (eher = Bei vielen Kleinkunden)
         - [Platz] Wenn mit LKW zu von Kunde zu Kunde gefahren wird (eher = Bei wenig Großkunden)
@@ -66,7 +66,7 @@
 - Auswahl der Tour -> Tourenplan -> Print as PDF -> Naming_Scheme: TT_TOURNUMMER_TB
 - Frachtbrief und Tourenplan für SC-Leiter immer $Montags_Aktuelle_KW für %Nächste_KW -> Bsp.: Montag in KW7 -> Ausdrücke für KW08 an SC-Leiter
 - Immer Excel-Tabelle der Folge-KW auf Papier am Tisch haben und Touren nach Senden der PDF abhaken! -> 2PDF's pro Touren [_NON-TB & _TB]
-- Ablage auf Onedrive[PUKE] Ordner that never syncs even 10MB's :)
+- Ablage auf Onedrive[PUKE] Ordner that never syncs even 10MB's :smile:
 
 ## Auslieferlisten Infos:
 - Für SC-Leiter == alle Touren außer [POST, Direkt, Lager-WAB's]
