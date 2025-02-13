@@ -62,7 +62,7 @@
   - Naming-Scheme:
       - DIREKT                              => PST, DIR, N:04                                       => DIREKT ORT1 - ORT2 - WOCHENTAG(TT)
       - _____(Leer)                         => Direkt-LKW auf Baustelle                             => ____ ORT1 - ORT2 - WOCHENTAG(TT)
-      - SC WAP für [LKW | 7,5t | 3,5t]      => Items werden umgeladen in LKW oder 3,5t oder 7,5t    => SC WAP ORT 
+      - SC WAP für [LKW | 7,5t | 3,5t]      => Items werden umgeladen in LKW oder 3,5t oder 7,5t    => SC WAP SC_ORT - WOCHENTAG(TT)
 
     - Bei knappen/komischen Touren => Plant SC-Leiter bzw. Absprache mit SC-Leiter (UNSURE ASK BIG-BOSS 😕
 
@@ -80,6 +80,14 @@
 ## Abgabe für Hersteller:
 - Deadline verschieden für alle 3 Hersteller
 - Hersteller_H => 3 Wochen unterschied => Bsp.: spät. Freitag KW7 für KW_11
+
+## Transportbestellung Infos:
+- Filter -> [Touren / Auflade Zeit] -> KW Mo - Sa, auswählen
+- Schnittstelle -> Excel -> safe as .xlxs Name: **Transportbestellunhg_KW__**
+- Alle Gebiete kontrollieren (2 unteren Spalten in Excel zählen) => **Direkt&Lager-WAP's**
+- Ladereihenfolge checken => oft 35/36/35
+- m³ mit Fahrzeugen abglichen bei => Bsp.: 40m³ => 2 LKW's 
+
 
 ### Auslieferliste Guide:
 - Single .csv Excel file -> Apply Makro -> **Save as .xlsx** save for **SC-Leiter** & **HERSTELLER**  = **receive it without Makros**
