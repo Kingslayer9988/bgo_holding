@@ -88,7 +88,6 @@
 - Ladereihenfolge checken => oft 35/36/35
 - m³ mit Fahrzeugen abglichen bei => Bsp.: 40m³ => 2 LKW's 
 
-
 ### Auslieferliste Guide:
 - Single .csv Excel file -> Apply Makro -> **Save as .xlsx** save for **SC-Leiter** & **HERSTELLER**  = **receive it without Makros**
 - Touren markieren -> **Auslieferliste** -> Saved as .csv on Remote [Profi-Tour-Server] -> Copy to [Local] and open in Excel
