@@ -58,6 +58,11 @@
         - Wenn 1 WAP bereits Rampe nächster muss auf Platz **(max 1 Rampe pro Tag)**
         - Nochmal mit Isabel durchgehen [Platz] macht irgendwie keinen Sinn (DIREKT?) (UNSURE ASK ISABEL 😕)
         - **Verlade-Reihenfolge = 99 ==> EGAL**
+        - LKW
+  - Naming-Scheme:
+      - DIREKT                              => PST, DIR, N:04                                       => DIREKT ORT1 - ORT2 - WOCHENTAG(TT)
+      - _____(Leer)                         => Direkt-LKW auf Baustelle                             => ____ ORT1 - ORT2 - WOCHENTAG(TT)
+      - SC WAP für [LKW | 7,5t | 3,5t]      => Items werden umgeladen in LKW oder 3,5t oder 7,5t    => SC WAP ORT 
 
     - Bei knappen/komischen Touren => Plant SC-Leiter bzw. Absprache mit SC-Leiter (UNSURE ASK BIG-BOSS 😕
 
@@ -70,7 +75,11 @@
 
 ## Auslieferlisten Infos:
 - Für **SC-Leiter == alle Touren außer [POST, Direkt, Lager-WAB's]**
-- Für **Hersteller == Alle Touren außer [Lager-WAB's] -> %%Immer Freitags für Nächste KW** (UNSURE ASK ISABEL 😕
+- Für **Hersteller == Alle Touren außer [Lager-WAB's] -> %%Immer Freitags für Nächste KW** (UNSURE ASK ISABEL 😕)
+
+## Abgabe für Hersteller:
+- Deadline verschieden für alle 3 Hersteller
+- Hersteller_H => 3 Wochen unterschied => Bsp.: spät. Freitag KW7 für KW_11
 
 ### Auslieferliste Guide:
 - Single .csv Excel file -> Apply Makro -> **Save as .xlsx** save for **SC-Leiter** & **HERSTELLER**  = **receive it without Makros**
@@ -80,12 +89,16 @@
 - Naming_Scheme: ALL_$ORT[WIEN,LINZ,GRAZ,etc]_[KW$$].xlsx 
 
 ## Other Things I got told and are probably Useful:
+- Frozen Zone (Hali)
+    - Ab Folge_KW der Abgabewoche !
+    - Aufträge können von Hersteller_H nicht mehr bearbeitet werden.
+    - BGO kann noch Schieben aber **nur nach hinten (später)** - Nur bei **[Checkmark-Eingelastet]**
 - Trennwände: (Speical_Montage_Workers)
     - Montage => pro 1 Laufmeter = 3h
     - Demontage => pro 1 Laufmeter = 1,5h
 
 ## Weird Notes
 - $HERSTELLER
-    - NOS -  🟢 - Hersteller_N
-    - H**I - 🔵 - Hersteller_H
-    - B**E - 🔴 - Hersteller_B
+    - NOS -  🟢 - Hersteller_N -> Blaue Schrift
+    - H**I - 🔵 - Hersteller_H -> Grüne Schrift
+    - B**E - 🔴 - Hersteller_B -> Schwarze Schrift
