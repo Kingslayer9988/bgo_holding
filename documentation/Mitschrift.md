@@ -78,11 +78,11 @@
 - Für **Hersteller == Alle Touren außer [Lager-WAB's] -> %%Immer Freitags für Nächste KW** (UNSURE ASK ISABEL 😕)
 
 ## Abgabe für Hersteller:
-- Deadline verschieden für alle 3 Hersteller
-- Hersteller_H => 3 Wochen unterschied => Bsp.: spät. Freitag KW7 für KW_11
+- **Deadline verschieden für alle 3 Hersteller**
+- Hersteller_H => 3 Wochen unterschied => **Bsp.: spät. Freitag KW7 für KW_11**
 
 ## Transportbestellung Infos:
-- Filter -> [Touren / Auflade Zeit] -> KW Mo - Sa, auswählen
+- Filter -> **[Touren / Auflade Zeit]** -> **KW Mo - Sa, auswählen**
 - Schnittstelle -> Excel -> safe as .xlxs Name: **Transportbestellunhg_KW__**
 - Alle Gebiete kontrollieren (2 unteren Spalten in Excel zählen) => **Direkt&Lager-WAP's**
 - Ladereihenfolge checken => oft 35/36/35
