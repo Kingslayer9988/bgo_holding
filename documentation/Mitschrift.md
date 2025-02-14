@@ -37,7 +37,7 @@
     - Wichtige Daten: **Kunde, KW, Auftragsnummer**
     - Mail-Wichtigkeit auf "High"
     - **Transportauftrag muss nicht in der Mail anhängt werden**
-    - _(NOTE1: Gesamter Prozess könnte **easy automatisiert werden**) 
+    - _(NOTE1: Gesamter Prozess könnte **easy automatisiert werden**)_
     - _(NOTE2: Prozess wird **Lokal automatisiert** => **Nicht in Profitour** => **Native Script**)_
     - _(NOTE3: Laut Isabel nicht erwünscht => trotzdem Fragen zu **Persöhnlicher Verwendung!**) (UNSURE ASK BIG-BOSS 😕)_
 
@@ -45,7 +45,7 @@
     - **Alles 2x kontrollieren**
     - **Datum bei Touren** & **Ladereihenfolge WAB's 3x kontrollieren**
         - **Datum** kann sich aufgrund von Tagesarbeitszeit oder falschen $BUILD_TIMES from $HERSTELLER auf nächsten Tag rutschen!
-        - Fehler passieren hier leicht und **keine Software-Kontrolle** für Fehler wie diese!
+        - **Fehler passieren hier leicht** und **keine Software-Kontrolle** für Fehler wie diese!
         - _NOTE: Probably a big reason that "AI" is not already taking Disponenten-Jobs (needs a sick Algorithm 😄)_
         - _NOTE: Bad for me but Probably good for Big_Boss => **Local Deepseek with Live Training here 👀👀**_
 
@@ -56,7 +56,7 @@
     - Für **Transportbestellung** (Winkler, etc) => Abfrage von **[Touren]**
 
 - **Fahrzeuge are completely messed up for some areas:**
-    - **needs fixing !** => Absprache mit SC-Leitern
+    - **needs fixing !** => **Absprache mit SC-Leiter**
     - _Note: Isabel macht **extra Arbeit** => Eintragen von **3,5t | 7,5t** => Weil SC-Leiter Fahrzeuge nicht Ändern will (UNSURE ASK BIG-BOSS 😕)_
 
 - **Fahrzeuge:**
