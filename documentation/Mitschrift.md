@@ -36,7 +36,7 @@
 
 - **Avisieren:**
     - **Alles 2x kontrollieren**
-    - **Datum bei Touren** & **Ladereihenfolge der WAB's 3x kontrollieren**
+    - **Datum bei Touren** & **Ladereihenfolge WAB's 3x kontrollieren**
         - **Datum** kann sich aufgrund von Tagesarbeitszeit oder falschen $BUILD_TIMES from $HERSTELLER auf nächsten Tag rutschen!
         - Fehler passieren hier leicht und **keine Software-Kontrolle** für Fehler wie diese!
         - _NOTE: Probably a big reason that "AI" is not already taking Disponenten-Jobs (needs a sick Algorithm 😄)_
@@ -65,7 +65,6 @@
         - [Rampe] bei Umladen in 7,5t bzw. 3,5t Fahrzeugen beim Lager **(eher = Bei vielen Kleinkunden)**
         - [Platz] Wenn mit LKW zu von Kunde zu Kunde gefahren wird **(eher = Bei wenig Großkunden)**
         - Wenn 1 WAP bereits Rampe nächster muss auf Platz **(max 1 Rampe pro Tag)**
-        - Nochmal mit Isabel durchgehen [Platz] macht irgendwie keinen Sinn (DIREKT?) (UNSURE ASK ISABEL 😕)
         - **Verlade-Reihenfolge = 99 ==> EGAL**
     
     - **Naming-Scheme:**
@@ -84,7 +83,7 @@
         - **Untertouren werden von ULGB zusammengestellt** nach einer Liste von uns!
         - Filter in Datenbank nach **[Dornbirn + FL + CH + DE]**
         - Datenbank Ansicht auf **[Isabel-Voradelberg]**
-        - Export als Excel file (csv)
+        - **Schnittstelle => Export als Excel file (.csv)**
         - Autosumme pro WAB erstellen für **[Gewicht und m³]**
         - Text: **Anlieferung am $Datum zum Lager oder Direkt zum Kunden (Siehe Excel file oder Profitour)**
         - **Jumbo-WAP vermerken**
@@ -110,7 +109,7 @@
 - **Auswahl der Tour im Oberen Fenster** -> Frachtbrief -> Print as PDF -> Naming_Scheme: **[TT]_TOURNUMMER**
 - **Auswahl der Tour im Oberen Fenster** -> Tourenplan -> Print as PDF -> Naming_Scheme: **[TT]_TOURNUMMER_TB**
 - Frachtbrief und Tourenplan für SC-Leiter immer **$Montags_Aktuelle_KW** für **%Nächste_KW** -> Bsp.: **Montag in KW7** -> **Ausdrücke für KW08 an SC-Leiter**
-- Immer Excel-Tabelle der Folge-KW auf Papier am Tisch haben und Touren nach Senden der PDF abhaken! -> **2PDF's pro Touren [_NON-TB & _TB]**
+- Immer **Excel-Tabelle der Folge_KW$$** auf Papier am Tisch haben und Touren nach Senden der PDF abhaken! -> **2PDF's pro Touren [_NON-TB & _TB]**
 - Ablage auf Onedrive 😨 Ordner that never syncs even 10MB's 😂
 
 ## Auslieferlisten Infos:
@@ -121,10 +120,10 @@
 
 ### Auslieferliste Guide:
 - Single .csv Excel file -> Apply Makro -> **Save as .xlsx** save for **SC-Leiter** & **HERSTELLER**  = **receive it without Makros**
-- Touren markieren -> **Auslieferliste** -> Saved as .csv on Remote [Profi-Tour-Server] -> Copy to [Local] and open in Excel
+- Touren markieren -> **Auslieferliste** -> **Saved as .csv on Remote [Profi-Tour-Server]** -> Copy to [Local] and open in Excel
 - Apply Excel ✨ **Magic-Makros** ✨ [Strg+Umschalt+A "For Austria + D for "Germany"] -> **[HARDCODED IN MAKRO]**
 - Save as **.xlsx** => **(Will delete Makros)**
-- Naming_Scheme: ALL_$ORT[WIEN,LINZ,GRAZ,etc]_[KW$$].xlsx
+- Naming_Scheme: **ALL_$ORT[WIEN,LINZ,GRAZ,etc]_[KW$$].xlsx**
 
 ## Abgabe für Hersteller:
 - **Deadline verschieden für alle 3 Hersteller**
@@ -132,13 +131,13 @@
 
 ## Transportbestellung Infos:
 - Filter -> **[Touren / Auflade Zeit]** -> **KW Mo - Sa, auswählen**
-- Schnittstelle -> Excel -> safe as .xlxs Name: **Transportbestellunhg_KW__**
+- **Schnittstelle -> Export in Excel** -> safe as .xlxs Name: **Transportbestellunhg_KW__**
 - Alle Gebiete kontrollieren (2 unteren Spalten in Excel zählen) => **Direkt&Lager-WAP's**
 - **Ladereihenfolge checken** => oft **35/36/35** => Delete **35**
 - **m³ mit Fahrzeugen abglichen** bei => **Bsp.: 40m³ => 2 LKW's**
 
 ## Gebiete Erik:
-- **Hersteller NOS**
+- **Hersteller NOS 🟢**
 - [Voradelberg(Dornbirn) + DE(S-W) + FL + CH] | **Kein Küchenmonteur** :o:
 - [Tirol(Innsbruck)] | **Kein Küchenmonteur** :o:
 - [Kärnten(Klagenfurt)] | **Küchenmonteur vorhanden** :heavy_check_mark:
