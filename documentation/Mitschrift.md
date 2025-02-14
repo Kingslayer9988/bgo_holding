@@ -102,6 +102,10 @@
         - **Sammelmappe => Übernahme in die Planung**
         - Auftrag ist nun im unteren Fenster **(Wie neu)** => Splitten, WAP, etc. => **behandeln wie neuen Auftag**
 
+    - **Wochenauslatung des jeweiligen Herstelller beachten**
+        - Mit Mitarbeitern und Herstellen gute Lösung finden
+        - Hersteller NOS fragen => Wie Auslatungen gemssen werden => **Date am 04.03.2025 🌹** 
+
 ## Frachtbriefe (Bestehen aus 2-PDF's):
 - **Auswahl der Tour im Oberen Fenster** -> Frachtbrief -> Print as PDF -> Naming_Scheme: **[TT]_TOURNUMMER**
 - **Auswahl der Tour im Oberen Fenster** -> Tourenplan -> Print as PDF -> Naming_Scheme: **[TT]_TOURNUMMER_TB**
@@ -134,11 +138,12 @@
 - **m³ mit Fahrzeugen abglichen** bei => **Bsp.: 40m³ => 2 LKW's**
 
 ## Gebiete Erik:
-- **[Voradelberg(Dornbirn) + DE(S-W) + FL + CH]** | **Kein Küchenmonteur** :o:
-- **[Tirol(Innsbruck)]** | **Kein Küchenmonteur** :o:
-- **[Kärnten(Klagenfurt)]** | **Küchenmonteur vorhanden** :heavy_check_mark:
-- **[Steiermark(Graz)]** | **Kein Küchenmonteur aber gute Monteure(Außnahme)** :heavy_check_mark:
-- **[Deutschland(Gesamt)]**
+- **Hersteller NOS**
+- [Voradelberg(Dornbirn) + DE(S-W) + FL + CH] | **Kein Küchenmonteur** :o:
+- [Tirol(Innsbruck)] | **Kein Küchenmonteur** :o:
+- [Kärnten(Klagenfurt)] | **Küchenmonteur vorhanden** :heavy_check_mark:
+- [Steiermark(Graz)] | **Kein Küchenmonteur aber gute Monteure(Außnahme)** :heavy_check_mark:
+- [Deutschland(Gesamt)] - Noch nicht sicher!!
 
 ## Other Things I got told and are probably Useful:
 - **❄️ Frozen Zone (Hali)❄️**
