@@ -69,7 +69,17 @@
       - _____(Leer)                         => Direkt-LKW auf Baustelle                             => **___ORT1 - ORT2 - WOCHENTAG(TT)**
       - SC WAP für [LKW | 7,5t | 3,5t]      => Items werden umgeladen in LKW oder 3,5t oder 7,5t    => **SC WAP SC_ORT - WOCHENTAG(TT)**
 
-    - Bei knappen/komischen Touren => Plant SC-Leiter bzw. Absprache mit SC-Leiter (UNSURE ASK BIG-BOSS 😕
+    - Bei knappen/komischen Touren => Plant SC-Leiter bzw. Absprache mit SC-Leiter (UNSURE ASK BIG-BOSS 😕)
+
+  - **Voradelberg ist anders**
+      - **Untertouren werden von ULGB zusammengestellt** nach einer Liste von uns!
+      - Filter in Datenbank nach **[Dornbirn + FL + CH + DE]**
+      - Datenbank Ansicht auf Isabel-Voradelberg
+      - Export als Excel file (csv)
+      - Autosumme pro WAB erstellen für Gewicht und m³
+      - Text: **Anlieferung am $Datum zum Lager oder Direkt zum Kunden (Siehe Excel file oder Profitour)**
+      - **Jumbo-WAP vermerken**
+      - Als **E-Mail an Oliver** senden - er sendet die Touren zurück!
 
 ## Frachtbriefe (Bestehen aus 2-PDF's):
 - **Auswahl der Tour im Oberen Fenster** -> Frachtbrief -> Print as PDF -> Naming_Scheme: **[TT]_TOURNUMMER**
