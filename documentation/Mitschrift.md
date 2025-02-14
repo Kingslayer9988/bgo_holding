@@ -37,12 +37,13 @@
         - _NOTE: Probably a big reason that "AI" is not already taking Disponenten-Jobs (needs a sick Algorithm 😄)_
 
 - Datenbank Stuff:
-    - Import von Hersteller_H => Immer 06:30 & 14:00 Mo-Fr (AUCH Import von Hersteller_B und Hersteller_N ???) (UNSURE ASK ISABEL 😕)
+    - Import von Hersteller_H => Immer 06:30 & 14:00 Mo-Fr (Import von Hersteller_B und Hersteller_N sind auto.)
     - Für **Auslieferlisten**  => Abfrage von **[Prod & Lieferwoche] - [Mo. - Sa.] der gewünschten [KW]** auswählen!
     - Für **Anvisieren** und erstellen von Touren => Abfrage von **[Lieferwoche]**
     - Für **Transportbestellung** (Winkler, etc) => Abfrage von **[Touren]**
 
-- Fahrzeuge are completely messed up for some areas - Needs fixing but probably low priority! (UNSURE ASK BIG-BOSS 😕
+- Fahrzeuge are completely messed up for some areas - Needs fixing but probably low priority! (UNSURE ASK BIG-BOSS 😕)
+    - needs fixing !
 
 - Fahrzeuge:
     - Jumbo_WAP (LKW) => **max. ~ 35m³ => NUR FÜR DIREKT** = PASST NICHT INS LAGER (C-FS)
