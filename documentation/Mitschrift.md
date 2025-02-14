@@ -12,49 +12,49 @@
   - Vorletzte == DIREKT WAB'S
   - Letzte == LAGER WAB'S
 
-- Bei Baustellen mit **Nächtigung** -> Nächtigung in Excel Liste eintragen (Bis zum Endtag)
-- Bei Baustellen mit **Trennwänden** -> Trennwand vermerken = Special Montage Workers
-- Bei Baustellen mit **Küchen** -> L&M Küchenmontage
+- Bei Baustellen mit **Nächtigung** -> Nächtigung in Excel Liste eintragen **(Bis & nicht inkulsive Endtag)**
+- Bei Baustellen mit **Trennwänden** -> Trennwand vermerken = **Special Montage Workers**
+- Bei Baustellen mit **Küchen** -> **L&M Küchenmontage** oder **nach Gebiet haben Special Montage Workers**
 
 ## Tipps im Bearbeitungsfenster: [Nach der Auswahl der gewünschten bzw. zugeteilten Arbeitsbereiche bsp. Wien, Linz etc.]
 - 🟢 = Kunde wurde bereits Avisiert.
-- **FORCE_GREEN_BUTTON** => $Kunden_avis_bestätigen & $Aktualisieren => Kein Avis versendet trotzdem 🟢!
-- **[DIR | STK | PST]** -> Alle DIREKT
-- **[Ausftragsnummer: 034]** -> Internet bestellung -> DIREKT
+- **FORCE_GREEN_BUTTON** => $Kunden_avis_bestätigen & $Aktualisieren => **Kein Avis versendet trotzdem 🟢**
+- **[DIR | STK | PST]** -> **Alle DIREKT**
+- **[Ausftragsnummer: 034]** -> **Internet bestellung -> DIREKT**
 - Rechtsklick auf Datenbank-Row => **Transportauftrag** => Für Planung und **Calculation-Script**
 
-- Vor-Avisieren (Gesamter Prozess könnte easy automatisiert werden)
+- **Vor-Avisieren** _(NOTE: Gesamter Prozess könnte easy automatisiert werden)_
     - Gleich wie Avisieren nur im Vorfeld -> **Nicht Offizielles Aviso verwenden!**
     - Daten & Mail aus Profitour "Aviso-Pdf" ziehen und Mail erfassen!
     - Wichtige Daten: **Kunde, KW, Auftragsnummer**
     - Mail-Wichtigkeit auf "High"
     - **Transportauftrag in der Mail anhängen!**
 
-- Avisieren:
+- **Avisieren:**
     - **Alles 2x kontrollieren**
     - Datum bei Touren & **Ladereihenfolge der WAB's 3x kontrollieren**
         - **Datum** kann sich aufgrund von Tagesarbeitszeit oder falschen $BUILD_TIMES from $HERSTELLER auf nächsten Tag rutschen!
         - Fehler passieren hier leicht und **keine Software-Kontrolle** für Fehler wie diese!
         - _NOTE: Probably a big reason that "AI" is not already taking Disponenten-Jobs (needs a sick Algorithm 😄)_
 
-- Datenbank Stuff:
+- **Datenbank Stuff:**
     - Import von Hersteller_H => Immer 06:30 & 14:00 Mo-Fr (Import von Hersteller_B und Hersteller_N sind auto.)
     - Für **Auslieferlisten**  => Abfrage von **[Prod & Lieferwoche] - [Mo. - Sa.] der gewünschten [KW]** auswählen!
     - Für **Anvisieren** und erstellen von Touren => Abfrage von **[Lieferwoche]**
     - Für **Transportbestellung** (Winkler, etc) => Abfrage von **[Touren]**
 
-- Fahrzeuge are completely messed up for some areas:
+- **Fahrzeuge are completely messed up for some areas:**
     - **needs fixing !** => Absprache mit SC-Leitern
     - _Note: Isabel macht **extra Arbeit** => Eintragen von **3,5t | 7,5t** => Weil SC-Leiter Fahrzeuge nicht Ändern will (UNSURE ASK BIG-BOSS 😕)_
 
-- Fahrzeuge:
+- **Fahrzeuge:**
     - Selten: **Sattel (Nicht Winkler)** => **~60m³** => **(2x WAP's pro Sattel)** (C-FS)
     - Jumbo_WAP (LKW) => **max. ~ 35m³ => NUR FÜR DIREKT** = PASST NICHT INS LAGER (C-FS)
     - WAP (LKW) **(Direkt | Lager_WAP) => 30m³ => EGAL** (C-FS)
     - 7,5t Fahrzeug => **max. ~ 15m³ & 1000kg** [LAGER-WAB] (C-FS)
     - 3,5t Fahrzeug => **max. ~ 600kg** [LAGER-WAB] (B-FS)
 
-- Tipps für erstellen von Linien:
+- **Tipps für erstellen von Linien:**
     - **TV immer für jeweilige KW__ erledigen** nachdem Untertouren fertiggestellt sind!
         - Filter nach **Auftragsnummer (Steht auf TV)**
         - Gehe zu **WAP der TV beinhaltet**
@@ -67,14 +67,14 @@
         - **Sammelmappe => Übernahme in die Planung**
         - Auftrag ist nun im unteren Fenster **(Wie neu)** => Splitten, WAP, etc. => **behandeln wie neuen Auftag**
 
-    - 2 Arten von Lager-WAB's **(Immer ins Kommentarfeld des WAB's)**
+    - **2 Arten von Lager-WAB's (Immer ins Kommentarfeld des WAB's):**
         - [Rampe] bei Umladen in 7,5t bzw. 3,5t Fahrzeugen beim Lager **(eher = Bei vielen Kleinkunden)**
         - [Platz] Wenn mit LKW zu von Kunde zu Kunde gefahren wird **(eher = Bei wenig Großkunden)**
         - Wenn 1 WAP bereits Rampe nächster muss auf Platz **(max 1 Rampe pro Tag)**
         - Nochmal mit Isabel durchgehen [Platz] macht irgendwie keinen Sinn (DIREKT?) (UNSURE ASK ISABEL 😕)
         - **Verlade-Reihenfolge = 99 ==> EGAL**
     
-    - Naming-Scheme:
+    - **Naming-Scheme:**
         - **DIREKT** => PST, DIR, N:04 => **DIREKT ORT1 - ORT2 - WOCHENTAG(TT)**
         - **_____(Leer)** => Direkt-LKW auf Baustelle => **___ORT1 - ORT2 - WOCHENTAG(TT)**
         - **SC WAP für [LKW | 7,5t | 3,5t]** => Items werden umgeladen in LKW oder 3,5t oder 7,5t => **SC WAP SC_ORT - WOCHENTAG(TT)**
@@ -82,11 +82,11 @@
     - Bei knappen/komischen Touren => Plant SC-Leiter bzw. Absprache mit SC-Leiter
       - Nicht gewünscht -> Eigentlich Suboptimal -> Außnahme Voradelberg
     
-    - LKW gewünscht:
+    - **LKW gewünscht:**
         - Bei Touren muss beachtet werden das es manchmal teurer ist umzuladen!
         - Heißt manchmal ist es billger mit LKW direkt zum Kunden zu fahren
 
-- **Voradelberg ist anders**
+- **Voradelberg ist anders:**
     - **Untertouren werden von ULGB zusammengestellt** nach einer Liste von uns!
     - Filter in Datenbank nach **[Dornbirn + FL + CH + DE]**
     - Datenbank Ansicht auf **[Isabel-Voradelberg]**
@@ -127,7 +127,7 @@
 - **Ladereihenfolge checken** => oft **35/36/35** => Delete **35**
 - **m³ mit Fahrzeugen abglichen** bei => **Bsp.: 40m³ => 2 LKW's**
 
-## Gebiete Erik
+## Gebiete Erik:
 - **[Voradelberg(Dornbirn) + DE(S-W) + FL + CH]** | **Kein Küchenmonteur** :o:
 - **[Tirol(Innsbruck)]** | **Kein Küchenmonteur** :o:
 - **[Kärnten(Klagenfurt)]** | **Küchenmonteur vorhanden** :heavy_check_mark:
@@ -147,7 +147,7 @@
     - Abschieben von Sachen auf Hersteller & Sc-Leiter ==> **und Umgekehrt!**  💀
     - **WHO THE FUCK IS THE DESCION MAKER 💀❌💀**
 
-## Weird Notes
+## Extra Notes:
 - $HERSTELLER
     - NOS -  🟢 - Hersteller_N -> 🔵 Schrift
     - H**I - 🔵 - Hersteller_H -> 🟢 Schrift
