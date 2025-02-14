@@ -17,7 +17,7 @@
 - Bei Baustellen mit **Küchen** -> **L&M Küchenmontage** oder **nach Gebiet haben Special Montage Workers**
 
 ## Tipps im Bearbeitungsfenster: [Nach der Auswahl der gewünschten bzw. zugeteilten Arbeitsbereiche bsp. Wien, Linz etc.]
-- 🟢 = Kunde wurde bereits Avisiert.
+- 🟢 = **Kunde wurde bereits Avisiert** || 🔴 => **Kunde hat altes Aviso** => **Neu senden** oder **FORCE_GREEN**
 - **FORCE_GREEN_BUTTON** => $Kunden_avis_bestätigen & $Aktualisieren => **Kein Avis versendet trotzdem 🟢**
 - **[DIR | STK | PST]** -> **Alle DIREKT**
 - **[Ausftragsnummer: 034]** -> **Internet bestellung -> DIREKT**
