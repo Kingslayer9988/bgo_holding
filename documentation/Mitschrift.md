@@ -53,6 +53,9 @@
 
 - Tipps für erstellen von Linien:
     - LKW gewünscht - Komische Mitschrift (UNSURE ASK ISABEL 😕)
+        - Bei Touren muss beachtet werden das es manchmal teurer ist umzuladen!
+        - Heißt manchmal ist es billger mit LKW direkt zum Kunden zu fahren!
+  
     - 2 Arten von Lager-WAB's **(Immer ins Kommentarfeld des WAB's)**
         - [Rampe] bei Umladen in 7,5t bzw. 3,5t Fahrzeugen beim Lager **(eher = Bei vielen Kleinkunden)**
         - [Platz] Wenn mit LKW zu von Kunde zu Kunde gefahren wird **(eher = Bei wenig Großkunden)**
