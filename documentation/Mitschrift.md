@@ -69,7 +69,7 @@
       - _____(Leer)                         => Direkt-LKW auf Baustelle                             => **___ORT1 - ORT2 - WOCHENTAG(TT)**
       - SC WAP für [LKW | 7,5t | 3,5t]      => Items werden umgeladen in LKW oder 3,5t oder 7,5t    => **SC WAP SC_ORT - WOCHENTAG(TT)**
 
-    - Bei knappen/komischen Touren => Plant SC-Leiter bzw. Absprache mit SC-Leiter (UNSURE ASK BIG-BOSS 😕)
+  - Bei knappen/komischen Touren => Plant SC-Leiter bzw. Absprache mit SC-Leiter (UNSURE ASK BIG-BOSS 😕)
 
   - **Voradelberg ist anders**
       - **Untertouren werden von ULGB zusammengestellt** nach einer Liste von uns!
