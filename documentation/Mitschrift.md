@@ -1,6 +1,7 @@
 # PROFI TOUR MITSCHRIFT 03.02.2025 - 14.02.2025
 
 ## Number One ⚖️ => Don't mess with Profi-Tour-Profile from Isabel
+## Number Two ⚖️ => Bei jeder Änderung -> Export für Hersteller
 
 ## Tipps für Excel-Listen: [Excel_Listen_Immer_pro_KW$$]
 - Werden LIVE am Onedrive Ordner bearbeitet 💀
