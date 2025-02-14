@@ -55,18 +55,7 @@
     - 3,5t Fahrzeug => **max. ~ 600kg** [LAGER-WAB] (B-FS)
 
 - **Tipps für erstellen von Linien:**
-    - **TV immer für jeweilige KW__ erledigen** nachdem Untertouren fertiggestellt sind!
-        - Filter nach **Auftragsnummer (Steht auf TV)**
-        - Gehe zu **WAP der TV beinhaltet**
-        - Im Bearbeitungsfenster (Mitte) => Button: **Aus Tour lösen und Rückgängig machen**
-        - Wenn **WAP in der Zukunft** liegt -> **Verladereihenfolge neu richten**
-        - Oben auf **Selection** => Sonst **Probleme** im **Bearbeitungsfenster & Sammelmappe**
-        - Im Bearbeitungsfenster Auftrag auswählen => **Sammelmappe erstellen**
-        - Name (Isabel) = **[$ORT_$KW_DER_TV]** **(Siehe Links unten auf TV)**
-        - Filter nach **$KW_WO_TV_HINGEHÖRT** in **[Lieferwoche]**
-        - **Sammelmappe => Übernahme in die Planung**
-        - Auftrag ist nun im unteren Fenster **(Wie neu)** => Splitten, WAP, etc. => **behandeln wie neuen Auftag**
-
+    
     - **2 Arten von Lager-WAB's (Immer ins Kommentarfeld des WAB's):**
         - [Rampe] bei Umladen in 7,5t bzw. 3,5t Fahrzeugen beim Lager **(eher = Bei vielen Kleinkunden)**
         - [Platz] Wenn mit LKW zu von Kunde zu Kunde gefahren wird **(eher = Bei wenig Großkunden)**
@@ -95,6 +84,18 @@
         - Text: **Anlieferung am $Datum zum Lager oder Direkt zum Kunden (Siehe Excel file oder Profitour)**
         - **Jumbo-WAP vermerken**
         - Als **E-Mail an Oliver** senden - er sendet die Touren zurück!
+
+    - **TV immer für jeweilige KW__ erledigen** nachdem Untertouren fertiggestellt sind!
+        - Filter nach **Auftragsnummer (Steht auf TV)**
+        - Gehe zu **WAP der TV beinhaltet**
+        - Im Bearbeitungsfenster (Mitte) => Button: **Aus Tour lösen und Rückgängig machen**
+        - Wenn **WAP in der Zukunft** liegt -> **Verladereihenfolge neu richten**
+        - Oben auf **Selection** => Sonst **Probleme** im **Bearbeitungsfenster & Sammelmappe**
+        - Im Bearbeitungsfenster Auftrag auswählen => **Sammelmappe erstellen**
+        - Name (Isabel) = **[$ORT_$KW_DER_TV]** **(Siehe Links unten auf TV)**
+        - Filter nach **$KW_WO_TV_HINGEHÖRT** in **[Lieferwoche]**
+        - **Sammelmappe => Übernahme in die Planung**
+        - Auftrag ist nun im unteren Fenster **(Wie neu)** => Splitten, WAP, etc. => **behandeln wie neuen Auftag**
 
 ## Frachtbriefe (Bestehen aus 2-PDF's):
 - **Auswahl der Tour im Oberen Fenster** -> Frachtbrief -> Print as PDF -> Naming_Scheme: **[TT]_TOURNUMMER**
