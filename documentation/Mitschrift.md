@@ -74,9 +74,9 @@
         - **Verlade-Reihenfolge = 99 ==> EGAL**
     
     - Naming-Scheme:
-        - DIREKT                              => PST, DIR, N:04                                       => **DIREKT ORT1 - ORT2 - WOCHENTAG(TT)**
-        - _____(Leer)                         => Direkt-LKW auf Baustelle                             => **___ORT1 - ORT2 - WOCHENTAG(TT)**
-        - SC WAP für [LKW | 7,5t | 3,5t]      => Items werden umgeladen in LKW oder 3,5t oder 7,5t    => **SC WAP SC_ORT - WOCHENTAG(TT)**
+        - **DIREKT** => PST, DIR, N:04 => **DIREKT ORT1 - ORT2 - WOCHENTAG(TT)**
+        - **_____(Leer)** => Direkt-LKW auf Baustelle => **___ORT1 - ORT2 - WOCHENTAG(TT)**
+        - **SC WAP für [LKW | 7,5t | 3,5t]** => Items werden umgeladen in LKW oder 3,5t oder 7,5t => **SC WAP SC_ORT - WOCHENTAG(TT)**
 
     - Bei knappen/komischen Touren => Plant SC-Leiter bzw. Absprache mit SC-Leiter
       - Nicht gewünscht -> Eigentlich Suboptimal -> Außnahme Voradelberg
