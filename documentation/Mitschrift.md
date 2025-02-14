@@ -115,10 +115,10 @@
 - Naming_Scheme: ALL_$ORT[WIEN,LINZ,GRAZ,etc]_[KW$$].xlsx
 
 ## Gebiete Erik
-- **[Voradelberg(Dornbirn) + DE(S-W) + FL + CH]**
-- **[Tirol(Innsbruck)]**
-- **[Kärnten(Klagenfurt)]**
-- **[Steiermark(Graz)]**
+- **[Voradelberg(Dornbirn) + DE(S-W) + FL + CH]** | **Kein Küchenmonteur**
+- **[Tirol(Innsbruck)]** | **Kein Küchenmonteur**
+- **[Kärnten(Klagenfurt)]** | **Küchenmonteur vorhanden** :heavy_check_mark:
+- **[Steiermark(Graz)]** | **Kein Küchenmonteur aber gute Monteure(Außnahme)** :heavy_check_mark:
 - **[Deutschland(Gesamt)]**
 
 ## Other Things I got told and are probably Useful:
