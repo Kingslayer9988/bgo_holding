@@ -2,6 +2,7 @@
 
 ## Number One ⚖️ LAW => Don't mess with Profi-Tour-Profile from Isabel ✅
 ## Number Two ⚖️ LAW => Bei jeder Änderung -> Export für Hersteller ✅
+## Number Three ⚖️ LAW => Dont even try SPECIAL_LETTERS(§$%_-) in Profitour ✅
 
 ## Tipps für Excel-Listen: [Excel_Listen_Immer_pro_KW$$]
 - Werden LIVE am Onedrive Ordner bearbeitet 💀
@@ -65,9 +66,9 @@
         - **Verlade-Reihenfolge = 99 ==> EGAL**
     
     - **Naming-Scheme:**
-        - **DIREKT** => PST, DIR, N:04 => **DIREKT ORT1 - ORT2 - WOCHENTAG(TT)**
-        - **_____(Leer)** => Direkt-LKW auf Baustelle => **___ORT1 - ORT2 - WOCHENTAG(TT)**
-        - **SC WAP für [LKW | 7,5t | 3,5t]** => Items werden umgeladen in LKW oder 3,5t oder 7,5t => **SC WAP SC_ORT - WOCHENTAG(TT)**
+        - **DIREKT** => PST, DIR, N:04 => **DIREKT_$ORT1_$ORT2_WOCHENTAG(TT)**
+        - **_____(Leer)** => Direkt-LKW auf Baustelle => **LEER_$ORT1_$ORT2_WOCHENTAG(TT)**
+        - **SC WAP für [LKW | 7,5t | 3,5t] Touren** => Items werden umgeladen in LKW oder 3,5t oder 7,5t => **SC_WAP_$ORT1_für_$Vehicle1/2/3_Touren_WOCHENTAG(TT)**
 
     - **Bei knappen/komischen Touren** => **Plant SC-Leiter** bzw. **Absprache mit SC-Leiter**
       - **❌ Nicht gewünscht** -> Suboptimal -> **Außnahme Voradelberg** (BIG-BOSS am 13.02.2025)
