@@ -148,6 +148,7 @@
     - Wer ruft Kunden an der nicht Nett ist etc. 💀
     - Abschieben von Sachen auf Hersteller & Sc-Leiter ==> **und Umgekehrt!**  💀
     - **WHO THE FUCK IS THE DESCION MAKER 💀❌💀**
+    - **Keine Verantwortung => Alles Problem von Hersteller** :question:
 
 ## Extra Notes:
 - $HERSTELLER
