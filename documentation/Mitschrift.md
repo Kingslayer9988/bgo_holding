@@ -72,7 +72,6 @@
         - Wenn 1 WAP bereits Rampe nächster muss auf Platz **(max 1 Rampe pro Tag)**
         - Nochmal mit Isabel durchgehen [Platz] macht irgendwie keinen Sinn (DIREKT?) (UNSURE ASK ISABEL 😕)
         - **Verlade-Reihenfolge = 99 ==> EGAL**
-        - LKW
     
     - Naming-Scheme:
         - DIREKT                              => PST, DIR, N:04                                       => **DIREKT ORT1 - ORT2 - WOCHENTAG(TT)**
@@ -107,7 +106,14 @@
 - Für **SC-Leiter == alle Touren außer [POST, Direkt, Lager-WAB's]**
 - Für **Hersteller == Alle Touren außer [Lager-WAB's] -> %%Immer Freitags für Nächste KW**
 - **Auslieferlisten_SC** kommen von **SC-Leiter** zurück mit **allen 3 Herstellern kombiniert**
-- Haben **Infos** über genaue Touren, Mitarbeiter, Fahrzeuge etc. => Naming_Scheme: **Auslieferliste_$SC-Leiter_$KW__** 
+- Haben **Infos** über genaue Touren, Mitarbeiter, Fahrzeuge etc. => Naming_Scheme: **Auslieferliste_$SC-Leiter_$KW__**
+
+### Auslieferliste Guide:
+- Single .csv Excel file -> Apply Makro -> **Save as .xlsx** save for **SC-Leiter** & **HERSTELLER**  = **receive it without Makros**
+- Touren markieren -> **Auslieferliste** -> Saved as .csv on Remote [Profi-Tour-Server] -> Copy to [Local] and open in Excel
+- Apply Excel ✨ **Magic-Makros** ✨ [Strg+Umschalt+A "For Austria + D for "Germany"] -> **[HARDCODED IN MAKRO]**
+- Save as **.xlsx** => **(Will delete Makros)**
+- Naming_Scheme: ALL_$ORT[WIEN,LINZ,GRAZ,etc]_[KW$$].xlsx
 
 ## Abgabe für Hersteller:
 - **Deadline verschieden für alle 3 Hersteller**
@@ -118,14 +124,7 @@
 - Schnittstelle -> Excel -> safe as .xlxs Name: **Transportbestellunhg_KW__**
 - Alle Gebiete kontrollieren (2 unteren Spalten in Excel zählen) => **Direkt&Lager-WAP's**
 - Ladereihenfolge checken => oft 35/36/35
-- m³ mit Fahrzeugen abglichen bei => Bsp.: 40m³ => 2 LKW's 
-
-### Auslieferliste Guide:
-- Single .csv Excel file -> Apply Makro -> **Save as .xlsx** save for **SC-Leiter** & **HERSTELLER**  = **receive it without Makros**
-- Touren markieren -> **Auslieferliste** -> Saved as .csv on Remote [Profi-Tour-Server] -> Copy to [Local] and open in Excel
-- Apply Excel ✨ **Magic-Makros** ✨ [Strg+Umschalt+A "For Austria + D for "Germany"] -> **[HARDCODED IN MAKRO]**
-- Save as **.xlsx** => **(Will delete Makros)**
-- Naming_Scheme: ALL_$ORT[WIEN,LINZ,GRAZ,etc]_[KW$$].xlsx
+- m³ mit Fahrzeugen abglichen bei => Bsp.: 40m³ => 2 LKW's
 
 ## Gebiete Erik
 - **[Voradelberg(Dornbirn) + DE(S-W) + FL + CH]** | **Kein Küchenmonteur** :o:
