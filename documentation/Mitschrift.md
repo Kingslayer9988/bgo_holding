@@ -131,6 +131,6 @@
 
 ## Weird Notes
 - $HERSTELLER
-    - NOS -  🟢 - Hersteller_N -> Blaue Schrift
-    - H**I - 🔵 - Hersteller_H -> Grüne Schrift
+    - NOS -  🟢 - Hersteller_N -> 🔵 Schrift
+    - H**I - 🔵 - Hersteller_H -> 🟢 Schrift
     - B**E - 🔴 - Hersteller_B -> Schwarze Schrift
