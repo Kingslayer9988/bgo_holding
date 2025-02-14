@@ -118,7 +118,7 @@
 - **[Tirol(Innsbruck)]**
 - **[Kärnten(Klagenfurt)]**
 - **[Steiermark(Graz)]**
-- **[Deutschland(Gesamt]**
+- **[Deutschland(Gesamt)]**
 
 ## Other Things I got told and are probably Useful:
 - Frozen Zone (Hali)
