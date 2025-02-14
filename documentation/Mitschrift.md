@@ -145,7 +145,7 @@
 - **Konflikte** mit **BGO & SC-Leiter** (UNSURE ASK BIG-BOSS 😕)
     - Wer ruft Kunden an der nicht Nett ist etc. 💀
     - Abschieben von Sachen auf Hersteller & Sc-Leiter ==> **und Umgekehrt!**  💀
-    - **WHO THE FUCK IS THE DESCION MAKER 💀:x:💀**
+    - **WHO THE FUCK IS THE DESCION MAKER 💀❌💀**
 
 ## Weird Notes
 - $HERSTELLER
