@@ -108,7 +108,14 @@
 - Touren markieren -> **Auslieferliste** -> Saved as .csv on Remote [Profi-Tour-Server] -> Copy to [Local] and open in Excel
 - Apply Excel ✨ **Magic-Makros** ✨ [Strg+Umschalt+A "For Austria + D for "Germany"] -> **[HARDCODED IN MAKRO]**
 - Save as **.xlsx** => **(Will delete Makros)**
-- Naming_Scheme: ALL_$ORT[WIEN,LINZ,GRAZ,etc]_[KW$$].xlsx 
+- Naming_Scheme: ALL_$ORT[WIEN,LINZ,GRAZ,etc]_[KW$$].xlsx
+
+## Gebiete Erik
+- **[Voradelberg(Dornbirn) + DE(S-W) + FL + CH]**
+- **[Tirol(Innsbruck)]**
+- **[Kärnten(Klagenfurt)]**
+- **[Steiermark(Graz)]**
+- **[Deutschland(Gesamt]**
 
 ## Other Things I got told and are probably Useful:
 - Frozen Zone (Hali)
