@@ -47,11 +47,11 @@
     - **needs fixing !**
 
 - Fahrzeuge:
+    - Selten: **Sattel (Nicht Winkler)** => **~60m³** => **(2x WAP's pro Sattel)** (C-FS)
     - Jumbo_WAP (LKW) => **max. ~ 35m³ => NUR FÜR DIREKT** = PASST NICHT INS LAGER (C-FS)
     - WAP (LKW) **(Direkt | Lager_WAP) => 30m³ => EGAL** (C-FS)
     - 7,5t Fahrzeug => **max. ~ 15m³ & 1000kg** [LAGER-WAB] (C-FS)
     - 3,5t Fahrzeug => **max. ~ 600kg** [LAGER-WAB] (B-FS)
-    - Selten: Sattel (Nicht Winkler) - Quenhenberger, Transmato **(2x WAP's pro Sattel)**
 
 - Tipps für erstellen von Linien:
     - **TV immer für jeweilige KW__ erledigen** nachdem Untertouren fertiggestellt sind!
