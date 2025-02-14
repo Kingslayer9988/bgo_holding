@@ -18,7 +18,7 @@
 
 ## Tipps im Bearbeitungsfenster: [Nach der Auswahl der gewünschten bzw. zugeteilten Arbeitsbereiche bsp. Wien, Linz etc.]
 - 🟢 = **Kunde wurde bereits Avisiert** || 🔴 => **Kunde hat altes Aviso** => **Neu senden** oder **FORCE_GREEN**
-- **FORCE_GREEN_BUTTON** => $Kunden_avis_bestätigen & $Aktualisieren => **Kein Avis versendet trotzdem 🟢**
+- **FORCE_GREEN_BUTTON** => Button: **Kunden_avis_bestätigen & Aktualisieren** => **Kein Avis versendet trotzdem 🟢**
 - **[DIR | STK | PST]** -> **Alle DIREKT**
 - **[Ausftragsnummer: 034]** -> **Internet bestellung -> DIREKT**
 - Rechtsklick auf Datenbank-Row => **Transportauftrag** => Für Planung und **Calculation-Script**
