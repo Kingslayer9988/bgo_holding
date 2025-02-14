@@ -83,8 +83,8 @@
       - **❌ Nicht gewünscht** -> Suboptimal -> **Außnahme Voradelberg** (BIG-BOSS am 13.02.2025)
     
     - **LKW gewünscht:**
-        - Bei Touren muss beachtet werden das es manchmal teurer ist umzuladen!
-        - Heißt manchmal ist es billger mit LKW direkt zum Kunden zu fahren
+        - Manchmal ist es **teurer umzuladen** in **3,5t bzw 7,5t Fahrzeug**
+        - In diesen Fällen mit LKW zu **kleinem Kunden zu fahren!**
 
 - **Voradelberg ist anders:**
     - **Untertouren werden von ULGB zusammengestellt** nach einer Liste von uns!
@@ -135,13 +135,15 @@
 - **[Deutschland(Gesamt)]**
 
 ## Other Things I got told and are probably Useful:
-- Frozen Zone (Hali)
-    - Ab Folge_KW der Abgabewoche !
-    - Aufträge können von Hersteller_H nicht mehr bearbeitet werden.
-    - BGO kann noch Schieben aber **nur nach hinten (später)** - Nur bei **[Checkmark-Eingelastet]**
-- Trennwände: (Speical_Montage_Workers)
+- **❄️ Frozen Zone (Hali)❄️**
+    - Ab **Folge_KW** der **Abgabewoche** !
+    - Aufträge können von **Hersteller_H NICHT mehr bearbeitet werden.**
+    - BGO kann noch Schieben aber **nur nach hinten (später)** - Nur bei **[Checkmark-Eingelastet]** ☑️
+
+- Trennwände: **(Speical_Montage_Workers)**
     - Montage => pro 1 Laufmeter = 3h
     - Demontage => pro 1 Laufmeter = 1,5h
+  
 - **Konflikte** mit **BGO & SC-Leiter** (UNSURE ASK BIG-BOSS 😕)
     - Wer ruft Kunden an der nicht Nett ist etc. 💀
     - Abschieben von Sachen auf Hersteller & Sc-Leiter ==> **und Umgekehrt!**  💀
