@@ -5,8 +5,11 @@
 ## Number Three ⚖️ LAW => Dont even try SPECIAL_LETTERS(§$%_-) in Profitour ✅
 
 ## Tipps für Excel-Listen: [Excel_Listen_Immer_pro_KW$$]
-- Werden LIVE am Onedrive Ordner bearbeitet 💀
-- SC-Leiter & BGO = R,W,D-Rights 💀
+- Werden **LIVE am Onedrive Ordner bearbeitet** 💀
+- SC-Leiter & BGO = **R,W,D-Rights** 💀
+- Lösung für mich => **Local_Excel_File mit Extra Infos und Calculations für Lademenge etc**
+- **Force Sync** => **SC_Leiter_Excel_File + Removal of extra Infos**
+- Extras: **Automatic Numbering of _KW$** || **Auto Calc of WAP_Weights inkl. Untertouren** || **Auto Coloring for DIREKT Touren** ||**Auto Copy of WAP's (Letzte Zeilen)**
 
 - **Hinterlegen mit Farbe** == DIREKT_BAUSTELLE == **Kein LAGER-WAB** -> **WAB direkt auf Baustelle!**
 - Aufpassen auf richtiges Kopieren in untere Zeilen:
