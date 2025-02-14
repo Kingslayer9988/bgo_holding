@@ -44,7 +44,8 @@
     - Für **Transportbestellung** (Winkler, etc) => Abfrage von **[Touren]**
 
 - Fahrzeuge are completely messed up for some areas:
-    - **needs fixing !**
+    - **needs fixing !** => Absprache mit SC-Leitern
+    - _Note: Isabel macht **extra Arbeit** => Eintragen von **3,5t | 7,5t** => Weil SC-Leiter Fahrzeuge nicht Ändern will (UNSURE ASK BIG-BOSS 😕)_
 
 - Fahrzeuge:
     - Selten: **Sattel (Nicht Winkler)** => **~60m³** => **(2x WAP's pro Sattel)** (C-FS)
@@ -123,8 +124,8 @@
 - Filter -> **[Touren / Auflade Zeit]** -> **KW Mo - Sa, auswählen**
 - Schnittstelle -> Excel -> safe as .xlxs Name: **Transportbestellunhg_KW__**
 - Alle Gebiete kontrollieren (2 unteren Spalten in Excel zählen) => **Direkt&Lager-WAP's**
-- Ladereihenfolge checken => oft 35/36/35
-- m³ mit Fahrzeugen abglichen bei => Bsp.: 40m³ => 2 LKW's
+- **Ladereihenfolge checken** => oft **35/36/35** => Delete **35**
+- **m³ mit Fahrzeugen abglichen** bei => **Bsp.: 40m³ => 2 LKW's**
 
 ## Gebiete Erik
 - **[Voradelberg(Dornbirn) + DE(S-W) + FL + CH]** | **Kein Küchenmonteur** :o:
@@ -141,6 +142,10 @@
 - Trennwände: (Speical_Montage_Workers)
     - Montage => pro 1 Laufmeter = 3h
     - Demontage => pro 1 Laufmeter = 1,5h
+- **Konflikte** mit **BGO & SC-Leiter** (UNSURE ASK BIG-BOSS 😕)
+    - Wer ruft Kunden an der nicht Nett ist etc. 💀
+    - Abschieben von Sachen auf Hersteller & Sc-Leiter ==> **und Umgekehrt!**  💀
+    - **WHO THE FUCK IS THE DESCION MAKER 💀:x:💀**
 
 ## Weird Notes
 - $HERSTELLER
