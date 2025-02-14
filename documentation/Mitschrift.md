@@ -86,15 +86,15 @@
         - Manchmal ist es **teurer umzuladen** in **3,5t bzw 7,5t Fahrzeug**
         - In diesen Fällen mit LKW zu **kleinem Kunden zu fahren!**
 
-- **Voradelberg ist anders:**
-    - **Untertouren werden von ULGB zusammengestellt** nach einer Liste von uns!
-    - Filter in Datenbank nach **[Dornbirn + FL + CH + DE]**
-    - Datenbank Ansicht auf **[Isabel-Voradelberg]**
-    - Export als Excel file (csv)
-    - Autosumme pro WAB erstellen für **[Gewicht und m³]**
-    - Text: **Anlieferung am $Datum zum Lager oder Direkt zum Kunden (Siehe Excel file oder Profitour)**
-    - **Jumbo-WAP vermerken**
-    - Als **E-Mail an Oliver** senden - er sendet die Touren zurück!
+    - **Voradelberg ist anders** => **Untertouren werden von ULGB (Oliver) Zusammengestellt**
+        - **Untertouren werden von ULGB zusammengestellt** nach einer Liste von uns!
+        - Filter in Datenbank nach **[Dornbirn + FL + CH + DE]**
+        - Datenbank Ansicht auf **[Isabel-Voradelberg]**
+        - Export als Excel file (csv)
+        - Autosumme pro WAB erstellen für **[Gewicht und m³]**
+        - Text: **Anlieferung am $Datum zum Lager oder Direkt zum Kunden (Siehe Excel file oder Profitour)**
+        - **Jumbo-WAP vermerken**
+        - Als **E-Mail an Oliver** senden - er sendet die Touren zurück!
 
 ## Frachtbriefe (Bestehen aus 2-PDF's):
 - **Auswahl der Tour im Oberen Fenster** -> Frachtbrief -> Print as PDF -> Naming_Scheme: **[TT]_TOURNUMMER**
