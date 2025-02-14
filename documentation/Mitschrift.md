@@ -53,7 +53,9 @@
     - Selten: Sattel (Nicht Winkler) - Quenhenberger, Transmato **(2x WAP's pro Sattel)**
 
 - Tipps für erstellen von Linien:
-    - LKW gewünscht - Komische Mitschrift (UNSURE ASK ISABEL 😕)
+    - **TV immer für jeweilige KW__ erledigen** nachdem Untertouren fertiggestellt sind!
+    
+    - LKW gewünscht:
         - Bei Touren muss beachtet werden das es manchmal teurer ist umzuladen!
         - Heißt manchmal ist es billger mit LKW direkt zum Kunden zu fahren!
   
@@ -64,22 +66,23 @@
         - Nochmal mit Isabel durchgehen [Platz] macht irgendwie keinen Sinn (DIREKT?) (UNSURE ASK ISABEL 😕)
         - **Verlade-Reihenfolge = 99 ==> EGAL**
         - LKW
-  - Naming-Scheme:
-      - DIREKT                              => PST, DIR, N:04                                       => **DIREKT ORT1 - ORT2 - WOCHENTAG(TT)**
-      - _____(Leer)                         => Direkt-LKW auf Baustelle                             => **___ORT1 - ORT2 - WOCHENTAG(TT)**
-      - SC WAP für [LKW | 7,5t | 3,5t]      => Items werden umgeladen in LKW oder 3,5t oder 7,5t    => **SC WAP SC_ORT - WOCHENTAG(TT)**
+    
+    - Naming-Scheme:
+        - DIREKT                              => PST, DIR, N:04                                       => **DIREKT ORT1 - ORT2 - WOCHENTAG(TT)**
+        - _____(Leer)                         => Direkt-LKW auf Baustelle                             => **___ORT1 - ORT2 - WOCHENTAG(TT)**
+        - SC WAP für [LKW | 7,5t | 3,5t]      => Items werden umgeladen in LKW oder 3,5t oder 7,5t    => **SC WAP SC_ORT - WOCHENTAG(TT)**
 
-  - Bei knappen/komischen Touren => Plant SC-Leiter bzw. Absprache mit SC-Leiter (UNSURE ASK BIG-BOSS 😕)
+    - Bei knappen/komischen Touren => Plant SC-Leiter bzw. Absprache mit SC-Leiter (UNSURE ASK BIG-BOSS 😕)
 
-  - **Voradelberg ist anders**
-      - **Untertouren werden von ULGB zusammengestellt** nach einer Liste von uns!
-      - Filter in Datenbank nach **[Dornbirn + FL + CH + DE]**
-      - Datenbank Ansicht auf Isabel-Voradelberg
-      - Export als Excel file (csv)
-      - Autosumme pro WAB erstellen für Gewicht und m³
-      - Text: **Anlieferung am $Datum zum Lager oder Direkt zum Kunden (Siehe Excel file oder Profitour)**
-      - **Jumbo-WAP vermerken**
-      - Als **E-Mail an Oliver** senden - er sendet die Touren zurück!
+- **Voradelberg ist anders**
+    - **Untertouren werden von ULGB zusammengestellt** nach einer Liste von uns!
+    - Filter in Datenbank nach **[Dornbirn + FL + CH + DE]**
+    - Datenbank Ansicht auf Isabel-Voradelberg
+    - Export als Excel file (csv)
+    - Autosumme pro WAB erstellen für Gewicht und m³
+    - Text: **Anlieferung am $Datum zum Lager oder Direkt zum Kunden (Siehe Excel file oder Profitour)**
+    - **Jumbo-WAP vermerken**
+    - Als **E-Mail an Oliver** senden - er sendet die Touren zurück!
 
 ## Frachtbriefe (Bestehen aus 2-PDF's):
 - **Auswahl der Tour im Oberen Fenster** -> Frachtbrief -> Print as PDF -> Naming_Scheme: **[TT]_TOURNUMMER**
