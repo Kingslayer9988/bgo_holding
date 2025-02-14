@@ -36,6 +36,7 @@
         - **Datum** kann sich aufgrund von Tagesarbeitszeit oder falschen $BUILD_TIMES from $HERSTELLER auf nächsten Tag rutschen!
         - Fehler passieren hier leicht und **keine Software-Kontrolle** für Fehler wie diese!
         - _NOTE: Probably a big reason that "AI" is not already taking Disponenten-Jobs (needs a sick Algorithm 😄)_
+        - _NOTE: Bad for me but Probably good for Big_Boss => Local Deepseek with Live Training here 👀👀_
 
 - **Datenbank Stuff:**
     - Import von Hersteller_H => Immer 06:30 & 14:00 Mo-Fr (Import von Hersteller_B und Hersteller_N sind auto.)
