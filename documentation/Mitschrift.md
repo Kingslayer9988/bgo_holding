@@ -13,7 +13,7 @@
 
 - Bei Baustellen mit **Nächtigung** -> Nächtigung in Excel Liste eintragen (Bis zum Endtag)
 - Bei Baustellen mit **Trennwänden** -> Trennwand vermerken = Special Montage Workers
-- Bei Baustellen mit **Küchen** -> L&M Küchenmontage => **Einige Sachen??** (UNSURE ASK ISABEL 😕)
+- Bei Baustellen mit **Küchen** -> L&M Küchenmontage
 
 ## Tipps im Bearbeitungsfenster: [Nach der Auswahl der gewünschten bzw. zugeteilten Arbeitsbereiche bsp. Wien, Linz etc.]
 - 🟢 = Kunde wurde bereits Avisiert.
@@ -42,8 +42,8 @@
     - Für **Anvisieren** und erstellen von Touren => Abfrage von **[Lieferwoche]**
     - Für **Transportbestellung** (Winkler, etc) => Abfrage von **[Touren]**
 
-- Fahrzeuge are completely messed up for some areas - Needs fixing but probably low priority! (UNSURE ASK BIG-BOSS 😕)
-    - needs fixing !
+- Fahrzeuge are completely messed up for some areas:
+    - **needs fixing !**
 
 - Fahrzeuge:
     - Jumbo_WAP (LKW) => **max. ~ 35m³ => NUR FÜR DIREKT** = PASST NICHT INS LAGER (C-FS)
@@ -54,11 +54,7 @@
 
 - Tipps für erstellen von Linien:
     - **TV immer für jeweilige KW__ erledigen** nachdem Untertouren fertiggestellt sind!
-    
-    - LKW gewünscht:
-        - Bei Touren muss beachtet werden das es manchmal teurer ist umzuladen!
-        - Heißt manchmal ist es billger mit LKW direkt zum Kunden zu fahren!
-  
+
     - 2 Arten von Lager-WAB's **(Immer ins Kommentarfeld des WAB's)**
         - [Rampe] bei Umladen in 7,5t bzw. 3,5t Fahrzeugen beim Lager **(eher = Bei vielen Kleinkunden)**
         - [Platz] Wenn mit LKW zu von Kunde zu Kunde gefahren wird **(eher = Bei wenig Großkunden)**
@@ -72,14 +68,19 @@
         - _____(Leer)                         => Direkt-LKW auf Baustelle                             => **___ORT1 - ORT2 - WOCHENTAG(TT)**
         - SC WAP für [LKW | 7,5t | 3,5t]      => Items werden umgeladen in LKW oder 3,5t oder 7,5t    => **SC WAP SC_ORT - WOCHENTAG(TT)**
 
-    - Bei knappen/komischen Touren => Plant SC-Leiter bzw. Absprache mit SC-Leiter (UNSURE ASK BIG-BOSS 😕)
+    - Bei knappen/komischen Touren => Plant SC-Leiter bzw. Absprache mit SC-Leiter
+      - Nicht gewünscht -> Eigentlich Suboptimal -> Außnahme Voradelberg
+    
+    - LKW gewünscht:
+        - Bei Touren muss beachtet werden das es manchmal teurer ist umzuladen!
+        - Heißt manchmal ist es billger mit LKW direkt zum Kunden zu fahren
 
 - **Voradelberg ist anders**
     - **Untertouren werden von ULGB zusammengestellt** nach einer Liste von uns!
     - Filter in Datenbank nach **[Dornbirn + FL + CH + DE]**
-    - Datenbank Ansicht auf Isabel-Voradelberg
+    - Datenbank Ansicht auf **[Isabel-Voradelberg]**
     - Export als Excel file (csv)
-    - Autosumme pro WAB erstellen für Gewicht und m³
+    - Autosumme pro WAB erstellen für **[Gewicht und m³]**
     - Text: **Anlieferung am $Datum zum Lager oder Direkt zum Kunden (Siehe Excel file oder Profitour)**
     - **Jumbo-WAP vermerken**
     - Als **E-Mail an Oliver** senden - er sendet die Touren zurück!
