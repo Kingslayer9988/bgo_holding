@@ -10,8 +10,8 @@
 
 - **Hinterlegen mit Farbe** == DIREKT_BAUSTELLE == **Kein LAGER-WAB** -> **WAB direkt auf Baustelle!**
 - Aufpassen auf richtiges Kopieren in untere Zeilen:
-  - Vorletzte == DIREKT WAB'S
-  - Letzte == LAGER WAB'S
+  - **Vorletzte == DIREKT WAB'S**
+  - **Letzte == LAGER WAB'S**
 
 - Bei Baustellen mit **Nächtigung** -> Nächtigung in Excel Liste eintragen **(Bis & nicht inkulsive Endtag)**
 - Bei Baustellen mit **Trennwänden** -> Trennwand vermerken = **Special Montage Workers**
@@ -24,12 +24,15 @@
 - **[Ausftragsnummer: 034]** -> **Internet bestellung -> DIREKT**
 - Rechtsklick auf Datenbank-Row => **Transportauftrag** => Für Planung und **Calculation-Script**
 
-- **Vor-Avisieren** _(NOTE: Gesamter Prozess könnte easy automatisiert werden)_
+- **Vor-Avisieren**
     - Gleich wie Avisieren nur im Vorfeld -> **Nicht Offizielles Aviso verwenden!**
-    - Daten & Mail aus Profitour "Aviso-Pdf" ziehen und Mail erfassen!
+    - Daten & Mail aus Profitour **"Aviso-Pdf"** ziehen und Mail erfassen!
     - Wichtige Daten: **Kunde, KW, Auftragsnummer**
     - Mail-Wichtigkeit auf "High"
-    - **Transportauftrag in der Mail anhängen!**
+    - **Transportauftrag muss nicht in der Mail anhängt werden**
+    - _(NOTE1: Gesamter Prozess könnte **easy automatisiert werden**) 
+    - _(NOTE2: Prozess wird **Lokal automatisiert** => **Nicht in Profitour** => **Native Script**)_
+    - _(NOTE3: Laut Isabel nicht erwünscht => trotzdem Fragen zu **Persöhnlicher Verwendung!**) (UNSURE ASK BIG-BOSS 😕)_
 
 - **Avisieren:**
     - **Alles 2x kontrollieren**
