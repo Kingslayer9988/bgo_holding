@@ -60,7 +60,7 @@
     - _Note: Isabel macht **extra Arbeit** => Eintragen von **3,5t | 7,5t** => Weil SC-Leiter Fahrzeuge nicht Ändern will (UNSURE ASK BIG-BOSS 😕)_
 
 - **Fahrzeuge:**
-    - Selten: **Sattel (Nicht Winkler)** => **~60m³** => **(2x WAP's pro Sattel)** (C-FS)
+    - Selten: **Sattel (Nicht Winkler)** => **~60m³** => **(2x WAP's pro Sattel)** (C-FS) [Quehenberger]
     - Jumbo_WAP (LKW) => **max. ~ 35m³ => NUR FÜR DIREKT** = PASST NICHT INS LAGER (C-FS)
     - WAP (LKW) **(Direkt | Lager_WAP) => 30m³ => EGAL** (C-FS)
     - 7,5t Fahrzeug => **max. ~ 15m³ & 1000kg** [LAGER-WAB] (C-FS)
