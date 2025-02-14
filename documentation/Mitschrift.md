@@ -32,7 +32,7 @@
 
 - **Avisieren:**
     - **Alles 2x kontrollieren**
-    - Datum bei Touren & **Ladereihenfolge der WAB's 3x kontrollieren**
+    - **Datum bei Touren** & **Ladereihenfolge der WAB's 3x kontrollieren**
         - **Datum** kann sich aufgrund von Tagesarbeitszeit oder falschen $BUILD_TIMES from $HERSTELLER auf nächsten Tag rutschen!
         - Fehler passieren hier leicht und **keine Software-Kontrolle** für Fehler wie diese!
         - _NOTE: Probably a big reason that "AI" is not already taking Disponenten-Jobs (needs a sick Algorithm 😄)_
@@ -79,8 +79,8 @@
         - **_____(Leer)** => Direkt-LKW auf Baustelle => **___ORT1 - ORT2 - WOCHENTAG(TT)**
         - **SC WAP für [LKW | 7,5t | 3,5t]** => Items werden umgeladen in LKW oder 3,5t oder 7,5t => **SC WAP SC_ORT - WOCHENTAG(TT)**
 
-    - Bei knappen/komischen Touren => Plant SC-Leiter bzw. Absprache mit SC-Leiter
-      - Nicht gewünscht -> Eigentlich Suboptimal -> Außnahme Voradelberg
+    - **Bei knappen/komischen Touren** => **Plant SC-Leiter** bzw. **Absprache mit SC-Leiter**
+      - **❌ Nicht gewünscht** -> Suboptimal -> **Außnahme Voradelberg** (BIG-BOSS am 13.02.2025)
     
     - **LKW gewünscht:**
         - Bei Touren muss beachtet werden das es manchmal teurer ist umzuladen!
