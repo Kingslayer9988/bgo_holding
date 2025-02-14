@@ -151,4 +151,4 @@
 - $HERSTELLER
     - NOS -  🟢 - Hersteller_N -> 🔵 Schrift
     - H**I - 🔵 - Hersteller_H -> 🟢 Schrift
-    - B**E - 🔴 - Hersteller_B -> Schwarze Schrift
+    - B**E - 🔴 - Hersteller_B -> :black_circle: Schrift
