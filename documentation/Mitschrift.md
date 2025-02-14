@@ -94,7 +94,7 @@
         - Autosumme pro WAB erstellen für **[Gewicht und m³]**
         - Text: **Anlieferung am $Datum zum Lager oder Direkt zum Kunden (Siehe Excel file oder Profitour)**
         - **Jumbo-WAP vermerken**
-        - Als **E-Mail an Oliver** senden - er sendet die Touren zurück!
+        - Als **E-Mail an Oliver** senden - er sendet die **Untertouren** zurück!
 
     - **TV immer für jeweilige KW__ erledigen** nachdem Untertouren fertiggestellt sind!
         - Filter nach **Auftragsnummer (Steht auf TV)**
