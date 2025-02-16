@@ -48,7 +48,8 @@
 ## Tipps im Bearbeitungsfenster: [Nach der Auswahl der gewünschten bzw. zugeteilten Arbeitsbereiche bsp. Wien, Linz etc.]
 - 🟢 = **Kunde wurde bereits Avisiert** || 🔴 => **Kunde hat altes Aviso** => **Neu senden** oder **FORCE_GREEN**
 - **FORCE_GREEN_BUTTON** => Button: **Kunden_avis_bestätigen & Aktualisieren** => **Kein Avis versendet trotzdem 🟢**
-- **[DIR | STK | PST]** -> **Alle DIREKT**
+- **[DIR | STK | PST]** => **Alle DIREKT** => **Kein LAGER-WAB**
+- **[ABH]** => Selbstabhholung der Ware durch Kunden **(Er hat Fahrzeug/LKW)**
 - **[Ausftragsnummer: 034]** -> **Internet bestellung -> DIREKT**
 - Rechtsklick auf Datenbank-Row => **Transportauftrag** => Für **Zeit-Planung bzw. Calculation-Script**
 - Bei "Plant SC-Leiter Touren" die Anzahl der Kunden dazuschreiben => Bsp-Name: **Plant_SC_Leiter_6_Kunden**
