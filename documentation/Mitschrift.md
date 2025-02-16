@@ -74,8 +74,7 @@
         - Container ist **NOTWENDIG** für **Lager-WAB's** && **Direkt_Baustelle** => Bsp. **Winkler_Egal|Normal|Jumbo**
             - **NORMAL** = Bei LagerWAB's (Umladen)
             - **EGAL** = Bei Direkt_Baustelle (Kein Umladen)
-            - **JUMBO** = Bei über 35m³ (KEIN UMLADEN MÖGLICH)
-            - _(UNSURE ASK ISABEL 😕)_ - Mir kommt hier etwas Spanisch vor!! (SPÄTER AM WORK-PC NACHSEHEN!)
+            - **JUMBO** = Bei über 35m³ => **Immer_Direkt** (KEIN UMLADEN MÖGLICH)
             - **Extra:** **Sattel** = 60m³ => **KEINEN CONTAINER AUF TOUR ZIEHEN!**
     
     - **Richtiges Fahrezug auf Touren ziehen!**
