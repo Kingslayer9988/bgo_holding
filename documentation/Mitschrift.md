@@ -328,6 +328,9 @@
 - Trennwände: **(Speical_Montage_Workers)**
     - Montage => pro 1 Laufmeter = 3h
     - Demontage => pro 1 Laufmeter = 1,5h
+
+- Microsoft Teams
+    - Aufpassen beim **Download von PDF's** => Downloaded gerne altes File! => **Teams is great Software**
   
 - **Konflikte** mit **BGO & SC-Leiter** (UNSURE ASK BIG-BOSS 😕)
     - Wer ruft Kunden bei welchen Problem an ? 💀
