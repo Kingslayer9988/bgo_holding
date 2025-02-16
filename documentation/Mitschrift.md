@@ -62,7 +62,7 @@
     - Mail-Wichtigkeit auf "High"
     - **Transportauftrag muss nicht in der Mail anhängt werden**
     - _(NOTE1: Gesamter Prozess könnte **easy automatisiert werden**)_
-    - _(NOTE2: Prozess wird **Lokal automatisiert** => **Nicht in Profitour** => **Native Script**)_
+    - _(NOTE2: Prozess wird **Lokal automatisiert** => **Keine Anbindung an Profitour** => **Native Script**)_
     - _(NOTE3: Laut Isabel nicht erwünscht => trotzdem Fragen zu **Persöhnlicher Verwendung!**) (UNSURE ASK BIG-BOSS 😕)_
 
 - **Avisieren:**
