@@ -127,9 +127,11 @@
         - **WAB-Nummern Vergabe** = Siehe **Nummern-Keis** auf **Ausdruck**
             - Aufpassen: Bei **Vorproduktionen** gibt es einen eigenen **Nummern-Kreis**
     
-    - **Transportauftragslisten:**
+    - **Transportauftragslisten:** NAME _(UNSURE ASK ISABEL 😕)_
         - Rechtsklick auf Auftrag (SQL-Datensatz) => **Transportauftrag** => Für **Zeit-Planung bzw. Calculation-Script**
-        - Sollte bei **jedem Auftrag** kontrolliert bzw. **nachgerrechnet** werden. => Für Kalkulation - **Skript zur Abhilfe** siehe README.md! 
+        - Sollte bei **jedem Auftrag** kontrolliert bzw. **nachgerrechnet** werden. => Für Kalkulation - **Skript zur Abhilfe** siehe README.md!
+        - Bei **kleinen Küchen** mit **SC-Leiter abklären** ob wir sie selbst machen können!
+        
     
     - **Naming-Scheme für Touren/WAB's:**
         - **DIREKT** => PST, DIR, N:043 => **DIREKT $ORT1 $ORT2 WOCHENTAG(TT)**
