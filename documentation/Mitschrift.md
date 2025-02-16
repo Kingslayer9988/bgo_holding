@@ -1,11 +1,7 @@
-# PROFI TOUR MITSCHRIFT 03.02.2025 - 14.02.2025
-
-## Number One ⚖️ LAW => Don't mess with Profi-Tour-Profile from Isabel ✅
-## Number Two ⚖️ LAW => Bei jeder Änderung -> Export für Hersteller ✅
-## Number Three ⚖️ LAW => Dont even try SPECIAL_LETTERS(§$%_-) in Profitour ✅
-
+# BGO Mitschrift 03.02.2025 - 14.02.2025
 
 ## Chronologischer Ablauf (Will Still have Mistakes - Aktuell für $Hersteller_H)
+
 - **Montag:** 
     - Frachtbrief & Tourenplan für SC-Leiter _(Siehe Punkt 420)_
 - **Dienstag:**
@@ -22,117 +18,113 @@
         - **Alle neuen Aufträge** wieder verplanen für **$Aktuelle_KW & $Folge_KW_1 & $Folge_KW_2**
         - Außnahme **Freitags 14:00: Nur DIREKT/POST** Lieferungen verplanen **(Runde der Mitarbeiter)** 
 
-## Tipps für Excel-Listen: [Excel_Listen_Immer_pro_KW$$]
-- Werden **LIVE am Onedrive Ordner bearbeitet** 💀
-- SC-Leiter & BGO = **R,W,D-Rights** 💀
-- Lösung für mich => **Local_Excel_File mit Extra Infos und Calculations für Lademenge etc**
-- **Force Sync** => **SC_Leiter_Excel_File + Removal of extra Infos**
-- Extras: **(WIP)**
-  - **💡 Automatic Numbering of _KW$**
-  - **💡 Auto Calc of WAP_Weights inkl. Untertouren** 
-  - **💡 Auto Coloring for DIREKT Touren**
-  - **💡 Auto Copy of WAP's (Letzte Zeilen)**
+# Profi-Tour for absolute Dummys
 
-- **Hinterlegen mit Farbe** == DIREKT_BAUSTELLE == **Kein LAGER-WAB** -> **WAB direkt auf Baustelle!**
+### Number One ⚖️ LAW => Don't mess with Profi-Tour-Profile from Isabel ✅
+### Number Two ⚖️ LAW => Bei jeder Änderung -> Export für Hersteller ✅
+### Number Three ⚖️ LAW => Dont even try SPECIAL_LETTERS(§$%_-) in Profitour ✅
+### Number Four ⚖️ LAW => Dont open to many Instances because you will double Import ✅
 
-- Aufpassen auf richtiges Kopieren in untere Zeilen:
-  - **Vorletzte == DIREKT WAB'S**
-  - **Letzte == LAGER WAB'S**
-
-- Bei "Plant SC-Leiter Touren" die Anzahl der Kunden dazuschreiben => Bsp-Name: **Plant_SC_Leiter_6_Kunden**
-- Bei Baustellen mit **Nächtigung** -> Nächtigung in Excel Liste eintragen **(Bis & nicht inkulsive Endtag)**
-- Bei Baustellen mit **Trennwänden** -> Trennwand vermerken = **Special Montage Workers**
-- Bei Baustellen mit **Küchen** -> **L&M Küchenmontage** oder **nach Gebiet haben Special Montage Workers**
-
-## => Nach der Auswahl der gewünschten bzw. zugeteilten Arbeitsbereiche bsp. Wien, Linz etc.]
-
-## Tipps im Bearbeitungs-Fenster: 
-- 🟢 = **Kunde wurde bereits Avisiert** || 🔴 => **Kunde hat altes Aviso** => **Neu senden** oder **FORCE_GREEN**
-- **FORCE_GREEN_BUTTON** => Button: **Kunden_avis_bestätigen & Aktualisieren** => **Kein Avis versendet trotzdem 🟢**
-- **[DIR | STK | PST]** => **Alle DIREKT** => **Kein LAGER-WAB**
-- **[ABH]** => Selbstabhholung der Ware durch Kunden **(Er hat Fahrzeug/LKW)**
-- **[Ausftragsnummer: 034]** -> **Internet bestellung -> DIREKT**
-- Rechtsklick auf Datenbank-Row => **Transportauftrag** => Für **Zeit-Planung bzw. Calculation-Script**
-- Bei "Plant SC-Leiter Touren" die Anzahl der Kunden dazuschreiben => Bsp-Name: **Plant_SC_Leiter_6_Kunden**
+## Profi Tour besteht aus 2-Teilen bzw. Ansichten
 
 
-## Tipps im Touren-Fenster:
-- Kommentar_Felder von Seite **BGO** **Im Touren-Fenster**:
-    - **Bemerkung Montage** ==> Infos für **Montage Arbeiter** => **Bsp.: (kleine Änderungen | Hinweise | Adresseänderung/Zufahrt)**
-        - Bei **Adress-Änderungen/Fehler** => **Mail an Hersteller** um weitere Fehler zu vermeiden!
-        - Falls **Plant-SC-Leiter-Tour** => SC-Leiter anrufen!
-    - **Bemerkung Transport** => Infos für die Spedition => **Bsp.: (Ladereihenfolge, Sonderliche-Ladegüter, Zoll)**
-    - **Bemerkung Versand** => Infos für den **$Hersteller** => **Bsp.: (???)** _(UNSURE ASK ISABEL 😕)_
-
-## Tipps im Unbearbeitet-Fenster:
-
-- **Vor-Avisieren**
-    - Gleich wie Avisieren nur im Vorfeld -> **Nicht Offizielles Aviso verwenden!**
-    - Daten & Mail aus Profitour **"Aviso-Pdf"** ziehen und Mail erfassen!
-    - Wichtige Daten: **Kunde, KW, Auftragsnummer**
-    - Mail-Wichtigkeit auf "High"
-    - **Transportauftrag muss nicht in der Mail anhängt werden**
-    - _(NOTE1: Gesamter Prozess könnte **easy automatisiert werden**)_
-    - _(NOTE2: Prozess wird **Lokal automatisiert** => **Keine Anbindung an Profitour** => **Native Script**)_
-    - _(NOTE3: Laut Isabel nicht erwünscht => trotzdem Fragen zu **Persöhnlicher Verwendung!**) (UNSURE ASK BIG-BOSS 😕)_
-
-- **Avisieren:**
-    - **Alles 2x kontrollieren**
-    - **Datum bei Touren** & **Ladereihenfolge WAB's 3x kontrollieren**
-        - **Datum** kann sich aufgrund von Tagesarbeitszeit oder falschen $BUILD_TIMES from $HERSTELLER auf nächsten Tag rutschen!
-        - **Fehler passieren hier leicht** und **keine Software-Kontrolle** für Fehler wie diese!
-        - _NOTE: Probably a big reason that "AI" is not already taking Disponenten-Jobs (needs a sick Algorithm 😄)_
-        - _NOTE: Bad for me but Probably good for Big_Boss => **Local Deepseek with Live Training here 👀👀**_
-
-- **Datenbank Stuff:**
-    - Import von Hersteller_H => Immer 06:30 & 14:00 Mo-Fr (Import von Hersteller_B und Hersteller_N sind auto.)
+### Ansicht_1 = Datenbank_Ansicht
+- Direkt nach dem **Start des Programms** sichtbar!
+- Import und **Auswahl der Gebiete** findet hier statt! **(Bsp.: Wien, Linz, Steiermark, etc.)**
+- Import von **Hersteller_H** => Immer 06:30 & 14:00 Mo-Fr (Import von Hersteller_B und Hersteller_N sind anders)
+- Tipps:
     - Für **Auslieferlisten**  => Abfrage von **[Prod & Lieferwoche] - [Mo. - Sa.] der gewünschten [KW]** auswählen!
     - Für **Anvisieren** und erstellen von Touren => Abfrage von **[Lieferwoche]**
     - Für **Transportbestellung** (Winkler, etc) => Abfrage von **[Touren]**
 
+
+
+### Nach der Auswahl der richtigen Datenbank-Einträge (Zeilen) => Klicke: "Übernahme in Planung"
+
+
+
+### Ansicht_2 = Planungs_Ansicht
+- Nach **Übernahme in Planung sichtbar**
+- Besteht aus **3 Fenstern**
+
+
+## Fenster_1 => TOP => **Touren-Fenster**
+
+- Hier findest du deine **Zusammengestellten Touren** (Lager-WAB's, Untertouren, Post-Tour)
+
+- Der Inhalt dieses Fensters wird **Exportiert zum Hersteller** (Produktions_Abgabe)
+
+- **Tipps:**
+    - Rechtsklick auf Tour (Datenbank-Row) => **Transportauftrag** => Für **Zeit-Planung bzw. Calculation-Script**
+    - Bei "Plant SC-Leiter Touren" die Anzahl der Kunden dazuschreiben => Bsp-Name: **Plant_SC_Leiter_6_Kunden**
+    - Kommentar_Felder:
+        - **Bemerkung Montage** ==> Infos für **Montage Arbeiter** => **Bsp.: (kleine Änderungen | Hinweise | Adresseänderung/Zufahrt)**
+            - Bei **Adress-Änderungen/Fehler** => **Mail an Hersteller** um weitere Fehler zu vermeiden!
+            - Falls **Plant-SC-Leiter-Tour** => SC-Leiter anrufen!
+        
+        - **Bemerkung Transport** => Infos für die Spedition => **Bsp.: (Ladereihenfolge, Sonderliche-Ladegüter, Zoll)**
+        
+        - **Bemerkung Versand** => Infos für den **$Hersteller** => **Bsp.: (???)** _(UNSURE ASK ISABEL 😕)_
+
 - **Fahrzeuge**
-    - Fahrzeuge müssen den **Touren richtig zugeordnet** werden:
+    - Fahrzeuge müssen den **Touren richtig zugeordnet** werden (Fahrzeuge sind **Links oben** im Vehice-Sub-Window)
     
-    - Fahrzeuge findest du Links oben ist das **Vehice_Window**
-        - Richtige Spedition auf Tour ziehen! 
-            - Spedition ist **NOTWENDIG** für **alle Touren** => Bsp. **Spedition_Winkler**
-        - Richtigen Container auf Touren ziehen!
-            - Container ist **NOTWENDIG** für **Lager-WAB's** && **Direkt_Baustelle** => Bsp. **Winkler_Egal|Normal|Jumbo**
-                - **Normal** = Bei LagerWAB's (Umladen)
-                - **Egal** = Bei Direkt_Baustelle (Kein Umladen)
-                - **Jumbo** = Bei über 35m³ (KEIN UMLADEN MÖGLICH)
-                - _(UNSURE ASK ISABEL 😕)_ - Mir kommt hier etwas Spanisch vor!! (SPÄTER AM WORK-PC NACHSEHEN!)
-                - **Extra:** **Sattel** = 60m³ => **KEINEN CONTAINER AUF TOUR ZIEHEN!**
-        - Richtiges Fahrezug auf Touren ziehen!
-            - 3,5t Fahrzeug für Touren <= 3,5t Tonnen Fahrzeuge
-            - 7,5t Fahrzeug für Touren <= 7,5t Tonnen Fahrzeuge
-            - $LKW_$SPED für Touren <= LKW Fahrzeuge
-            - Bei Touren wo Bsp. 7,5t und 3,5t Fahrzeuge eingesetzt werden => **7,5t Fahrzeug nehmen!!**
+    - Richtige Spedition auf Tour ziehen! 
+        - Spedition ist **NOTWENDIG** für **alle Touren** => Bsp. **Spedition_Winkler**
+        
+    - **Richtigen Container auf Touren ziehen!**
+        - Container ist **NOTWENDIG** für **Lager-WAB's** && **Direkt_Baustelle** => Bsp. **Winkler_Egal|Normal|Jumbo**
+            - **Normal** = Bei LagerWAB's (Umladen)
+            - **Egal** = Bei Direkt_Baustelle (Kein Umladen)
+            - **Jumbo** = Bei über 35m³ (KEIN UMLADEN MÖGLICH)
+            - _(UNSURE ASK ISABEL 😕)_ - Mir kommt hier etwas Spanisch vor!! (SPÄTER AM WORK-PC NACHSEHEN!)
+            - **Extra:** **Sattel** = 60m³ => **KEINEN CONTAINER AUF TOUR ZIEHEN!**
+    - **Richtiges Fahrezug auf Touren ziehen!**
+        - 3,5t Fahrzeug für Touren <= 3,5t Tonnen Fahrzeuge
+        - 7,5t Fahrzeug für Touren <= 7,5t Tonnen Fahrzeuge
+        - $LKW_$SPED für Touren <= LKW Fahrzeuge
+        - Bei Touren wo Bsp. 7,5t und 3,5t Fahrzeuge eingesetzt werden => **7,5t Fahrzeug nehmen!!**
 
-    - Fahrzeuge are completely messed up for some areas => **needs fixing !** => **Absprache mit SC-Leiter**
+    - **Fahrzeuge are completely messed up for some areas => needs fixing!** => **Absprache mit SC-Leiter**
         - _Note: Isabel macht **extra Arbeit** => Eintragen von **3,5t | 7,5t** => Weil SC-Leiter Fahrzeuge nicht Ändern will (UNSURE ASK BIG-BOSS 😕)_
+    
+    - **Fahrzeug_Tabelle:**
+        - Selten: **Sattel (Nicht Winkler)** => **~60m³** => **(2x WAP's pro Sattel)** (C-FS) [Quehenberger]
+        - Jumbo_WAP (LKW) => **max. ~ 35m³ => NUR FÜR DIREKT** = PASST NICHT INS LAGER (C-FS)
+        - WAP (LKW) **(Direkt | Lager_WAP) => 30m³ => EGAL** (C-FS)
+        - 7,5t Fahrzeug => **max. ~ 15m³ & 1000kg** [LAGER-WAB] (C-FS)
+        - 3,5t Fahrzeug => **max. ~ 600kg** [LAGER-WAB] (B-FS)
 
-- **Fahrzeug_Tabelle:**
-    - Selten: **Sattel (Nicht Winkler)** => **~60m³** => **(2x WAP's pro Sattel)** (C-FS) [Quehenberger]
-    - Jumbo_WAP (LKW) => **max. ~ 35m³ => NUR FÜR DIREKT** = PASST NICHT INS LAGER (C-FS)
-    - WAP (LKW) **(Direkt | Lager_WAP) => 30m³ => EGAL** (C-FS)
-    - 7,5t Fahrzeug => **max. ~ 15m³ & 1000kg** [LAGER-WAB] (C-FS)
-    - 3,5t Fahrzeug => **max. ~ 600kg** [LAGER-WAB] (B-FS)
+
+## Fenster_2 = MIDDLE = **Bearbeitungs-Fenster**
+- Hier findet die **Arbeit** statt => Hier werden die **Linien erstellt**!
+
+- 🟢 = **Kunde wurde bereits Avisiert** || 🔴 => **Kunde hat altes Aviso** => **Neu senden** oder **FORCE_GREEN**
+
+- **FORCE_GREEN_BUTTON** => Button: **Kunden_avis_bestätigen & Aktualisieren** => **Kein Avis versendet trotzdem 🟢**
 
 - **Tipps für erstellen von Linien:**
     
-    - **2 Arten von Lager-WAB's (Immer ins Kommentarfeld des WAB's):**
-        - [Rampe] bei Umladen in 7,5t bzw. 3,5t Fahrzeugen beim Lager **(eher = Bei vielen Kleinkunden)**
-            - **Niemals Jumbo LKW zur Rampe!** 
-        - [Platz] Wenn mit LKW zu von Kunde zu Kunde gefahren wird **(eher = Bei wenig Großkunden)**
+    - **2 Arten von WAP's** => (Eintragen in Kommentar-Feld des WAB's => **Bemerkung Transport**) _(UNSURE ASK ISABEL 😕)_
+        - [Rampe] (Lager-WAP) => bei Umladen in 7,5t bzw. 3,5t Fahrzeugen beim Lager **(eher = Bei vielen Kleinkunden)**
+            - **Niemals Jumbo LKW zur Rampe!**
+
+        - [Platz] (Direkt-WAP)  => Wenn mit LKW zu von Kunde zu Kunde gefahren wird **(eher = Bei wenig Großkunden)**
             - Aufpassen auf **Zufahrten etc.** oft ist es **nicht möglich** mit **LKW zur Baustelle** zu kommen!
+        
         - Wenn 1 WAP bereits Rampe nächster muss auf Platz **(max 1 Rampe pro Tag)**
+
         - **Verlade-Reihenfolge = 99 ==> EGAL**
     
     - **Naming-Scheme:**
-        - **DIREKT** => PST, DIR, N:04 => **DIREKT_$ORT1_$ORT2_WOCHENTAG(TT)**
-        - **_____(Leer)** => Direkt-LKW auf Baustelle => **LEER_$ORT1_$ORT2_WOCHENTAG(TT)**
-        - **SC WAP für [LKW | 7,5t | 3,5t] Touren** => Items werden umgeladen in LKW oder 3,5t oder 7,5t => **SC_WAP_$ORT1_für_$Vehicle1/2/3_Touren_WOCHENTAG(TT)**
+        - **DIREKT** => PST, DIR, N:04 => **DIREKT $ORT1 $ORT2 WOCHENTAG(TT)**
+        - **_____(Leer)** => Direkt-LKW auf Baustelle => **__LEER $ORT1 $ORT2 WOCHENTAG(TT)**
+        - **SC WAP für [LKW | 7,5t | 3,5t] Touren** => Items werden umgeladen in LKW oder 3,5t oder 7,5t => **SC WAP $ORT1 für $Vehicle1|2|3 Touren WOCHENTAG(TT)**
+        - Beispiele:
+            - Direkt_Post | Innsbruck - Landeck | DI ==> (Direkt/Postversand am Dienstag)
+            - SC WAP | Innsbruck | für 7,5t & 3,5t | MI ==> (Lager-WAP für 7,5t & 3,5t Touren)
+                - SC Touren für 7,5t & 3,5t | Innsbruck - Wörgl | | DO ==> (Untertouren 7,5t & 3,5t Fahrzeuge -> Von Lager-WAP)
+            - Seefeld | DO  ==> (Direkt-LKW Tour zur Baustelle)
 
     - **Bei knappen/komischen Touren** => **Plant SC-Leiter** bzw. **Absprache mit SC-Leiter**
       - **❌ Nicht gewünscht** -> Suboptimal -> **Außnahme Voradelberg** (BIG-BOSS am 13.02.2025)
@@ -166,6 +158,37 @@
     - **Wochenauslatung des jeweiligen Herstelller beachten**
         - Mit Mitarbeitern und Herstellen gute Lösung finden (Isabell hat Schnittstelle vom Hersterller_H zum checken)
         - Hersteller NOS fragen => Wie Auslatungen gemssen werden => **Date am 04.03.2025 🌹** 
+
+- **Vor-Avisieren**
+    - Gleich wie Avisieren nur im Vorfeld -> **Nicht Offizielles Aviso verwenden!**
+    - Daten & Mail aus Profitour **"Aviso-Pdf"** ziehen und Mail erfassen!
+    - Wichtige Daten: **Kunde, KW, Auftragsnummer**
+    - Mail-Wichtigkeit auf "High"
+    - **Transportauftrag muss nicht in der Mail anhängt werden**
+    - _(NOTE1: Gesamter Prozess könnte **easy automatisiert werden**)_
+    - _(NOTE2: Prozess wird **Lokal automatisiert** => **Keine Anbindung an Profitour** => **Native Script**)_
+    - _(NOTE3: Laut Isabel nicht erwünscht => trotzdem Fragen zu **Persöhnlicher Verwendung!**) (UNSURE ASK BIG-BOSS 😕)_
+
+- **Avisieren:**
+    - **Alles 2x kontrollieren**
+    - **Datum bei Touren** & **Ladereihenfolge WAB's 3x kontrollieren**
+        - **Datum** kann sich aufgrund von Tagesarbeitszeit oder falschen $BUILD_TIMES from $HERSTELLER auf nächsten Tag rutschen!
+        - **Fehler passieren hier leicht** und **keine Software-Kontrolle** für Fehler wie diese!
+        - _NOTE: Probably a big reason that "AI" is not already taking Disponenten-Jobs (needs a sick Algorithm 😄)_
+        - _NOTE: Bad for me but Probably good for Big_Boss => **Local Deepseek with Live Training here 👀👀**_
+
+
+## Fenster_3 = BOTTOM = **Unbearbeitet-Fenster** (Gleich wie Datenbank_Ansicht mit "Auswahl" nach SQL-Query)
+- **[DIR | STK | PST]** => **Alle DIREKT** => **Kein LAGER-WAB**
+- **[ABH]** => Selbstabhholung der Ware durch Kunden **(Er hat Fahrzeug/LKW)**
+- **[Ausftragsnummer: 034]** -> **Internet bestellung -> DIREKT**
+
+
+
+
+
+
+
 
 ## Frachtbriefe (Bestehen aus 2-PDF's):
 - **Auswahl der Tour im Oberen Fenster** -> Frachtbrief -> Print as PDF -> Naming_Scheme: **[TT]_TOURNUMMER**
@@ -209,6 +232,28 @@
 - Transportbestellung im richtigen **MS Teams** Ordner ablegen!
 - **Letzter im Team** fügt die **Excel-Imports der Mitarbeiter zusammen** und sendet sie an **Spedition Winkler**
 - **Sonderbestellungen** wie Transmato, Quehenberger(Sattel) **sofort** bei Auftrag an Spedition senden!
+
+## Tipps für Excel-Listen: [Excel_Listen_Immer_pro_KW$$]
+- Werden **LIVE am Onedrive Ordner bearbeitet** 💀
+- SC-Leiter & BGO = **R,W,D-Rights** 💀
+- Lösung für mich => **Local_Excel_File mit Extra Infos und Calculations für Lademenge etc**
+- **Force Sync** => **SC_Leiter_Excel_File + Removal of extra Infos**
+- Extras: **(WIP)**
+  - **💡 Automatic Numbering of _KW$**
+  - **💡 Auto Calc of WAP_Weights inkl. Untertouren** 
+  - **💡 Auto Coloring for DIREKT Touren**
+  - **💡 Auto Copy of WAP's (Letzte Zeilen)**
+
+- **Hinterlegen mit Farbe** == DIREKT_BAUSTELLE == **Kein LAGER-WAB** -> **WAB direkt auf Baustelle!**
+
+- Aufpassen auf richtiges Kopieren in untere Zeilen:
+  - **Vorletzte == DIREKT WAB'S**
+  - **Letzte == LAGER WAB'S**
+
+- Bei "Plant SC-Leiter Touren" die Anzahl der Kunden dazuschreiben => Bsp-Name: **Plant_SC_Leiter_6_Kunden**
+- Bei Baustellen mit **Nächtigung** -> Nächtigung in Excel Liste eintragen **(Bis & nicht inkulsive Endtag)**
+- Bei Baustellen mit **Trennwänden** -> Trennwand vermerken = **Special Montage Workers**
+- Bei Baustellen mit **Küchen** -> **L&M Küchenmontage** oder **nach Gebiet haben Special Montage Workers**
 
 ## Gebiete Erik - Hersteller NOS 🟢
 - **Voradelberg(SC Dornbirn) + DE(S-W) + FL + CH**
