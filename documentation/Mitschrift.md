@@ -34,9 +34,12 @@
   - **💡 Auto Copy of WAP's (Letzte Zeilen)**
 
 - **Hinterlegen mit Farbe** == DIREKT_BAUSTELLE == **Kein LAGER-WAB** -> **WAB direkt auf Baustelle!**
+
 - Aufpassen auf richtiges Kopieren in untere Zeilen:
   - **Vorletzte == DIREKT WAB'S**
   - **Letzte == LAGER WAB'S**
+
+- Bei "Plant SC-Leiter Touren" die Anzahl der Kunden dazuschreiben => Bsp-Name: **Plant_SC_Leiter_6_Kunden**
 
 - Bei Baustellen mit **Nächtigung** -> Nächtigung in Excel Liste eintragen **(Bis & nicht inkulsive Endtag)**
 - Bei Baustellen mit **Trennwänden** -> Trennwand vermerken = **Special Montage Workers**
@@ -47,7 +50,8 @@
 - **FORCE_GREEN_BUTTON** => Button: **Kunden_avis_bestätigen & Aktualisieren** => **Kein Avis versendet trotzdem 🟢**
 - **[DIR | STK | PST]** -> **Alle DIREKT**
 - **[Ausftragsnummer: 034]** -> **Internet bestellung -> DIREKT**
-- Rechtsklick auf Datenbank-Row => **Transportauftrag** => Für Planung und **Calculation-Script**
+- Rechtsklick auf Datenbank-Row => **Transportauftrag** => Für **Zeit-Planung bzw. Calculation-Script**
+- Bei "Plant SC-Leiter Touren" die Anzahl der Kunden dazuschreiben => Bsp-Name: **Plant_SC_Leiter_6_Kunden**
 - Kommentar_Felder von Seite **BGO**:
     - Feld = **Bemerkung Montage** ==> Bemerkung für **Montage Arbeiter** => **(kleine Änderungen | Hinweise | Adresseänderung/Zufahrt)**
         - Bei **Adress-Änderungen/Fehler** => **Mail an Hersteller** um weitere Fehler zu vermeiden!
