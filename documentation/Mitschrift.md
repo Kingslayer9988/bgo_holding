@@ -53,7 +53,8 @@
 - **[Ausftragsnummer: 034]** -> **Internet bestellung -> DIREKT**
 - Rechtsklick auf Datenbank-Row => **Transportauftrag** => Für **Zeit-Planung bzw. Calculation-Script**
 - Bei "Plant SC-Leiter Touren" die Anzahl der Kunden dazuschreiben => Bsp-Name: **Plant_SC_Leiter_6_Kunden**
-- Kommentar_Felder von Seite **BGO**:
+
+- Kommentar_Felder von Seite **BGO** **Im Touren-Fenster**:
     - **Bemerkung Montage** ==> Infos für **Montage Arbeiter** => **Bsp.: (kleine Änderungen | Hinweise | Adresseänderung/Zufahrt)**
         - Bei **Adress-Änderungen/Fehler** => **Mail an Hersteller** um weitere Fehler zu vermeiden!
         - Falls **Plant-SC-Leiter-Tour** => SC-Leiter anrufen!
