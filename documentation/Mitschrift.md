@@ -182,12 +182,13 @@
     - _(NOTE3: Laut Isabel nicht erwünscht => trotzdem Fragen zu **Persöhnlicher Verwendung!**) (UNSURE ASK BIG-BOSS 😕)_
 
 ## Fenster_3 = BOTTOM = **Unbearbeitet-Fenster** (Gleich wie Datenbank_Ansicht mit "Auswahl" nach SQL-Query)
-- Zuerst immer DIREKT / POST - Linien erstellen!
-
-- Wichtige Infos zu den Importierten Datensätzen: 
+- Hier starten wir nachdem wir in der Datenbank-Ansicht unser Gebiert ausgewählt haben!
+- Wichtige Infos zu den Ausgewählten Datensätzen: 
     - **[DIR | STK | PST]** => **Alle DIREKT** => **Kein LAGER-WAB**
     - **[ABH]** => Selbstabhholung der Ware durch Kunden **(Er hat Fahrzeug/LKW)**
     - **[Ausftragsnummer: 034]** -> **Internet bestellung -> DIREKT**
+
+- Zuerst immer DIREKT / POST - Linien erstellen!
 
 
 
