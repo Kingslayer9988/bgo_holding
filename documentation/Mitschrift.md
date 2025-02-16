@@ -127,7 +127,7 @@
         - **WAB-Nummern Vergabe** = Siehe **Nummern-Keis** auf **Ausdruck**
             - Aufpassen: Bei **Vorproduktionen** gibt es einen eigenen **Nummern-Kreis**
     
-    - **Naming-Scheme für Touren:**
+    - **Naming-Scheme für Touren/WAB's:**
         - **DIREKT** => PST, DIR, N:043 => **DIREKT $ORT1 $ORT2 WOCHENTAG(TT)**
         - **_____(Leer)** => Direkt-LKW auf Baustelle => **__LEER $ORT1 $ORT2 WOCHENTAG(TT)**
         - **SC WAB für [LKW | 7,5t | 3,5t] Touren** => Items werden umgeladen in LKW oder 3,5t oder 7,5t => **SC WAB $ORT1 für $Vehicle1|2|3 Touren WOCHENTAG(TT)**
@@ -270,7 +270,7 @@
 - Bei "Plant SC-Leiter Touren" die Anzahl der Kunden dazuschreiben => Bsp-Name: **Plant_SC_Leiter_6_Kunden**
 - Bei Baustellen mit **Nächtigung** -> Nächtigung in Excel Liste eintragen **(Bis & nicht inkulsive Endtag)**
 - Bei Baustellen mit **Trennwänden** -> Trennwand vermerken = **Special Montage Workers**
-- Bei Baustellen mit **Küchen** -> **L&M Küchenmontage** oder **nach Gebiet haben Special Montage Workers**
+- Bei Baustellen mit **Küchen** -> **L&M Küchenmontage** oder **nach Gebiet gibt es Special Montage Workers**
 
 ## Gebiete Erik - Hersteller NOS 🟢
 - **Voradelberg(SC Dornbirn) + DE(S-W) + FL + CH**
