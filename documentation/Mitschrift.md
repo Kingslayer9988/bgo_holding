@@ -127,6 +127,7 @@
 
         - **Lager-WAB's** sind von **Seite BGO günstiger** wenn sie **zusammen gefahren** das heißt:
             - **2 WAB's** mit **LKW + Anhäger** am Dienstag ist **billiger** als **1 WAP** mit LKW am Dienstag **+ 1 WAP** mit LKW am Donnerstag
+            - Aufpassen teilweise **Spedition und SC-Leiter** aufgrund von **Auslastung** nicht Happy 
 
         - **WAB-Nummern Vergabe** = Siehe **Nummern-Keis** auf **Ausdruck**
             - Aufpassen: Bei **Vorproduktionen** gibt es einen eigenen **Nummern-Kreis**
