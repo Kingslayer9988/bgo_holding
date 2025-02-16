@@ -45,9 +45,9 @@
 
 ### Nach der Auswahl der richtigen Datenbank-Einträge (Zeilen) => Klicke: "Übernahme in Planung"
 
-### Ansicht_2 = Planungs_Ansicht
-- Nach **Übernahme in Planung sichtbar**
-- Besteht aus **3 Fenstern** => Aufgrund von **Nutzungsweise hier 3-2-1**
+### Ansicht_2 = Planungs_Ansicht = Nach Übernahme in Planung sichtbar
+
+### Besteht aus **3 Fenstern** => Aufgrund von **Nutzungsweise hier 3-2-1**
 
 ## Fenster_3 = BOTTOM = **Unbearbeitet-Fenster** + Minimap (Gleich wie Datenbank_Ansicht)
 - Hier starten wir nachdem wir in der **Datenbank-Ansicht unser Gebiet ausgewählt** haben!
