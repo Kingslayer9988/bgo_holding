@@ -131,7 +131,7 @@
         - Rechtsklick auf Auftrag (SQL-Datensatz) => **Transportauftrag** => Für **Zeit-Planung bzw. Calculation-Script**
         - Sollte bei **jedem Auftrag** kontrolliert bzw. **nachgerrechnet** werden. => Für Kalkulation - **Skript zur Abhilfe** siehe README.md!
         - Bei **kleinen Küchen** mit **SC-Leiter abklären** ob wir sie selbst machen können!
-        
+
     
     - **Naming-Scheme für Touren/WAB's:**
         - **DIREKT** => PST, DIR, N:043 => **DIREKT $ORT1 $ORT2 WOCHENTAG(TT)**
@@ -204,6 +204,7 @@
 - Hier starten wir nachdem wir in der **Datenbank-Ansicht unser Gebiet ausgewählt** haben!
 - Wichtige Infos zu den Ausgewählten Datensätzen: 
     - **[DIR | STK | PST]** => **Alle DIREKT** => **Kein LAGER-WAB**
+        - **[PST]** Aufträge mit über **5m³** ==> **Falsche Eingabe** von **Hersteller**
     - **[ABH]** => Selbstabhholung der Ware durch Kunden **(Er hat Fahrzeug/LKW)**
     - **[Ausftragsnummer: 034]** -> **Internet bestellung -> DIREKT**
 - Zuerst immer **DIREKT & POST - Linien** erstellen!
