@@ -3,7 +3,7 @@
 ## Chronologischer Ablauf (Will Still have Mistakes - Aktuell für $Hersteller_H)
 
 - **Montag:** 
-    - Frachtbrief & Tourenplan für SC-Leiter _(Siehe Punkt 420)_
+    - Frachtbrief & Tourenplan für SC-Leiter => Für **$Folge_KW** -> Bsp.: **Montag_KW7 für KW08 an SC-Leiter** _(Siehe Punkt 420)_
 - **Dienstag:**
     - Daily Quests
 - **Mittwoch:**
