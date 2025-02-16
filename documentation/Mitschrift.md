@@ -200,18 +200,26 @@
         - Mit **Mitarbeitern und Herstellen gute Lösung finden** (Isabell hat Schnittstelle vom Hersterller_H zum checken)
         - Hersteller_NOS fragen => Wie Auslatungen gemssen werden => **Date am 04.03.2025 & 11-12.03.2025 🌹** 
 
-## Fenster_3 = BOTTOM = **Unbearbeitet-Fenster** (Gleich wie Datenbank_Ansicht mit "Auswahl" nach SQL-Query)
+## Fenster_3 = BOTTOM = **Unbearbeitet-Fenster** + Minimap (Gleich wie Datenbank_Ansicht)
 - Hier starten wir nachdem wir in der **Datenbank-Ansicht unser Gebiet ausgewählt** haben!
+
 - Wichtige Infos zu den Ausgewählten Datensätzen: 
     - **[DIR | STK | PST]** => **Alle DIREKT** => **Kein LAGER-WAB**
         - **[PST]** Aufträge mit über **5m³** ==> **Falsche Eingabe** von **Hersteller**
     - **[ABH]** => Selbstabhholung der Ware durch Kunden **(Er hat Fahrzeug/LKW)**
     - **[Ausftragsnummer: 034]** -> **Internet bestellung -> DIREKT**
+
+- Auf der **Minimap** oder im **Unbearbeitet-Fenster** **Datensätze/Punkte** markieren => **Button: In Auswahl** => Datensätze nun im **Bearbeitungs-Fenster**
+
 - Zuerst immer **DIREKT & POST - Linien** erstellen!
     - Maximal **1 Postversand_SC(ORT) Linie** pro KW [900]
+
 - Anschließend dann **Wunschtermine & Fixtermine** bzw. **größere Baustellen**
+
 - Als nächstes **Lager-WAB's** erstellen!
+
 - **========================= An diesem Punkt kann fur Produktion Abgegeben/Exportiert werden =========================** (Siehe Punkt 420)
+
 - **Untertouren** sind für die **Produktion nicht relevant**.
 
 ## Frachtbriefe (Bestehen aus 2-PDF's):
