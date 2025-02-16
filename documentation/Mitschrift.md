@@ -133,7 +133,7 @@
             - Plant SC Leiter | Imst - Reutte | 6 Kunden ==> (Untertour die SC-Leiter Plant) [Siehe 420]
 
     - **Bei knappen/komischen Touren** => **Plant SC-Leiter** bzw. **Absprache mit SC-Leiter**
-      - **❌ Nicht gewünscht** -> Suboptimal -> **Außnahme Voradelberg**
+        - **❌ Nicht gewünscht** -> Suboptimal -> **Außnahme Voradelberg**
     
      - **Voradelberg ist anders** => **Untertouren werden von ULGB (Oliver) Zusammengestellt**
         - **Untertouren werden von ULGB zusammengestellt** nach einer Liste von uns!
