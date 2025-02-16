@@ -105,7 +105,7 @@
 
 - **Tipps für erstellen von Linien:**
     
-    - **2 Arten von WAB's** => (Eintragen in Kommentar-Feld des WAB's => **Bemerkung Transport**) _(UNSURE ASK ISABEL 😕)_
+    - **2 Arten von WAB's** => Eintragen in **Kommentar-Feld**  => **Bemerkung Transport**) _(UNSURE ASK ISABEL 😕)_
         - [Rampe] (Lager-WAB) => bei Umladen in 7,5t bzw. 3,5t Fahrzeugen beim Lager **(eher = Bei vielen Kleinkunden)**
             - **Niemals** einem **Jumbo-WAB** zur **Rampe**
 
