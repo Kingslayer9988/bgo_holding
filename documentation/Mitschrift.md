@@ -273,7 +273,7 @@
 - **Force Sync** => **SC_Leiter_Excel_File + Removal of extra Infos**
 - Extras: **(WIP)**
   - **💡 Automatic Numbering of _KW$**
-  - **💡 Auto Calc of WAB_Weights inkl. Untertouren** 
+  - **💡 Auto Calc of WAB_Gewicht inkl. auto. zuordnung zu Untertouren** 
   - **💡 Auto Coloring for DIREKT Touren**
   - **💡 Auto Copy of WAB's (Letzte Zeilen)**
 
