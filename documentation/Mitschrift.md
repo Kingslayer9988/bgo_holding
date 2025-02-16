@@ -4,6 +4,19 @@
 ## Number Two ⚖️ LAW => Bei jeder Änderung -> Export für Hersteller ✅
 ## Number Three ⚖️ LAW => Dont even try SPECIAL_LETTERS(§$%_-) in Profitour ✅
 
+
+## Chronologischer Ablauf (Will Still have Mistakes)
+- **Montag:** Frachtbrief & Tourenplan für SC-Leiter (Siehe Punkt _420_)
+- **Dienstag:**
+- **Mittwoch:**
+- **Donnerstag:**
+- **Freitag:**
+
+- **Daily Extras**
+    - Bei jedem Import von Hersteller_H **06:30 & 14:00 Täglich**
+        - **Alle neuen Aufträge** wieder verplanen für **$Aktuelle_KW & $Folge_KW_1 & $Folge_KW_2**
+        - Außnahme **Freitags 14:00: Nur DIREKT/POST** Lieferungen verplanen **(Runde der Mitarbeiter)** 
+
 ## Tipps für Excel-Listen: [Excel_Listen_Immer_pro_KW$$]
 - Werden **LIVE am Onedrive Ordner bearbeitet** 💀
 - SC-Leiter & BGO = **R,W,D-Rights** 💀
