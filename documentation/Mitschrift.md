@@ -120,7 +120,12 @@
                 - Wieso überhaupt Manuell ? => **Wenn 2 Touren** an **1 Tag** aus **1 WAB geladen** werden.
                 - _NOTE: **Excel-Makro** zum Fehlerschutz erstellen_
 
-        - Verlade-Reihenfolge = **99** == Verladereihenbfolge = **EGAL**
+        - **Verlade-Reihenfolge = 99** == Verlade-Reihenfolge = **EGAL**
+
+        - **Vorproduktion:** => **WAB in Produktionswoche** anlegen & Bei **Unter-Tour Datum fixieren** => **Lieferdatum auswählen**
+
+        - **WAB-Nummern Vergabe** = Siehe **Nummern-Keis** auf **Ausdruck**
+            - Aufpassen: Bei **Vorproduktionen** gibt es einen eigenen **Nummern-Kreis**
     
     - **Naming-Scheme für Touren:**
         - **DIREKT** => PST, DIR, N:043 => **DIREKT $ORT1 $ORT2 WOCHENTAG(TT)**
