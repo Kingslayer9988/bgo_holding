@@ -109,7 +109,7 @@
         - Auftrag ist nun im unteren Fenster **(Wie neu)** => Splitten, WAP, etc. => **behandeln wie neuen Auftag**
 
     - **Wochenauslatung des jeweiligen Herstelller beachten**
-        - Mit Mitarbeitern und Herstellen gute Lösung finden
+        - Mit Mitarbeitern und Herstellen gute Lösung finden (Isabell hat Schnittstelle vom Hersterller_H zum checken)
         - Hersteller NOS fragen => Wie Auslatungen gemssen werden => **Date am 04.03.2025 🌹** 
 
 ## Frachtbriefe (Bestehen aus 2-PDF's):
@@ -129,6 +129,7 @@
 - Single .csv Excel file -> Apply Makro -> **Save as .xlsx** save for **SC-Leiter** & **HERSTELLER**  = **receive it without Makros**
 - Touren markieren -> **Auslieferliste** -> **Saved as .csv on Remote [Profi-Tour-Server]** -> Copy to [Local] and open in Excel
 - Apply Excel ✨ **Magic-Makros** ✨ [Strg+Umschalt+A "For Austria + D for "Germany"] -> **[HARDCODED IN MAKRO]**
+- Bei SC-Leiter Touren: **Lösche Colloums mit Nummer** und schreibe **"Plant SC-Leiter"** in **🔴 & Fett**
 - Save as **.xlsx** => **(Will delete Makros)**
 - Naming_Scheme: **ALL_$ORT[WIEN,LINZ,GRAZ,etc]_[KW$$].xlsx**
 
@@ -139,9 +140,12 @@
 ## Transportbestellung Infos:
 - Filter -> **[Touren / Auflade Zeit]** -> **KW Mo - Sa, auswählen**
 - **Schnittstelle -> Export in Excel** -> safe as .xlxs Name: **Transportbestellunhg_KW__**
-- Alle Gebiete kontrollieren (2 unteren Spalten in Excel zählen) => **Direkt&Lager-WAP's**
+- Alle Gebiete kontrollieren **(2 unteren Spalten in Excel zählen)** => **Direkt&Lager-WAP's**
 - **Ladereihenfolge checken** => oft **35/36/35** => Delete **35**
 - **m³ mit Fahrzeugen abglichen** bei => **Bsp.: 40m³ => 2 LKW's**
+- Transportbestellung im richtigen **MS Teams** Ordner ablegen!
+- **Letzter im Team** fügt die **Excel-Imports der Mitarbeiter zusammen** und sendet sie an **Spedition Winkler**
+- **Sonderbestellungen** wie Transmato, Quehenberger(Sattel) **sofort** bei Auftrag an Spedition senden!
 
 ## Gebiete Erik:
 - **Hersteller NOS 🟢**
