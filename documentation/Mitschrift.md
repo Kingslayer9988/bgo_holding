@@ -17,6 +17,7 @@
     - Bei jedem Import von Hersteller_H **06:30 & 14:00 Täglich**
         - **Alle neuen Aufträge** wieder verplanen für **$Aktuelle_KW & $Folge_KW_1 & $Folge_KW_2**
         - Außnahme **Freitags 14:00: Nur DIREKT/POST** Lieferungen verplanen **(Runde der Mitarbeiter)** 
+    - **TV's** machen die Anfallen!
 
 # Profi-Tour for absolute Dummys
 
@@ -112,7 +113,7 @@
 
         - **Verlade-Reihenfolge = 99 ==> EGAL**
     
-    - **Naming-Scheme:**
+    - **Naming-Scheme für Touren:**
         - **DIREKT** => PST, DIR, N:04 => **DIREKT $ORT1 $ORT2 WOCHENTAG(TT)**
         - **_____(Leer)** => Direkt-LKW auf Baustelle => **__LEER $ORT1 $ORT2 WOCHENTAG(TT)**
         - **SC WAP für [LKW | 7,5t | 3,5t] Touren** => Items werden umgeladen in LKW oder 3,5t oder 7,5t => **SC WAP $ORT1 für $Vehicle1|2|3 Touren WOCHENTAG(TT)**
@@ -121,9 +122,10 @@
             - SC WAP | Innsbruck | für 7,5t & 3,5t | MI ==> (Lager-WAP für 7,5t & 3,5t Touren)
                 - SC Touren für 7,5t & 3,5t | Innsbruck - Wörgl | | DO ==> (Untertouren 7,5t & 3,5t Fahrzeuge -> Von Lager-WAP)
             - Seefeld | DO  ==> (Direkt-LKW Tour zur Baustelle)
+            - Plant SC Leiter | Imst - Reutte | 6 Kunden ==> (Untertour die SC-Leiter Plant) [Siehe 420]
 
     - **Bei knappen/komischen Touren** => **Plant SC-Leiter** bzw. **Absprache mit SC-Leiter**
-      - **❌ Nicht gewünscht** -> Suboptimal -> **Außnahme Voradelberg** (BIG-BOSS am 13.02.2025)
+      - **❌ Nicht gewünscht** -> Suboptimal -> **Außnahme Voradelberg** 
     
     - **LKW gewünscht:**
         - Manchmal ist es **teurer umzuladen** in **3,5t bzw 7,5t Fahrzeug**
@@ -140,16 +142,21 @@
         - Als **E-Mail an Oliver** senden - er sendet die **Untertouren** zurück!
 
     - **TV immer für jeweilige KW__ erledigen** nachdem Untertouren fertiggestellt sind!
-        - Filter nach **Auftragsnummer (Steht auf TV)**
-        - Gehe zu **WAP der TV beinhaltet**
-        - Im Bearbeitungsfenster (Mitte) => Button: **Aus Tour lösen und Rückgängig machen**
-        - Wenn **WAP in der Zukunft** liegt -> **Verladereihenfolge neu richten**
-        - Oben auf **Selection** => Sonst **Probleme** im **Bearbeitungsfenster & Sammelmappe**
-        - Im Bearbeitungsfenster Auftrag auswählen => **Sammelmappe erstellen**
-        - Name (Isabel) = **[$ORT_$KW_DER_TV]** **(Siehe Links unten auf TV)**
+        - TV = Termin-Verspätung
+        - Filter nach **Auftragsnummer** **(Steht auf TV)**
+        - Im Touren-Fenster => Gehe zu **WAP-Tour die TV beinhaltet**
+        - Im Bearbeitungs-Fenster:
+            - Gehe zur genauen Position der TV
+            - Falls nur **ein Teil einer Position fehlt** => Button: **(UNSURE ASK ISABEL 😕)**
+            - Beim teilen zuerst die **Anzahl der Teilstücke** dann die **Stückzahl** => (Bsp.: 3/7 Sessel in TV => Teilen 2 Teilstücke mit 4 Rest)
+            - Button: **Aus Tour lösen und Rückgängig machen** (Nach Teilung nicht notwendig (UNSURE ASK ISABEL 😕))
+        - Wenn **WAP-Tour in der Zukunft** => **Verladereihenfolge neu richten**
+        - Anschließend oben Button: **Selection** (Sonst Probleme im Bearbeitungsfenster)
+        - Im Bearbeitungsfenster **Auftrag auswählen** => **Sammelmappe erstellen**
+        - Name => Keine Gesetze => Isabel-Naming: **[$ORT + $KW_DER_TV]** => (KW: Siehe Links unten auf TV)
         - Filter nach **$KW_WO_TV_HINGEHÖRT** in **[Lieferwoche]**
-        - **Sammelmappe => Übernahme in die Planung**
-        - Auftrag ist nun im unteren Fenster **(Wie neu)** => Splitten, WAP, etc. => **behandeln wie neuen Auftag**
+        - Öffne **Sammelmappe** => Button: **Übernahme in die Planung**
+        - Auftrag ist nun im **Unbearbeitet-Fenster** => Splitten, WAP, etc. => **behandeln wie neuen Auftag**
 
     - **Wochenauslatung des jeweiligen Herstelller beachten**
         - Mit Mitarbeitern und Herstellen gute Lösung finden (Isabell hat Schnittstelle vom Hersterller_H zum checken)
