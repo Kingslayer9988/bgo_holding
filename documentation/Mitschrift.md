@@ -73,11 +73,15 @@
     - Für **Anvisieren** und erstellen von Touren => Abfrage von **[Lieferwoche]**
     - Für **Transportbestellung** (Winkler, etc) => Abfrage von **[Touren]**
 
-- **Fahrzeuge are completely messed up for some areas:**
-    - **needs fixing !** => **Absprache mit SC-Leiter**
-    - _Note: Isabel macht **extra Arbeit** => Eintragen von **3,5t | 7,5t** => Weil SC-Leiter Fahrzeuge nicht Ändern will (UNSURE ASK BIG-BOSS 😕)_
+- **Fahrzeuge**
+    - Fahrzeuge müssen den **Touren richtig zugeordnet** werden:
+    - Fahrzeuge findest du Links oben ist das **Vehice_Window**
+        - 1. Richtige Spedition auf Tour ziehen (Spedition ist **NOTWENDIG** für **alle Touren**) => Bsp. **Spedition_Winkler**
+        - 2. Richtigen Container auf Touren ziegen (Container ist **NOTWENDIG** für **Lager-WAB's**)
+    - Fahrzeuge are completely messed up for some areas => **needs fixing !** => **Absprache mit SC-Leiter**
+        - _Note: Isabel macht **extra Arbeit** => Eintragen von **3,5t | 7,5t** => Weil SC-Leiter Fahrzeuge nicht Ändern will (UNSURE ASK BIG-BOSS 😕)_
 
-- **Fahrzeuge:**
+- **Fahrzeug_Tabelle:**
     - Selten: **Sattel (Nicht Winkler)** => **~60m³** => **(2x WAP's pro Sattel)** (C-FS) [Quehenberger]
     - Jumbo_WAP (LKW) => **max. ~ 35m³ => NUR FÜR DIREKT** = PASST NICHT INS LAGER (C-FS)
     - WAP (LKW) **(Direkt | Lager_WAP) => 30m³ => EGAL** (C-FS)
