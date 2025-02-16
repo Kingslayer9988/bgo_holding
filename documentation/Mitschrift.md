@@ -276,7 +276,8 @@
   - **Vorletzte == DIREKT WAB'S**
   - **Letzte == LAGER WAB'S**
 
-- Bei Touren mit **Vorproduktionen** diese vermerken! => Bsp: **Prod. aus KW_06** 
+- Bei Touren mit **Vorproduktionen** diese vermerken! => Bsp: **Prod. aus KW_06**
+- **Sonderfälle** wie **(Leerer-WAB wird mitgenommen)** auch vermerken!
 - Bei "Plant SC-Leiter Touren" die Anzahl der Kunden dazuschreiben => Bsp-Name: **Plant_SC_Leiter_6_Kunden**
 - Bei Baustellen mit **Nächtigung** -> Nächtigung in Excel Liste eintragen **(Bis & nicht inkulsive Endtag)**
 - Bei Baustellen mit **Trennwänden** -> Trennwand vermerken = **Special Montage Workers**
