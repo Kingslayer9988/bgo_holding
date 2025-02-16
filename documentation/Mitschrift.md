@@ -6,11 +6,16 @@
 
 
 ## Chronologischer Ablauf (Will Still have Mistakes - Aktuell für $Hersteller_H)
-- **Montag:** Frachtbrief & Tourenplan für SC-Leiter (Siehe Punkt _420_)
+- **Montag:** 
+    - Frachtbrief & Tourenplan für SC-Leiter _(Siehe Punkt 420)_
 - **Dienstag:**
+    -
 - **Mittwoch:**
+    -
 - **Donnerstag:**
-- **Freitag:** Produktions-Export _(WAB's-Export)_ für Hersteller_H => Für **MINDESTENDS $Folge_KW_4** (Bsp: **Freitag_KW7 für KW_11**)
+    -
+- **Freitag:** 
+    - Produktions-Export _(WAB's-Export)_ für Hersteller_H => Für **MINDESTENDS $Folge_KW_4** (Bsp: **Freitag_KW7 für KW_11**) _(Siehe Punkt 421)_
 
 - **Daily Extras**
     - Bei jedem Import von Hersteller_H **06:30 & 14:00 Täglich**
