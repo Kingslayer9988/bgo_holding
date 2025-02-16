@@ -72,9 +72,9 @@
         
     - **Richtigen Container auf Touren ziehen!**
         - Container ist **NOTWENDIG** für **Lager-WAB's** && **Direkt_Baustelle** => Bsp. **Winkler_Egal|Normal|Jumbo**
-            - **Normal** = Bei LagerWAB's (Umladen)
-            - **Egal** = Bei Direkt_Baustelle (Kein Umladen)
-            - **Jumbo** = Bei über 35m³ (KEIN UMLADEN MÖGLICH)
+            - **NORMAL** = Bei LagerWAB's (Umladen)
+            - **EGAL** = Bei Direkt_Baustelle (Kein Umladen)
+            - **JUMBO** = Bei über 35m³ (KEIN UMLADEN MÖGLICH)
             - _(UNSURE ASK ISABEL 😕)_ - Mir kommt hier etwas Spanisch vor!! (SPÄTER AM WORK-PC NACHSEHEN!)
             - **Extra:** **Sattel** = 60m³ => **KEINEN CONTAINER AUF TOUR ZIEHEN!**
     
