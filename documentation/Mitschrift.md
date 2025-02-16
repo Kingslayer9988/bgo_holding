@@ -54,11 +54,11 @@
 - Rechtsklick auf Datenbank-Row => **Transportauftrag** => Für **Zeit-Planung bzw. Calculation-Script**
 - Bei "Plant SC-Leiter Touren" die Anzahl der Kunden dazuschreiben => Bsp-Name: **Plant_SC_Leiter_6_Kunden**
 - Kommentar_Felder von Seite **BGO**:
-    - Feld = **Bemerkung Montage** ==> Bemerkung für **Montage Arbeiter** => **(kleine Änderungen | Hinweise | Adresseänderung/Zufahrt)**
+    - Feld = **Bemerkung Montage** ==> Infos für **Montage Arbeiter** => **Bsp.: (kleine Änderungen | Hinweise | Adresseänderung/Zufahrt)**
         - Bei **Adress-Änderungen/Fehler** => **Mail an Hersteller** um weitere Fehler zu vermeiden!
         - Falls **Plant-SC-Leiter-Tour** => SC-Leiter anrufen!
-    - Feld =
-    - Feld =   
+    - Feld = **Bemerkung Transport** => Infos für die Spedition => **Bsp.: (Ladereihenfolge, Sonderliche-Ladegüter, Zoll)**
+    - Feld = **Bemerkung Versand** => Infos für den **$Hersteller** => **Bsp.: (???)** _(UNSURE ASK ISABEL 😕)_
 
 - **Vor-Avisieren**
     - Gleich wie Avisieren nur im Vorfeld -> **Nicht Offizielles Aviso verwenden!**
