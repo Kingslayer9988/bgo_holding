@@ -100,7 +100,7 @@
             - 3,5t Fahrzeug für Touren <= 3,5t Tonnen Fahrzeuge
             - 7,5t Fahrzeug für Touren <= 7,5t Tonnen Fahrzeuge
             - $LKW_$SPED für Touren <= LKW Fahrzeuge
-            - **"<="** Wegen = Es gibt Touren wo Bsp. 7,5t und 3,5t Fahrzeuge eingesetzt werden => **7,5t Fahrzeug nehmen!!**
+            - Bei Touren wo Bsp. 7,5t und 3,5t Fahrzeuge eingesetzt werden => **7,5t Fahrzeug nehmen!!**
 
     - Fahrzeuge are completely messed up for some areas => **needs fixing !** => **Absprache mit SC-Leiter**
         - _Note: Isabel macht **extra Arbeit** => Eintragen von **3,5t | 7,5t** => Weil SC-Leiter Fahrzeuge nicht Ändern will (UNSURE ASK BIG-BOSS 😕)_
