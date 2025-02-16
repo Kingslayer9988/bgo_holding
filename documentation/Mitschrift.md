@@ -258,7 +258,7 @@
 - Naming_Scheme: **ALL_$ORT[WIEN,LINZ,GRAZ,etc]_[KW$$].xlsx**
 
 ## Guide für die Abgabe der (Produktion == Lager-WAB's) für Hersteller:
-- Filter **$Folge_KW1 & $Folge_KW2 & $Folge_KW3 & $Folge_KW4** Nacheinander
+- Filter **$Folge_KW4** => Alle Orte
 - Im **Unbearbeitet-Fenster** makiere alle Aufträge => **Checke Gewicht und m³**
 - Erstelle immer als erstes **DIREKT & POST** Touren.
 - Als nächstes Kontrolle auf **$FIXTERMIN & $WUNSCHDATUM**
