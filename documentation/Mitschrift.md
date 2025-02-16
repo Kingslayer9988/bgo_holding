@@ -5,7 +5,7 @@
 ## Number Three ⚖️ LAW => Dont even try SPECIAL_LETTERS(§$%_-) in Profitour ✅
 
 
-## Chronologischer Ablauf (Will Still have Mistakes)
+## Chronologischer Ablauf (Will Still have Mistakes - Aktuell für $Hersteller_H)
 - **Montag:** Frachtbrief & Tourenplan für SC-Leiter (Siehe Punkt _420_)
 - **Dienstag:**
 - **Mittwoch:**
@@ -179,10 +179,10 @@
     - Demontage => pro 1 Laufmeter = 1,5h
   
 - **Konflikte** mit **BGO & SC-Leiter** (UNSURE ASK BIG-BOSS 😕)
-    - Wer ruft Kunden an der nicht Nett ist etc. 💀
-    - Abschieben von Sachen auf Hersteller & Sc-Leiter ==> **und Umgekehrt!**  💀
-    - **WHO THE FUCK IS THE DESCION MAKER 💀❌💀**
-    - **Keine Verantwortung => Alles Problem von Hersteller** :question:
+    - Wer ruft Kunden bei welchen Problem an ? 💀
+    - Abschieben von Sachen auf $Hersteller_X & SC-Leiter ==> **und Umgekehrt!**  💀
+    - **WHO THE FUCK IS TO BLAME AND FOR WHAT 💀❌💀**
+    - **Keine Verantwortung übernehmen :question: => Alles Problem von Hersteller** :question:
 
 ## Extra Notes:
 - $HERSTELLER
