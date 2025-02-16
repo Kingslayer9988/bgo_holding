@@ -118,7 +118,9 @@
     
     - **2 Arten von Lager-WAB's (Immer ins Kommentarfeld des WAB's):**
         - [Rampe] bei Umladen in 7,5t bzw. 3,5t Fahrzeugen beim Lager **(eher = Bei vielen Kleinkunden)**
+            - **Niemals Jumbo LKW zur Rampe!** 
         - [Platz] Wenn mit LKW zu von Kunde zu Kunde gefahren wird **(eher = Bei wenig Großkunden)**
+            - Aufpassen auf **Zufahrten etc.** oft ist es **nicht möglich** mit **LKW zur Baustelle** zu kommen!
         - Wenn 1 WAP bereits Rampe nächster muss auf Platz **(max 1 Rampe pro Tag)**
         - **Verlade-Reihenfolge = 99 ==> EGAL**
     
