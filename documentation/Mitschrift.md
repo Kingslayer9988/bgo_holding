@@ -209,6 +209,13 @@
     - **[ABH]** => Selbstabhholung der Ware durch Kunden **(Er hat Fahrzeug/LKW)**
     - **[Ausftragsnummer: 034]** -> **Internet bestellung -> DIREKT**
 
+- **Minimap** => Kleine Karte **links unten** => Enthält **ausgewählte Datensätze**
+    - Blau => **Unverplant** oder nur am WAB
+    - Rot => Baustelle mit **Trennwand**
+    - Orange => **Verplant WAB + Untertour**
+    - Pfeile => Zeigen die **Tour von Kunde zu Kunde** (Luftlinie)
+    - Je **größer der Punkt** auf der Karte => **mehr 💵 💵 💵**
+
 - Auf der **Minimap** oder im **Unbearbeitet-Fenster** **Datensätze/Punkte** markieren => **Button: In Auswahl** => Datensätze nun im **Bearbeitungs-Fenster**
 
 - Zuerst immer **DIREKT & POST - Linien** erstellen!
