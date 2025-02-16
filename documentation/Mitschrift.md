@@ -122,7 +122,7 @@
 
         - **Verlade-Reihenfolge = 99** == Verlade-Reihenfolge = **EGAL**
 
-        - **Vorproduktion:** => **WAB in Produktionswoche** anlegen & Bei **Unter-Tour Datum fixieren** => **Lieferdatum auswählen**
+        - **Vorproduktion:** => **WAB in Produktionswoche** anlegen & Bei **Unter-Tour** => Button: **Datum fixieren** => **Lieferdatum auswählen**
 
         - **WAB-Nummern Vergabe** = Siehe **Nummern-Keis** auf **Ausdruck**
             - Aufpassen: Bei **Vorproduktionen** gibt es einen eigenen **Nummern-Kreis**
