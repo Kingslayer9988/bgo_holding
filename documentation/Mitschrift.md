@@ -190,7 +190,7 @@
 - Zuerst immer **DIREKT & POST - Linien** erstellen!
 - Anschließend dann **Wunschtermine & Fixtermine** bzw. **größere Baustellen**
 - Als nächstes **Lager-WAP's** erstellen!
-- **========================= An diesem Punkt kann fur Produktion Exportiert werden =========================**
+- **========================= An diesem Punkt kann fur Produktion Abgegeben/Exportiert werden =========================** (Siehe Punkt 420)
 - **Untertouren** sind für die **Produktion nicht relevant**.
 
 
