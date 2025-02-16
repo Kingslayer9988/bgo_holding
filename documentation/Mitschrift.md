@@ -13,7 +13,7 @@
 - **Freitag:** 
     - **Produktions-Export _(WAB's-Export)_**  => Für **MINDESTENDS $Folge_KW_4** (Bsp: **Freitag_KW7 für KW_11**) _(Siehe 420)_
     - **Transportbestellung** => Für **$Folge_KW_2** (Bsp: **Freitag_KW_07 für KW_09**) _(Siehe 420)_
-    - **Auslieferliste für Hersteller** => Für **$Folge_KW** (Bsp: **Freitag_KW_07 für KW_08**) 
+    - **Auslieferliste für Hersteller** => Für **$Folge_KW** (Bsp: **Freitag_KW_07 für KW_08**) _(Siehe 420)_
 
 - **Daily Quests**
     - Bei jedem Import von Hersteller_H **06:30 & 14:00 Täglich**
