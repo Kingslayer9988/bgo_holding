@@ -271,7 +271,7 @@
 - SC-Leiter & BGO = **R,W,D-Rights** 💀
 - Lösung für mich => **Local_Excel_File mit Extra Infos und Calculations für Lademenge etc**
 - **Force Sync** => **SC_Leiter_Excel_File + Removal of extra Infos**
-- Extras: **(WIP)**
+- Extras: **(Work in Progress)**
   - **💡 Automatic Numbering of _KW$**
   - **💡 Auto Calc of WAB_Gewicht inkl. auto. zuordnung zu Untertouren** 
   - **💡 Auto Coloring for DIREKT Touren**
