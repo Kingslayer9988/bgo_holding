@@ -4,7 +4,7 @@
 
 - **Montag:** 
     - Frachtbrief & Tourenplan für SC-Leiter => Für **$Folge_KW** -> Bsp.: **Montag_KW7 für KW08 an SC-Leiter**  => _(Siehe Zeile 238)_
-    - Starten der Planung von mindestens **$Folge_KW_4** => Siehe **3-Fenster**
+    - Starten der Planung von mindestens **$Folge_KW_5** => Siehe **3-Fenster**
 - **Dienstag:**
     - Daily Quests
 - **Mittwoch:**
@@ -13,7 +13,7 @@
     - Daily Quests + Something i keep forgetting!
 - **Freitag:** 
     - **Produktions-Export _(WAB's-Export)_**  => Für **MINDESTENDS $Folge_KW_4** (Bsp: **Freitag_KW7 für KW_11**) => _(Siehe Zeile 260)_ oder **Unbearbeitet-Fenster**
-    - **Transportbestellung** => Für **$Folge_KW_2** (Bsp: **Freitag_KW_07 für KW_09**) => _(Siehe Zeile 245)_
+    - **Transportbestellung** => Für **$Folge_KW_2** (Bsp: **Freitag_KW_07 für KW_09**) => _(Siehe Zeile 272)_
     - **Auslieferliste für Hersteller** => Für **$Folge_KW** (Bsp: **Freitag_KW_07 für KW_08**) => _(Siehe Zeile 245)_
 
 - **Daily Quests**
@@ -279,9 +279,6 @@
 - Transportbestellung im richtigen **MS-Teams** Ordner ablegen!
 - **Letzter im Team** fügt die **Excel-Imports der Mitarbeiter zusammen** und sendet sie an **Spedition Winkler**
 - **Sonderbestellungen** wie Transmato, Quehenberger(Sattel) **sofort** bei Auftrag an Spedition senden!
-
-
-
 
 ## Tipps für Excel-Listen: [Excel_Listen_Immer_pro_KW$$]
 - Werden **LIVE am Onedrive Ordner bearbeitet** 💀
