@@ -11,7 +11,7 @@
 - **Donnerstag:**
     - Daily Quests + Something i keep forgetting!
 - **Freitag:** 
-    - Produktions-Export _(WAB's-Export)_ für Hersteller_H => Für **MINDESTENDS $Folge_KW_4** (Bsp: **Freitag_KW7 für KW_11**) _(Siehe Punkt 421)_
+    - Produktions-Export _(WAB's-Export)_ für Hersteller_H => Für **MINDESTENDS $Folge_KW_4** (Bsp: **Freitag_KW7 für KW_11**) _(Siehe 420)_
 
 - **Daily Extras**
     - Bei jedem Import von Hersteller_H **06:30 & 14:00 Täglich**
