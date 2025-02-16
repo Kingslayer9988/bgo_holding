@@ -3,8 +3,8 @@
 ## Chronologischer Ablauf (Will Still have Mistakes - Aktuell für $Hersteller_H)
 
 - **Montag:** 
-    - Frachtbrief & Tourenplan für SC-Leiter => Für **$Folge_KW** -> Bsp.: **Montag_KW7 für KW08 an SC-Leiter** _(Siehe Punkt 420)_
-    - Starten der Planung von mindestens **$Folge_KW_4**
+    - Frachtbrief & Tourenplan für SC-Leiter => Für **$Folge_KW** -> Bsp.: **Montag_KW7 für KW08 an SC-Leiter**  => _(Siehe Zeile 238)_
+    - Starten der Planung von mindestens **$Folge_KW_4** => Siehe **3-Fenster**
 - **Dienstag:**
     - Daily Quests
 - **Mittwoch:**
@@ -12,9 +12,9 @@
 - **Donnerstag:**
     - Daily Quests + Something i keep forgetting!
 - **Freitag:** 
-    - **Produktions-Export _(WAB's-Export)_**  => Für **MINDESTENDS $Folge_KW_4** (Bsp: **Freitag_KW7 für KW_11**) _(Siehe 420)_
-    - **Transportbestellung** => Für **$Folge_KW_2** (Bsp: **Freitag_KW_07 für KW_09**) _(Siehe 420)_
-    - **Auslieferliste für Hersteller** => Für **$Folge_KW** (Bsp: **Freitag_KW_07 für KW_08**) _(Siehe 420)_
+    - **Produktions-Export _(WAB's-Export)_**  => Für **MINDESTENDS $Folge_KW_4** (Bsp: **Freitag_KW7 für KW_11**) => _(Siehe Zeile 260)_
+    - **Transportbestellung** => Für **$Folge_KW_2** (Bsp: **Freitag_KW_07 für KW_09**) => _(Siehe Zeile 245)_
+    - **Auslieferliste für Hersteller** => Für **$Folge_KW** (Bsp: **Freitag_KW_07 für KW_08**) => _(Siehe Zeile 245)_
 
 - **Daily Quests**
     - Bei jedem Import von Hersteller_H **06:30 & 14:00 Täglich**
@@ -258,8 +258,8 @@
 - Naming_Scheme: **ALL_$ORT[WIEN,LINZ,GRAZ,etc]_[KW$$].xlsx**
 
 ## Guide für die Abgabe der (Produktion == Lager-WAB's) für Hersteller:
-- Filter **$Folge_KW1 & $Folge_KW2 & $Folge_KW3 & $Folge_KW4**
-- Im **Touren-Reiter** makiere alle Aufträge => **Checke Gewicht und m³**
+- Filter **$Folge_KW1 & $Folge_KW2 & $Folge_KW3 & $Folge_KW4** Nacheinander
+- Im **Unbearbeitet-Fenster** makiere alle Aufträge => **Checke Gewicht und m³**
 - Erstelle immer als erstes **DIREKT & POST** Touren.
 - Als nächstes Kontrolle auf **$FIXTERMIN & $WUNSCHDATUM**
 - Lege als nächstes **DIREKT_BAUSTELLEN** an!
