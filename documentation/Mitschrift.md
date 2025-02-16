@@ -206,11 +206,11 @@
 - **Sonderbestellungen** wie Transmato, Quehenberger(Sattel) **sofort** bei Auftrag an Spedition senden!
 
 ## Gebiete Erik - Hersteller NOS 🟢
-- **Voradelberg(SC Dornbirn) + DE(S-W) + FL + CH]**
+- **Voradelberg(SC Dornbirn) + DE(S-W) + FL + CH**
     - Kein Küchenmonteur :o:
 - **Tirol (SC Innsbruck)**
     - Kein Küchenmonteur :o:
-- **Kärnten (SC Klagenfurt)**
+- **Kärnten (SC Klagenfurt) + ITA**
     - Küchenmonteur vorhanden :heavy_check_mark:
     - Kleines SC => Max 2 LKW pro Tag (1x Platz & 1x Rampe)
 - **Steiermark(SC Graz)** 
