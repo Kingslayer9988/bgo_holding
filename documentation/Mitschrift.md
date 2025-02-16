@@ -316,6 +316,7 @@
     - Kein Küchenmonteur **aber gute Monteure(Außnahme)** :heavy_check_mark:
 - **Deutschland Gesamt (SC ?? | Relock-Partner)**  _(UNSURE ASK ISABEL 😕)_
     - Noch nicht sicher :question: :question: :question:
+    - Ähnlich wie Voradelberg **(Relock ~ ULGB)**
 
 ## Other Things I got told and are probably Useful:
 - **❄️ Frozen Zone (Hali)❄️**
