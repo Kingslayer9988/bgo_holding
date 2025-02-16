@@ -96,7 +96,8 @@
 ## Fenster_2 = MIDDLE = **Bearbeitungs-Fenster**
 - Hier findet meiste **Arbeit** statt!
 
-- 🟢 = **Kunde wurde bereits Avisiert** || 🔴 => **Kunde hat altes Aviso** => **Neu senden** oder **FORCE_GREEN**
+- 🟢 = **Kunde wurde bereits Avisiert**
+- 🔴 => **Kunde hat altes Aviso** => **Neu senden** oder **FORCE_GREEN**
 
 - **FORCE_GREEN_BUTTON** => Button: **Kunden_avis_bestätigen & Aktualisieren** => **Kein Avis versendet trotzdem 🟢**
 
@@ -162,6 +163,14 @@
         - Mit Mitarbeitern und Herstellen gute Lösung finden (Isabell hat Schnittstelle vom Hersterller_H zum checken)
         - Hersteller NOS fragen => Wie Auslatungen gemssen werden => **Date am 04.03.2025 🌹** 
 
+- **Avisieren:**
+    - **Alles 2x kontrollieren**
+    - **Datum bei Touren** & **Ladereihenfolge WAB's 3x kontrollieren**
+        - **Datum** kann sich aufgrund von Tagesarbeitszeit oder falschen $BUILD_TIMES from $HERSTELLER auf nächsten Tag rutschen!
+        - **Fehler passieren hier leicht** und **keine Software-Kontrolle** für Fehler wie diese!
+        - _NOTE: Probably a big reason that "AI" is not already taking Disponenten-Jobs (needs a sick Algorithm 😄)_
+        - _NOTE: Bad for me but Probably good for Big_Boss => **Local Deepseek with Live Training here 👀👀**_
+
 - **Vor-Avisieren**
     - Gleich wie Avisieren nur im Vorfeld -> **Nicht Offizielles Aviso verwenden!**
     - Daten & Mail aus Profitour **"Aviso-Pdf"** ziehen und Mail erfassen!
@@ -172,24 +181,11 @@
     - _(NOTE2: Prozess wird **Lokal automatisiert** => **Keine Anbindung an Profitour** => **Native Script**)_
     - _(NOTE3: Laut Isabel nicht erwünscht => trotzdem Fragen zu **Persöhnlicher Verwendung!**) (UNSURE ASK BIG-BOSS 😕)_
 
-- **Avisieren:**
-    - **Alles 2x kontrollieren**
-    - **Datum bei Touren** & **Ladereihenfolge WAB's 3x kontrollieren**
-        - **Datum** kann sich aufgrund von Tagesarbeitszeit oder falschen $BUILD_TIMES from $HERSTELLER auf nächsten Tag rutschen!
-        - **Fehler passieren hier leicht** und **keine Software-Kontrolle** für Fehler wie diese!
-        - _NOTE: Probably a big reason that "AI" is not already taking Disponenten-Jobs (needs a sick Algorithm 😄)_
-        - _NOTE: Bad for me but Probably good for Big_Boss => **Local Deepseek with Live Training here 👀👀**_
-
-
 ## Fenster_3 = BOTTOM = **Unbearbeitet-Fenster** (Gleich wie Datenbank_Ansicht mit "Auswahl" nach SQL-Query)
-- **[DIR | STK | PST]** => **Alle DIREKT** => **Kein LAGER-WAB**
-- **[ABH]** => Selbstabhholung der Ware durch Kunden **(Er hat Fahrzeug/LKW)**
-- **[Ausftragsnummer: 034]** -> **Internet bestellung -> DIREKT**
-
-
-
-
-
+- Tipps: 
+    - **[DIR | STK | PST]** => **Alle DIREKT** => **Kein LAGER-WAB**
+    - **[ABH]** => Selbstabhholung der Ware durch Kunden **(Er hat Fahrzeug/LKW)**
+    - **[Ausftragsnummer: 034]** -> **Internet bestellung -> DIREKT**
 
 
 
