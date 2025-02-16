@@ -48,6 +48,12 @@
 - **[DIR | STK | PST]** -> **Alle DIREKT**
 - **[Ausftragsnummer: 034]** -> **Internet bestellung -> DIREKT**
 - Rechtsklick auf Datenbank-Row => **Transportauftrag** => Für Planung und **Calculation-Script**
+- Kommentar_Felder von Seite **BGO**:
+    - Feld = **Bemerkung Montage** ==> Bemerkung für **Montage Arbeiter** => **(kleine Änderungen | Hinweise | Adresseänderung/Zufahrt)**
+        - Bei **Adress-Änderungen/Fehler** => **Mail an Hersteller** um weitere Fehler zu vermeiden!
+        - Falls **Plant-SC-Leiter-Tour** => SC-Leiter anrufen!
+    - Feld =
+    - Feld =   
 
 - **Vor-Avisieren**
     - Gleich wie Avisieren nur im Vorfeld -> **Nicht Offizielles Aviso verwenden!**
