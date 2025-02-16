@@ -152,6 +152,14 @@
 - Naming_Scheme: **ALL_$ORT[WIEN,LINZ,GRAZ,etc]_[KW$$].xlsx**
 
 ## Abgabe der Produktion (Lager-WAB's) für Hersteller:
+- Filter **$Folge_KW1 & $Folge_KW2 & $Folge_KW3 & $Folge_KW4**
+- Im **Touren-Reiter** makiere alle Aufträge => **Checke Gewicht und m³**
+- Erstelle immer als erstes **DIREKT & POST** Touren.
+- Als nächstes Kontrolle auf **$FIXTERMIN & $WUNSCHDATUM**
+- Lege als nächstes **DIREKT_BAUSTELLEN** an!
+- Als Abschluss die **Lager-WAB's** ohne **Unter-Touren**
+- **KONTROLLE !!! (Schnellschüsse || Liefer_KW =! Prod_KW || etc.)**
+- Links oben auf Export ==> **Produktion des Herstelles wird eingelastet!!**
 - **Deadline verschieden für alle 3 Hersteller**
 - Hersteller_H => 3 Wochen unterschied => **Bsp.: spät. Freitag KW7 für KW_11**
 
