@@ -258,7 +258,7 @@
 - Save as **.xlsx** => **(Will delete Makros)**
 - Naming_Scheme: **ALL_$ORT[WIEN,LINZ,GRAZ,etc]_[KW$$].xlsx**
 
-## Abgabe der (Produktion == Lager-WAB's) für Hersteller:
+## Guide für die Abgabe der (Produktion == Lager-WAB's) für Hersteller:
 - Filter **$Folge_KW1 & $Folge_KW2 & $Folge_KW3 & $Folge_KW4**
 - Im **Touren-Reiter** makiere alle Aufträge => **Checke Gewicht und m³**
 - Erstelle immer als erstes **DIREKT & POST** Touren.
@@ -270,7 +270,7 @@
 - **Deadline verschieden für alle 3 Hersteller**
 - Hersteller_H => 3 Wochen unterschied => **Bsp.: spät. Freitag KW7 für KW_11**
 
-## Transportbestellung Infos:
+## Guide für die Transportbestellung:
 - Immer **Freitags $Aktulle_KW** für **$Folge_KW_2** ==> **(Bsp.: Fr, KW7 für KW9)**
 - Filter -> **[Touren / Auflade Zeit]** -> **KW Mo - Sa, auswählen**
 - **Schnittstelle -> Export in Excel** -> safe as .xlxs Name: **Transportbestellunhg_KW__**
