@@ -37,16 +37,11 @@
     - Für **Anvisieren** und erstellen von Touren => Abfrage von **[Lieferwoche]**
     - Für **Transportbestellung** (Winkler, etc) => Abfrage von **[Touren]**
 
-
-
 ### Nach der Auswahl der richtigen Datenbank-Einträge (Zeilen) => Klicke: "Übernahme in Planung"
-
-
 
 ### Ansicht_2 = Planungs_Ansicht
 - Nach **Übernahme in Planung sichtbar**
 - Besteht aus **3 Fenstern**
-
 
 ## Fenster_1 => TOP => **Touren-Fenster**
 
@@ -79,6 +74,7 @@
             - **Jumbo** = Bei über 35m³ (KEIN UMLADEN MÖGLICH)
             - _(UNSURE ASK ISABEL 😕)_ - Mir kommt hier etwas Spanisch vor!! (SPÄTER AM WORK-PC NACHSEHEN!)
             - **Extra:** **Sattel** = 60m³ => **KEINEN CONTAINER AUF TOUR ZIEHEN!**
+    
     - **Richtiges Fahrezug auf Touren ziehen!**
         - 3,5t Fahrzeug für Touren <= 3,5t Tonnen Fahrzeuge
         - 7,5t Fahrzeug für Touren <= 7,5t Tonnen Fahrzeuge
@@ -97,7 +93,7 @@
 
 
 ## Fenster_2 = MIDDLE = **Bearbeitungs-Fenster**
-- Hier findet die **Arbeit** statt => Hier werden die **Linien erstellt**!
+- Hier findet meiste **Arbeit** statt!
 
 - 🟢 = **Kunde wurde bereits Avisiert** || 🔴 => **Kunde hat altes Aviso** => **Neu senden** oder **FORCE_GREEN**
 
