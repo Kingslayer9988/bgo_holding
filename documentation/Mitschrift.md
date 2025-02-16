@@ -159,10 +159,6 @@
         - Öffne **Sammelmappe** => Button: **Übernahme in die Planung**
         - Auftrag ist nun im **Unbearbeitet-Fenster** => Splitten, WAP, etc. => **behandeln wie neuen Auftag**
 
-    - **Wochenauslatung des jeweiligen Herstelller beachten**
-        - Mit Mitarbeitern und Herstellen gute Lösung finden (Isabell hat Schnittstelle vom Hersterller_H zum checken)
-        - Hersteller NOS fragen => Wie Auslatungen gemssen werden => **Date am 04.03.2025 🌹** 
-
     - **Avisieren:**
         - **Alles 2x kontrollieren**
         - **Datum bei Touren** & **Ladereihenfolge WAB's 3x kontrollieren**
@@ -180,6 +176,10 @@
         - _(NOTE1: Gesamter Prozess könnte **easy automatisiert werden**)_
         - _(NOTE2: Prozess wird **Lokal automatisiert** => **Keine Anbindung an Profitour** => **Native Script**)_
         - _(NOTE3: Laut Isabel nicht erwünscht => trotzdem Fragen zu **Persöhnlicher Verwendung!**) (UNSURE ASK BIG-BOSS 😕)_
+
+    - **Wochenauslatung des jeweiligen Herstelller beachten**
+        - Mit **Mitarbeitern und Herstellen gute Lösung finden** (Isabell hat Schnittstelle vom Hersterller_H zum checken)
+        - Hersteller_NOS fragen => Wie Auslatungen gemssen werden => **Date am 04.03.2025 & 11-12.03.2025 🌹** 
 
 ## Fenster_3 = BOTTOM = **Unbearbeitet-Fenster** (Gleich wie Datenbank_Ansicht mit "Auswahl" nach SQL-Query)
 - Hier starten wir nachdem wir in der **Datenbank-Ansicht unser Gebiet ausgewählt** haben!
