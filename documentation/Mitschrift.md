@@ -247,8 +247,8 @@
 - Für **Hersteller == Alle Touren außer [Lager-WAB's] -> %%Immer Freitags für Nächste KW**
 
 - Für **SC-Leiter == alle Touren außer [POST, Direkt, Lager-WAB's]**
-- **Auslieferlisten_SC** kommen von **SC-Leiter** zurück mit **allen 3 Herstellern kombiniert**
-- Haben **Infos** über genaue Touren, Mitarbeiter, Fahrzeuge etc. => Naming_Scheme: **Auslieferliste_$SC-Leiter_$KW__**
+    - **Auslieferlisten_SC** kommen von **SC-Leiter** zurück mit **allen 3 Herstellern kombiniert**
+    - Haben **Infos** über genaue Touren, Mitarbeiter, Fahrzeuge etc. => Naming_Scheme: **Auslieferliste_$SC-Leiter_$KW__**
 
 ### Auslieferliste Guide:
 - Single .csv Excel file -> Apply Makro -> **Save as .xlsx** save for **SC-Leiter** & **HERSTELLER**  = **receive it without Makros**
@@ -258,7 +258,7 @@
 - Save as **.xlsx** => **(Will delete Makros)**
 - Naming_Scheme: **ALL_$ORT[WIEN,LINZ,GRAZ,etc]_[KW$$].xlsx**
 
-## Abgabe der Produktion (Lager-WAB's) für Hersteller:
+## Abgabe der (Produktion == Lager-WAB's) für Hersteller:
 - Filter **$Folge_KW1 & $Folge_KW2 & $Folge_KW3 & $Folge_KW4**
 - Im **Touren-Reiter** makiere alle Aufträge => **Checke Gewicht und m³**
 - Erstelle immer als erstes **DIREKT & POST** Touren.
