@@ -46,54 +46,34 @@
 - Nach **Übernahme in Planung sichtbar**
 - Besteht aus **3 Fenstern**
 
-## Fenster_1 => TOP => **Touren-Fenster**
+## Fenster_3 = BOTTOM = **Unbearbeitet-Fenster** + Minimap (Gleich wie Datenbank_Ansicht)
+- Hier starten wir nachdem wir in der **Datenbank-Ansicht unser Gebiet ausgewählt** haben!
 
-- Hier findest du deine **Zusammengestellten Touren** (Lager-WAB's, Untertouren, Post-Tour)
+- Wichtige Infos zu den Ausgewählten Datensätzen: 
+    - **[DIR | STK | PST]** => **Alle DIREKT** => **Kein LAGER-WAB**
+        - **[PST]** Aufträge mit über **5m³** ==> **Falsche Eingabe** von **Hersteller**
+    - **[ABH]** => Selbstabhholung der Ware durch Kunden **(Er hat Fahrzeug/LKW)**
+    - **[Ausftragsnummer: 034]** -> **Internet bestellung -> DIREKT**
 
-- Der Inhalt dieses Fensters wird **Exportiert zum Hersteller** (Produktions_Abgabe)
+- **Minimap** => Kleine Karte **links unten** => Enthält **ausgewählte Datensätze**
+    - Blau => **Unverplant** oder nur am WAB
+    - Rot => Baustelle mit **Trennwand**
+    - Orange => **Verplant WAB + Untertour**
+    - Pfeile => Zeigen die **Tour von Kunde zu Kunde** (Luftlinie)
+    - Je **größer der Punkt** auf der Karte => **mehr 💵 💵 💵**
 
-- **Tipps:**
-    - Rechtsklick auf Tour (Datenbank-Row) => **Transportauftrag** => Für **Zeit-Planung bzw. Calculation-Script**
-    - Bei "Plant SC-Leiter Touren" die Anzahl der Kunden dazuschreiben => Bsp-Name: **Plant_SC_Leiter_6_Kunden**
-    
-    - Kommentar_Felder:
-        - **Bemerkung Montage** ==> Infos für **Montage Arbeiter** => **Bsp.: (kleine Änderungen | Hinweise | Adresseänderung/Zufahrt)**
-            - Bei **Adress-Änderungen/Fehler** => **Mail an Hersteller** um weitere Fehler zu vermeiden!
-            - Falls **Plant-SC-Leiter-Tour** => SC-Leiter anrufen!
-        
-        - **Bemerkung Transport** => Infos für die Spedition => **Bsp.: (Ladereihenfolge, Sonderliche-Ladegüter, Zoll)**
-        
-        - **Bemerkung Versand** => Infos für den **$Hersteller** => **Bsp.: (???)** _(UNSURE ASK ISABEL 😕)_
+- Auf der **Minimap** oder im **Unbearbeitet-Fenster** **Datensätze/Punkte** markieren => **Button: In Auswahl** => Datensätze nun im **Bearbeitungs-Fenster**
 
-- **Fahrzeuge**
-    - Fahrzeuge müssen den **Touren richtig zugeordnet** werden (Fahrzeuge sind **Links oben** im Vehice-Sub-Window)
-    
-    - Richtige Spedition auf Tour ziehen! 
-        - Spedition ist **NOTWENDIG** für **alle Touren** => Bsp. **Spedition_Winkler**
-        
-    - **Richtigen Container auf Touren ziehen!**
-        - Container ist **NOTWENDIG** für **Lager-WAB's** && **Direkt_Baustelle** => Bsp. **Winkler_Egal|Normal|Jumbo**
-            - **NORMAL** = Bei LagerWAB's (Umladen)
-            - **EGAL** = Bei Direkt_Baustelle (Kein Umladen)
-            - **JUMBO** = Bei über 35m³ => **Immer_Direkt** (KEIN UMLADEN MÖGLICH)
-            - **Extra:** **Sattel** = 60m³ => **KEINEN CONTAINER AUF TOUR ZIEHEN!**
-    
-    - **Richtiges Fahrezug auf Touren ziehen!**
-        - 3,5t Fahrzeug für Touren <= 3,5t Tonnen Fahrzeuge
-        - 7,5t Fahrzeug für Touren <= 7,5t Tonnen Fahrzeuge
-        - $LKW_$SPED für Touren <= LKW Fahrzeuge
-        - Bei Touren wo Bsp. 7,5t und 3,5t Fahrzeuge eingesetzt werden => **7,5t Fahrzeug nehmen!!**
+- Zuerst immer **DIREKT & POST - Linien** erstellen!
+    - Maximal **1 Postversand_SC(ORT) Linie** pro KW [900]
 
-    - **Fahrzeuge are completely messed up for some areas => needs fixing!** => **Absprache mit SC-Leiter**
-        - _Note: Isabel macht **extra Arbeit** => Eintragen von **3,5t | 7,5t** => Weil SC-Leiter Fahrzeuge nicht Ändern will (UNSURE ASK BIG-BOSS 😕)_
-    
-    - **Fahrzeug_Tabelle:**
-        - Selten: **Sattel (Nicht Winkler)** => **~60m³** => **(2x WAB's pro Sattel)** (C-FS) [Quehenberger]
-        - Jumbo_WAB (LKW) => **max. ~ 35m³ => NUR FÜR DIREKT** = PASST NICHT INS LAGER (C-FS)
-        - WAB (LKW) **(Direkt | Lager_WAB) => 30m³ => EGAL** (C-FS)
-        - 7,5t Fahrzeug => **max. ~ 15m³ & 1000kg** [LAGER-WAB] (C-FS)
-        - 3,5t Fahrzeug => **max. ~ 600kg** [LAGER-WAB] (B-FS)
+- Anschließend dann **Wunschtermine & Fixtermine** bzw. **größere Baustellen**
 
+- Als nächstes **Lager-WAB's** erstellen!
+
+- **========================= An diesem Punkt kann fur Produktion Abgegeben/Exportiert werden =========================** (Siehe Punkt 420)
+
+- **Untertouren** sind für die **Produktion nicht relevant**.
 
 ## Fenster_2 = MIDDLE = **Bearbeitungs-Fenster**
 - Hier findet meiste **Arbeit** statt!
@@ -207,34 +187,56 @@
         - Mit **Mitarbeitern und Herstellen gute Lösung finden** (Isabell hat Schnittstelle vom Hersterller_H zum checken)
         - Hersteller_NOS fragen => Wie Auslatungen gemssen werden => **Date am 04.03.2025 & 11-12.03.2025 🌹** 
 
-## Fenster_3 = BOTTOM = **Unbearbeitet-Fenster** + Minimap (Gleich wie Datenbank_Ansicht)
-- Hier starten wir nachdem wir in der **Datenbank-Ansicht unser Gebiet ausgewählt** haben!
+## Fenster_1 => TOP => **Touren-Fenster**
 
-- Wichtige Infos zu den Ausgewählten Datensätzen: 
-    - **[DIR | STK | PST]** => **Alle DIREKT** => **Kein LAGER-WAB**
-        - **[PST]** Aufträge mit über **5m³** ==> **Falsche Eingabe** von **Hersteller**
-    - **[ABH]** => Selbstabhholung der Ware durch Kunden **(Er hat Fahrzeug/LKW)**
-    - **[Ausftragsnummer: 034]** -> **Internet bestellung -> DIREKT**
+- Hier findest du deine **Zusammengestellten Touren** (Lager-WAB's, Untertouren, Post-Tour)
 
-- **Minimap** => Kleine Karte **links unten** => Enthält **ausgewählte Datensätze**
-    - Blau => **Unverplant** oder nur am WAB
-    - Rot => Baustelle mit **Trennwand**
-    - Orange => **Verplant WAB + Untertour**
-    - Pfeile => Zeigen die **Tour von Kunde zu Kunde** (Luftlinie)
-    - Je **größer der Punkt** auf der Karte => **mehr 💵 💵 💵**
+- Der Inhalt dieses Fensters wird **Exportiert zum Hersteller** (Produktions_Abgabe)
 
-- Auf der **Minimap** oder im **Unbearbeitet-Fenster** **Datensätze/Punkte** markieren => **Button: In Auswahl** => Datensätze nun im **Bearbeitungs-Fenster**
+- **Tipps:**
+    - Rechtsklick auf Tour (Datenbank-Row) => **Transportauftrag** => Für **Zeit-Planung bzw. Calculation-Script**
+    - Bei "Plant SC-Leiter Touren" die Anzahl der Kunden dazuschreiben => Bsp-Name: **Plant_SC_Leiter_6_Kunden**
+    
+    - Kommentar_Felder:
+        - **Bemerkung Montage** ==> Infos für **Montage Arbeiter** => **Bsp.: (kleine Änderungen | Hinweise | Adresseänderung/Zufahrt)**
+            - Bei **Adress-Änderungen/Fehler** => **Mail an Hersteller** um weitere Fehler zu vermeiden!
+            - Falls **Plant-SC-Leiter-Tour** => SC-Leiter anrufen!
+        
+        - **Bemerkung Transport** => Infos für die Spedition => **Bsp.: (Ladereihenfolge, Sonderliche-Ladegüter, Zoll)**
+        
+        - **Bemerkung Versand** => Infos für den **$Hersteller** => **Bsp.: (???)** _(UNSURE ASK ISABEL 😕)_
 
-- Zuerst immer **DIREKT & POST - Linien** erstellen!
-    - Maximal **1 Postversand_SC(ORT) Linie** pro KW [900]
+- **Fahrzeuge**
+    - Fahrzeuge müssen den **Touren richtig zugeordnet** werden (Fahrzeuge sind **Links oben** im Vehice-Sub-Window)
+    
+    - Richtige Spedition auf Tour ziehen! 
+        - Spedition ist **NOTWENDIG** für **alle Touren** => Bsp. **Spedition_Winkler**
+        
+    - **Richtigen Container auf Touren ziehen!**
+        - Container ist **NOTWENDIG** für **Lager-WAB's** && **Direkt_Baustelle** => Bsp. **Winkler_Egal|Normal|Jumbo**
+            - **NORMAL** = Bei LagerWAB's (Umladen)
+            - **EGAL** = Bei Direkt_Baustelle (Kein Umladen)
+            - **JUMBO** = Bei über 35m³ => **Immer_Direkt** (KEIN UMLADEN MÖGLICH)
+            - **Extra:** **Sattel** = 60m³ => **KEINEN CONTAINER AUF TOUR ZIEHEN!**
+    
+    - **Richtiges Fahrezug auf Touren ziehen!**
+        - 3,5t Fahrzeug für Touren <= 3,5t Tonnen Fahrzeuge
+        - 7,5t Fahrzeug für Touren <= 7,5t Tonnen Fahrzeuge
+        - $LKW_$SPED für Touren <= LKW Fahrzeuge
+        - Bei Touren wo Bsp. 7,5t und 3,5t Fahrzeuge eingesetzt werden => **7,5t Fahrzeug nehmen!!**
 
-- Anschließend dann **Wunschtermine & Fixtermine** bzw. **größere Baustellen**
+    - **Fahrzeuge are completely messed up for some areas => needs fixing!** => **Absprache mit SC-Leiter**
+        - _Note: Isabel macht **extra Arbeit** => Eintragen von **3,5t | 7,5t** => Weil SC-Leiter Fahrzeuge nicht Ändern will (UNSURE ASK BIG-BOSS 😕)_
+    
+    - **Fahrzeug_Tabelle:**
+        - Selten: **Sattel (Nicht Winkler)** => **~60m³** => **(2x WAB's pro Sattel)** (C-FS) [Quehenberger]
+        - Jumbo_WAB (LKW) => **max. ~ 35m³ => NUR FÜR DIREKT** = PASST NICHT INS LAGER (C-FS)
+        - WAB (LKW) **(Direkt | Lager_WAB) => 30m³ => EGAL** (C-FS)
+        - 7,5t Fahrzeug => **max. ~ 15m³ & 1000kg** [LAGER-WAB] (C-FS)
+        - 3,5t Fahrzeug => **max. ~ 600kg** [LAGER-WAB] (B-FS)
 
-- Als nächstes **Lager-WAB's** erstellen!
 
-- **========================= An diesem Punkt kann fur Produktion Abgegeben/Exportiert werden =========================** (Siehe Punkt 420)
 
-- **Untertouren** sind für die **Produktion nicht relevant**.
 
 ## Frachtbriefe (Bestehen aus 2-PDF's):
 - **Auswahl der Tour im Oberen Fenster** -> Frachtbrief -> Print as PDF -> Naming_Scheme: **[TT]_TOURNUMMER**
