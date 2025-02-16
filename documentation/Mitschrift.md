@@ -113,13 +113,15 @@
         
         - Wenn 1 WAP bereits Rampe nächster muss auf Platz **(max 1 Rampe pro Tag)**
 
-        - **Verlade-Reihenfolge = 99 ==> EGAL**
+        - **Automatische Verlade-Reihenfolge** (Meinst Segen manchmal Fluch)
+            - **Auto-Button** berücksichtigt **keine Manuellen Änderungen** => **[Reset]**
+            - Bei **Manuelle-Ladereihenfolge** verwendet wurde => Im **Kommentarfeld "Bemerkung Montage"** vermerken _(UNSURE ASK ISABEL 😕)_
+                - Wieso überhaupt Manuell ? => **Wenn 2 Touren** an **1 Tag** aus **1 WAP geladen** werden.
+                - _NOTE: **Excel-Makro** zum Fehlerschutz erstellen_
+
+        - Verlade-Reihenfolge = **99** == Verladereihenbfolge = **EGAL**
     
-    - **Automatische Verlade-Reihenfolge** (Meinst Segen manchmal Fluch)
-        - **Auto-Button** berücksichtigt keine Manuellen Änderungen => Reset
-        - Bei **Manuelle-Ladereihenfolge** verwendet wurde => Im **Kommentarfeld "Bemerkung Montage"** vermerken _(UNSURE ASK ISABEL 😕)_
-            - Wieso überhaupt Manuell ? => **Wenn 2 Touren** an **1 Tag** aus **1 WAP geladen** werden.
-            - _NOTE: **Excel-Makro** zum Fehlerschutz erstellen_
+    
 
     - **Naming-Scheme für Touren:**
         - **DIREKT** => PST, DIR, N:04 => **DIREKT $ORT1 $ORT2 WOCHENTAG(TT)**
