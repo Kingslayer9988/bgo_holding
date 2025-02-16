@@ -138,7 +138,7 @@
         - **_____(Leer)** => Direkt-LKW auf Baustelle => **__LEER $ORT1 $ORT2 WOCHENTAG(TT)**
         - **SC WAB für [LKW | 7,5t | 3,5t] Touren** => Items werden umgeladen in LKW oder 3,5t oder 7,5t => **SC WAB $ORT1 für $Vehicle1|2|3 Touren WOCHENTAG(TT)**
         - Beispiele:
-            - Direkt_Post | Innsbruck - Landeck | DI ==> (Direkt/Postversand am Dienstag)
+            - Direkt|Post_Versand | Innsbruck - Landeck | DI ==> (Direkt/Postversand am Dienstag)
             - SC WAB | Innsbruck | für 7,5t & 3,5t | MI ==> (Lager-WAB für 7,5t & 3,5t Touren)
                 - SC Touren für 7,5t & 3,5t | Innsbruck - Wörgl | | DO ==> (Untertouren 7,5t & 3,5t Fahrzeuge -> Von Lager-WAB)
             - Seefeld | DO  ==> (Direkt-LKW Tour zur Baustelle)
