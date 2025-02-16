@@ -244,8 +244,9 @@
 - Ablage auf Onedrive 😨 Ordner that never syncs even 10MB's 😂
 
 ## Auslieferlisten Infos:
-- Für **SC-Leiter == alle Touren außer [POST, Direkt, Lager-WAB's]**
 - Für **Hersteller == Alle Touren außer [Lager-WAB's] -> %%Immer Freitags für Nächste KW**
+
+- Für **SC-Leiter == alle Touren außer [POST, Direkt, Lager-WAB's]**
 - **Auslieferlisten_SC** kommen von **SC-Leiter** zurück mit **allen 3 Herstellern kombiniert**
 - Haben **Infos** über genaue Touren, Mitarbeiter, Fahrzeuge etc. => Naming_Scheme: **Auslieferliste_$SC-Leiter_$KW__**
 
