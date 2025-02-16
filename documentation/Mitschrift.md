@@ -13,8 +13,9 @@
 - **Freitag:** 
     - **Produktions-Export _(WAB's-Export)_**  => Für **MINDESTENDS $Folge_KW_4** (Bsp: **Freitag_KW7 für KW_11**) _(Siehe 420)_
     - **Transportbestellung** => Für **$Folge_KW_2** (Bsp: **Freitag_KW_07 für KW_09**) _(Siehe 420)_
+    - **Auslieferliste für Hersteller** => Für **$Folge_KW** (Bsp: **Freitag_KW_07 für KW_08**) 
 
-- **Daily Extras**
+- **Daily Quests**
     - Bei jedem Import von Hersteller_H **06:30 & 14:00 Täglich**
         - **Alle neuen Aufträge** wieder verplanen für **$Aktuelle_KW & $Folge_KW_1 & $Folge_KW_2**
         - Außnahme **Freitags 14:00: Nur DIREKT/POST** Lieferungen verplanen **(Runde der Mitarbeiter)** 
