@@ -3,31 +3,31 @@
 ## Chronologischer Ablauf (Will Still have Mistakes - Aktuell für $Hersteller_H)
 
 - **Montag:** 
-    - Frachtbriefe & Tourenplan für SC-Leiter => Für **$Folge_KW** -> Bsp.: **Montag_KW7 für KW08 an SC-Leiter**  => _(Siehe Zeile 238)_
+    - Frachtbriefe & Tourenplan für SC-Leiter => Für **$Folge_KW** -> Bsp.: **Montag_KW7 für KW08 an SC-Leiter**  => [Siehe Zeile 238](#frachtbriefe-bestehen-aus-2-pdfs)
     - Starten der Planung von mindestens **$Folge_KW_5** => Siehe **3-Fenster**
 - **Dienstag:**
     - Daily Quests
 - **Mittwoch:**
     - Daily Quests
 - **Donnerstag:**
-    - Daily Quests + Something i keep forgetting!
+    - Daily Quests + Something I keep forgetting!
 - **Freitag:** 
-    - **Produktions-Export _(WAB's-Export)_**  => Für **MINDESTENDS $Folge_KW_4** (Bsp: **Freitag_KW7 für KW_11**) => _(Siehe Zeile 260)_ oder **Unbearbeitet-Fenster**
-    - **Transportbestellung** => Für **$Folge_KW_2** (Bsp: **Freitag_KW_07 für KW_09**) => _(Siehe Zeile 272)_
-    - **Auslieferliste für Hersteller** => Für **$Folge_KW** (Bsp: **Freitag_KW_07 für KW_08**) => _(Siehe Zeile 245)_
+    - **Produktions-Export _(WAB's-Export)_**  => Für **MINDESTENS $Folge_KW_4** (Bsp: **Freitag_KW7 für KW_11**) => [Siehe Zeile 260](#guide-für-die-abgabe-der-produktion--lager-wabs-für-hersteller) oder **Unbearbeitet-Fenster**
+    - **Transportbestellung** => Für **$Folge_KW_2** (Bsp: **Freitag_KW_07 für KW_09**) => [Siehe Zeile 272](#guide-für-die-transportbestellung)
+    - **Auslieferliste für Hersteller** => Für **$Folge_KW** (Bsp: **Freitag_KW_07 für KW_08**) => [Siehe Zeile 245](#auslieferlisten-infos)
 
 - **Daily Quests**
     - Bei jedem Import von Hersteller_H **06:30 & 14:00 Täglich**
         - Nachplanen => **Alle neuen Aufträge** wieder verplanen für **$Folge_KW_1 & $Folge_KW_2 & $Folge_KW_3 & $Folge_KW_4**
-        - Außnahme **Freitags 14:00: Nur DIREKT/POST** Lieferungen verplanen **(Runde der Mitarbeiter)** 
+        - Ausnahme **Freitags 14:00: Nur DIREKT/POST** Lieferungen verplanen **(Runde der Mitarbeiter)** 
     - **TV's** machen die Anfallen!
 
-# Profi-Tour for absolute Dummys
+# Profi-Tour for absolute Dummies
 
 ### Number One ⚖️ LAW => Don't mess with Profi-Tour-Profile from Isabel ✅
 ### Number Two ⚖️ LAW => Bei jeder Änderung -> Export für Hersteller ✅
-### Number Three ⚖️ LAW => Dont even try SPECIAL_LETTERS(§$%_-) in Profitour ✅
-### Number Four ⚖️ LAW => Dont open to many Instances because you will double Import ✅
+### Number Three ⚖️ LAW => Don't even try SPECIAL_LETTERS(§$%_-) in Profitour ✅
+### Number Four ⚖️ LAW => Don't open too many Instances because you will double Import ✅
 
 ## Profi Tour besteht aus 2-Teilen bzw. Ansichten (Datenbank & Planungs - Ansicht)
 
@@ -52,8 +52,8 @@
 - Wichtige Infos zu den Ausgewählten Datensätzen: 
     - **[DIR | STK | PST]** => **Alle DIREKT** => **Kein LAGER-WAB**
         - **[PST]** Aufträge mit über **5m³** ==> **Falsche Eingabe** von **Hersteller**
-    - **[ABH]** => Selbstabhholung der Ware durch Kunden **(Er hat Fahrzeug/LKW)**
-    - **[Ausftragsnummer: 034]** -> **Internet bestellung -> DIREKT**
+    - **[ABH]** => Selbstabholung der Ware durch Kunden **(Er hat Fahrzeug/LKW)**
+    - **[Auftragsnummer: 034]** -> **Internet Bestellung -> DIREKT**
 
 - **Minimap** => Kleine Karte **links unten** => Enthält **ausgewählte Datensätze**
     - Blau => **Unverplant** oder nur am WAB
@@ -71,7 +71,7 @@
 
 - Als nächstes **Lager-WAB's** erstellen!
 
-- **========================= An diesem Punkt kann fur Produktion Abgegeben/Exportiert werden =========================** (Siehe Punkt 420)
+- **========================= An diesem Punkt kann für Produktion Abgegeben/Exportiert werden =========================** [Siehe Punkt 420](#guide-für-die-abgabe-der-produktion--lager-wabs-für-hersteller)
 
 - **Untertouren** sind für die **Produktion nicht relevant**.
 
@@ -97,7 +97,7 @@
         
         - Wenn 1 WAB bereits Rampe nächster muss auf Platz **(max 1 Rampe pro Tag)**
 
-        - **Automatische Verlade-Reihenfolge** (Meinst Segen manchmal Fluch)
+        - **Automatische Verlade-Reihenfolge** (Meist Segen manchmal Fluch)
             - **Auto-Button** berücksichtigt **keine Manuellen Änderungen** => **[Reset]**
             - Bei **Manuelle-Ladereihenfolge** verwendet wurde => Im **Kommentarfeld "Bemerkung Montage"** vermerken _(UNSURE ASK ISABEL 😕)_
                 - Wieso überhaupt Manuell ? => **Wenn 2 Touren** an **1 Tag** aus **1 WAB geladen** werden.
@@ -108,15 +108,15 @@
         - **Vorproduktion:** => **WAB in Produktionswoche** anlegen & Bei **Unter-Tour** => Button: **Datum fixieren** => **Lieferdatum auswählen**
 
         - **Lager-WAB's** sind von **Seite BGO günstiger** wenn sie **zusammen gefahren** das heißt:
-            - **2 WAB's** mit **LKW + Anhäger** am Dienstag ist **billiger** als **1 WAP** mit LKW am Dienstag **+ 1 WAP** mit LKW am Donnerstag
+            - **2 WAB's** mit **LKW + Anhänger** am Dienstag ist **billiger** als **1 WAB** mit LKW am Dienstag **+ 1 WAB** mit LKW am Donnerstag
             - Aufpassen teilweise **Spedition und SC-Leiter** aufgrund von **Auslastung** nicht Happy 
 
-        - **WAB-Nummern Vergabe** = Siehe **Nummern-Keis** auf **Ausdruck**
+        - **WAB-Nummern Vergabe** = Siehe **Nummern-Kreis** auf **Ausdruck**
             - Aufpassen: Bei **Vorproduktionen** gibt es einen eigenen **Nummern-Kreis**
     
     - **Transportauftragslisten:** NAME _(UNSURE ASK ISABEL 😕)_
         - Rechtsklick auf Auftrag (SQL-Datensatz) => **Transportauftrag** => Für **Zeit-Planung bzw. Calculation-Script**
-        - Sollte bei **jedem Auftrag** kontrolliert bzw. **nachgerrechnet** werden. => Für Kalkulation - **Skript zur Abhilfe** siehe README.md!
+        - Sollte bei **jedem Auftrag** kontrolliert bzw. **nachgerechnet** werden. => Für Kalkulation - **Skript zur Abhilfe** siehe README.md!
         - Bei **kleinen Küchen** mit **SC-Leiter abklären** ob wir sie selbst machen können!
 
     
@@ -129,10 +129,10 @@
             - SC WAB | Innsbruck | für 7,5t & 3,5t | MI ==> (Lager-WAB für 7,5t & 3,5t Touren)
                 - SC Touren für 7,5t & 3,5t | Innsbruck - Wörgl | | DO ==> (Untertouren 7,5t & 3,5t Fahrzeuge -> Von Lager-WAB)
             - Seefeld | DO  ==> (Direkt-LKW Tour zur Baustelle)
-            - Plant SC Leiter | Imst - Reutte | 6 Kunden ==> (Untertour die SC-Leiter Plant) [Siehe 420]
+            - Plant SC Leiter | Imst - Reutte | 6 Kunden ==> (Untertour die SC-Leiter Plant) [Siehe 420](#guide-für-die-abgabe-der-produktion--lager-wabs-für-hersteller)
 
     - **Bei knappen/komischen Touren** => **Plant SC-Leiter** bzw. **Absprache mit SC-Leiter**
-        - **❌ Nicht gewünscht** -> Suboptimal -> **Außnahme Voradelberg**
+        - **❌ Nicht gewünscht** -> Suboptimal -> **Ausnahme Voradelberg**
     
      - **Voradelberg ist anders** => **Untertouren werden von ULGB (Oliver) Zusammengestellt**
         - **Untertouren werden von ULGB zusammengestellt** nach einer Liste von uns!
@@ -155,7 +155,7 @@
         - Im Bearbeitungs-Fenster:
             - Gehe zur genauen Position der TV
             - Falls nur **ein Teil einer Position fehlt** => Button: **(UNSURE ASK ISABEL 😕)**
-            - Beim teilen zuerst die **Anzahl der Teilstücke** dann die **Stückzahl** => (Bsp.: 3/7 Sessel in TV => Teilen 2 Teilstücke mit 4 Rest)
+            - Beim Teilen zuerst die **Anzahl der Teilstücke** dann die **Stückzahl** => (Bsp.: 3/7 Sessel in TV => Teilen 2 Teilstücke mit 4 Rest)
             - Button: **Aus Tour lösen und Rückgängig machen** (Nach Teilung nicht notwendig (UNSURE ASK ISABEL 😕))
         - Wenn **WAB-Tour in der Zukunft** => **Verladereihenfolge neu richten**
         - Anschließend oben Button: **Selection** (Sonst Probleme im Bearbeitungsfenster)
