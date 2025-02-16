@@ -39,7 +39,7 @@
 - Tipps:
     - Für **Auslieferlisten**  => Abfrage von **[Prod & Lieferwoche] - [Mo. - Sa.] der gewünschten [KW]** auswählen!
     - Für **Anvisieren** und erstellen von Touren => Abfrage von **[Lieferwoche]**
-    - Für **Transportbestellung** (Winkler, etc) => Abfrage von **[Touren]**
+    - Für **Transportbestellung** (Winkler, etc) => Abfrage von **[Touren + Aufnahme-Zeit]**
 
 ### Nach der Auswahl der richtigen Datenbank-Einträge (Zeilen) => Klicke: "Übernahme in Planung"
 
