@@ -253,7 +253,7 @@
 - Single .csv Excel file -> Apply Makro -> **Save as .xlsx** save for **SC-Leiter** & **HERSTELLER**  = **receive it without Makros**
 - Touren markieren -> **Auslieferliste** -> **Saved as .csv on Remote [Profi-Tour-Server]** -> Copy to [Local] and open in Excel
 - Apply Excel ✨ **Magic-Makros** ✨ [Strg+Umschalt+A "For Austria + D for "Germany"] -> **[HARDCODED IN MAKRO]**
-- Bei SC-Leiter Touren: **Lösche Colloums mit Nummer** und schreibe **"Plant SC-Leiter"** in **🔴 & Fett**
+- Bei SC-Leiter Touren: **Lösche Inhalt der Zellen mit Touren-Nummer** und schreibe **"Plant SC-Leiter"** in **🔴 & Fett**
 - Save as **.xlsx** => **(Will delete Makros)**
 - Naming_Scheme: **ALL_$ORT[WIEN,LINZ,GRAZ,etc]_[KW$$].xlsx**
 
