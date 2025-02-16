@@ -276,8 +276,8 @@
 - **Schnittstelle -> Export in Excel** -> safe as .xlxs Name: **Transportbestellunhg_KW__**
 - Alle Gebiete kontrollieren **(2 unteren Spalten in Excel zählen)** => **Direkt & Lager-WAB's**
 - **Ladereihenfolge checken** => oft **35/36/35** => Delete **35**
-- **m³ mit Fahrzeugen abglichen** bei => **Bsp.: 40m³ => 2 LKW's**
-- Transportbestellung im richtigen **MS Teams** Ordner ablegen!
+- **m³ mit Fahrzeugen abglichen** bei => (Bsp.: **40m³** => **LKW + Hänger** oder **2 LKW's**)
+- Transportbestellung im richtigen **MS-Teams** Ordner ablegen!
 - **Letzter im Team** fügt die **Excel-Imports der Mitarbeiter zusammen** und sendet sie an **Spedition Winkler**
 - **Sonderbestellungen** wie Transmato, Quehenberger(Sattel) **sofort** bei Auftrag an Spedition senden!
 
