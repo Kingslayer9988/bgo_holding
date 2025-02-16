@@ -11,7 +11,7 @@
 - **Donnerstag:**
     - Daily Quests + Something i keep forgetting!
 - **Freitag:** 
-    - **Produktions-Export _(WAP's-Export)_**  => Für **MINDESTENDS $Folge_KW_4** (Bsp: **Freitag_KW7 für KW_11**) _(Siehe 420)_
+    - **Produktions-Export _(WAB's-Export)_**  => Für **MINDESTENDS $Folge_KW_4** (Bsp: **Freitag_KW7 für KW_11**) _(Siehe 420)_
     - **Transportbestellung** => Für **$Folge_KW_2** (Bsp: **Freitag_KW_07 für KW_09**)
 
 - **Daily Extras**
@@ -88,9 +88,9 @@
         - _Note: Isabel macht **extra Arbeit** => Eintragen von **3,5t | 7,5t** => Weil SC-Leiter Fahrzeuge nicht Ändern will (UNSURE ASK BIG-BOSS 😕)_
     
     - **Fahrzeug_Tabelle:**
-        - Selten: **Sattel (Nicht Winkler)** => **~60m³** => **(2x WAP's pro Sattel)** (C-FS) [Quehenberger]
-        - Jumbo_WAP (LKW) => **max. ~ 35m³ => NUR FÜR DIREKT** = PASST NICHT INS LAGER (C-FS)
-        - WAP (LKW) **(Direkt | Lager_WAP) => 30m³ => EGAL** (C-FS)
+        - Selten: **Sattel (Nicht Winkler)** => **~60m³** => **(2x WAB's pro Sattel)** (C-FS) [Quehenberger]
+        - Jumbo_WAB (LKW) => **max. ~ 35m³ => NUR FÜR DIREKT** = PASST NICHT INS LAGER (C-FS)
+        - WAB (LKW) **(Direkt | Lager_WAB) => 30m³ => EGAL** (C-FS)
         - 7,5t Fahrzeug => **max. ~ 15m³ & 1000kg** [LAGER-WAB] (C-FS)
         - 3,5t Fahrzeug => **max. ~ 600kg** [LAGER-WAB] (B-FS)
 
@@ -105,19 +105,19 @@
 
 - **Tipps für erstellen von Linien:**
     
-    - **2 Arten von WAP's** => (Eintragen in Kommentar-Feld des WAB's => **Bemerkung Transport**) _(UNSURE ASK ISABEL 😕)_
-        - [Rampe] (Lager-WAP) => bei Umladen in 7,5t bzw. 3,5t Fahrzeugen beim Lager **(eher = Bei vielen Kleinkunden)**
-            - **Niemals** einem **Jumbo-WAP** zur **Rampe**
+    - **2 Arten von WAB's** => (Eintragen in Kommentar-Feld des WAB's => **Bemerkung Transport**) _(UNSURE ASK ISABEL 😕)_
+        - [Rampe] (Lager-WAB) => bei Umladen in 7,5t bzw. 3,5t Fahrzeugen beim Lager **(eher = Bei vielen Kleinkunden)**
+            - **Niemals** einem **Jumbo-WAB** zur **Rampe**
 
-        - [Platz] (Direkt-WAP)  => Wenn mit LKW zu von Kunde zu Kunde gefahren wird **(eher = Bei wenig Großkunden)**
+        - [Platz] (Direkt-WAB)  => Wenn mit LKW zu von Kunde zu Kunde gefahren wird **(eher = Bei wenig Großkunden)**
             - Aufpassen auf **Zufahrten etc.** oft ist es **nicht möglich** mit **LKW zur Baustelle** zu kommen!
         
-        - Wenn 1 WAP bereits Rampe nächster muss auf Platz **(max 1 Rampe pro Tag)**
+        - Wenn 1 WAB bereits Rampe nächster muss auf Platz **(max 1 Rampe pro Tag)**
 
         - **Automatische Verlade-Reihenfolge** (Meinst Segen manchmal Fluch)
             - **Auto-Button** berücksichtigt **keine Manuellen Änderungen** => **[Reset]**
             - Bei **Manuelle-Ladereihenfolge** verwendet wurde => Im **Kommentarfeld "Bemerkung Montage"** vermerken _(UNSURE ASK ISABEL 😕)_
-                - Wieso überhaupt Manuell ? => **Wenn 2 Touren** an **1 Tag** aus **1 WAP geladen** werden.
+                - Wieso überhaupt Manuell ? => **Wenn 2 Touren** an **1 Tag** aus **1 WAB geladen** werden.
                 - _NOTE: **Excel-Makro** zum Fehlerschutz erstellen_
 
         - Verlade-Reihenfolge = **99** == Verladereihenbfolge = **EGAL**
@@ -125,11 +125,11 @@
     - **Naming-Scheme für Touren:**
         - **DIREKT** => PST, DIR, N:04 => **DIREKT $ORT1 $ORT2 WOCHENTAG(TT)**
         - **_____(Leer)** => Direkt-LKW auf Baustelle => **__LEER $ORT1 $ORT2 WOCHENTAG(TT)**
-        - **SC WAP für [LKW | 7,5t | 3,5t] Touren** => Items werden umgeladen in LKW oder 3,5t oder 7,5t => **SC WAP $ORT1 für $Vehicle1|2|3 Touren WOCHENTAG(TT)**
+        - **SC WAB für [LKW | 7,5t | 3,5t] Touren** => Items werden umgeladen in LKW oder 3,5t oder 7,5t => **SC WAB $ORT1 für $Vehicle1|2|3 Touren WOCHENTAG(TT)**
         - Beispiele:
             - Direkt_Post | Innsbruck - Landeck | DI ==> (Direkt/Postversand am Dienstag)
-            - SC WAP | Innsbruck | für 7,5t & 3,5t | MI ==> (Lager-WAP für 7,5t & 3,5t Touren)
-                - SC Touren für 7,5t & 3,5t | Innsbruck - Wörgl | | DO ==> (Untertouren 7,5t & 3,5t Fahrzeuge -> Von Lager-WAP)
+            - SC WAB | Innsbruck | für 7,5t & 3,5t | MI ==> (Lager-WAB für 7,5t & 3,5t Touren)
+                - SC Touren für 7,5t & 3,5t | Innsbruck - Wörgl | | DO ==> (Untertouren 7,5t & 3,5t Fahrzeuge -> Von Lager-WAB)
             - Seefeld | DO  ==> (Direkt-LKW Tour zur Baustelle)
             - Plant SC Leiter | Imst - Reutte | 6 Kunden ==> (Untertour die SC-Leiter Plant) [Siehe 420]
 
@@ -143,7 +143,7 @@
         - **Schnittstelle => Export als Excel file (.csv)**
         - Autosumme pro WAB erstellen für **[Gewicht und m³]**
         - Text: **Anlieferung am $Datum zum Lager oder Direkt zum Kunden (Siehe Excel file oder Profitour)**
-        - **Jumbo-WAP vermerken**
+        - **Jumbo-WAB vermerken**
         - Als **E-Mail an Oliver** senden - er sendet die **Untertouren** zurück!
     
     - **LKW gewünscht:**
@@ -153,19 +153,19 @@
     - **TV immer für jeweilige KW__ erledigen** nachdem Untertouren fertiggestellt sind!
         - TV = Termin-Verspätung
         - Filter nach **Auftragsnummer** **(Steht auf TV)**
-        - Im Touren-Fenster => Gehe zu **WAP-Tour die TV beinhaltet**
+        - Im Touren-Fenster => Gehe zu **WAB-Tour die TV beinhaltet**
         - Im Bearbeitungs-Fenster:
             - Gehe zur genauen Position der TV
             - Falls nur **ein Teil einer Position fehlt** => Button: **(UNSURE ASK ISABEL 😕)**
             - Beim teilen zuerst die **Anzahl der Teilstücke** dann die **Stückzahl** => (Bsp.: 3/7 Sessel in TV => Teilen 2 Teilstücke mit 4 Rest)
             - Button: **Aus Tour lösen und Rückgängig machen** (Nach Teilung nicht notwendig (UNSURE ASK ISABEL 😕))
-        - Wenn **WAP-Tour in der Zukunft** => **Verladereihenfolge neu richten**
+        - Wenn **WAB-Tour in der Zukunft** => **Verladereihenfolge neu richten**
         - Anschließend oben Button: **Selection** (Sonst Probleme im Bearbeitungsfenster)
         - Im Bearbeitungsfenster **Auftrag auswählen** => **Sammelmappe erstellen**
         - Name => Keine Gesetze => Isabel-Naming: **[$ORT + $KW_DER_TV]** => (KW: Siehe Links unten auf TV)
         - Filter nach **$KW_WO_TV_HINGEHÖRT** in **[Lieferwoche]**
         - Öffne **Sammelmappe** => Button: **Übernahme in die Planung**
-        - Auftrag ist nun im **Unbearbeitet-Fenster** => Splitten, WAP, etc. => **behandeln wie neuen Auftag**
+        - Auftrag ist nun im **Unbearbeitet-Fenster** => Splitten, WAB, etc. => **behandeln wie neuen Auftag**
 
     - **Avisieren:**
         - **Alles 2x kontrollieren**
@@ -197,7 +197,7 @@
     - **[Ausftragsnummer: 034]** -> **Internet bestellung -> DIREKT**
 - Zuerst immer **DIREKT & POST - Linien** erstellen!
 - Anschließend dann **Wunschtermine & Fixtermine** bzw. **größere Baustellen**
-- Als nächstes **Lager-WAP's** erstellen!
+- Als nächstes **Lager-WAB's** erstellen!
 - **========================= An diesem Punkt kann fur Produktion Abgegeben/Exportiert werden =========================** (Siehe Punkt 420)
 - **Untertouren** sind für die **Produktion nicht relevant**.
 
@@ -238,7 +238,7 @@
 - Immer **Freitags $Aktulle_KW** für **$Folge_KW_2** ==> **(Bsp.: Fr, KW7 für KW9)**
 - Filter -> **[Touren / Auflade Zeit]** -> **KW Mo - Sa, auswählen**
 - **Schnittstelle -> Export in Excel** -> safe as .xlxs Name: **Transportbestellunhg_KW__**
-- Alle Gebiete kontrollieren **(2 unteren Spalten in Excel zählen)** => **Direkt&Lager-WAP's**
+- Alle Gebiete kontrollieren **(2 unteren Spalten in Excel zählen)** => **Direkt&Lager-WAB's**
 - **Ladereihenfolge checken** => oft **35/36/35** => Delete **35**
 - **m³ mit Fahrzeugen abglichen** bei => **Bsp.: 40m³ => 2 LKW's**
 - Transportbestellung im richtigen **MS Teams** Ordner ablegen!
@@ -252,9 +252,9 @@
 - **Force Sync** => **SC_Leiter_Excel_File + Removal of extra Infos**
 - Extras: **(WIP)**
   - **💡 Automatic Numbering of _KW$**
-  - **💡 Auto Calc of WAP_Weights inkl. Untertouren** 
+  - **💡 Auto Calc of WAB_Weights inkl. Untertouren** 
   - **💡 Auto Coloring for DIREKT Touren**
-  - **💡 Auto Copy of WAP's (Letzte Zeilen)**
+  - **💡 Auto Copy of WAB's (Letzte Zeilen)**
 
 - **Hinterlegen mit Farbe** == DIREKT_BAUSTELLE == **Kein LAGER-WAB** -> **WAB direkt auf Baustelle!**
 
