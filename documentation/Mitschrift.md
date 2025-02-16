@@ -3,24 +3,24 @@
 ## Chronologischer Ablauf (Will Still have Mistakes - Aktuell für $Hersteller_H)
 
 - **Montag:** 
-    - Frachtbriefe & Tourenplan für SC-Leiter => Für **$Folge_KW** -> Bsp.: **Montag_KW_08 für KW09 an SC-Leiter**  => [Siehe Zeile 238](#frachtbriefe-bestehen-aus-2-pdfs)
-    - Starten der Planung von mindestens **$Folge_KW_5** => Siehe [Fenster 3](#fenster_3--bottom--unbearbeitet-fenster--minimap-gleich-wie-datenbank_ansicht)
+    - 📄 **Frachtbriefe & Tourenplan für SC-Leiter** => Für **$Folge_KW** -> Bsp.: **Montag_KW_08 für KW09 an SC-Leiter**  => [Siehe Zeile 238](#frachtbriefe-bestehen-aus-2-pdfs)
+    - 🗓️ **Starten der Planung von mindestens $Folge_KW_5** => Siehe [Fenster 3](#fenster_3--bottom--unbearbeitet-fenster--minimap-gleich-wie-datenbank_ansicht)
 - **Dienstag:**
-    - Daily Quests
+    - 📅 **Daily Quests**
 - **Mittwoch:**
-    - Daily Quests
+    - 📅 **Daily Quests**
 - **Donnerstag:**
-    - Daily Quests + Something I keep forgetting!
+    - 📅 **Daily Quests + Something I keep forgetting!**
 - **Freitag:** 
-    - **Produktions-Export _(WAB's-Export)_**  => Für **MINDESTENS $Folge_KW_4** (Bsp: **Freitag_KW_08 für KW_09**) => [Siehe Zeile 260](#guide-für-die-abgabe-der-produktion--lager-wabs-für-hersteller) oder **Unbearbeitet-Fenster**
-    - **Transportbestellung** => Für **$Folge_KW_2** (Bsp: **Freitag_KW_08 für KW_10**) => [Siehe Zeile 272](#guide-für-die-transportbestellung)
-    - **Auslieferliste für Hersteller** => Für **$Folge_KW** (Bsp: **Freitag_KW_08 für KW_09**) => [Siehe Zeile 245](#auslieferlisten-infos)
+    - 📦 **Produktions-Export _(WAB's-Export)_**  => Für **MINDESTENS $Folge_KW_4** (Bsp: **Freitag_KW_08 für KW_09**) => [Siehe Zeile 260](#guide-für-die-abgabe-der-produktion--lager-wabs-für-hersteller) oder **Unbearbeitet-Fenster**
+    - 🚚 **Transportbestellung** => Für **$Folge_KW_2** (Bsp: **Freitag_KW_08 für KW_10**) => [Siehe Zeile 272](#guide-für-die-transportbestellung)
+    - 📋 **Auslieferliste für Hersteller** => Für **$Folge_KW** (Bsp: **Freitag_KW_08 für KW_09**) => [Siehe Zeile 245](#auslieferlisten-infos)
 
 - **Daily Quests**
     - Bei jedem Import von Hersteller_H **06:30 & 14:00 Täglich**
-        - Nachplanen => **Alle neuen Aufträge** wieder verplanen für **$Folge_KW_1 & $Folge_KW_2 & $Folge_KW_3 & $Folge_KW_4**
+        - 🔄 **Nachplanen** => **Alle neuen Aufträge** wieder verplanen für **$Folge_KW_1 & $Folge_KW_2 & $Folge_KW_3 & $Folge_KW_4**
         - Ausnahme **Freitags 14:00: Nur DIREKT/POST** Lieferungen verplanen **(Runde der Mitarbeiter)** 
-    - **TV's** machen die Anfallen!
+    - 📺 **TV's** machen die Anfallen!
 
 # Profi-Tour for absolute Dummies
 
@@ -59,10 +59,10 @@
     - **[Auftragsnummer: 034]** -> **Internet Bestellung -> DIREKT**
 
 - **Minimap** => Kleine Karte **links unten** => Enthält **ausgewählte Datensätze**
-    - Blau => **Unverplant** oder nur am WAB
-    - Rot => Baustelle mit **Trennwand**
-    - Orange => **Verplant WAB + Untertour**
-    - Pfeile => Zeigen die **Tour von Kunde zu Kunde** (Luftlinie)
+    - 🔵 Blau => **Unverplant** oder nur am WAB
+    - 🔴 Rot => Baustelle mit **Trennwand**
+    - 🟠 Orange => **Verplant WAB + Untertour**
+    - ➡️ Pfeile => Zeigen die **Tour von Kunde zu Kunde** (Luftlinie)
     - Je **größer der Punkt** auf der Karte => **mehr 💵 💵 💵**
 
 - Auf der **Minimap** oder im **Unbearbeitet-Fenster** **Datensätze/Punkte** markieren => **Button: In Auswahl** => Datensätze nun im **Bearbeitungs-Fenster**
