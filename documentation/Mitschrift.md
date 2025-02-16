@@ -29,6 +29,9 @@
 ### Number Three ⚖️ LAW => Don't even try SPECIAL_LETTERS(§$%_-) in Profitour ✅
 ### Number Four ⚖️ LAW => Don't open too many Instances because you will double Import ✅
 
+---
+---
+
 ## Profi Tour besteht aus 2-Teilen bzw. Ansichten (Datenbank & Planungs - Ansicht)
 
 ### Ansicht_1 = Datenbank_Ansicht
