@@ -53,6 +53,7 @@
 - **Tipps:**
     - Rechtsklick auf Tour (Datenbank-Row) => **Transportauftrag** => Für **Zeit-Planung bzw. Calculation-Script**
     - Bei "Plant SC-Leiter Touren" die Anzahl der Kunden dazuschreiben => Bsp-Name: **Plant_SC_Leiter_6_Kunden**
+    
     - Kommentar_Felder:
         - **Bemerkung Montage** ==> Infos für **Montage Arbeiter** => **Bsp.: (kleine Änderungen | Hinweise | Adresseänderung/Zufahrt)**
             - Bei **Adress-Änderungen/Fehler** => **Mail an Hersteller** um weitere Fehler zu vermeiden!
@@ -114,6 +115,12 @@
 
         - **Verlade-Reihenfolge = 99 ==> EGAL**
     
+    - **Automatische Verlade-Reihenfolge** (Meinst Segen manchmal Fluch)
+        - **Auto-Button** berücksichtigt keine Manuellen Änderungen => Reset
+        - Bei **Manuelle-Ladereihenfolge** verwendet wurde => Im **Kommentarfeld "Bemerkung Montage"** vermerken _(UNSURE ASK ISABEL 😕)_
+            - Wieso überhaupt Manuell ? => **Wenn 2 Touren** an **1 Tag** aus **1 WAP geladen** werden.
+            - _NOTE: **Excel-Makro** zum Fehlerschutz erstellen_
+
     - **Naming-Scheme für Touren:**
         - **DIREKT** => PST, DIR, N:04 => **DIREKT $ORT1 $ORT2 WOCHENTAG(TT)**
         - **_____(Leer)** => Direkt-LKW auf Baustelle => **__LEER $ORT1 $ORT2 WOCHENTAG(TT)**
@@ -126,13 +133,9 @@
             - Plant SC Leiter | Imst - Reutte | 6 Kunden ==> (Untertour die SC-Leiter Plant) [Siehe 420]
 
     - **Bei knappen/komischen Touren** => **Plant SC-Leiter** bzw. **Absprache mit SC-Leiter**
-      - **❌ Nicht gewünscht** -> Suboptimal -> **Außnahme Voradelberg** 
+      - **❌ Nicht gewünscht** -> Suboptimal -> **Außnahme Voradelberg**
     
-    - **LKW gewünscht:**
-        - Manchmal ist es **teurer umzuladen** in **3,5t bzw 7,5t Fahrzeug**
-        - In diesen Fällen mit LKW zu **kleinem Kunden zu fahren!**
-
-    - **Voradelberg ist anders** => **Untertouren werden von ULGB (Oliver) Zusammengestellt**
+     - **Voradelberg ist anders** => **Untertouren werden von ULGB (Oliver) Zusammengestellt**
         - **Untertouren werden von ULGB zusammengestellt** nach einer Liste von uns!
         - Filter in Datenbank nach **[Dornbirn + FL + CH + DE]**
         - Datenbank Ansicht auf **[Isabel-Voradelberg]**
@@ -141,6 +144,12 @@
         - Text: **Anlieferung am $Datum zum Lager oder Direkt zum Kunden (Siehe Excel file oder Profitour)**
         - **Jumbo-WAP vermerken**
         - Als **E-Mail an Oliver** senden - er sendet die **Untertouren** zurück!
+    
+    - **LKW gewünscht:**
+        - Manchmal ist es **teurer umzuladen** in **3,5t bzw 7,5t Fahrzeug**
+        - In diesen Fällen mit LKW zu **kleinem Kunden zu fahren!**
+
+   
 
     - **TV immer für jeweilige KW__ erledigen** nachdem Untertouren fertiggestellt sind!
         - TV = Termin-Verspätung
