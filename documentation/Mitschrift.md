@@ -111,6 +111,7 @@
 
         - [Platz] (Direkt-WAB)  => Wenn mit LKW zu von Kunde zu Kunde gefahren wird **(eher = Bei wenig Großkunden)**
             - Aufpassen auf **Zufahrten etc.** oft ist es **nicht möglich** mit **LKW zur Baustelle** zu kommen!
+            - Aufpassen im Normalfall **nicht mehr als 2 Kunden** => **Spedition** kann normal **nicht mehr als 2h auf Baustelle** warten
         
         - Wenn 1 WAB bereits Rampe nächster muss auf Platz **(max 1 Rampe pro Tag)**
 
