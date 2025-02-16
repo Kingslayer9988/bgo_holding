@@ -238,7 +238,7 @@
 - Immer **Freitags $Aktulle_KW** für **$Folge_KW_2** ==> **(Bsp.: Fr, KW7 für KW9)**
 - Filter -> **[Touren / Auflade Zeit]** -> **KW Mo - Sa, auswählen**
 - **Schnittstelle -> Export in Excel** -> safe as .xlxs Name: **Transportbestellunhg_KW__**
-- Alle Gebiete kontrollieren **(2 unteren Spalten in Excel zählen)** => **Direkt&Lager-WAB's**
+- Alle Gebiete kontrollieren **(2 unteren Spalten in Excel zählen)** => **Direkt & Lager-WAB's**
 - **Ladereihenfolge checken** => oft **35/36/35** => Delete **35**
 - **m³ mit Fahrzeugen abglichen** bei => **Bsp.: 40m³ => 2 LKW's**
 - Transportbestellung im richtigen **MS Teams** Ordner ablegen!
