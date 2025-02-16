@@ -9,11 +9,11 @@
 - **Montag:** 
     - Frachtbrief & Tourenplan für SC-Leiter _(Siehe Punkt 420)_
 - **Dienstag:**
-    -
+    - Test
 - **Mittwoch:**
-    -
+    - Test
 - **Donnerstag:**
-    -
+    - Test
 - **Freitag:** 
     - Produktions-Export _(WAB's-Export)_ für Hersteller_H => Für **MINDESTENDS $Folge_KW_4** (Bsp: **Freitag_KW7 für KW_11**) _(Siehe Punkt 421)_
 
@@ -40,12 +40,13 @@
   - **Letzte == LAGER WAB'S**
 
 - Bei "Plant SC-Leiter Touren" die Anzahl der Kunden dazuschreiben => Bsp-Name: **Plant_SC_Leiter_6_Kunden**
-
 - Bei Baustellen mit **Nächtigung** -> Nächtigung in Excel Liste eintragen **(Bis & nicht inkulsive Endtag)**
 - Bei Baustellen mit **Trennwänden** -> Trennwand vermerken = **Special Montage Workers**
 - Bei Baustellen mit **Küchen** -> **L&M Küchenmontage** oder **nach Gebiet haben Special Montage Workers**
 
-## Tipps im Bearbeitungsfenster: [Nach der Auswahl der gewünschten bzw. zugeteilten Arbeitsbereiche bsp. Wien, Linz etc.]
+## => Nach der Auswahl der gewünschten bzw. zugeteilten Arbeitsbereiche bsp. Wien, Linz etc.]
+
+## Tipps im Bearbeitungs-Fenster: 
 - 🟢 = **Kunde wurde bereits Avisiert** || 🔴 => **Kunde hat altes Aviso** => **Neu senden** oder **FORCE_GREEN**
 - **FORCE_GREEN_BUTTON** => Button: **Kunden_avis_bestätigen & Aktualisieren** => **Kein Avis versendet trotzdem 🟢**
 - **[DIR | STK | PST]** => **Alle DIREKT** => **Kein LAGER-WAB**
@@ -54,12 +55,16 @@
 - Rechtsklick auf Datenbank-Row => **Transportauftrag** => Für **Zeit-Planung bzw. Calculation-Script**
 - Bei "Plant SC-Leiter Touren" die Anzahl der Kunden dazuschreiben => Bsp-Name: **Plant_SC_Leiter_6_Kunden**
 
+
+## Tipps im Touren-Fenster:
 - Kommentar_Felder von Seite **BGO** **Im Touren-Fenster**:
     - **Bemerkung Montage** ==> Infos für **Montage Arbeiter** => **Bsp.: (kleine Änderungen | Hinweise | Adresseänderung/Zufahrt)**
         - Bei **Adress-Änderungen/Fehler** => **Mail an Hersteller** um weitere Fehler zu vermeiden!
         - Falls **Plant-SC-Leiter-Tour** => SC-Leiter anrufen!
     - **Bemerkung Transport** => Infos für die Spedition => **Bsp.: (Ladereihenfolge, Sonderliche-Ladegüter, Zoll)**
     - **Bemerkung Versand** => Infos für den **$Hersteller** => **Bsp.: (???)** _(UNSURE ASK ISABEL 😕)_
+
+## Tipps im Unbearbeitet-Fenster:
 
 - **Vor-Avisieren**
     - Gleich wie Avisieren nur im Vorfeld -> **Nicht Offizielles Aviso verwenden!**
