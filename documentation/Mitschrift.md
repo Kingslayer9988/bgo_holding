@@ -149,8 +149,6 @@
         - Manchmal ist es **teurer umzuladen** in **3,5t bzw 7,5t Fahrzeug**
         - In diesen Fällen mit LKW zu **kleinem Kunden zu fahren!**
 
-   
-
     - **TV immer für jeweilige KW__ erledigen** nachdem Untertouren fertiggestellt sind!
         - TV = Termin-Verspätung
         - Filter nach **Auftragsnummer** **(Steht auf TV)**
