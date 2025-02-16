@@ -5,11 +5,11 @@
 - **Montag:** 
     - Frachtbrief & Tourenplan für SC-Leiter _(Siehe Punkt 420)_
 - **Dienstag:**
-    - Test
+    - Daily Quests
 - **Mittwoch:**
-    - Test
+    - Daily Quests
 - **Donnerstag:**
-    - Test
+    - Daily Quests + Something i keep forgetting!
 - **Freitag:** 
     - Produktions-Export _(WAB's-Export)_ für Hersteller_H => Für **MINDESTENDS $Folge_KW_4** (Bsp: **Freitag_KW7 für KW_11**) _(Siehe Punkt 421)_
 
