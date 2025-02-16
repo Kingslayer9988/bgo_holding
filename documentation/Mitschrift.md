@@ -205,13 +205,18 @@
 - **Letzter im Team** fügt die **Excel-Imports der Mitarbeiter zusammen** und sendet sie an **Spedition Winkler**
 - **Sonderbestellungen** wie Transmato, Quehenberger(Sattel) **sofort** bei Auftrag an Spedition senden!
 
-## Gebiete Erik:
-- **Hersteller NOS 🟢**
-- [Voradelberg(Dornbirn) + DE(S-W) + FL + CH] | **Kein Küchenmonteur** :o:
-- [Tirol(Innsbruck)] | **Kein Küchenmonteur** :o:
-- [Kärnten(Klagenfurt)] | **Küchenmonteur vorhanden** :heavy_check_mark:
-- [Steiermark(Graz)] | **Kein Küchenmonteur aber gute Monteure(Außnahme)** :heavy_check_mark:
-- [Deutschland(Gesamt)] - Noch nicht sicher!!
+## Gebiete Erik - Hersteller NOS 🟢
+- **Voradelberg(SC Dornbirn) + DE(S-W) + FL + CH]**
+    - Kein Küchenmonteur :o:
+- **Tirol (SC Innsbruck)**
+    - Kein Küchenmonteur :o:
+- **Kärnten (SC Klagenfurt)**
+    - Küchenmonteur vorhanden :heavy_check_mark:
+    - Kleines SC => Max 2 LKW pro Tag (1x Platz & 1x Rampe)
+- **Steiermark(SC Graz)** 
+    - Kein Küchenmonteur **aber gute Monteure(Außnahme)** :heavy_check_mark:
+- **Deutschland Gesamt (SC ?? | Relock-Partner)**  _(UNSURE ASK ISABEL 😕)_
+    - Noch nicht sicher :question: :question: :question:
 
 ## Other Things I got told and are probably Useful:
 - **❄️ Frozen Zone (Hali)❄️**
