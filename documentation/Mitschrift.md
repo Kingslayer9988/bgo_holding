@@ -10,7 +10,7 @@
 - **Dienstag:**
 - **Mittwoch:**
 - **Donnerstag:**
-- **Freitag:**
+- **Freitag:** Produktions-Export _(WAB's-Export)_ für Hersteller_H => Für **MINDESTENDS $Folge_KW_4** (Bsp: **Freitag_KW7 für KW_11**)
 
 - **Daily Extras**
     - Bei jedem Import von Hersteller_H **06:30 & 14:00 Täglich**
@@ -146,7 +146,7 @@
 - Save as **.xlsx** => **(Will delete Makros)**
 - Naming_Scheme: **ALL_$ORT[WIEN,LINZ,GRAZ,etc]_[KW$$].xlsx**
 
-## Abgabe für Hersteller:
+## Abgabe der Produktion (Lager-WAB's) für Hersteller:
 - **Deadline verschieden für alle 3 Hersteller**
 - Hersteller_H => 3 Wochen unterschied => **Bsp.: spät. Freitag KW7 für KW_11**
 
