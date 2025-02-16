@@ -123,7 +123,7 @@
         - Verlade-Reihenfolge = **99** == Verladereihenbfolge = **EGAL**
     
     - **Naming-Scheme für Touren:**
-        - **DIREKT** => PST, DIR, N:04 => **DIREKT $ORT1 $ORT2 WOCHENTAG(TT)**
+        - **DIREKT** => PST, DIR, N:043 => **DIREKT $ORT1 $ORT2 WOCHENTAG(TT)**
         - **_____(Leer)** => Direkt-LKW auf Baustelle => **__LEER $ORT1 $ORT2 WOCHENTAG(TT)**
         - **SC WAB für [LKW | 7,5t | 3,5t] Touren** => Items werden umgeladen in LKW oder 3,5t oder 7,5t => **SC WAB $ORT1 für $Vehicle1|2|3 Touren WOCHENTAG(TT)**
         - Beispiele:
