@@ -4,6 +4,7 @@
 
 - **Montag:** 
     - Frachtbrief & Tourenplan für SC-Leiter => Für **$Folge_KW** -> Bsp.: **Montag_KW7 für KW08 an SC-Leiter** _(Siehe Punkt 420)_
+    - Starten der Planung von mindestens **$Folge_KW_4**
 - **Dienstag:**
     - Daily Quests
 - **Mittwoch:**
