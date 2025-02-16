@@ -107,9 +107,11 @@
     
     - **2 Arten von WAB's** => Eintragen in **Kommentar-Feld**  => **Bemerkung Transport**) _(UNSURE ASK ISABEL 😕)_
         - [Rampe] (Lager-WAB) => bei Umladen in 7,5t bzw. 3,5t Fahrzeugen beim Lager **(eher = Bei vielen Kleinkunden)**
+            - Fahrzeug: **$Spedition_NORMAL**
             - **Niemals** einem **Jumbo-WAB** zur **Rampe**
 
         - [Platz] (Direkt-WAB)  => Wenn mit LKW zu von Kunde zu Kunde gefahren wird **(eher = Bei wenig Großkunden)**
+            - Fahrzeug: **$Spedition_EGAL**
             - Aufpassen auf **Zufahrten etc.** oft ist es **nicht möglich** mit **LKW zur Baustelle** zu kommen!
             - Aufpassen im Normalfall **nicht mehr als 2 Kunden** => **Spedition** kann normal **nicht mehr als 2h auf Baustelle** warten
         
