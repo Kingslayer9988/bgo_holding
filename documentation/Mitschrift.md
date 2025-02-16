@@ -3,8 +3,8 @@
 ## Chronologischer Ablauf (Will Still have Mistakes - Aktuell für $Hersteller_H)
 
 - **Montag:** 
-    - Frachtbriefe & Tourenplan für SC-Leiter => Für **$Folge_KW** -> Bsp.: **Montag_KW7 für KW08 an SC-Leiter**  => [Siehe Zeile 238](#frachtbriefe-bestehen-aus-2-pdfs)
-    - Starten der Planung von mindestens **$Folge_KW_5** => Siehe **3-Fenster**
+    - Frachtbriefe & Tourenplan für SC-Leiter => Für **$Folge_KW** -> Bsp.: **Montag_KW_08 für KW09 an SC-Leiter**  => [Siehe Zeile 238](#frachtbriefe-bestehen-aus-2-pdfs)
+    - Starten der Planung von mindestens **$Folge_KW_5** => Siehe [Fenster 3](#fenster_3--bottom--unbearbeitet-fenster--minimap-gleich-wie-datenbank_ansicht)
 - **Dienstag:**
     - Daily Quests
 - **Mittwoch:**
@@ -12,9 +12,9 @@
 - **Donnerstag:**
     - Daily Quests + Something I keep forgetting!
 - **Freitag:** 
-    - **Produktions-Export _(WAB's-Export)_**  => Für **MINDESTENS $Folge_KW_4** (Bsp: **Freitag_KW7 für KW_11**) => [Siehe Zeile 260](#guide-für-die-abgabe-der-produktion--lager-wabs-für-hersteller) oder **Unbearbeitet-Fenster**
-    - **Transportbestellung** => Für **$Folge_KW_2** (Bsp: **Freitag_KW_07 für KW_09**) => [Siehe Zeile 272](#guide-für-die-transportbestellung)
-    - **Auslieferliste für Hersteller** => Für **$Folge_KW** (Bsp: **Freitag_KW_07 für KW_08**) => [Siehe Zeile 245](#auslieferlisten-infos)
+    - **Produktions-Export _(WAB's-Export)_**  => Für **MINDESTENS $Folge_KW_4** (Bsp: **Freitag_KW_08 für KW_09**) => [Siehe Zeile 260](#guide-für-die-abgabe-der-produktion--lager-wabs-für-hersteller) oder **Unbearbeitet-Fenster**
+    - **Transportbestellung** => Für **$Folge_KW_2** (Bsp: **Freitag_KW_08 für KW_10**) => [Siehe Zeile 272](#guide-für-die-transportbestellung)
+    - **Auslieferliste für Hersteller** => Für **$Folge_KW** (Bsp: **Freitag_KW_08 für KW_09**) => [Siehe Zeile 245](#auslieferlisten-infos)
 
 - **Daily Quests**
     - Bei jedem Import von Hersteller_H **06:30 & 14:00 Täglich**
