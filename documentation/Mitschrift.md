@@ -96,8 +96,8 @@
 ## Fenster_2 = MIDDLE = **Bearbeitungs-Fenster**
 - Hier findet meiste **Arbeit** statt!
 
-- 🟢 = **Kunde wurde bereits Avisiert**
-- 🔴 => **Kunde hat altes Aviso** => **Neu senden** oder **FORCE_GREEN**
+- 🟢 => **Kunde wurde bereits Avisiert**
+- 🔴 => **Kunde hat altes Aviso = Zeiten können nicht gehalten werden!** => **Neu senden** oder **FORCE_GREEN**
 
 - **FORCE_GREEN_BUTTON** => Button: **Kunden_avis_bestätigen & Aktualisieren** => **Kein Avis versendet trotzdem 🟢**
 
@@ -105,7 +105,7 @@
     
     - **2 Arten von WAP's** => (Eintragen in Kommentar-Feld des WAB's => **Bemerkung Transport**) _(UNSURE ASK ISABEL 😕)_
         - [Rampe] (Lager-WAP) => bei Umladen in 7,5t bzw. 3,5t Fahrzeugen beim Lager **(eher = Bei vielen Kleinkunden)**
-            - **Niemals Jumbo LKW zur Rampe!**
+            - **Niemals** einem **Jumbo-WAP** zur **Rampe**
 
         - [Platz] (Direkt-WAP)  => Wenn mit LKW zu von Kunde zu Kunde gefahren wird **(eher = Bei wenig Großkunden)**
             - Aufpassen auf **Zufahrten etc.** oft ist es **nicht möglich** mit **LKW zur Baustelle** zu kommen!
