@@ -121,8 +121,6 @@
 
         - Verlade-Reihenfolge = **99** == Verladereihenbfolge = **EGAL**
     
-    
-
     - **Naming-Scheme für Touren:**
         - **DIREKT** => PST, DIR, N:04 => **DIREKT $ORT1 $ORT2 WOCHENTAG(TT)**
         - **_____(Leer)** => Direkt-LKW auf Baustelle => **__LEER $ORT1 $ORT2 WOCHENTAG(TT)**
