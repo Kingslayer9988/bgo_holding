@@ -12,7 +12,7 @@
 - **Donnerstag:**
     - Daily Quests + Something i keep forgetting!
 - **Freitag:** 
-    - **Produktions-Export _(WAB's-Export)_**  => Für **MINDESTENDS $Folge_KW_4** (Bsp: **Freitag_KW7 für KW_11**) => _(Siehe Zeile 260)_
+    - **Produktions-Export _(WAB's-Export)_**  => Für **MINDESTENDS $Folge_KW_4** (Bsp: **Freitag_KW7 für KW_11**) => _(Siehe Zeile 260)_ oder **Unbearbeitet-Fenster**
     - **Transportbestellung** => Für **$Folge_KW_2** (Bsp: **Freitag_KW_07 für KW_09**) => _(Siehe Zeile 245)_
     - **Auslieferliste für Hersteller** => Für **$Folge_KW** (Bsp: **Freitag_KW_07 für KW_08**) => _(Siehe Zeile 245)_
 
