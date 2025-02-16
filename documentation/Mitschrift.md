@@ -89,16 +89,16 @@
     - Fahrzeuge müssen den **Touren richtig zugeordnet** werden:
     
     - Fahrzeuge findest du Links oben ist das **Vehice_Window**
-        - 1. Richtige Spedition auf Tour ziehen! 
+        - Richtige Spedition auf Tour ziehen! 
             - Spedition ist **NOTWENDIG** für **alle Touren** => Bsp. **Spedition_Winkler**
-        - 2. Richtigen Container auf Touren ziehen!
+        - Richtigen Container auf Touren ziehen!
             - Container ist **NOTWENDIG** für **Lager-WAB's** && **Direkt_Baustelle** => Bsp. **Winkler_Egal|Normal|Jumbo**
                 - **Normal** = Bei LagerWAB's (Umladen)
                 - **Egal** = Bei Direkt_Baustelle (Kein Umladen)
                 - **Jumbo** = Bei über 35m³ (KEIN UMLADEN MÖGLICH)
                 - _(UNSURE ASK ISABEL 😕)_ - Mir kommt hier etwas Spanisch vor!! (SPÄTER AM WORK-PC NACHSEHEN!)
                 - **Extra:** **Sattel** = 60m³ => **KEINEN CONTAINER AUF TOUR ZIEHEN!**
-        - 3. Richtiges Fahrezug auf Touren ziehen!
+        - Richtiges Fahrezug auf Touren ziehen!
             - 3,5t Fahrzeug für Touren <= 3,5t Tonnen Fahrzeuge
             - 7,5t Fahrzeug für Touren <= 7,5t Tonnen Fahrzeuge
             - $LKW_$SPED für Touren <= LKW Fahrzeuge
