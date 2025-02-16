@@ -208,6 +208,7 @@
     - **[ABH]** => Selbstabhholung der Ware durch Kunden **(Er hat Fahrzeug/LKW)**
     - **[Ausftragsnummer: 034]** -> **Internet bestellung -> DIREKT**
 - Zuerst immer **DIREKT & POST - Linien** erstellen!
+    - Maximal **1 Postversand_SC(ORT) Linie** pro KW [900]
 - Anschließend dann **Wunschtermine & Fixtermine** bzw. **größere Baustellen**
 - Als nächstes **Lager-WAB's** erstellen!
 - **========================= An diesem Punkt kann fur Produktion Abgegeben/Exportiert werden =========================** (Siehe Punkt 420)
