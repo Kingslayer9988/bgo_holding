@@ -71,7 +71,7 @@
 
 - Als nächstes **Lager-WAB's** erstellen!
 
-- **== An diesem Punkt kann für Produktion Abgegeben/Exportiert werden ==** [Siehe Punkt 420](#guide-für-die-abgabe-der-produktion--lager-wabs-für-hersteller)
+- **== An diesem Punkt kann für Produktion Abgegeben/Exportiert werden ==** [Siehe Zeile 260](#guide-für-die-abgabe-der-produktion--lager-wabs-für-hersteller)
 
 - **Untertouren** sind für die **Produktion nicht relevant**.
 
