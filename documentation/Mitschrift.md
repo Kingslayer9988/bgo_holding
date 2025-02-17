@@ -37,6 +37,7 @@
 ### Ansicht_1 = Datenbank_Ansicht
 - Direkt nach dem **Start des Programms** sichtbar!
 - Import und **Auswahl der Gebiete** findet hier statt! **(Bsp.: Wien, Linz, Steiermark, etc.)**
+- Isabel Gebiete => **SC Dornbirn + (DE+CH+FL)** | **SC Graz + Selten (SLO)** | **SC Innsbruck + (ITA)** | SC Klagenfurt
 - Import von **Hersteller_H** => Immer 06:30 & 14:00 Mo-Fr (Import von Hersteller_B und Hersteller_N sind anders)
 - Tipps:
     - Für **Auslieferlisten**  => Abfrage von **[Prod & Lieferwoche] - [Mo. - Sa.] der gewünschten [KW]** auswählen!
