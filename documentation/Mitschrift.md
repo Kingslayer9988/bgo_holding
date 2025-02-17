@@ -68,7 +68,8 @@
 - Auf der **Minimap** oder im **Unbearbeitet-Fenster** **Datensätze/Punkte** markieren => **Button: In Auswahl** => Datensätze nun im **Bearbeitungs-Fenster**
 
 - Zuerst immer **DIREKT & POST - Linien** erstellen!
-    - Maximal **1 Postversand_SC(ORT) Linie** pro KW [900]
+    - Maximal **1 Postversand_SC(ORT) Linie** pro KW 
+    - Bei **Postversand-Linie** auch **Verlade-Reihenfolge** richten [WAB-Nr.: 900]
 
 - Anschließend dann **Wunschtermine & Fixtermine** bzw. **größere Baustellen**
 
@@ -82,9 +83,7 @@
 - Hier findet meiste **Arbeit** statt!
 
 - 🟢 => **Kunde wurde bereits Avisiert**
-- 🔴 => **Kunde hat altes Aviso = Zeiten können nicht gehalten werden!** => **Neu senden** oder **FORCE_GREEN**
-- Avisien immer im Touren-Fenster klicken!
-- Postverstand auch wieder WAB richten!!! => Nummern-Kreis 900
+- 🔴 => **Kunde hat altes Aviso = Zeiten können nicht gehalten werden!** => **Neu Avisieren** [Siehe Zeile 420] oder **FORCE_GREEN**
 
 - **FORCE_GREEN_BUTTON** => Button: **Kunden_avis_bestätigen & Aktualisieren** => **Kein Avis versendet trotzdem 🟢**
 
@@ -171,6 +170,7 @@
         - Auftrag ist nun im **Unbearbeitet-Fenster** => Splitten, WAB, etc. => **behandeln wie neuen Auftag**
 
     - **Avisieren:**
+        - **Avisieren** immer im **Touren-Fenster** => **[OBEN]**
         - **Alles 2x kontrollieren**
         - **Datum bei Touren** & **Ladereihenfolge WAB's 3x kontrollieren**
             - **Datum** kann sich aufgrund von Tagesarbeitszeit oder falschen $BUILD_TIMES from $HERSTELLER auf nächsten Tag rutschen!
