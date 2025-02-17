@@ -345,6 +345,9 @@
     - **Keine Verantwortung übernehmen :question: => Alles Problem von Hersteller** :question:
 
 ## Extra Notes:
+- Excel Makros für Auslieferliste:
+    - Denisa Help 17.02.2025
+
 - $HERSTELLER
     - NOS -  🟢 - Hersteller_N -> 🔵 Schrift
     - H**I - 🔵 - Hersteller_H -> 🟢 Schrift
