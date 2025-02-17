@@ -83,6 +83,8 @@
 
 - 🟢 => **Kunde wurde bereits Avisiert**
 - 🔴 => **Kunde hat altes Aviso = Zeiten können nicht gehalten werden!** => **Neu senden** oder **FORCE_GREEN**
+- Avisien immer im Touren-Fenster klicken!
+- Postverstand auch wieder WAB richten!!! => Nummern-Kreis 900
 
 - **FORCE_GREEN_BUTTON** => Button: **Kunden_avis_bestätigen & Aktualisieren** => **Kein Avis versendet trotzdem 🟢**
 
