@@ -320,7 +320,8 @@
 - Lösung für mich => **Local_Excel_File mit Extra Infos und Calculations für Lademenge etc**
 - **Force Sync** => **SC_Leiter_Excel_File + Removal of extra Infos**
 - Extras: **(Work in Progress)**
-  - **💡 Automatic Numbering of _KW$**
+- - **💡 Make Hersteller_KW visable if its not MO - SO | Bsp.: DI - DI**
+  - **💡 Automatic Numbering of _KW$ in File & creating of Files **
   - **💡 Auto Calc of WAB_Gewicht inkl. auto. zuordnung zu Untertouren** 
   - **💡 Auto Coloring for DIREKT Touren**
   - **💡 Auto Copy of WAB's (Letzte Zeilen)**
