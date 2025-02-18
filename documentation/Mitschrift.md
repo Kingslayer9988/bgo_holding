@@ -184,6 +184,9 @@
         - Daten & Mail aus Profitour **"Aviso-Pdf"** ziehen und Mail erfassen!
         - Wichtige Daten: **Kunde, KW, Auftragsnummer**
         - Mail-Wichtigkeit auf "High"
+        - Vorlage:
+             - In der KW1$$/$$ bekommen sie von der Firma Hali die neuen Büromöbel geliefert und montiert. Wir würden die Montage gerne am Dienstag, [DATUM] um [UHRZEIT] Uhr beginnen. Die Montagearbeiten wären am [DATUM] abgeschlossen. Bitte um eine kurze Antwort, ob der Termin für sie in Ordnung ist. Danke im Voraus
+
         - **Transportauftrag muss nicht in der Mail anhängt werden**
         - _(NOTE1: Gesamter Prozess könnte **easy automatisiert werden**)_
         - _(NOTE2: Prozess wird **Lokal automatisiert** => **Keine Anbindung an Profitour** => **Native Script**)_
