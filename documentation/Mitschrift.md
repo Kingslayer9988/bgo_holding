@@ -93,7 +93,7 @@
 
 - **Tipps für erstellen von Linien:**
     
-    - **2 Arten von WAB's** => Eintragen in **Kommentar-Feld**  => **Bemerkung Transport**) _(UNSURE ASK ISABEL 😕)_
+    - **2 Arten von WAB's** => Eintragen in **Kommentar-Feld**  => **Bemerkung Transport**)
         - [Rampe] (Lager-WAB) => bei Umladen in 7,5t bzw. 3,5t Fahrzeugen beim Lager **(eher = Bei vielen Kleinkunden)**
             - Fahrzeug: **$Spedition_NORMAL**
             - **Niemals** einem **Jumbo-WAB** zur **Rampe**
@@ -109,7 +109,7 @@
 
         - **Automatische Verlade-Reihenfolge** (Meist Segen manchmal Fluch)
             - **Auto-Button** berücksichtigt **keine Manuellen Änderungen** => **[Reset]**
-            - Bei **Manuelle-Ladereihenfolge** verwendet wurde => Im **Kommentarfeld "Bemerkung Montage"** vermerken _(UNSURE ASK ISABEL 😕)_
+            - Bei **Manuelle-Ladereihenfolge** verwendet wurde => Im **Kommentarfeld "Bemerkung Versamd"** vermerken
                 - Wieso überhaupt Manuell ? => **Wenn 2 Touren** an **1 Tag** aus **1 WAB geladen** werden.
                 - _NOTE: **Excel-Makro** zum Fehlerschutz erstellen_
 
