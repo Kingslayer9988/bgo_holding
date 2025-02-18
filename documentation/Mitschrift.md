@@ -23,7 +23,7 @@
         - 🔶 Ausnahme **Freitags 14:00: Nur DIREKT/POST** Lieferungen verplanen **(Runde der Mitarbeiter)** 
     - 📺 **TV's** machen die Anfallen! => **[GUIDE](#-guide-für-tv-tv--termin-Verspätung)**
 
-# ⚠️ Profi-Tour for for Dummies by Dummies ⚠️
+# 🚥 Profi-Tour for for Dummies by Dummies 🚥
 
 ### ⚖️ LAW Number One ➡️ Don't mess with Profi-Tour-Profile from Isabel ✅
 ### ⚖️ LAW Number Two ➡️ Bei jeder Änderung -> Export für Hersteller ✅
