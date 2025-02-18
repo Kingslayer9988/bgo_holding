@@ -158,20 +158,23 @@
         - Manchmal ist es **teurer umzuladen** in **3,5t bzw 7,5t Fahrzeug**
         - In diesen Fällen mit LKW zu **kleinem Kunden zu fahren!**
 
-    - **TV immer für jeweilige KW__ erledigen** nachdem Untertouren fertiggestellt sind!
-        - TV = Termin-Verspätung
+    - **TV immer für jeweilige KW__ erledigen** nachdem Untertouren fertiggestellt sind! (TV = Termin-Verspätung)
         - Filter nach **Auftragsnummer** **(Steht auf TV)**
-              - Tipp: Beim **Filter-Fenster** nach **Auftrag** => **Enter = Zeile hinzufügen** (Mehrere Aufträge)
-        - Im Touren-Fenster => Gehe zu **WAB-Tour die TV beinhaltet**
-        - Im Bearbeitungs-Fenster:
-            - Gehe zur genauen Position der TV
-            - Falls nur **ein Teil einer Position fehlt** => Button: **(UNSURE ASK ISABEL 😕)**
+        - Tipp: Beim **Filter-Fenster** nach **Auftrag** => **Enter = Zeile hinzufügen** (Mehrere Aufträge)
+        - Im **Touren-Fenster** **Tour die TV beinhaltet** auswählen
+        - Im **Bearbeitungs-Fenster** wähle **Transaufträge** => **Positionen**
+        - Es gibt **3 verschiedene Fälle von TV's**
+            - Falls **ganzer Transportauftrag (AB-Nummer)** Verzögert ist:
+                - Gehe zu **WAB der TV-Tour** beinhaltet => Button: **Aus Tour lösen und Teilung Rückgängig machen**
+            - Falls nur **eine Postion im Auftrag** verzögert ist:
+                - Button: Im **Bearbeitungs-Fenster** => **Neuen Transportauftrag erzeugen**
+        - Falls nur **ein Teil einer Position fehlt**
             - Beim Teilen zuerst die **Anzahl der Teilstücke** dann die **Stückzahl** => (Bsp.: 3/7 Sessel in TV => Teilen 2 Teilstücke mit 4 Rest)
-            - Button: **Aus Tour lösen und Rückgängig machen** (Nach Teilung nicht notwendig (UNSURE ASK ISABEL 😕))
+            - Button: Im **Bearbeitungs-Fenster** => **Neuen Transportauftrag erzeugen**
         - Wenn **WAB-Tour in der Zukunft** => **Verladereihenfolge neu richten**
-        - Anschließend oben Button: **Selection** (Sonst Probleme im Bearbeitungsfenster)
+        - Anschließend oben Button: **Selection** (Falls Vergessen = Probleme im Bearbeitungs-Fenster) => Button: **In Auswahl**
         - Im Bearbeitungsfenster **Auftrag auswählen** => **Sammelmappe erstellen**
-        - Name => Keine Gesetze => Isabel-Naming: **[$ORT + $KW_DER_TV]** => (KW: Siehe Links unten auf TV)
+        - Naming-Scheme: **[$ORT_$KW_DER_TV_KUNDE]** => (KW: Siehe Links unten auf TV)
         - Filter nach **$KW_WO_TV_HINGEHÖRT** in **[Lieferwoche]**
         - Öffne **Sammelmappe** => Button: **Übernahme in die Planung**
         - Auftrag ist nun im **Unbearbeitet-Fenster** => Splitten, WAB, etc. => **behandeln wie neuen Auftag**
