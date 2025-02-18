@@ -229,11 +229,11 @@
 ´´´
 In der KW_$$/KW_$$ bekommen sie von der Firma [Hersteller_$] die neuen Büromöbel geliefert und montiert. Wir würden die Montage gerne am Dienstag, [DATUM] um [UHRZEIT] Uhr beginnen. Die Montagearbeiten wären am [DATUM] abgeschlossen. Bitte um eine kurze Antwort, ob der Termin für sie in Ordnung ist. Danke im Voraus 
 ´´´
-- > [!NOTE]
-- > _NOTE1: Gesamter Prozess könnte **easy automatisiert werden**)_
-- > _NOTE2: Alle nötigen Daten könnten aus **Aviso PDF** (Richtes Avisieren) gezogen werden =>  => Godlike 💸 safed here_
-- > _NOTE3: Prozess wird **Lokal automatisiert** => **Keine Anbindung an Profitour** => **Windwos_Contextmenu_PS_Script**)_
-- > _NOTE4: Laut Isabel nicht erwünscht => trotzdem Fragen zu **Persöhnlicher Verwendung!**) (UNSURE ASK BIG-BOSS 😕)_
+> [!NOTE]
+> _NOTE1: Gesamter Prozess könnte **easy automatisiert werden**)_\
+> _NOTE2: Alle nötigen Daten könnten aus **Aviso PDF** (Richtes Avisieren) gezogen werden =>  => Godlike 💸 safed here_\
+> _NOTE3: Prozess wird **Lokal automatisiert** => **Keine Anbindung an Profitour** => **Windwos_Contextmenu_PS_Script**)_\
+> _NOTE4: Laut Isabel nicht erwünscht => trotzdem Fragen zu **Persöhnlicher Verwendung!**) (UNSURE ASK BIG-BOSS 😕)_\
 
 ## 📄 Frachtbriefe & Tourenpläne (2-PDF's):
 - **Auswahl der Tour im Oberen Fenster** -> Frachtbrief -> Print as PDF -> Naming_Scheme: **[TT]_TOURNUMMER**
