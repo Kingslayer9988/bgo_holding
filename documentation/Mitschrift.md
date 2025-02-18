@@ -355,7 +355,7 @@
   
 - **Konflikte** mit **BGO & SC-Leiter** (UNSURE ASK BIG-BOSS 😕)
     - Wer ruft Kunden bei welchen Problem an ? 💀
-    - Abschieben auf $Hersteller_$ & SC-Leiter_$ ==> **und Umgekehrt!**  💀
+    - Abschieben auf $Hersteller & $SC-Leiter ==> **und Umgekehrt!**  💀
     - **WHO THE FUCK IS TO BLAME AND FOR WHAT 💀❌💀**
     - **Keine Verantwortung übernehmen :question: => Alles Problem von Hersteller** :question:
 
