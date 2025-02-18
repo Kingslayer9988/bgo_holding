@@ -221,9 +221,9 @@
         - _NOTE: Bad for me but Probably good for Big_Boss => **Local Deepseek with Live Training here 👀👀**_ 
 
 ## 📙 Vorraus Avisieren (Vor-Avisieren)
-- E-Mail Adresse & Kontaktdaten aus Profitour  ziehen und Mail erfassen!
+- **E-Mail & Kontakt & Datum** aus Profitour (Datenbank-Ansicht) nehmen und **E-Mail** erfassen!
 - Wichtige Daten: **Kunde, KW, Auftragsnummer**
-- Mail-Wichtigkeit auf "High"
+- Mail-Wichtigkeit auf "High" 🍄
 - **Transportauftrag muss nicht in der Mail anhängt werden**
 - Vorlage:
 ````
@@ -238,10 +238,10 @@ Bitte um eine kurze Antwort, ob der Termin für sie in Ordnung ist.
 Danke im Voraus.
 ````
 > [!NOTE]
-> Gesamter Prozess könnte **easy automatisiert werden**)_\
-> Alle nötigen Daten könnten aus **Aviso PDF** (Richtes Avisieren) gezogen werden =>  => Godlike 💸 safed here_\
-> Prozess wird **Lokal automatisiert** => **Keine Anbindung an Profitour** => **Windwos_Contextmenu_PS_Script**)_\
-> Laut Isabel nicht erwünscht => trotzdem Fragen zu **Persöhnlicher Verwendung!**) (UNSURE ASK BIG-BOSS 😕)_\
+> Gesamter Prozess könnte **easy automatisiert werden**)
+> Alle nötigen Daten könnten aus **Aviso PDF** (Richtes Avisieren) gezogen werden =>  => Godlike 💸 safed here
+> Prozess wird **Lokal automatisiert** => **Keine Anbindung an Profitour** => **Windwos_Contextmenu_PS_Script**)
+> Nicht erwünscht ‼️ => **Persöhnlicher Verwendung!**) (MAYBE ASK BIG-BOSS 😕)
 
 ## 📄 Frachtbriefe & Tourenpläne (2-PDF's):
 - **Auswahl der Tour im Oberen Fenster** -> Frachtbrief -> Print as PDF -> Naming_Scheme: **[TT]_TOURNUMMER**
