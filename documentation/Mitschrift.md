@@ -291,9 +291,10 @@ Danke im Voraus.
 ## 📺 Guide für TV (TV = Termin-Verspätung)
 - Nur möglich wenn Untertouren der  fertiggestellt sind! 
 - Filter nach **Auftragsnummer** **(Steht auf TV)**
-- Tipp: Beim **Filter-Fenster** nach **Auftrag** => **Enter = Zeile hinzufügen** (Mehrere Aufträge)
+> [!TIP]
+> Im **Filter-Fenster** nach **Auftrag** => **Enter = Zeile hinzufügen** (Mehrere Aufträge)
 - Im **Touren-Fenster** **Tour die TV beinhaltet** auswählen
-- Im **Bearbeitungs-Fenster** wähle **Transaufträge** => **Positionen**
+- Im **Bearbeitungs-Fenster** wähle **Transport_Aufträge** => **Positionen**
 - Es gibt **3 verschiedene Fälle von TV's**
 * 1️⃣ **Wenn Ganzer Transportauftrag (AB-Nummer)** Verzögert ist:
     * Gehe zu **WAB der TV-Tour** beinhaltet => Button: **Aus Tour lösen und Teilung Rückgängig machen**
