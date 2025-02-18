@@ -283,13 +283,13 @@
 - Im **Touren-Fenster** **Tour die TV beinhaltet** auswählen
 - Im **Bearbeitungs-Fenster** wähle **Transaufträge** => **Positionen**
 - Es gibt **3 verschiedene Fälle von TV's**
-* 1️⃣ **FALL 1** **ganzer Transportauftrag (AB-Nummer)** Verzögert ist:
+* 1️⃣ **Wenn Ganzer Transportauftrag (AB-Nummer)** Verzögert ist:
     * Gehe zu **WAB der TV-Tour** beinhaltet => Button: **Aus Tour lösen und Teilung Rückgängig machen**
 ---
-* 2️⃣ **FALL 2** nur **eine Postion im Auftrag** verzögert ist:
+* 2️⃣ Wenn nur **eine Postion im Auftrag** verzögert ist:
     * Button: Im **Bearbeitungs-Fenster** => **Neuen Transportauftrag erzeugen**
 ---
-* 3️⃣ **FALL 3** **ein Teil einer Position fehlt**
+* 3️⃣ Wenn **ein Teil einer Position** verzögert ist:
     * Beim Teilen zuerst die **Anzahl der Teilstücke** dann die **Stückzahl** => (Bsp.: 3/7 Sessel in TV => Teilen 2 Teilstücke mit 4 Rest)
     * Button: Im **Bearbeitungs-Fenster** => **Neuen Transportauftrag erzeugen**
 - Wenn **WAB-Tour in der Zukunft** => **Verladereihenfolge neu richten**
