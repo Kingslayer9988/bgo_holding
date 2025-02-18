@@ -9,7 +9,7 @@ There would be an easy fix: please somehow make these 3 programs accessible on W
 - **GitHub** [Godfather of Open-source Community]
 
 ## Profi-Tour
-For Profi-Tour things, look in the documentation folder. Or Press **[HERE](Mitschrift.md#-vorraus-avisieren-vor-avisieren)**
+For Profi-Tour things, look in the documentation folder. Or Press **[HERE](documentation/Mitschrift.md#-vorraus-avisieren-vor-avisieren)**
 
 ## NEEDS TO BE ADDED:
 - Fix/Create Profi-Tour Documentation -> Make it useful for other Humans => Later: "https://github.com/Kingslayer9988/BGO_Guides"
