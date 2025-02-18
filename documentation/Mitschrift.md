@@ -284,7 +284,8 @@
 - Im **Bearbeitungs-Fenster** wähle **Transaufträge** => **Positionen**
 ---
 - Es gibt **3 verschiedene Fälle von TV's**
-- 
+
+
     - **FALL 1** **ganzer Transportauftrag (AB-Nummer)** Verzögert ist:
         - Gehe zu **WAB der TV-Tour** beinhaltet => Button: **Aus Tour lösen und Teilung Rückgängig machen**
     ---
