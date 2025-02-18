@@ -227,7 +227,11 @@
 - **Transportauftrag muss nicht in der Mail anhängt werden**
 - Vorlage:
 ````
-In der KW_$$/KW_$$ bekommen sie von der Firma [Hersteller_$] die neuen Büromöbel geliefert und montiert. Wir würden die Montage gerne am Dienstag, [DATUM] um [UHRZEIT] Uhr beginnen. Die Montagearbeiten wären am [DATUM] abgeschlossen. Bitte um eine kurze Antwort, ob der Termin für sie in Ordnung ist. Danke im Voraus 
+In der KW_$$/KW_$$ bekommen sie von der Firma [Hersteller_$] die neuen Büromöbel geliefert und montiert.\
+Wir würden die Montage gerne am [TTTT], [DATUM] um [UHRZEIT] Uhr beginnen. Die Montagearbeiten wären am [DATUM]-[Tageszeit] abgeschlossen.\
+Bitte um eine kurze Antwort, ob der Termin für sie in Ordnung ist.\
+
+Danke im Voraus 
 ````
 > [!NOTE]
 > Gesamter Prozess könnte **easy automatisiert werden**)_\
