@@ -3,26 +3,26 @@
 ## Chronologischer Ablauf (Will Still have Mistakes - Aktuell für $Hersteller_H)
 
 - **Montag:** 
-    - 📄 **Frachtbriefe & Tourenpläne für SC-Leiter** => Für **$Folge_KW_01** -> Bsp.: **Montag_KW_08 für KW_09** => [Siehe Zeile 238](#frachtbriefe-bestehen-aus-2-pdfs)
-    - 📑 **Auslieferlisten für SC-Leiter** => Für **$Folge_KW_01** -> Bsp.: **Montag_KW_08 für KW_09** => [Siehe Zeile 255](#auslieferlisten-infos)
-    - 🗓️ **Starten der Planung von mindestens $Folge_KW_5** => Bsp.: **Montag_KW_08 für KW_12** [Siehe Fenster 3](#fenster_3--bottom--unbearbeitet-fenster--minimap-gleich-wie-datenbank_ansicht)
+    - 📄 **Frachtbriefe & Tourenpläne für SC-Leiter** => Für **$Folge_KW_01** -> Bsp.: **Montag_KW_08 für KW_09** => [Siehe Zeile 238](#-guide-für-frachtbriefe--tourenpläne-2-pdfs)
+    - 📑 **Auslieferlisten für SC-Leiter** => Für **$Folge_KW_01** -> Bsp.: **Montag_KW_08 für KW_09** => [Siehe Zeile 255](#-guide-für-auslieferlisten)
+    - ▶️ **Starten der Planung von mindestens $Folge_KW_5** => Bsp.: **Montag_KW_08 für KW_12** [Siehe Fenster 3](#fenster_3--bottom--unbearbeitet-fenster--minimap-gleich-wie-datenbank_ansicht)
 - **Dienstag:**
     - 📅 **Daily Quests**
 - **Mittwoch:**
     - 📅 **Daily Quests**
 - **Donnerstag:**
-    - 📅 **Daily Quests + Something I keep forgetting! PROD_EXPORT ???**
+    - 📅 **Daily Quests + Something I keep forgetting! => PROD_EXPORT ???**
 - **Freitag:** 
-    - 📦 **Produktions-Export _(WAB's-Export)_**  => Für **MINDESTENS $Folge_KW_04** (Bsp: **Freitag_KW_08 für KW_12**) => [Siehe Zeile 260](#guide-für-die-abgabe-der-produktion--lager-wabs-für-hersteller)
+    - 📦 **Produktions-Export _(WAB's-Export)_**  => Für **MINDESTENS $Folge_KW_04** (Bsp: **Freitag_KW_08 für KW_12**) => **[GUIDE](#-guide-für-die-abgabe-der-produktion--lager-wabs-für-Hersteller)**
          - Es gibt eine **Liste mit Abgabedaten** für **Hersteller_H**
-    - 🚚 **Transportbestellung** => Für **$Folge_KW_02** (Bsp: **Freitag_KW_08 für KW_10**) => [Siehe Zeile 272](#guide-für-die-transportbestellung)
-    - 📋 **Auslieferliste für Hersteller** => Für **$Folge_KW_01** (Bsp: **Freitag_KW_08 für KW_09**) => [Siehe Zeile 245](#auslieferlisten-infos)
+    - 🚚 **Transportbestellung** => Für **$Folge_KW_02** (Bsp: **Freitag_KW_08 für KW_10**) => **[GUIDE](#-guide-für-die-transportbestellung)**
+    - 📋 **Auslieferliste für Hersteller** => Für **$Folge_KW_01** (Bsp: **Freitag_KW_08 für KW_09**) => **[GUIDE](#-guide-für-auslieferlisten)**
 
 - **⌛ Daily Quests ⌛**
     - Bei jedem Import von Hersteller_H **06:30 & 14:00 Täglich**
         - 🔄 **Nachplanen** => **Alle neuen Aufträge** wieder verplanen für **$Folge_KW_1 & $Folge_KW_2 & $Folge_KW_3 & $Folge_KW_4**
         - 🔶 Ausnahme **Freitags 14:00: Nur DIREKT/POST** Lieferungen verplanen **(Runde der Mitarbeiter)** 
-    - 📺 **TV's** machen die Anfallen! => [Siehe Zeile 279](#tv-guide--tv--termin-verspätung)
+    - 📺 **TV's** machen die Anfallen! => **[GUIDE](#-guide-für-tv-tv--termin-Verspätung)**
 
 # Profi-Tour for absolute Dummies
 
