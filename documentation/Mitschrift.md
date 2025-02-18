@@ -22,7 +22,7 @@
     - Bei jedem Import von Hersteller_H **06:30 & 14:00 Täglich**
         - 🔄 **Nachplanen** => **Alle neuen Aufträge** wieder verplanen für **$Folge_KW_1 & $Folge_KW_2 & $Folge_KW_3 & $Folge_KW_4**
         - Ausnahme **Freitags 14:00: Nur DIREKT/POST** Lieferungen verplanen **(Runde der Mitarbeiter)** 
-    - 📺 **TV's** machen die Anfallen!
+    - 📺 **TV's** machen die Anfallen! => [Siehe Zeile XXX](#tv_immer_für_jeweilige KW___erledigen_nachdem_Untertouren_fertiggestellt_sind!)
 
 # Profi-Tour for absolute Dummies
 
