@@ -14,6 +14,7 @@
     - 📅 **Daily Quests + Something I keep forgetting! PROD_EXPORT ???**
 - **Freitag:** 
     - 📦 **Produktions-Export _(WAB's-Export)_**  => Für **MINDESTENS $Folge_KW_04** (Bsp: **Freitag_KW_08 für KW_12**) => [Siehe Zeile 260](#guide-für-die-abgabe-der-produktion--lager-wabs-für-hersteller)
+         - Es gibt eine **Liste mit Abgabedaten** für **Hersteller_H**
     - 🚚 **Transportbestellung** => Für **$Folge_KW_02** (Bsp: **Freitag_KW_08 für KW_10**) => [Siehe Zeile 272](#guide-für-die-transportbestellung)
     - 📋 **Auslieferliste für Hersteller** => Für **$Folge_KW_01** (Bsp: **Freitag_KW_08 für KW_09**) => [Siehe Zeile 245](#auslieferlisten-infos)
 
