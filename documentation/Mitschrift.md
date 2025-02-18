@@ -13,7 +13,7 @@
 - **Donnerstag:**
     - 📅 **Daily Quests + Something I keep forgetting!**
 - **Freitag:** 
-    - 📦 **Produktions-Export _(WAB's-Export)_**  => Für **MINDESTENS $Folge_KW_4** (Bsp: **Freitag_KW_08 für KW_09**) => [Siehe Zeile 260](#guide-für-die-abgabe-der-produktion--lager-wabs-für-hersteller)
+    - 📦 **Produktions-Export _(WAB's-Export)_**  => Für **MINDESTENS $Folge_KW_4** (Bsp: **Freitag_KW_08 für KW_11**) => [Siehe Zeile 260](#guide-für-die-abgabe-der-produktion--lager-wabs-für-hersteller)
     - 🚚 **Transportbestellung** => Für **$Folge_KW_2** (Bsp: **Freitag_KW_08 für KW_10**) => [Siehe Zeile 272](#guide-für-die-transportbestellung)
     - 📋 **Auslieferliste für Hersteller** => Für **$Folge_KW** (Bsp: **Freitag_KW_08 für KW_09**) => [Siehe Zeile 245](#auslieferlisten-infos)
 
