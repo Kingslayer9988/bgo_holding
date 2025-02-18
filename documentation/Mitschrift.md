@@ -292,7 +292,7 @@ Danke im Voraus.
 - Tipp: Beim **Filter-Fenster** nach **Auftrag** => **Enter = Zeile hinzufügen** (Mehrere Aufträge)
 - Im **Touren-Fenster** **Tour die TV beinhaltet** auswählen
 - Im **Bearbeitungs-Fenster** wähle **Transaufträge** => **Positionen**
-* Es gibt **3 verschiedene Fälle von TV's**
+- Es gibt **3 verschiedene Fälle von TV's**
 * 1️⃣ **Wenn Ganzer Transportauftrag (AB-Nummer)** Verzögert ist:
     * Gehe zu **WAB der TV-Tour** beinhaltet => Button: **Aus Tour lösen und Teilung Rückgängig machen**
 ---
@@ -302,7 +302,7 @@ Danke im Voraus.
 * 3️⃣ Wenn **ein Teil einer Position** verzögert ist:
     * Beim Teilen zuerst die **Anzahl der Teilstücke** dann die **Stückzahl** => (Bsp.: 3/7 Sessel in TV => Teilen 2 Teilstücke mit 4 Rest)
     * Button: Im **Bearbeitungs-Fenster** => **Neuen Transportauftrag erzeugen**
-* Wenn **WAB-Tour in der Zukunft** => **Verladereihenfolge neu richten**
+- Wenn **WAB-Tour in der Zukunft** => **Verladereihenfolge neu richten**
 - Anschließend oben Button: **Selection** (Falls Vergessen = Probleme im Bearbeitungs-Fenster) => Button: **In Auswahl**
 - Im Bearbeitungsfenster **Auftrag auswählen** => **Sammelmappe erstellen**
 - Naming-Scheme: **[$ORT_$KW_DER_TV_KUNDE]** => (KW: Siehe Links unten auf TV)
