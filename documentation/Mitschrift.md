@@ -276,12 +276,15 @@
 - **Letzter im Team** fügt die **Excel-Imports der Mitarbeiter zusammen** und sendet sie an **Spedition Winkler**
 - **Sonderbestellungen** wie Transmato, Quehenberger(Sattel) **sofort** bei Auftrag an Spedition senden!
 
-## **📺 TV immer für jeweilige KW__ erledigen** nachdem Untertouren fertiggestellt sind! (TV = Termin-Verspätung)
+## ** TV Guide 📺**
+- Nur möglich wenn Untertouren der  fertiggestellt sind! (TV = Termin-Verspätung)
 - Filter nach **Auftragsnummer** **(Steht auf TV)**
 - Tipp: Beim **Filter-Fenster** nach **Auftrag** => **Enter = Zeile hinzufügen** (Mehrere Aufträge)
 - Im **Touren-Fenster** **Tour die TV beinhaltet** auswählen
 - Im **Bearbeitungs-Fenster** wähle **Transaufträge** => **Positionen**
+---
 - Es gibt **3 verschiedene Fälle von TV's**
+- 
     - **FALL 1** **ganzer Transportauftrag (AB-Nummer)** Verzögert ist:
         - Gehe zu **WAB der TV-Tour** beinhaltet => Button: **Aus Tour lösen und Teilung Rückgängig machen**
     ---
