@@ -276,8 +276,8 @@
 - **Letzter im Team** fügt die **Excel-Imports der Mitarbeiter zusammen** und sendet sie an **Spedition Winkler**
 - **Sonderbestellungen** wie Transmato, Quehenberger(Sattel) **sofort** bei Auftrag an Spedition senden!
 
-## TV Guide 📺
-- Nur möglich wenn Untertouren der  fertiggestellt sind! (TV = Termin-Verspätung)
+## TV Guide 📺 (TV = Termin-Verspätung)
+- Nur möglich wenn Untertouren der  fertiggestellt sind! 
 - Filter nach **Auftragsnummer** **(Steht auf TV)**
 - Tipp: Beim **Filter-Fenster** nach **Auftrag** => **Enter = Zeile hinzufügen** (Mehrere Aufträge)
 - Im **Touren-Fenster** **Tour die TV beinhaltet** auswählen
