@@ -103,6 +103,8 @@
         
         - Wenn 1 WAB bereits Rampe nächster muss auf Platz **(max 1 Rampe pro Tag)**
 
+        - Bei **2 Containeren(WAB's) pro LKW** bei **Verladereihenfolge** auch **2 Nummern vergeben** und auf **Hänger** stellen!
+
         - **Automatische Verlade-Reihenfolge** (Meist Segen manchmal Fluch)
             - **Auto-Button** berücksichtigt **keine Manuellen Änderungen** => **[Reset]**
             - Bei **Manuelle-Ladereihenfolge** verwendet wurde => Im **Kommentarfeld "Bemerkung Montage"** vermerken _(UNSURE ASK ISABEL 😕)_
