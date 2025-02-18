@@ -355,13 +355,14 @@
   
 - **Konflikte** mit **BGO & SC-Leiter** (UNSURE ASK BIG-BOSS 😕)
     - Wer ruft Kunden bei welchen Problem an ? 💀
-    - Abschieben von Sachen auf $Hersteller_X & SC-Leiter ==> **und Umgekehrt!**  💀
+    - Abschieben auf $Hersteller_$ & SC-Leiter_$ ==> **und Umgekehrt!**  💀
     - **WHO THE FUCK IS TO BLAME AND FOR WHAT 💀❌💀**
     - **Keine Verantwortung übernehmen :question: => Alles Problem von Hersteller** :question:
 
 ## Extra Notes:
 - Excel Makros für Auslieferliste:
-    - Denisa Help 17.02.2025
+    - Werden nur Lokal in Excel gespeichert - (New to me i always put them in the actual file) 
+    - Will only work local - thats where the weird keycombo comes from 😂
 
 - $HERSTELLER
     - NOS -  🟢 - Hersteller_N -> 🔵 Schrift
