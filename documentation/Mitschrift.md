@@ -223,29 +223,29 @@
         - 3,5t Fahrzeug => **max. ~ 600kg** [LAGER-WAB] (B-FS)
 
 - **Avisieren:**
-        - **Avisieren** immer im **Touren-Fenster** => **[OBEN]**
-        - **Alles 2x kontrollieren**
-        - **Datum bei Touren** & **Ladereihenfolge WAB's 3x kontrollieren**
-            - **Datum** kann sich aufgrund von Tagesarbeitszeit oder falschen $BUILD_TIMES from $HERSTELLER auf nächsten Tag rutschen!
-            - **Fehler passieren hier leicht** und **keine Software-Kontrolle** für Fehler wie diese!
-            - _NOTE: Probably a big reason that "AI" is not already taking Disponenten-Jobs (needs a sick Algorithm 😄)_
-            - _NOTE: Bad for me but Probably good for Big_Boss => **Local Deepseek with Live Training here 👀👀**_
+    - **Avisieren** immer im **Touren-Fenster** => **[OBEN]**
+    - **Alles 2x kontrollieren**
+    - **Datum bei Touren** & **Ladereihenfolge WAB's 3x kontrollieren**
+        - **Datum** kann sich aufgrund von Tagesarbeitszeit oder falschen $BUILD_TIMES from $HERSTELLER auf nächsten Tag rutschen!
+        - **Fehler passieren hier leicht** und **keine Software-Kontrolle** für Fehler wie diese!
+        - _NOTE: Probably a big reason that "AI" is not already taking Disponenten-Jobs (needs a sick Algorithm 😄)_
+        - _NOTE: Bad for me but Probably good for Big_Boss => **Local Deepseek with Live Training here 👀👀**_
 
 - **Vor-Avisieren**
-        - Gleich wie Avisieren nur im Vorfeld -> **Nicht Offizielles Aviso verwenden!**
-        - Daten & Mail aus Profitour **"Aviso-Pdf"** ziehen und Mail erfassen!
-        - Wichtige Daten: **Kunde, KW, Auftragsnummer**
-        - Mail-Wichtigkeit auf "High"
-        - Vorlage:
-             - In der KW1$$/$$ bekommen sie von der Firma [Hersteller_$] die neuen Büromöbel geliefert und montiert. Wir würden die Montage gerne am Dienstag, [DATUM] um [UHRZEIT] Uhr beginnen. Die Montagearbeiten wären am [DATUM] abgeschlossen. Bitte um eine kurze Antwort, ob der Termin für sie in Ordnung ist. Danke im Voraus
-        - **Transportauftrag muss nicht in der Mail anhängt werden**
-        - _NOTE1: Gesamter Prozess könnte **easy automatisiert werden**)_
-        - _NOTE2: Prozess wird **Lokal automatisiert** => **Keine Anbindung an Profitour** => **Native Script**)_
-        - _NOTE3: Laut Isabel nicht erwünscht => trotzdem Fragen zu **Persöhnlicher Verwendung!**) (UNSURE ASK BIG-BOSS 😕)_
+    - Gleich wie Avisieren nur im Vorfeld -> **Nicht Offizielles Aviso verwenden!**
+    - Daten & Mail aus Profitour **"Aviso-Pdf"** ziehen und Mail erfassen!
+    - Wichtige Daten: **Kunde, KW, Auftragsnummer**
+    - Mail-Wichtigkeit auf "High"
+    - Vorlage:
+        - In der KW1$$/$$ bekommen sie von der Firma [Hersteller_$] die neuen Büromöbel geliefert und montiert. Wir würden die Montage gerne am Dienstag, [DATUM] um [UHRZEIT] Uhr beginnen. Die Montagearbeiten wären am [DATUM] abgeschlossen. Bitte um eine kurze Antwort, ob der Termin für sie in Ordnung ist. Danke im Voraus
+    - **Transportauftrag muss nicht in der Mail anhängt werden**
+    - _NOTE1: Gesamter Prozess könnte **easy automatisiert werden**)_
+    - _NOTE2: Prozess wird **Lokal automatisiert** => **Keine Anbindung an Profitour** => **Native Script**)_
+    - _NOTE3: Laut Isabel nicht erwünscht => trotzdem Fragen zu **Persöhnlicher Verwendung!**) (UNSURE ASK BIG-BOSS 😕)_
 
-    - **Wochen-Auslatung des jeweiligen Herstelller berücksichtigen**
-        - Mit **Mitarbeitern und Herstellen gute Lösung finden** (Isabell hat Schnittstelle vom Hersterller_H zum checken)
-        - Hersteller_NOS fragen => Wie Auslatungen gemssen werden => **Date am 04.03.2025 & 11-12.03.2025 🌹** 
+- **Wochen-Auslatung des jeweiligen Herstelller berücksichtigen**
+    - Mit **Mitarbeitern und Herstellen gute Lösung finden** (Isabell hat Schnittstelle vom Hersterller_H zum checken)
+    - Hersteller_NOS fragen => Wie Auslatungen gemssen werden => **Date am 04.03.2025 & 11-12.03.2025 🌹** 
 
 ## Frachtbriefe (Bestehen aus 2-PDF's):
 - **Auswahl der Tour im Oberen Fenster** -> Frachtbrief -> Print as PDF -> Naming_Scheme: **[TT]_TOURNUMMER**
