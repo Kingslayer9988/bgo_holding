@@ -238,9 +238,9 @@ Bitte um eine kurze Antwort, ob der Termin für sie in Ordnung ist.
 Danke im Voraus.
 ````
 > [!NOTE]
-> Gesamter Prozess könnte **easy automatisiert werden**)
-> Alle nötigen Daten könnten aus **Aviso PDF** (Richtes Avisieren) gezogen werden =>  => Godlike 💸 safed here
-> Prozess wird **Lokal automatisiert** => **Keine Anbindung an Profitour** => **Windwos_Contextmenu_PS_Script**)
+> Gesamter Prozess könnte **easy automatisiert werden**)\
+> Alle nötigen Daten könnten aus **Aviso PDF** (Richtes Avisieren) gezogen werden =>  => Godlike 💸 safed here\
+> Prozess wird **Lokal automatisiert** => **Keine Anbindung an Profitour** => **Windwos_Contextmenu_PS_Script**)\
 > Nicht erwünscht ‼️ => **Persöhnlicher Verwendung!**) (MAYBE ASK BIG-BOSS 😕)
 
 ## 📄 Frachtbriefe & Tourenpläne (2-PDF's):
