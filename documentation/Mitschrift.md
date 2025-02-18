@@ -33,7 +33,7 @@
 ---
 ---
 
-## Profi Tour besteht aus 2-Teilen bzw. Ansichten (Datenbank & Planungs - Ansicht)
+## Profi-Tour besteht aus 2-Teilen bzw. Ansichten (Datenbank & Planungs - Ansicht)
 
 ### Ansicht_1 = Datenbank_Ansicht
 - Direkt nach dem **Start des Programms** sichtbar!
