@@ -206,6 +206,11 @@
         - 7,5t Fahrzeug => **max. ~ 15m³ & 1000kg** [LAGER-WAB] (C-FS)
         - 3,5t Fahrzeug => **max. ~ 600kg** [LAGER-WAB] (B-FS)
 
+- **Wochen-Auslatung des jeweiligen Herstelller berücksichtigen**
+    - Mit **Mitarbeitern und Herstellen gute Lösung finden** (Isabell hat Schnittstelle vom Hersterller_H zum checken)
+    - Hersteller_NOS fragen => Wie Auslatungen gemssen werden => **Date am 04.03.2025 & 11-12.03.2025 🌹**
+    - Hersteller_NOS fragen => Wie Deadlines liegen && Wie Nachgeplant wird
+
 - **Avisieren:**
     - **Avisieren** immer im **Touren-Fenster** => **[OBEN]**
     - **Alles 2x kontrollieren**
@@ -213,24 +218,21 @@
         - **Datum** kann sich aufgrund von Tagesarbeitszeit oder falschen $BUILD_TIMES from $HERSTELLER auf nächsten Tag rutschen!
         - **Fehler passieren hier leicht** und **keine Software-Kontrolle** für Fehler wie diese!
         - _NOTE: Probably a big reason that "AI" is not already taking Disponenten-Jobs (needs a sick Algorithm 😄)_
-        - _NOTE: Bad for me but Probably good for Big_Boss => **Local Deepseek with Live Training here 👀👀**_
+        - _NOTE: Bad for me but Probably good for Big_Boss => **Local Deepseek with Live Training here 👀👀**_ 
 
-- **Vor-Avisieren**
-    - Gleich wie Avisieren nur im Vorfeld -> **Nicht Offizielles Aviso verwenden!**
-    - Daten & Mail aus Profitour **"Aviso-Pdf"** ziehen und Mail erfassen!
-    - Wichtige Daten: **Kunde, KW, Auftragsnummer**
-    - Mail-Wichtigkeit auf "High"
-    - Vorlage:
-        - In der KW1$$/$$ bekommen sie von der Firma [Hersteller_$] die neuen Büromöbel geliefert und montiert. Wir würden die Montage gerne am Dienstag, [DATUM] um [UHRZEIT]              Uhr beginnen. Die Montagearbeiten wären am [DATUM] abgeschlossen. Bitte um eine kurze Antwort, ob der Termin für sie in Ordnung ist. Danke im Voraus
-    - **Transportauftrag muss nicht in der Mail anhängt werden**
-    - _NOTE1: Gesamter Prozess könnte **easy automatisiert werden**)_
-    - _NOTE2: Prozess wird **Lokal automatisiert** => **Keine Anbindung an Profitour** => **Native Script**)_
-    - _NOTE3: Laut Isabel nicht erwünscht => trotzdem Fragen zu **Persöhnlicher Verwendung!**) (UNSURE ASK BIG-BOSS 😕)_
-
-- **Wochen-Auslatung des jeweiligen Herstelller berücksichtigen**
-    - Mit **Mitarbeitern und Herstellen gute Lösung finden** (Isabell hat Schnittstelle vom Hersterller_H zum checken)
-    - Hersteller_NOS fragen => Wie Auslatungen gemssen werden => **Date am 04.03.2025 & 11-12.03.2025 🌹**
-    - Hersteller_NOS fragen => Wie Deadlines liegen && Wie Nachgeplant wird 
+## 📙 Vorraus Avisieren (Vor-Avisieren)
+- E-Mail Adresse & Kontaktdaten aus Profitour  ziehen und Mail erfassen!
+- Wichtige Daten: **Kunde, KW, Auftragsnummer**
+- Mail-Wichtigkeit auf "High"
+- Vorlage:
+##
+In der KW_$$/KW_$$ bekommen sie von der Firma [Hersteller_$] die neuen Büromöbel geliefert und montiert. Wir würden die Montage gerne am Dienstag, [DATUM] um [UHRZEIT] Uhr beginnen. Die Montagearbeiten wären am [DATUM] abgeschlossen. Bitte um eine kurze Antwort, ob der Termin für sie in Ordnung ist. Danke im Voraus 
+##
+- **Transportauftrag muss nicht in der Mail anhängt werden**
+- _NOTE1: Gesamter Prozess könnte **easy automatisiert werden**)_
+- _NOTE2: Alle nötigen Daten könnten aus **Aviso PDF** (Richtes Avisieren) gezogen werden =>  => Godlike 💸 safed here_
+- _NOTE3: Prozess wird **Lokal automatisiert** => **Keine Anbindung an Profitour** => **Windwos_Contextmenu_PS_Script**)_
+- _NOTE4: Laut Isabel nicht erwünscht => trotzdem Fragen zu **Persöhnlicher Verwendung!**) (UNSURE ASK BIG-BOSS 😕)_
 
 ## 📄 Frachtbriefe & Tourenpläne (2-PDF's):
 - **Auswahl der Tour im Oberen Fenster** -> Frachtbrief -> Print as PDF -> Naming_Scheme: **[TT]_TOURNUMMER**
