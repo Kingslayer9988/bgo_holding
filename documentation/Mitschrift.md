@@ -157,6 +157,7 @@
     - **TV immer für jeweilige KW__ erledigen** nachdem Untertouren fertiggestellt sind!
         - TV = Termin-Verspätung
         - Filter nach **Auftragsnummer** **(Steht auf TV)**
+              - Tipp: Beim **Filter-Fenster** nach **Auftrag** => **Enter = Zeile hinzufügen** (Mehrere Aufträge)
         - Im Touren-Fenster => Gehe zu **WAB-Tour die TV beinhaltet**
         - Im Bearbeitungs-Fenster:
             - Gehe zur genauen Position der TV
