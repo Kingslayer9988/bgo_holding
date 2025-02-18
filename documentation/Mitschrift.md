@@ -1,4 +1,4 @@
-# BGO Mitschrift Erik Zellhofer
+# 🏢 BGO Mitschrift Erik Zellhofer 🏢
 
 ## Chronologischer Ablauf (Will Still have Mistakes - Aktuell für $Hersteller_H)
 
