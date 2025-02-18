@@ -4,6 +4,7 @@
 
 - **Montag:** 
     - 📄 **Frachtbriefe & Tourenplan für SC-Leiter** => Für **$Folge_KW** -> Bsp.: **Montag_KW_08 für KW09 an SC-Leiter**  => [Siehe Zeile 238](#frachtbriefe-bestehen-aus-2-pdfs)
+    - 📄 **Auslieferlisten für SC-Leiter** => Für **$Folge_KW** -> Bsp.: **Montag_KW_08 für KW09 an SC-Leiter** => [Siehe Zeile 255](#auslieferlisten-infos)
     - 🗓️ **Starten der Planung von mindestens $Folge_KW_5** => Siehe [Fenster 3](#fenster_3--bottom--unbearbeitet-fenster--minimap-gleich-wie-datenbank_ansicht)
 - **Dienstag:**
     - 📅 **Daily Quests**
