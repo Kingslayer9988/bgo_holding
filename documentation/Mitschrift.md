@@ -1,4 +1,4 @@
-# BGO Mitschrift 03.02.2025 - 14.02.2025
+# BGO Mitschrift Erik Zellhofer
 
 ## Chronologischer Ablauf (Will Still have Mistakes - Aktuell für $Hersteller_H)
 
