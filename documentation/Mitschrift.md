@@ -3,7 +3,7 @@
 ## Chronologischer Ablauf (Will Still have Mistakes - Aktuell für $Hersteller_H)
 
 - **Montag:** 
-    - 📄 **Frachtbriefe & Tourenplan für SC-Leiter** => Für **$Folge_KW_01** -> Bsp.: **Montag_KW_08 für KW_09** => [Siehe Zeile 238](#frachtbriefe-bestehen-aus-2-pdfs)
+    - 📄 **Frachtbriefe & Tourenpläne für SC-Leiter** => Für **$Folge_KW_01** -> Bsp.: **Montag_KW_08 für KW_09** => [Siehe Zeile 238](#frachtbriefe-bestehen-aus-2-pdfs)
     - 📑 **Auslieferlisten für SC-Leiter** => Für **$Folge_KW_01** -> Bsp.: **Montag_KW_08 für KW_09** => [Siehe Zeile 255](#auslieferlisten-infos)
     - 🗓️ **Starten der Planung von mindestens $Folge_KW_5** => Bsp.: **Montag_KW_08 für KW_12** [Siehe Fenster 3](#fenster_3--bottom--unbearbeitet-fenster--minimap-gleich-wie-datenbank_ansicht)
 - **Dienstag:**
@@ -221,7 +221,7 @@
     - Wichtige Daten: **Kunde, KW, Auftragsnummer**
     - Mail-Wichtigkeit auf "High"
     - Vorlage:
-        - In der KW1$$/$$ bekommen sie von der Firma [Hersteller_$] die neuen Büromöbel geliefert und montiert. Wir würden die Montage gerne am Dienstag, [DATUM] um [UHRZEIT] Uhr beginnen. Die Montagearbeiten wären am [DATUM] abgeschlossen. Bitte um eine kurze Antwort, ob der Termin für sie in Ordnung ist. Danke im Voraus
+        - In der KW1$$/$$ bekommen sie von der Firma [Hersteller_$] die neuen Büromöbel geliefert und montiert. Wir würden die Montage gerne am Dienstag, [DATUM] um [UHRZEIT]              Uhr beginnen. Die Montagearbeiten wären am [DATUM] abgeschlossen. Bitte um eine kurze Antwort, ob der Termin für sie in Ordnung ist. Danke im Voraus
     - **Transportauftrag muss nicht in der Mail anhängt werden**
     - _NOTE1: Gesamter Prozess könnte **easy automatisiert werden**)_
     - _NOTE2: Prozess wird **Lokal automatisiert** => **Keine Anbindung an Profitour** => **Native Script**)_
@@ -229,23 +229,21 @@
 
 - **Wochen-Auslatung des jeweiligen Herstelller berücksichtigen**
     - Mit **Mitarbeitern und Herstellen gute Lösung finden** (Isabell hat Schnittstelle vom Hersterller_H zum checken)
-    - Hersteller_NOS fragen => Wie Auslatungen gemssen werden => **Date am 04.03.2025 & 11-12.03.2025 🌹** 
+    - Hersteller_NOS fragen => Wie Auslatungen gemssen werden => **Date am 04.03.2025 & 11-12.03.2025 🌹**
+    - Hersteller_NOS fragen => Wie Deadlines liegen && Wie Nachgeplant wird 
 
-## Frachtbriefe (Bestehen aus 2-PDF's):
+## 📄 Frachtbriefe & Tourenpläne (2-PDF's):
 - **Auswahl der Tour im Oberen Fenster** -> Frachtbrief -> Print as PDF -> Naming_Scheme: **[TT]_TOURNUMMER**
 - **Auswahl der Tour im Oberen Fenster** -> Tourenplan -> Print as PDF -> Naming_Scheme: **[TT]_TOURNUMMER_TB**
 - Frachtbrief und Tourenplan für SC-Leiter immer **$Montags_Aktuelle_KW** für **%Nächste_KW** -> Bsp.: **Montag in KW7** -> **Ausdrücke für KW08 an SC-Leiter**
 - Immer **Excel-Tabelle der Folge_KW$$** auf Papier am Tisch haben und Touren nach Senden der PDF abhaken! -> **2PDF's pro Touren [_NON-TB & _TB]**
-- Ablage auf Onedrive 😨 Ordner that never syncs even 10MB's 😂
+- Ablage auf Onedrive 📁 that never syncs even 10MB's 😨😂
 
-## Auslieferlisten Infos:
+## 📑 Guide für Auslieferlisten:
 - Für **Hersteller == Alle Touren außer [Lager-WAB's] -> %%Immer Freitags für Nächste KW**
-
 - Für **SC-Leiter == alle Touren außer [POST, Direkt, Lager-WAB's]**
     - **Auslieferlisten_SC** kommen von **SC-Leiter** zurück mit **allen 3 Herstellern kombiniert**
     - Haben **Infos** über genaue Touren, Mitarbeiter, Fahrzeuge etc. => Naming_Scheme: **Auslieferliste_$SC-Leiter_$KW__**
-
-### Auslieferliste Guide:
 - Single .csv Excel file -> Apply Makro -> **Save as .xlsx** save for **SC-Leiter** & **HERSTELLER**  = **receive it without Makros**
 - Touren markieren -> **Auslieferliste** -> **Saved as .csv on Remote [Profi-Tour-Server]** -> Copy to [Local] and open in Excel
 - Apply Excel ✨ **Magic-Makros** ✨ [Strg+Umschalt+A "For Austria + D for "Germany"] -> **[HARDCODED IN MAKRO]**
@@ -253,7 +251,7 @@
 - Save as **.xlsx** => **(Will delete Makros)**
 - Naming_Scheme: **ALL_$ORT[WIEN,LINZ,GRAZ,etc]_[KW$$].xlsx**
 
-## Guide für die Abgabe der (Produktion == Lager-WAB's) für Hersteller:
+## 📦 Guide für die Abgabe der (Produktion == Lager-WAB's) für Hersteller:
 - Filter **$Folge_KW4** => Alle Orte
 - Im **Unbearbeitet-Fenster** makiere alle Aufträge => **Checke Gewicht und m³**
 - Erstelle immer als erstes **DIREKT & POST** Touren.
@@ -265,7 +263,7 @@
 - **Deadline verschieden für alle 3 Hersteller**
 - Hersteller_H => 3 Wochen unterschied => **Bsp.: spät. Freitag KW7 für KW_11**
 
-## Guide für die Transportbestellung 🚚:
+## 🚚 Guide für die Transportbestellung:
 - Immer **Freitags $Aktulle_KW** für **$Folge_KW_2** ==> **(Bsp.: Fr, KW7 für KW9)**
 - Filter -> **[Touren / Auflade Zeit]** -> **KW Mo - Sa, auswählen**
 - **Schnittstelle -> Export in Excel** -> safe as .xlxs Name: **Transportbestellunhg_KW__**
@@ -276,7 +274,7 @@
 - **Letzter im Team** fügt die **Excel-Imports der Mitarbeiter zusammen** und sendet sie an **Spedition Winkler**
 - **Sonderbestellungen** wie Transmato, Quehenberger(Sattel) **sofort** bei Auftrag an Spedition senden!
 
-## TV Guide 📺 (TV = Termin-Verspätung)
+## 📺 Guide für TV (TV = Termin-Verspätung)
 - Nur möglich wenn Untertouren der  fertiggestellt sind! 
 - Filter nach **Auftragsnummer** **(Steht auf TV)**
 - Tipp: Beim **Filter-Fenster** nach **Auftrag** => **Enter = Zeile hinzufügen** (Mehrere Aufträge)
