@@ -18,7 +18,7 @@
     - 📑 **Auslieferliste für Hersteller** => Für **$Folge_KW_01** (Bsp: **Freitag_KW_08 für KW_09**) => **[GUIDE](#-guide-für-auslieferlisten)**
 
 - **⌛ Daily Quests ⌛**
-    - Bei jedem Import von Hersteller_H **06:30 & 14:00 Täglich**
+    - ♻️ Bei jedem Import von Hersteller_H **06:30 & 14:00 Täglich**
         - 🔄 **Nachplanen** => **Alle neuen Aufträge** wieder verplanen für **$Folge_KW_1 & $Folge_KW_2 & $Folge_KW_3 & $Folge_KW_4**
         - 🔶 Ausnahme **Freitags 14:00: Nur DIREKT/POST** Lieferungen verplanen **(Runde der Mitarbeiter)** 
     - 📺 **TV's** machen die Anfallen! => **[GUIDE](#-guide-für-tv-tv--termin-Verspätung)**
