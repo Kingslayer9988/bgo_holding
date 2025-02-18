@@ -380,6 +380,8 @@ Danke im Voraus.
     - Will only work local - thats where the weird keycombo comes from 😂
 
 - $HERSTELLER
-    - NOS -  🟢 - Hersteller_N -> 🔵 Schrift
-    - H**I - 🔵 - Hersteller_H -> 🟢 Schrift
-    - B**E - 🔴 - Hersteller_B -> :black_circle: Schrift
+    - NOS - 🟢 - Hersteller_N -> 🔵 Schrift
+    - HALI - 🔵 - Hersteller_H -> 🟢 Schrift
+    - BENE - 🔴 - Hersteller_B -> ⚫ Schrift
+> [!NOTE]
+> Later make Guides switchable per $_Hersteller and Color them accordingly 🌈
