@@ -257,10 +257,12 @@ Danke im Voraus.
     - Haben **Infos** über genaue Touren, Mitarbeiter, Fahrzeuge etc. => Naming_Scheme: **Auslieferliste_$SC-Leiter_$KW__**
 - Single .csv Excel file -> Apply Makro -> **Save as .xlsx** save for **SC-Leiter** & **HERSTELLER**  = **receive it without Makros**
 - Touren markieren -> **Auslieferliste** -> **Saved as .csv on Remote [Profi-Tour-Server]** -> Copy to [Local] and open in Excel
-- Apply Excel ✨ **Magic-Makros** ✨ [Strg+Umschalt+A "For Austria + D for "Germany"] -> **[HARDCODED IN MAKRO]**
+- Apply Excel ✨ **Magic-Makros** ✨ [Strg+Umschalt+A "For Austria + D for "Germany"]
 - Bei SC-Leiter Touren: **Lösche Inhalt der Zellen mit Touren-Nummer** und schreibe **"Plant SC-Leiter"** in **🔴 & Fett**
 - Save as **.xlsx** => **(Will delete Makros)**
 - Naming_Scheme: **ALL_$ORT[WIEN,LINZ,GRAZ,etc]_[KW$$].xlsx**
+> [!NOTE]
+> Upgrade Makro to do the last 3 Steps in One
 
 ## 📦 Guide für die Abgabe der (Produktion == Lager-WAB's) für Hersteller:
 - Es gibt eine **Liste mit Abgabedaten** für **Hersteller_H**
