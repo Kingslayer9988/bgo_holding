@@ -89,6 +89,7 @@
 - 🔴 => **Kunde hat altes Aviso = Zeiten können nicht gehalten werden!** => **Neu Avisieren** [Siehe Zeile 420] oder **FORCE_GREEN**
 
 - **FORCE_GREEN_BUTTON** => Button: **Kunden_avis_bestätigen & Aktualisieren** => **Kein Avis versendet trotzdem 🟢**
+    - **Tournummer** mitschreiben bei denen **FORCE_GREEN_BUTTON** benutzt wurde!
 
 - **Tipps für erstellen von Linien:**
     
