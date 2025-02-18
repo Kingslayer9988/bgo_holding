@@ -224,11 +224,11 @@
 - E-Mail Adresse & Kontaktdaten aus Profitour  ziehen und Mail erfassen!
 - Wichtige Daten: **Kunde, KW, Auftragsnummer**
 - Mail-Wichtigkeit auf "High"
-- Vorlage:
-##
-In der KW_$$/KW_$$ bekommen sie von der Firma [Hersteller_$] die neuen Büromöbel geliefert und montiert. Wir würden die Montage gerne am Dienstag, [DATUM] um [UHRZEIT] Uhr beginnen. Die Montagearbeiten wären am [DATUM] abgeschlossen. Bitte um eine kurze Antwort, ob der Termin für sie in Ordnung ist. Danke im Voraus 
-##
 - **Transportauftrag muss nicht in der Mail anhängt werden**
+- Vorlage:
+´´´
+In der KW_$$/KW_$$ bekommen sie von der Firma [Hersteller_$] die neuen Büromöbel geliefert und montiert. Wir würden die Montage gerne am Dienstag, [DATUM] um [UHRZEIT] Uhr beginnen. Die Montagearbeiten wären am [DATUM] abgeschlossen. Bitte um eine kurze Antwort, ob der Termin für sie in Ordnung ist. Danke im Voraus 
+´´´
 - _NOTE1: Gesamter Prozess könnte **easy automatisiert werden**)_
 - _NOTE2: Alle nötigen Daten könnten aus **Aviso PDF** (Richtes Avisieren) gezogen werden =>  => Godlike 💸 safed here_
 - _NOTE3: Prozess wird **Lokal automatisiert** => **Keine Anbindung an Profitour** => **Windwos_Contextmenu_PS_Script**)_
