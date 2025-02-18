@@ -18,11 +18,11 @@
     - 🚚 **Transportbestellung** => Für **$Folge_KW_02** (Bsp: **Freitag_KW_08 für KW_10**) => [Siehe Zeile 272](#guide-für-die-transportbestellung)
     - 📋 **Auslieferliste für Hersteller** => Für **$Folge_KW_01** (Bsp: **Freitag_KW_08 für KW_09**) => [Siehe Zeile 245](#auslieferlisten-infos)
 
-- **Daily Quests**
+- **⌛ Daily Quests ⌛**
     - Bei jedem Import von Hersteller_H **06:30 & 14:00 Täglich**
         - 🔄 **Nachplanen** => **Alle neuen Aufträge** wieder verplanen für **$Folge_KW_1 & $Folge_KW_2 & $Folge_KW_3 & $Folge_KW_4**
-        - Ausnahme **Freitags 14:00: Nur DIREKT/POST** Lieferungen verplanen **(Runde der Mitarbeiter)** 
-    - 📺 **TV's** machen die Anfallen! => [Siehe Zeile XXX](#tv_immer_für_jeweilige KW___erledigen_nachdem_Untertouren_fertiggestellt_sind!)
+        - 🔶 Ausnahme **Freitags 14:00: Nur DIREKT/POST** Lieferungen verplanen **(Runde der Mitarbeiter)** 
+    - 📺 **TV's** machen die Anfallen! => [Siehe Zeile 279](#tv_guide_📺)
 
 # Profi-Tour for absolute Dummies
 
@@ -265,7 +265,7 @@
 - **Deadline verschieden für alle 3 Hersteller**
 - Hersteller_H => 3 Wochen unterschied => **Bsp.: spät. Freitag KW7 für KW_11**
 
-## Guide für die Transportbestellung:
+## Guide für die Transportbestellung 🚚:
 - Immer **Freitags $Aktulle_KW** für **$Folge_KW_2** ==> **(Bsp.: Fr, KW7 für KW9)**
 - Filter -> **[Touren / Auflade Zeit]** -> **KW Mo - Sa, auswählen**
 - **Schnittstelle -> Export in Excel** -> safe as .xlxs Name: **Transportbestellunhg_KW__**
@@ -276,7 +276,7 @@
 - **Letzter im Team** fügt die **Excel-Imports der Mitarbeiter zusammen** und sendet sie an **Spedition Winkler**
 - **Sonderbestellungen** wie Transmato, Quehenberger(Sattel) **sofort** bei Auftrag an Spedition senden!
 
-## ** TV Guide 📺**
+## TV Guide 📺
 - Nur möglich wenn Untertouren der  fertiggestellt sind! (TV = Termin-Verspätung)
 - Filter nach **Auftragsnummer** **(Steht auf TV)**
 - Tipp: Beim **Filter-Fenster** nach **Auftrag** => **Enter = Zeile hinzufügen** (Mehrere Aufträge)
