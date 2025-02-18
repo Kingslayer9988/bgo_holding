@@ -263,35 +263,35 @@ Danke im Voraus.
 - Naming_Scheme: **ALL_$ORT[WIEN,LINZ,GRAZ,etc]_[KW$$].xlsx**
 
 ## 📦 Guide für die Abgabe der (Produktion == Lager-WAB's) für Hersteller:
-* Es gibt eine **Liste mit Abgabedaten** für **Hersteller_H**
-* Filter **$Folge_KW4** => Alle Orte
-* Im **Unbearbeitet-Fenster** makiere alle Aufträge => **Checke Gewicht und m³**
-* Erstelle immer als erstes **DIREKT & POST** Touren.
-* Als nächstes Kontrolle auf **$FIXTERMIN & $WUNSCHDATUM**
-* Lege als nächstes **DIREKT_BAUSTELLEN** an!
-* Als Abschluss die **Lager-WAB's** ohne **Unter-Touren**
-* **KONTROLLE !!! (Schnellschüsse || Liefer_KW =! Prod_KW || etc.)**
-* Links oben auf Export ==> **Produktion des Herstelles wird eingelastet!!**
-* **Deadline verschieden für alle 3 Hersteller**
-* Hersteller_H => 3 Wochen unterschied => **Bsp.: spät. Freitag KW7 für KW_11**
+- Es gibt eine **Liste mit Abgabedaten** für **Hersteller_H**
+- Filter **$Folge_KW4** => Alle Orte
+- Im **Unbearbeitet-Fenster** makiere alle Aufträge => **Checke Gewicht und m³**
+- Erstelle immer als erstes **DIREKT & POST** Touren.
+- Als nächstes Kontrolle auf **$FIXTERMIN & $WUNSCHDATUM**
+- Lege als nächstes **DIREKT_BAUSTELLEN** an!
+- Als Abschluss die **Lager-WAB's** ohne **Unter-Touren**
+- **KONTROLLE !!! (Schnellschüsse || Liefer_KW =! Prod_KW || etc.)**
+- Links oben auf Export ==> **Produktion des Herstelles wird eingelastet!!**
+- **Deadline verschieden für alle 3 Hersteller**
+- Hersteller_H => 3 Wochen unterschied => **Bsp.: spät. Freitag KW7 für KW_11**
 
 ## 🚚 Guide für die Transportbestellung:
-* Immer **Freitags $Aktulle_KW** für **$Folge_KW_2** ==> **(Bsp.: Fr, KW7 für KW9)**
-* Filter -> **[Touren / Auflade Zeit]** -> **KW Mo - Sa, auswählen**
-* **Schnittstelle -> Export in Excel** -> safe as .xlxs Name: **Transportbestellunhg_KW__**
-* Alle Gebiete kontrollieren **(2 unteren Spalten in Excel zählen)** => **Direkt & Lager-WAB's**
-* **Ladereihenfolge checken** => oft **35/36/35** => Delete **35**
-* **m³ mit Fahrzeugen abglichen** bei => (Bsp.: **40m³** => **LKW + Hänger** oder **2 LKW's**)
-* Transportbestellung im richtigen **MS-Teams** Ordner ablegen!
-* **Letzter im Team** fügt die **Excel-Imports der Mitarbeiter zusammen** und sendet sie an **Spedition Winkler**
-* **Sonderbestellungen** wie Transmato, Quehenberger(Sattel) **sofort** bei Auftrag an Spedition senden!
+- Immer **Freitags $Aktulle_KW** für **$Folge_KW_2** ==> **(Bsp.: Fr, KW7 für KW9)**
+- Filter -> **[Touren / Auflade Zeit]** -> **KW Mo - Sa, auswählen**
+- **Schnittstelle -> Export in Excel** -> safe as .xlxs Name: **Transportbestellunhg_KW__**
+- Alle Gebiete kontrollieren **(2 unteren Spalten in Excel zählen)** => **Direkt & Lager-WAB's**
+- **Ladereihenfolge checken** => oft **35/36/35** => Delete **35**
+- **m³ mit Fahrzeugen abglichen** bei => (Bsp.: **40m³** => **LKW + Hänger** oder **2 LKW's**)
+- Transportbestellung im richtigen **MS-Teams** Ordner ablegen!
+- **Letzter im Team** fügt die **Excel-Imports der Mitarbeiter zusammen** und sendet sie an **Spedition Winkler**
+- **Sonderbestellungen** wie Transmato, Quehenberger(Sattel) **sofort** bei Auftrag an Spedition senden!
 
 ## 📺 Guide für TV (TV = Termin-Verspätung)
-* Nur möglich wenn Untertouren der  fertiggestellt sind! 
-* Filter nach **Auftragsnummer** **(Steht auf TV)**
-* Tipp: Beim **Filter-Fenster** nach **Auftrag** => **Enter = Zeile hinzufügen** (Mehrere Aufträge)
-* Im **Touren-Fenster** **Tour die TV beinhaltet** auswählen
-* Im **Bearbeitungs-Fenster** wähle **Transaufträge** => **Positionen**
+- Nur möglich wenn Untertouren der  fertiggestellt sind! 
+- Filter nach **Auftragsnummer** **(Steht auf TV)**
+- Tipp: Beim **Filter-Fenster** nach **Auftrag** => **Enter = Zeile hinzufügen** (Mehrere Aufträge)
+- Im **Touren-Fenster** **Tour die TV beinhaltet** auswählen
+- Im **Bearbeitungs-Fenster** wähle **Transaufträge** => **Positionen**
 * Es gibt **3 verschiedene Fälle von TV's**
 * 1️⃣ **Wenn Ganzer Transportauftrag (AB-Nummer)** Verzögert ist:
     * Gehe zu **WAB der TV-Tour** beinhaltet => Button: **Aus Tour lösen und Teilung Rückgängig machen**
@@ -303,12 +303,12 @@ Danke im Voraus.
     * Beim Teilen zuerst die **Anzahl der Teilstücke** dann die **Stückzahl** => (Bsp.: 3/7 Sessel in TV => Teilen 2 Teilstücke mit 4 Rest)
     * Button: Im **Bearbeitungs-Fenster** => **Neuen Transportauftrag erzeugen**
 * Wenn **WAB-Tour in der Zukunft** => **Verladereihenfolge neu richten**
-* Anschließend oben Button: **Selection** (Falls Vergessen = Probleme im Bearbeitungs-Fenster) => Button: **In Auswahl**
-* Im Bearbeitungsfenster **Auftrag auswählen** => **Sammelmappe erstellen**
-* Naming-Scheme: **[$ORT_$KW_DER_TV_KUNDE]** => (KW: Siehe Links unten auf TV)
-* Filter nach **$KW_WO_TV_HINGEHÖRT** in **[Lieferwoche]**
-* Öffne **Sammelmappe** => Button: **Übernahme in die Planung**
-* Auftrag ist nun im **Unbearbeitet-Fenster** => Splitten, WAB, etc. => **behandeln wie neuen Auftag**
+- Anschließend oben Button: **Selection** (Falls Vergessen = Probleme im Bearbeitungs-Fenster) => Button: **In Auswahl**
+- Im Bearbeitungsfenster **Auftrag auswählen** => **Sammelmappe erstellen**
+- Naming-Scheme: **[$ORT_$KW_DER_TV_KUNDE]** => (KW: Siehe Links unten auf TV)
+- Filter nach **$KW_WO_TV_HINGEHÖRT** in **[Lieferwoche]**
+- Öffne **Sammelmappe** => Button: **Übernahme in die Planung**
+- Auftrag ist nun im **Unbearbeitet-Fenster** => Splitten, WAB, etc. => **behandeln wie neuen Auftag**
 
 ## Tipps für Excel-Listen: [Excel_Listen_Immer_pro_KW$$]
 - Werden **LIVE am Onedrive Ordner bearbeitet** 💀
