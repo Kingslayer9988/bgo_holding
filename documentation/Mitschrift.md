@@ -238,10 +238,11 @@ Bitte um eine kurze Antwort, ob der Termin für sie in Ordnung ist.
 Danke im Voraus.
 ````
 > [!NOTE]
-> Gesamter Prozess könnte **easy automatisiert werden**)\
+> Gesamter Prozess könnte **easy automatisiert werden**) [New Google-OKR Shit Done ⁉️💲]\
 > Alle nötigen Daten könnten aus **Aviso PDF** (Richtes Avisieren) gezogen werden =>  => Godlike 💸 safed here\
 > Prozess wird **Lokal automatisiert** => **Keine Anbindung an Profitour** => **Windwos_Contextmenu_PS_Script**)\
-> Nicht erwünscht ‼️ => **Persöhnlicher Verwendung!**) (MAYBE ASK BIG-BOSS 😕)
+> Nicht erwünscht ‼️ => **Persöhnlicher Verwendung!**) (MAYBE ASK BIG-BOSS 😕)\
+> btw. Google dosent need a Buisness Tactic => ITS A FUCKING MONOPOLY 💀💵
 
 ## 📄 Frachtbriefe & Tourenpläne (2-PDF's):
 - **Auswahl der Tour im Oberen Fenster** -> Frachtbrief -> Print as PDF -> Naming_Scheme: **[TT]_TOURNUMMER**
