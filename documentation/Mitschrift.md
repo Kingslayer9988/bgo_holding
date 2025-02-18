@@ -244,7 +244,7 @@ Danke im Voraus.
 > Nicht erwünscht ‼️ => **Persöhnlicher Verwendung!**) (MAYBE ASK BIG-BOSS 😕)\
 > btw. Google dosent need a Buisness Tactic => ITS A FUCKING MONOPOLY 💀💵
 
-## 📄 Frachtbriefe & Tourenpläne (2-PDF's):
+## 📄 Guide für Frachtbriefe & Tourenpläne (2-PDF's):
 - **Auswahl der Tour im Oberen Fenster** -> Frachtbrief -> Print as PDF -> Naming_Scheme: **[TT]_TOURNUMMER**
 - **Auswahl der Tour im Oberen Fenster** -> Tourenplan -> Print as PDF -> Naming_Scheme: **[TT]_TOURNUMMER_TB**
 - Frachtbrief und Tourenplan für SC-Leiter immer **$Montags_Aktuelle_KW** für **%Nächste_KW** -> Bsp.: **Montag in KW7** -> **Ausdrücke für KW08 an SC-Leiter**
