@@ -88,27 +88,25 @@
 - **FORCE_GREEN_BUTTON** => Button: **Kunden_avis_bestätigen & Aktualisieren** => **Kein Avis versendet trotzdem 🟢**
     - **Tournummer** mitschreiben bei denen **FORCE_GREEN_BUTTON** benutzt wurde!
 
-- **Tipps für erstellen von Linien:**
-    
-    - **2 Arten von WAB's** => Eintragen in **Kommentar-Feld**  => **Bemerkung Transport**)
-        - [Rampe] (Lager-WAB) => bei Umladen in 7,5t bzw. 3,5t Fahrzeugen beim Lager **(eher = Bei vielen Kleinkunden)**
-            - Fahrzeug: **$Spedition_NORMAL**
-            - **Niemals** einem **Jumbo-WAB** zur **Rampe**
+## 💣 Guide für das erstellen von WAB-Touren:
+- Bei **2 Containeren(WAB's) auf einem LKW + Hänger** bei **Verladereihenfolge** auch **2 WAB-Nummern vergeben** und auf **Hänger** stellen!
+- **2 Arten von WAB's** => Eintragen von **[Rampe oder Platz]** in **Kommentar-Feld**  => **Bemerkung Transport**)
+- **Maximal 1 WAB auf Rampe** pro Tag => **2ter WAB** muss auf **Platz**
+    - **↗️ [Rampe]** (Lager-WAB) => bei Umladen in 7,5t bzw. 3,5t Fahrzeugen beim Lager **(eher = Bei vielen Kleinkunden)**
+        - Container: **$Spedition_NORMAL**
+        - **Niemals** einem **Jumbo-WAB** zur **Rampe**
 
-        - [Platz] (Direkt-WAB)  => Wenn mit LKW zu von Kunde zu Kunde gefahren wird **(eher = Bei wenig Großkunden)**
-            - Fahrzeug: **$Spedition_EGAL**
-            - Aufpassen auf **Zufahrten etc.** oft ist es **nicht möglich** mit **LKW zur Baustelle** zu kommen!
-            - Aufpassen im Normalfall **nicht mehr als 2 Kunden** => **Spedition** kann normal **nicht mehr als 2h auf Baustelle** warten
+    - **🅿️ [Platz] (Lager & Direkt-WAB)**  => Zuerst ins Lager & mit LKW zu Kunden gefahren wird **(eher = Bei wenig Großkunden)**
+        - Container: **$Spedition_EGAL**
+        - Aufpassen auf **Zufahrten etc.** oft ist es **nicht möglich** mit **LKW zur Baustelle** zu kommen!
+        - Aufpassen im Normalfall **nicht mehr als 2 Kunden** => **Spedition** kann normal **nicht mehr als 2h auf Baustelle** warten
         
-        - Wenn 1 WAB bereits Rampe nächster muss auf Platz **(max 1 Rampe pro Tag)**
-
-        - Bei **2 Containeren(WAB's) pro LKW** bei **Verladereihenfolge** auch **2 Nummern vergeben** und auf **Hänger** stellen!
-
-        - **Automatische Verlade-Reihenfolge** (Meist Segen manchmal Fluch)
-            - **Auto-Button** berücksichtigt **keine Manuellen Änderungen** => **[Reset]**
-            - Bei **Manuelle-Ladereihenfolge** verwendet wurde => Im **Kommentarfeld "Bemerkung Versamd"** vermerken
-                - Wieso überhaupt Manuell ? => **Wenn 2 Touren** an **1 Tag** aus **1 WAB geladen** werden.
-                - _NOTE: **Excel-Makro** zum Fehlerschutz erstellen_
+    - **🔁 Automatische Verlade-Reihenfolge**
+        - **Auto-Button** berücksichtigt **keine Manuellen Änderungen** => **[Reset]**
+        - Bei **Manuelle-Ladereihenfolge** verwendet wurde => Im **Kommentarfeld "Bemerkung Versamd"** vermerken!
+            - Wieso Manuell-Ladereihenfolge ? => **Wenn 2 Unter-Touren** an **1 Tag** aus **1 WAB geladen** werden.
+            > [!NOTE]
+            > **Excel-Makro** zur **Fehlererkennung** erstellen => Sobald **2 Touren aus 1 WAB** laden!
 
         - **Verlade-Reihenfolge = 99** == Verlade-Reihenfolge = **EGAL**
 
@@ -126,7 +124,6 @@
         - Sollte bei **jedem Auftrag** kontrolliert bzw. **nachgerechnet** werden. => Für Kalkulation - **Skript zur Abhilfe** siehe README.md!
         - Bei **kleinen Küchen** mit **SC-Leiter abklären** ob wir sie selbst machen können!
 
-    
     - **Naming-Scheme für Touren/WAB's:**
         - **DIREKT** => PST, DIR, N:043 => **DIREKT $ORT1 $ORT2 WOCHENTAG(TT)**
         - **_____(Leer)** => Direkt-LKW auf Baustelle => **__LEER $ORT1 $ORT2 WOCHENTAG(TT)**
