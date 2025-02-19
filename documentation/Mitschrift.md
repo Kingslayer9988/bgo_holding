@@ -105,8 +105,8 @@
         - **Auto-Button** berücksichtigt **keine Manuellen Änderungen** => **[Reset]**
         - Bei **Manuelle-Ladereihenfolge** verwendet wurde => Im **Kommentarfeld "Bemerkung Versamd"** vermerken!
             - Wieso Manuell-Ladereihenfolge ? => **Wenn 2 Unter-Touren** an **1 Tag** aus **1 WAB geladen** werden.
-            > [!NOTE]
-            > **Excel-Makro** zur **Fehlererkennung** erstellen => Sobald **2 Touren aus 1 WAB** laden!
+            - > [!NOTE]
+              > **Excel-Makro** zur **Fehlererkennung** erstellen => Sobald **2 Touren aus 1 WAB** laden!
 
         - **Verlade-Reihenfolge = 99** == Verlade-Reihenfolge = **EGAL**
 
