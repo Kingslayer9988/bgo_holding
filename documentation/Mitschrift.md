@@ -209,10 +209,12 @@
     - Hersteller_NOS fragen => Wie Deadlines liegen && Wie Nachgeplant wird
 
 ## 📗 Avisieren
+- Filter in **Datenbank-Ansicht** nach **[Prod + Lieferwoche] & [MO-SA]**
 - **Avisieren** immer im **Touren-Fenster** => **[OBEN]**
 - **Alles 2x kontrollieren**
 - **Datum bei Touren** & **Ladereihenfolge WAB's 3x kontrollieren**
-    - **Datum** kann sich aufgrund von Tagesarbeitszeit oder falschen $BUILD_TIMES from $HERSTELLER auf nächsten Tag rutschen!
+    - **Datum** immer in dem **Bearbeitungs-Fenster** unter **Stopps** kontrollieren!
+    - **Datum** kann sich aufgrund von Tagesarbeitszeit oder **falschen $BUILD_TIMES from $HERSTELLER** auf nächsten Tag rutschen!
     - **Fehler passieren hier leicht** und **keine Software-Kontrolle** für Fehler wie diese!
 > [!NOTE]
 > Probably a big reason that "AI" is not already taking Disponenten-Jobs (needs a sick Algorithm 😄)\
