@@ -216,7 +216,7 @@
     - **Fehler passieren hier leicht** und **keine Software-Kontrolle** für Fehler wie diese!
 > [!NOTE]
 > Probably a big reason that "AI" is not already taking Disponenten-Jobs (needs a sick Algorithm 😄)\
-> Bad for me but Probably good for Big_Boss => **Local Deepseek with Live Training here 👀👀**
+> Bad for me but  => **Local Deepseek with Live Training here 👀👀**
 
 ## 📙 Vorraus Avisieren (Vor-Avisieren)
 - **E-Mail & Kontakt & Datum** aus Profitour (Datenbank-Ansicht) nehmen und **E-Mail** erfassen!
