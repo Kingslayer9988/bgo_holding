@@ -208,14 +208,15 @@
     - Hersteller_NOS fragen => Wie Auslatungen gemssen werden => **Date am 04.03.2025 & 11-12.03.2025 🌹**
     - Hersteller_NOS fragen => Wie Deadlines liegen && Wie Nachgeplant wird
 
-- **Avisieren:**
-    - **Avisieren** immer im **Touren-Fenster** => **[OBEN]**
-    - **Alles 2x kontrollieren**
-    - **Datum bei Touren** & **Ladereihenfolge WAB's 3x kontrollieren**
-        - **Datum** kann sich aufgrund von Tagesarbeitszeit oder falschen $BUILD_TIMES from $HERSTELLER auf nächsten Tag rutschen!
-        - **Fehler passieren hier leicht** und **keine Software-Kontrolle** für Fehler wie diese!
-        - _NOTE: Probably a big reason that "AI" is not already taking Disponenten-Jobs (needs a sick Algorithm 😄)_
-        - _NOTE: Bad for me but Probably good for Big_Boss => **Local Deepseek with Live Training here 👀👀**_ 
+## 📗 Avisieren
+- **Avisieren** immer im **Touren-Fenster** => **[OBEN]**
+- **Alles 2x kontrollieren**
+- **Datum bei Touren** & **Ladereihenfolge WAB's 3x kontrollieren**
+    - **Datum** kann sich aufgrund von Tagesarbeitszeit oder falschen $BUILD_TIMES from $HERSTELLER auf nächsten Tag rutschen!
+    - **Fehler passieren hier leicht** und **keine Software-Kontrolle** für Fehler wie diese!
+> [!NOTE]
+> Probably a big reason that "AI" is not already taking Disponenten-Jobs (needs a sick Algorithm 😄)\
+> Bad for me but Probably good for Big_Boss => **Local Deepseek with Live Training here 👀👀**
 
 ## 📙 Vorraus Avisieren (Vor-Avisieren)
 - **E-Mail & Kontakt & Datum** aus Profitour (Datenbank-Ansicht) nehmen und **E-Mail** erfassen!
