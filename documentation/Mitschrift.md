@@ -108,49 +108,52 @@
 > [!NOTE]
 > **Excel-Makro** zur **Fehlererkennung** erstellen => Sobald **2 Touren aus 1 WAB** laden!
 
-        - **Verlade-Reihenfolge = 99** == Verlade-Reihenfolge = **EGAL**
+- **Verlade-Reihenfolge = 99** = Reihenfolge = **EGAL**
 
-        - **Vorproduktion:** => **WAB in Produktionswoche** anlegen & Bei **Unter-Tour** => Button: **Datum fixieren** => **Lieferdatum auswählen**
+- **Vorproduktion:** => **WAB in Produktionswoche** anlegen & Bei **Unter-Tour** => Button: **Datum fixieren** => **Lieferdatum auswählen**
 
-        - **Lager-WAB's** sind von **Seite BGO günstiger** wenn sie **zusammen gefahren** das heißt:
-            - **2 WAB's** mit **LKW + Anhänger** am Dienstag ist **billiger** als **1 WAB** mit LKW am Dienstag **+ 1 WAB** mit LKW am Donnerstag
-            - Aufpassen teilweise **Spedition und SC-Leiter** aufgrund von **Auslastung** nicht Happy 
+- **Tipps um Geld 💸 zu sparen**
+    - **2 WAB's** mit **LKW + Anhänger an 1 Tag** ist **billiger** als **2 WAB's** an **2 verschiedenen Tagen**
+    - Aufpassen teilweise **Spedition & SC-Leiter** aufgrund von **Auslastung** nicht Happy
+    - - **LKW gewünscht:** - Manchmal ist es **teurer umzuladen** in **3,5t bzw 7,5t Fahrzeug** - In diesen Fällen mit LKW zu **kleinem Kunden zu fahren!**
 
-        - **WAB-Nummern Vergabe** = Siehe **Nummern-Kreis** auf **Ausdruck**
-            - Aufpassen: Bei **Vorproduktionen** gibt es einen eigenen **Nummern-Kreis**
+- **WAB-Nummern Vergabe** = Siehe **Nummern-Kreis** auf **Ausdruck**
+    - Aufpassen: Bei **Vorproduktionen** gibt es einen eigenen **Nummern-Kreis**
     
-    - **Transportauftragslisten:** NAME _(UNSURE ASK ISABEL 😕)_
-        - Rechtsklick auf Auftrag (SQL-Datensatz) => **Transportauftrag** => Für **Zeit-Planung bzw. Calculation-Script**
-        - Sollte bei **jedem Auftrag** kontrolliert bzw. **nachgerechnet** werden. => Für Kalkulation - **Skript zur Abhilfe** siehe README.md!
-        - Bei **kleinen Küchen** mit **SC-Leiter abklären** ob wir sie selbst machen können!
+- **📰 Transportauftragsreport:**
+    - Im **Bearbeitungs-Fenster** => Rechtsklick auf Datensatz im => **Transportauftragsreport** => Für **Zeit-Berrechnung & Calc.sh**
+    - Sollte bei **jedem Auftrag** kontrolliert bzw. **nachgerechnet** werden. => Für Kalkulation - **Skript => [See Here](README.md)**
+    - Bei **Kleinen Küchen** mit **SC-Leiter abklären** => **Küchenmonteure teilweise selbst vorhanden!** [See Here](README.md)**
 
-    - **Naming-Scheme für Touren/WAB's:**
-        - **DIREKT** => PST, DIR, N:043 => **DIREKT $ORT1 $ORT2 WOCHENTAG(TT)**
-        - **_____(Leer)** => Direkt-LKW auf Baustelle => **__LEER $ORT1 $ORT2 WOCHENTAG(TT)**
-        - **SC WAB für [LKW | 7,5t | 3,5t] Touren** => Items werden umgeladen in LKW oder 3,5t oder 7,5t => **SC WAB $ORT1 für $Vehicle1|2|3 Touren WOCHENTAG(TT)**
-        - Beispiele:
+- **Naming-Scheme für Touren/WAB's:**
+    - **DIREKT** => PST, DIR, N:043 => **DIREKT $ORT1 $ORT2 WOCHENTAG(TT)**
+    - **_____(Leer)** => Direkt-LKW auf Baustelle => **__LEER $ORT1 $ORT2 WOCHENTAG(TT)**
+    - **SC WAB für [LKW | 7,5t | 3,5t] Touren** => Items werden umgeladen in LKW oder 3,5t oder 7,5t => **SC WAB $ORT1 für $Vehicle1|2|3 Touren WOCHENTAG(TT)**
+    - Beispiele:
+    ````
             - Direkt | Post_Versand | Innsbruck - Landeck | DI ==> (Direkt/Postversand am Dienstag)
             - SC WAB | Innsbruck | für 7,5t & 3,5t | MI ==> (Lager-WAB für 7,5t & 3,5t Touren)
                 - SC Touren für 7,5t & 3,5t | Innsbruck - Wörgl | | DO ==> (Untertouren 7,5t & 3,5t Fahrzeuge -> Von Lager-WAB)
             - Seefeld | DO  ==> (Direkt-LKW Tour zur Baustelle)
-            - Plant SC Leiter | Imst - Reutte | 6 Kunden ==> (Untertour die SC-Leiter Plant) [Siehe 420](#guide-für-die-abgabe-der-produktion--lager-wabs-für-hersteller)
+            - Plant SC Leiter | Imst - Reutte | 6 Kunden ==> (Untertour die SC-Leiter Plant)
+    ````
 
-    - **Bei knappen/komischen Touren** => **Plant SC-Leiter** bzw. **Absprache mit SC-Leiter**
-        - **❌ Nicht gewünscht** -> Suboptimal -> **Ausnahme Voradelberg**
+- **Bei knappen/komischen Touren** => **Plant SC-Leiter** bzw. **Absprache mit SC-Leiter**
+    - **❌ Nicht gewünscht** -> Suboptimal -> **Ausnahme Voradelberg**
     
-     - **Voradelberg ist anders** => **Untertouren werden von ULGB (Oliver) Zusammengestellt**
-        - **Untertouren werden von ULGB zusammengestellt** nach einer Liste von uns!
-        - Filter in Datenbank nach **[Dornbirn + FL + CH + DE]**
-        - Datenbank Ansicht auf **[Isabel-Voradelberg]**
-        - **Schnittstelle => Export als Excel file (.csv)**
-        - Autosumme pro WAB erstellen für **[Gewicht und m³]**
-        - Text: **Anlieferung am $Datum zum Lager oder Direkt zum Kunden (Siehe Excel file oder Profitour)**
-        - **Jumbo-WAB vermerken**
-        - Als **E-Mail an Oliver** senden - er sendet die **Untertouren** zurück!
+- **Voradelberg ist anders** => **Untertouren werden von ULGB (Oliver) Zusammengestellt**
+    - **Untertouren werden von ULGB zusammengestellt** nach einer Liste von uns!
+    - Filter in Datenbank nach **[Dornbirn + FL + CH + DE]**
+    - Datenbank Ansicht auf **[Isabel-Voradelberg]**
+    - **Schnittstelle => Export als Excel file (.csv)**
+    - Autosumme pro WAB erstellen für **[Gewicht und m³]**
+    - Text: **Anlieferung am $Datum zum Lager oder Direkt zum Kunden (Siehe Excel file oder Profitour)**
+    - **Jumbo-WAB vermerken**
+    - Als **E-Mail an Oliver** senden - er sendet die **Untertouren** zurück!
     
-    - **LKW gewünscht:**
-        - Manchmal ist es **teurer umzuladen** in **3,5t bzw 7,5t Fahrzeug**
-        - In diesen Fällen mit LKW zu **kleinem Kunden zu fahren!**
+
+    
+    
 
 ## Fenster_1 => TOP => **Touren-Fenster**
 
