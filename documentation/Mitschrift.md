@@ -165,9 +165,8 @@
 > **Teilen von Aufträgen** auch im **Unbearbeitet-Fenster** gemacht werden => **Schnelleres Verplanen von Änderungen**\
 > Bei **Verladeplanung+** => Nach Auswahl zuerst **Bereitstell_Datum** dannach **Produktions_Datum** => Auswahl bleibt!
 
-- **Beispiele:**
-|NAMESFELD | INFO|
-|---|---|
+| NAMESFELD | INFO |
+| --- | --- |
 | Postversand - Innsbruck - KW$$] | (Direkt/Postversand am Dienstag) |
 | Postversand - ORT - FIXTERMIN] | (Postversand mit Fixtermin) ==> "FIXTERMIN" in "Bemerkung Montage" |
 | $Kunden_Name $Kunden_ORT - DO] | (Direkt-LKW Tour zur Baustelle) |
