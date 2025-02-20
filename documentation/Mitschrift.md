@@ -56,7 +56,8 @@
     - **[DIR | STK | PST]** => **Alle DIREKT** => **Kein LAGER-WAB**
         - **[PST]** Aufträge mit über **5m³** ==> **Falsche Eingabe** von **Hersteller**
     - **[ABH]** => Selbstabholung der Ware durch Kunden **(Er hat Fahrzeug/LKW)**
-    - **[Auftragsnummer: 034]** -> **Internet Bestellung -> DIREKT**
+    - **[Auftragsnummer: 034XXX]** -> **Internet Bestellung -> DIREKT**
+    - **[Auftragsnummer: 04XXXX]** -> **Neutrale Bestellung -> Für Tischer ohne Firmenlogo etc. -> DIREKT**
 
 - **Minimap** => Kleine Karte **links unten** => Enthält **ausgewählte Datensätze**
     - 🔵 Blau => **Unverplant** oder nur am WAB
