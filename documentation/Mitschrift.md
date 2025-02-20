@@ -133,19 +133,27 @@
     - Bei **Kleinen Küchen** mit **SC-Leiter abklären**
         - **Küchenmonteure teilweise** selbst vorhanden! **[See Here](#gebiete-erik---hersteller-nos-)**
 
-- **Naming-Scheme für Touren/WAB's:**
-    - **DIREKT** => PST, DIR, N:043 => **DIREKT $ORT1 $ORT2 WOCHENTAG(TT)**
-    - **_____(Leer)** => Direkt-LKW auf Baustelle => **__LEER $ORT1 $ORT2 WOCHENTAG(TT)**
-    - **SC WAB für [LKW | 7,5t | 3,5t] Touren** => Items werden umgeladen in LKW oder 3,5t oder 7,5t => **SC WAB $ORT1 für $Vehicle1|2|3 Touren WOCHENTAG(TT)**
-    - **Beispiele**:
-
+- **✒️ Naming-Scheme für Touren/WAB's:**
+    - **DIREKT** => **DIR, Nr:043** => **DIREKT $Kunden_Name $Kunden_ORT WOCHENTAG(TT)**
+        - Bei **[DIR]** Fixtermin **WICHTIG**
+        - Bei **Internet-Order(Nr.: 043)** => Fixtermin **EGAL**
+    - **FIXTERMIN** => Im **Tourennamen** und in **Bemerkung Montage vermerken** (Außnahme Internet-Order)
+    - **Postversand ohne Fixtermin** => **PST** => **Postversand KW_$$ WOCHENTAG(TT)** => Alle **PST-Aufträge ohne FIXTERMIN** in diese **Tour!**
+    - **Postversand mit Fixtermin** => **PST** => **Postversand $ORT FIXTERMIN**
+    - **Bei Direkt-LKW zur Baustelle (Ohne Lager)** => **____(LEER) $Kunden_Name $Kunden_ORT WOCHENTAG(TT)** => In **Excel** mit **Farbe hinterlegen!**
+    - **Lager-WAB für jeweiliges Fahrzeug(oder Mehrere) Tour** => **SC WAB für [LKW | 7,5t | 3,5t] Touren** 
+    - **Untertouren die von Lager-WAB laden** => **SC [LKW | 7,5t | 3,5t] Tour $Start_ORT - $End_ORT WOCHENTAG(TT)** 
+    
+- **Beispiele**:
 ````
 [Postversand - Innsbruck - KW$$]           ==> (Direkt/Postversand am Dienstag)
-]Postversand - ORT - FIXTERMIN]            ==> (Postversand mit Fixtermin) ==> "FIXTERMIN" in "Bemerkung Montage"
+[Postversand - ORT - FIXTERMIN]            ==> (Postversand mit Fixtermin) ==> "FIXTERMIN" in "Bemerkung Montage"
+[$Kunden_Name $Kunden_ORT - DO]            ==> (Direkt-LKW Tour zur Baustelle)
 [SC WAB für 7,5t und 3,5t Touren - MI]     ==> (Lager-WAB für 7,5t & 3,5t Touren)
-[SC 7,5t Tour $Start_ORT - $End_ORT - DO]  ==> (Untertour 7,5t Fahrzeug -> Laden von Lager-WAB)
-[SC 3,5t Tour $Start_ORT - $End_ORT - DO]  ==> (Untertour 3,5t Fahrzeug -> Laden von Lager-WAB)
-[$Kundenname $Kunden_ORT - DO]             ==> (Direkt-LKW Tour zur Baustelle)
+[SC 7,5t Tour $Start_ORT - $End_ORT - MI]  ==> (Untertour 7,5t Fahrzeug -> Laden von Lager-WAB)
+[SC 3,5t Tour $Start_ORT - $End_ORT - MI]  ==> (Untertour 3,5t Fahrzeug -> Laden von Lager-WAB)
+[SC WAB für LKW Touren - DI]               ==> (Lager-WAB für LKW Touren am Dienstag) ==> "RAMPE" in "Bemerkung Transport"
+[SC LKW Tour $Start_ORT - $End_ORT - DI]   ==> (Untertour LKW Fahrzeug -> Laden von Lager-WAB => Lager-WAB=Rampe)
 [Plant SC Leiter / 6 Kunden]               ==> (Untertour mit 6 Kunden die SC-Leiter Plant)
 ````
 
