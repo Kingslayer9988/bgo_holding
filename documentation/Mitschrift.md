@@ -53,10 +53,9 @@
 
 - **Fahrzeug_Felder:**
     - Fahrzeuge müssen den **Touren richtig zugeordnet** werden (Fahrzeuge sind **Links oben** im Vehice-Sub-Window)
-    - Richtige Spedition auf Tour ziehen! 
-        - Spedition ist **NOTWENDIG** für **alle Touren** => Bsp. **Spedition_Winkler**
+    - Spedition ist **NOTWENDIG** für **alle Touren** => Bsp. **Spedition_Winkler**
   
-    - **Richtigen Container auf Touren ziehen!**
+    - **Container_Felder**
         - Container ist **NOTWENDIG** für **Lager-WAB's** && **Direkt_Baustelle** => Bsp. **Winkler_Egal|Normal|Jumbo**
             - **NORMAL** = Bei Lager-WAB's (Umladen)
             - **EGAL** = Bei Direkt_Baustelle (Kein Umladen)
@@ -64,7 +63,7 @@
             - **Sattel** = 60m³ => **KEINEN CONTAINER AUF TOUR ZIEHEN!** (Eher Selten)
                  - Haben keinen eigenen Sattel => Transportbestellung machen **[GUIDE](#-guide-für-die-transportbestellung)**
 
-    - **Richtiges Fahrzeug auf Touren ziehen!**
+    - **Fahrzeug_Infos**
         - SC 3,5t & 7,5t Tour => **ORT_Bus**
         - Direkt_Baustelle Tour => **ORT_Direkt**
         - PLant SC LEITER Tour => **ORT_Direkt**
@@ -86,14 +85,14 @@
 - **Wochen-Auslatung des jeweiligen Herstelller berücksichtigen**
     - Mit **Mitarbeitern und Herstellen gute Lösung finden** (Isabell hat Schnittstelle vom Hersterller_H zum checken)
 
-## **Minimap** => Kleine Karte links unten => Enthält **ausgewählte Datensätze**
-    - 🔵 Blau => **Unverplant** oder nur am WAB
-    - 🔴 Rot => Baustelle mit **Trennwand**
-    - 🟠 Orange => **Verplant WAB + Untertour**
-    - ➡️ Pfeile => Zeigen die **Tour von Kunde zu Kunde** (Luftlinie)
-    - Je **größer der Punkt** auf der Karte => **mehr 💵 💵 💵**
-    - Hold **[STRG]** für **Neue Auswahl**
-    - Hold **[SHIFT]** für **Zur Auswahl hinzufügen**
+## Minimap - Kleine Karte links unten - Enthält ausgewählte Datensätze/Aufträge
+- 🔵 Blau => **Unverplant** oder nur am WAB
+- 🔴 Rot => Baustelle mit **Trennwand**
+- 🟠 Orange => **Verplant WAB + Untertour**
+- ➡️ Pfeile => Zeigen die **Tour von Kunde zu Kunde** (Luftlinie)
+- Je **größer der Punkt** auf der Karte => **mehr 💵 💵 💵**
+- Hold **[STRG]** für **Neue Auswahl**
+- Hold **[SHIFT]** für **Zur Auswahl hinzufügen**
 
 ## 💣 Guide für das erstellen von WAB-Touren:
 - Bei **2 Containeren(WAB's) auf einem LKW + Hänger** bei **Verladereihenfolge** auch **2 WAB-Nummern vergeben** und auf **Hänger** stellen!
@@ -118,13 +117,13 @@
 
 - **Vorproduktion:** => **WAB in Produktionswoche** anlegen & Bei **Unter-Tour** => Button: **Datum fixieren** => **Lieferdatum auswählen**
 
-- **Tipps um Geld 💸 zu sparen**
+- **WAB-Nummern Vergabe** = Siehe **Nummern-Kreis** auf **Ausdruck**
+    - Aufpassen: Bei **Vorproduktionen** gibt es einen eigenen **Nummern-Kreis**
+
+- **💸 Tipps um Geld zu sparen**
     - **2 WAB's** mit **LKW + Anhänger an 1 Tag** ist **billiger** als **2 WAB's** an **2 verschiedenen Tagen**
     - Aufpassen teilweise **Spedition & SC-Leiter** aufgrund von **Auslastung** nicht Happy
     - - **LKW gewünscht:** - Manchmal ist es **teurer umzuladen** in **3,5t bzw 7,5t Fahrzeug** - In diesen Fällen mit LKW zu **kleinem Kunden zu fahren!**
-
-- **WAB-Nummern Vergabe** = Siehe **Nummern-Kreis** auf **Ausdruck**
-    - Aufpassen: Bei **Vorproduktionen** gibt es einen eigenen **Nummern-Kreis**
 
 > [!NOTE]
 > **Excel-Makro** für KW_$$ zur **Fehlererkennung** erstellen => Sobald **2 Touren aus 1 WAB** laden!
