@@ -66,6 +66,8 @@
     - 🟠 Orange => **Verplant WAB + Untertour**
     - ➡️ Pfeile => Zeigen die **Tour von Kunde zu Kunde** (Luftlinie)
     - Je **größer der Punkt** auf der Karte => **mehr 💵 💵 💵**
+    - Hold **[STRG]** für **Neue Auswahl**
+    - Hold **[SHIFT]** für **Zur Auswahl hinzufügen**
 
 ## Guide für das Erstellen von Touren
 - Auf der **Minimap** oder im **Unbearbeitet-Fenster** **Datensätze/Punkte** markieren => **Button: In Auswahl** => Datensätze nun im **Bearbeitungs-Fenster**
@@ -126,12 +128,16 @@
 
 - **WAB-Nummern Vergabe** = Siehe **Nummern-Kreis** auf **Ausdruck**
     - Aufpassen: Bei **Vorproduktionen** gibt es einen eigenen **Nummern-Kreis**
-    
+
+## 🚀 Guide für das erstellen von Unter-Touren:
+
 - **📰 Transportauftragsreport:**
-    - Im **Bearbeitungs-Fenster** => Rechtsklick auf Datensatz im => **Transportauftragsreport** => Für **Zeit-Berrechnung & Calc.sh**
-    - Sollte bei **jedem Auftrag** kontrolliert bzw. **nachgerechnet** werden. => Für Kalkulation - **Skript => [See Here](../README.md#working-still-needs-adoption-for-hersteller)**
+    - Im **Unbearbeitet-Fenster** => Rechtsklick auf Datensatz=> **Transportauftragsreport** => Für **Zeit-Berrechnung & Calc.sh**
+    - Sollte bei **jedem Datensatz** kontrolliert bzw. **nachgerechnet** werden. => Für Kalkulation - **Skript => [See Here](../README.md#working-still-needs-adoption-for-hersteller)**
     - Bei **Kleinen Küchen** mit **SC-Leiter abklären**
         - **Küchenmonteure teilweise** selbst vorhanden! **[See Here](#gebiete-erik---hersteller-nos-)**
+
+- 
 
 - **✒️ Naming-Scheme für Touren/WAB's:**
     - **DIREKT** => **DIR, Nr:043** => **DIREKT $Kunden_Name $Kunden_ORT WOCHENTAG(TT)**
