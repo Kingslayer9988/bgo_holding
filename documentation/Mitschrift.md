@@ -3,9 +3,9 @@
 ## Chronologischer Ablauf (Will Still have Mistakes - Aktuell für $Hersteller_H)
 
 - **Montag:** 
-    - 📄 **Frachtbriefe & Tourenpläne für SC-Leiter** => Für **$Folge_KW_01** -> Bsp.: **Montag_KW_08 für KW_09** => **[GUIDE](#-guide-für-frachtbriefe--tourenpläne-2-pdfs)**
-    - 📑 **Auslieferlisten für SC-Leiter** => Für **$Folge_KW_01** -> Bsp.: **Montag_KW_08 für KW_09** => **[GUIDE](#-guide-für-auslieferlisten)**
-    - ▶️ **Starten der Planung von mindestens $Folge_KW_5** => Bsp.: **Montag_KW_08 für KW_12** **[GUIDE](#-guide-für-das-erstellen-von-wab-touren)**
+    - 📄 **Frachtbriefe & Tourenpläne für SC-Leiter** => Für **$Folge_KW_01** -> Bsp.: **Montag_KW_08 für KW_09** => **[Guide](#-guide-für-frachtbriefe--tourenpläne-2-pdfs)**
+    - 📑 **Auslieferlisten für SC-Leiter** => Für **$Folge_KW_01** -> Bsp.: **Montag_KW_08 für KW_09** => **[Guide](#-guide-für-auslieferlisten)**
+    - ▶️ **Starten der Planung von mindestens $Folge_KW_5** => Bsp.: **Montag_KW_08 für KW_12** **[Guide](#-guide-für-das-erstellen-von-wab-touren)**
 - **Dienstag:**
     - 📅 **Daily Quests**
 - **Mittwoch:**
@@ -13,15 +13,15 @@
 - **Donnerstag:**
     - 📅 **Daily Quests + Something I keep forgetting! => PROD_EXPORT ???**
 - **Freitag:** 
-    - 📦 **Produktions-Export _(WAB's-Export)_**  => Für **MINDESTENS $Folge_KW_04** (Bsp: **Freitag_KW_08 für KW_12**) => **[GUIDE](#-guide-für-die-abgabe-der-wabs-für-Hersteller)**
-    - 🚚 **Transportbestellung** => Für **$Folge_KW_02** (Bsp: **Freitag_KW_08 für KW_10**) => **[GUIDE](#-guide-für-die-transportbestellung)**
-    - 📑 **Auslieferliste für Hersteller** => Für **$Folge_KW_01** (Bsp: **Freitag_KW_08 für KW_09**) => **[GUIDE](#-guide-für-auslieferlisten)**
+    - 📦 **Produktions-Export _(WAB's-Export)_**  => Für **MINDESTENS $Folge_KW_04** (Bsp: **Freitag_KW_08 für KW_12**) => **[Guide](#-guide-für-die-abgabe-der-wabs-für-Hersteller)**
+    - 🚚 **Transportbestellung** => Für **$Folge_KW_02** (Bsp: **Freitag_KW_08 für KW_10**) => **[Guide](#-guide-für-die-transportbestellung)**
+    - 📑 **Auslieferliste für Hersteller** => Für **$Folge_KW_01** (Bsp: **Freitag_KW_08 für KW_09**) => **[Guide](#-guide-für-auslieferlisten)**
 
 - **⌛ Daily Quests ⌛**
     - ♻️ Bei jedem Import von Hersteller_H **06:30 & 14:00 Täglich** (Hr. Roither für Probleme)
         - 🔄 **Nachplanen** => **Alle neuen Aufträge** wieder verplanen für **$Folge_KW_1 & $Folge_KW_2 & $Folge_KW_3 & $Folge_KW_4**
         - 🔶 Ausnahme **Freitags 14:00: Nur DIREKT/POST** Lieferungen verplanen **(Runde der Mitarbeiter)** 
-    - 📺 **TV's** machen die Anfallen! => **[GUIDE](#-guide-für-tv-tv--termin-Verspätung)**
+    - 📺 **TV's** machen die Anfallen! => **[Guide](#-guide-für-tv-tv--termin-Verspätung)**
 
 # 🚥 Profi-Tour for Dummies 🚥
 
@@ -40,7 +40,7 @@
     - **Fahrer & Montagepersonal** muss extra **instruiert** werden!
 
 - 🟢 => **Kunde wurde bereits Avisiert**
-- 🔴 => **Kunde hat altes Aviso = Zeiten können nicht gehalten werden!** => **FORCE_GREEN** oder **Neu Avisieren** **[GUIDE](#-avisieren)**
+- 🔴 => **Kunde hat altes Aviso = Zeiten können nicht gehalten werden!** => **FORCE_GREEN** oder **Neu Avisieren** **[Guide](#-avisieren)**
 - **FORCE_GREEN_BUTTON** => Button: **Kunden_avis_bestätigen & Aktualisieren** => **Kein Avis versendet trotzdem 🟢**
     - **Tournummer** mitschreiben bei denen **FORCE_GREEN_BUTTON** benutzt wurde!
 
@@ -67,7 +67,7 @@
     - **7,5t Touren-Fahrzeug => max. ~ 15m³ & 1000kg** [LAGER-WAB] (C-FS) [GRAZ_DIREKT|BUS]
     - **3,5t Touren-Fahrzeug => max. ~ 600kg** [LAGER-WAB] (B-FS) [GRAZ_DIREKT|BUS]
         - **Sattel** => **max. ~ 60m³** => **(2x WAB's pro Sattel)** (C-FS) [Bsp.: Quehenberger]
-            - Haben **keinen eigenen Sattel** => Transportbestellung machen **[GUIDE](#-guide-für-die-transportbestellung)**
+            - Haben **keinen eigenen Sattel** => Transportbestellung machen **[Guide](#-guide-für-die-transportbestellung)**
 
 - **Fahrzeuge:**
     - Bei: **SC 3,5t & 7,5t Tour** => **$ORT_Bus**
@@ -136,7 +136,7 @@
         - **Küchenmonteure teilweise** selbst vorhanden! **[See Here](#gebiete-erik---hersteller-nos-)**
 
 - Auf der **Minimap** oder im **Unbearbeitet-Fenster** **Datensätze/Punkte** markieren => **Button: In Auswahl** => Datensätze nun im **Bearbeitungs-Fenster**
-    - Infos über Minimap **[SIEHE HIER](#minimap---kleine-karte-links-unten---enthält-ausgewählte-datensätzeaufträge)**
+    - Infos über Minimap **[See Here](#minimap---kleine-karte-links-unten---enthält-ausgewählte-datensätzeaufträge)**
 
 - Zuerst immer **DIREKT & POST - Linien** erstellen!
     - Datensatz bei **DIREKT | POST | DIREKT_Baustelle** => **NICHT TEILEN**
