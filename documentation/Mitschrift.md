@@ -18,7 +18,7 @@
     - 📑 **Auslieferliste für Hersteller** => Für **$Folge_KW_01** (Bsp: **Freitag_KW_08 für KW_09**) => **[GUIDE](#-guide-für-auslieferlisten)**
 
 - **⌛ Daily Quests ⌛**
-    - ♻️ Bei jedem Import von Hersteller_H **06:30 & 14:00 Täglich**
+    - ♻️ Bei jedem Import von Hersteller_H **06:30 & 14:00 Täglich** (Hr. Roither für Probleme)
         - 🔄 **Nachplanen** => **Alle neuen Aufträge** wieder verplanen für **$Folge_KW_1 & $Folge_KW_2 & $Folge_KW_3 & $Folge_KW_4**
         - 🔶 Ausnahme **Freitags 14:00: Nur DIREKT/POST** Lieferungen verplanen **(Runde der Mitarbeiter)** 
     - 📺 **TV's** machen die Anfallen! => **[GUIDE](#-guide-für-tv-tv--termin-Verspätung)**
@@ -75,14 +75,14 @@
     - Im Unbearbeitet-Fenster: **Teilung Rückgängig machen**
 
 - Zuerst immer **DIREKT & POST - Linien** erstellen!
-    - Maximal **1 Postversand_SC(ORT) Linie** pro KW 
+    - Maximal **1 Postversand_SC(ORT) Linie** pro KW (Außnahme PST mit Fixtermin) 
     - Bei **Postversand-Linie** auch **Verlade-Reihenfolge** richten **[WAB-Nr.: 900]**
 
 - Anschließend dann **Wunschtermine & Fixtermine** bzw. **größere Baustellen**
 
 - Als nächstes **Lager-WAB's** erstellen!
 
-- **== An diesem Punkt kann für Produktion Abgegeben/Exportiert werden ==** [Siehe Zeile 260](#guide-für-die-abgabe-der-produktion--lager-wabs-für-hersteller)
+- **== An diesem Punkt kann für Produktion Abgegeben/Exportiert werden ==** [Siehe Hier](#guide-für-die-abgabe-der-produktion--lager-wabs-für-hersteller)
 
 - **Untertouren** sind für die **Produktion nicht relevant**.
 
@@ -236,9 +236,10 @@
 > Bad for me but  => **Local Deepseek with Live Training here 👀👀**
 
 ## 📙 Vorraus Avisieren (Vor-Avisieren)
+- Kann auch **Telefonisch** gemacht werden => Gut für **Stammkunden**
 - **E-Mail & Kontakt & Datum** aus Profitour (Datenbank-Ansicht) nehmen und **E-Mail** erfassen!
 - Wichtige Daten: **Kunde, KW, Auftragsnummer**
-- Mail-Wichtigkeit auf "High" 🍄
+- Mail-Wichtigkeit auf **"High" 🍄**
 - **Transportauftrag muss nicht in der Mail anhängt werden**
 - Vorlage:
 ````
@@ -253,17 +254,19 @@ Bitte um eine kurze Antwort, ob der Termin für sie in Ordnung ist.
 Danke im Voraus.
 ````
 > [!NOTE]
-> Gesamter Prozess könnte **easy automatisiert werden**) [New Google-OKR Shit Done ⁉️💲]\
+> Gesamter Prozess könnte **easy automatisiert werden**) [New Google-OKR Shit Done💲]\
 > Alle nötigen Daten könnten aus **Aviso PDF** (Richtes Avisieren) gezogen werden =>  => Godlike 💸 safed here\
 > Prozess wird **Lokal automatisiert** => **Keine Anbindung an Profitour** => **Windwos_Contextmenu_PS_Script**)\
 > Nicht erwünscht ‼️ => **Persöhnlicher Verwendung!**) (MAYBE ASK BIG-BOSS 😕)\
-> btw. Google dosent need a Buisness Tactic => ITS A FUCKING MONOPOLY 💀💵
+> btw. Google dosen't need a Buissnes-Concept => ITS A FUCKING MONOPOLY 💀
 
 ## 📄 Guide für Frachtbriefe & Tourenpläne (2-PDF's):
 - **Auswahl der Tour im Oberen Fenster** -> Frachtbrief -> Print as PDF -> Naming_Scheme: **[TT]_TOURNUMMER**
 - **Auswahl der Tour im Oberen Fenster** -> Tourenplan -> Print as PDF -> Naming_Scheme: **[TT]_TOURNUMMER_TB**
 - Frachtbrief und Tourenplan für SC-Leiter immer **$Montags_Aktuelle_KW** für **%Nächste_KW** -> Bsp.: **Montag in KW7** -> **Ausdrücke für KW08 an SC-Leiter**
 - Immer **Excel-Tabelle der Folge_KW$$** auf Papier am Tisch haben und Touren nach Senden der PDF abhaken! -> **2PDF's pro Touren [_NON-TB & _TB]**
+- Bei **Unklaren Anfahrten 🔮** für **Baustellen** => Mit **Hilfe** von SC-Leiter **Anfahrts-PDF** erstellen
+    - Enthält **Pläne & Bilder** von einem Mann **vor Ort** oder **Google-Maps**
 - Ablage auf Onedrive 📁 that never syncs even 10MB's 😨😂
 
 ## 📑 Guide für Auslieferlisten:
