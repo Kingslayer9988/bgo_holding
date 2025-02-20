@@ -54,10 +54,11 @@
 
 - Wichtige Infos zu den Ausgewählten Datensätzen: 
     - **[DIR | STK | PST]** => **Alle DIREKT** => **Kein LAGER-WAB**
-        - **[PST]** Aufträge mit über **5m³** ==> **Falsche Eingabe** von **Hersteller**
+        - **[PST]** Aufträge mit über **5m³** ==> Höchstwarscheindlich **Falsche Eingabe** von **Hersteller**
     - **[ABH]** => Selbstabholung der Ware durch Kunden **(Er hat Fahrzeug/LKW)**
     - **[Auftragsnummer: 034XXX]** -> **Internet Bestellung -> DIREKT**
-    - **[Auftragsnummer: 04XXXX]** -> **Neutrale Bestellung -> Für Tischer ohne Firmenlogo etc. -> DIREKT**
+    - **[Auftragsnummer: 04XXXX]** -> **Neutrale Bestellung -> Für Tischer [UNBESCHRIFTET] -> DIREKT**
+        - **Fahrer & Montagepersonal** muss extra **instruiert** werden! 
 
 - **Minimap** => Kleine Karte **links unten** => Enthält **ausgewählte Datensätze**
     - 🔵 Blau => **Unverplant** oder nur am WAB
@@ -131,14 +132,16 @@
     - **DIREKT** => PST, DIR, N:043 => **DIREKT $ORT1 $ORT2 WOCHENTAG(TT)**
     - **_____(Leer)** => Direkt-LKW auf Baustelle => **__LEER $ORT1 $ORT2 WOCHENTAG(TT)**
     - **SC WAB für [LKW | 7,5t | 3,5t] Touren** => Items werden umgeladen in LKW oder 3,5t oder 7,5t => **SC WAB $ORT1 für $Vehicle1|2|3 Touren WOCHENTAG(TT)**
-    - Beispiele:
-    ````
-            - Direkt | Post_Versand | Innsbruck - Landeck | DI ==> (Direkt/Postversand am Dienstag)
-            - SC WAB | Innsbruck | für 7,5t & 3,5t | MI ==> (Lager-WAB für 7,5t & 3,5t Touren)
-                - SC Touren für 7,5t & 3,5t | Innsbruck - Wörgl | | DO ==> (Untertouren 7,5t & 3,5t Fahrzeuge -> Von Lager-WAB)
-            - Seefeld | DO  ==> (Direkt-LKW Tour zur Baustelle)
-            - Plant SC Leiter | Imst - Reutte | 6 Kunden ==> (Untertour die SC-Leiter Plant)
-    ````
+    - **Beispiele**:
+
+````
+NEEDS STILL TO BE FIXED!!
+Direkt | Post_Versand | Innsbruck - Landeck | DI ==> (Direkt/Postversand am Dienstag)
+SC WAB | Innsbruck | für 7,5t & 3,5t | MI ==> (Lager-WAB für 7,5t & 3,5t Touren)
+SC Touren für 7,5t & 3,5t | Innsbruck - Wörgl | | DO ==> (Untertouren 7,5t & 3,5t Fahrzeuge -> Von Lager-WAB)
+Seefeld | DO  ==> (Direkt-LKW Tour zur Baustelle)
+Plant SC Leiter | Imst - Reutte | 6 Kunden ==> (Untertour die SC-Leiter Plant)
+````
 
 - **Bei knappen/komischen Touren** => **Plant SC-Leiter** bzw. **Absprache mit SC-Leiter**
     - **❌ Nicht gewünscht** -> Suboptimal -> **Ausnahme Voradelberg**
