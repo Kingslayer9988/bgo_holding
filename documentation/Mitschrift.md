@@ -69,20 +69,6 @@
     - Hold **[STRG]** für **Neue Auswahl**
     - Hold **[SHIFT]** für **Zur Auswahl hinzufügen**
 
-## Guide für das Erstellen von Touren
-
-- Zuerst immer **DIREKT & POST - Linien** erstellen!
-    - Maximal **1 Postversand_SC(ORT) Linie** pro KW (Außnahme PST mit Fixtermin) 
-    - Bei **Postversand-Linie** auch **Verlade-Reihenfolge** richten **[WAB-Nr.: 900]**
-
-- Anschließend dann **Wunschtermine & Fixtermine** bzw. **größere Baustellen**
-
-- Als nächstes **Lager-WAB's** erstellen!
-
-- **== An diesem Punkt kann für Produktion Abgegeben/Exportiert werden ==** [Siehe Hier](#guide-für-die-abgabe-der-produktion--lager-wabs-für-hersteller)
-
-- **Untertouren** sind für die **Produktion nicht relevant**.
-
 ## Fenster_2 = MIDDLE = **Bearbeitungs-Fenster**
 - Hier findet meiste **Arbeit** statt!
 
@@ -126,7 +112,7 @@
 
 ## 🚀 Guide für das erstellen von Unter-Touren:
 
-- **📰 Transportauftragsreport:**
+- **📰 Transportauftragsreport**
     - Im **Unbearbeitet-Fenster** => Rechtsklick auf Datensatz=> **Transportauftragsreport** => Für **Zeit-Berrechnung & Calc.sh**
     - Sollte bei **jedem Datensatz** kontrolliert bzw. **nachgerechnet** werden. => Für Kalkulation - **Skript => [See Here](../README.md#working-still-needs-adoption-for-hersteller)**
     - Bei **Kleinen Küchen** mit **SC-Leiter abklären**
@@ -134,14 +120,21 @@
 
 - Auf der **Minimap** oder im **Unbearbeitet-Fenster** **Datensätze/Punkte** markieren => **Button: In Auswahl** => Datensätze nun im **Bearbeitungs-Fenster**
 
-- **Teilen von Touren** => **Löst Stopp aus WAB & Stopp aus Tour**
+- Zuerst immer **DIREKT & POST - Linien** erstellen!
+    - Datensatz bei **DIREKT / POST / DIREKT_Baustelle** => **NICHT TEILEN**
+    - Maximal **1 Postversand_SC(ORT) Linie pro KW** (Außnahme PST mit Fixtermin) 
+    - Bei **Postversand-Linie** auch **Verlade-Reihenfolge** richten **[WAB-Nr.: 900]**
+
+- Anschließend dann **Wunschtermine & Fixtermine** bzw. **größere Baustellen**
+
+- **Ändernen von Touren** => **Löst Stopp aus WAB & Stopp aus Tour**
     - Im Bearbeitungs-Fenster: **Aus Tour lösen und Teilung Rückgängig machen**
     - Im Unbearbeitet-Fenster: **Teilung Rückgängig machen**
 
 > [!TIP]
-> Übernnahme in die Planung Ladezeit verkürzen => Planung Reiter offen lassen & Tour aus Planung Entfernen\
-> Teilen von Touren kann auch im Unbearbeitet-Fenster gemacht werden => Schnelleres Verplanen von Änderungen\
-> HINT 3
+> make **Übernnahme in die Planung** fast => **Planung Reiter** offen lassen & Tour **aus Planung Entfernen**\
+> **Teilen von Aufträgen** auch im **Unbearbeitet-Fenster** gemacht werden => **Schnelleres Verplanen von Änderungen**\
+> Bei **Verladeplanung+** => Nach Auswahl zuerst **Bereitstell_Datum** dannach **Produktions_Datum** => Auswahl bleibt!
 
 - **✒️ Naming-Scheme für Touren/WAB's:**
     - **DIREKT** => **DIR, Nr:043** => **DIREKT $Kunden_Name $Kunden_ORT WOCHENTAG(TT)**
