@@ -135,7 +135,6 @@
     - **Beispiele**:
 
 ````
-NEEDS STILL TO BE FIXED!!
 Postversand Innsbruck KW$$             ==> (Direkt/Postversand am Dienstag)
 SC WAB für 7,5t und 3,5t Touren MI     ==> (Lager-WAB für 7,5t & 3,5t Touren)
 SC 7,5t Innsbruck - Wörgl DO            ==> (Untertouren 7,5t & 3,5t Fahrzeuge -> Von Lager-WAB)
