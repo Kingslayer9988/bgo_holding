@@ -128,11 +128,6 @@
     - Im Bearbeitungs-Fenster: **Aus Tour lösen und Teilung Rückgängig machen**
     - Im Unbearbeitet-Fenster: **Teilung Rückgängig machen**
 
-> [!TIP]
-> make **Übernnahme in die Planung** fast => **Planung Reiter** offen lassen & Tour **aus Planung Entfernen**\
-> **Teilen von Aufträgen** auch im **Unbearbeitet-Fenster** gemacht werden => **Schnelleres Verplanen von Änderungen**\
-> Bei **Verladeplanung+** => Nach Auswahl zuerst **Bereitstell_Datum** dannach **Produktions_Datum** => Auswahl bleibt!
-
 - **✒️ Naming-Scheme für Touren/WAB's:**
     - **DIREKT** => **DIR, Nr:043** => **DIREKT $Kunden_Name $Kunden_ORT WOCHENTAG(TT)**
         - Bei **[DIR]** Fixtermin **WICHTIG**
@@ -143,7 +138,12 @@
     - **Bei Direkt-LKW zur Baustelle (Ohne Lager)** => **____(LEER) $Kunden_Name $Kunden_ORT WOCHENTAG(TT)** => In **Excel** mit **Farbe hinterlegen!**
     - **Lager-WAB für jeweiliges Fahrzeug(oder Mehrere) Tour** => **SC WAB für [LKW | 7,5t | 3,5t] Touren** 
     - **Untertouren die von Lager-WAB laden** => **SC [LKW | 7,5t | 3,5t] Tour $Start_ORT - $End_ORT WOCHENTAG(TT)** 
-    
+
+> [!TIP]
+> make **Übernnahme in die Planung** fast => **Planung Reiter** offen lassen & Tour **aus Planung Entfernen**\
+> **Teilen von Aufträgen** auch im **Unbearbeitet-Fenster** gemacht werden => **Schnelleres Verplanen von Änderungen**\
+> Bei **Verladeplanung+** => Nach Auswahl zuerst **Bereitstell_Datum** dannach **Produktions_Datum** => Auswahl bleibt!
+
 - **Beispiele**:
 ````
 [Postversand - Innsbruck - KW$$]           | (Direkt/Postversand am Dienstag)
