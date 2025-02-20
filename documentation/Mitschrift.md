@@ -307,8 +307,7 @@ Danke im Voraus.
 ## 📺 Guide für TV (TV = Termin-Verspätung)
 - Nur möglich wenn **Untertouren fertiggestellt** sind! 
 - Filter -> **[Transportaufträge & Auftrag]** => **Auftragsnummer der TV** (Siehe TV)
-> [!TIP]
-> Im **Filter-Fenster** nach **Auftrag** => **Enter = Zeile hinzufügen** (Mehrere Aufträge)
+    - Tipp: **Enter = Zeile hinzufügen** (Filter nach mehreren Aufträge)
 - Im **Touren-Fenster** **Tour die TV beinhaltet** auswählen
 - Im **Bearbeitungs-Fenster** wähle **Transport_Aufträge** => **Positionen**
 - Es gibt **3 verschiedene Fälle von TV's**
