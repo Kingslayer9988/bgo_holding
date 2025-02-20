@@ -78,7 +78,7 @@
         - Bei Touren mit verschiednen Fahrzeugtypen => **größtes Fahrzeug nehmen** => (Bsp.: 3,5t + 7,5t Tour => 7,5t Fahrzeug)
 
 - **Fahrzeuge are completely messed up for some areas => needs fixing - Absprache mit SC-Leiter**
-    - Isabel macht **extra Arbeit** => Eintragen von **3,5t | 7,5t** => Weil SC-Leiter Fahrzeuge nicht Ändern will
+    - Isabel macht **extra Arbeit** => Eintragen von **3,5t | 7,5t**
     - **Excel & Profitour & Realität** == STIMMEN **NICHT** ÜBEREIN 💀
 
 - **Wochen-Auslatung des jeweiligen Herstelller berücksichtigen**
@@ -207,7 +207,6 @@
 - **E-Mail & Kontakt & Datum** aus Profitour (Datenbank-Ansicht) nehmen und **E-Mail** erfassen!
 - Wichtige Daten: **Kunde, KW, Auftragsnummer**
 - Mail-Wichtigkeit auf **"High" 🍄**
-- **Transportauftrag muss nicht in der Mail anhängt werden**
 - Vorlage:
 ````
 Sehr geehrte Damen und Herren! [Oder Persöhnliche Anrede]
@@ -221,11 +220,10 @@ Bitte um eine kurze Antwort, ob der Termin für sie in Ordnung ist.
 Danke im Voraus.
 ````
 > [!NOTE]
-> Gesamter Prozess könnte **easy automatisiert werden**) [New Google-OKR Shit Done💲]\
+> Gesamter Prozess könnte **easy automatisiert werden**)\
 > Alle nötigen Daten könnten aus **Aviso PDF** (Richtes Avisieren) gezogen werden =>  => Much ⏰ safed here\
 > Prozess wird **Lokal automatisiert** => **Keine Anbindung an Profitour** => **Windwos_Contextmenu_PS_Script**)\
-> Nicht erwünscht ‼️ => **Persöhnlicher Verwendung!**) (MAYBE ASK BIG-BOSS 😕)\
-> btw. Google dosen't need a Buissnes-Concept => ITS A FUCKING MONOPOLY 💀
+> Nicht erwünscht ‼️ => **Persöhnlicher Verwendung!**)\
 
 ## 📄 Guide für Frachtbriefe & Tourenpläne (2-PDF's):
 - Filter -> **[Transportaufträge & Hali: Lieferwoche]** => **[JJJJ/KW] auswählen**
@@ -234,7 +232,7 @@ Danke im Voraus.
 - Frachtbrief und Tourenplan für SC-Leiter immer **$Montags_Aktuelle_KW** für **%Nächste_KW** -> Bsp.: **Montag in KW7** -> **Ausdrücke für KW08 an SC-Leiter**
 - Immer **Excel-Tabelle der Folge_KW$$** auf Papier am Tisch haben und Touren nach Senden der PDF abhaken! -> **2PDF's pro Touren [_NON-TB & _TB]**
 - Bei **Unklaren Anfahrten 🔮** für **Baustellen** => Mit **Hilfe** von SC-Leiter **Anfahrts-PDF** erstellen
-    - Enthält **Pläne & Bilder** von einem Mann **vor Ort** oder **Google-Maps**
+    - Enthält **Pläne & Bilder vor Ort** oder **Google-Maps**
 - Ablage auf Onedrive 📁 that never syncs even 10MB's 😨😂
 
 ## 📑 Guide für Auslieferlisten:
@@ -264,7 +262,7 @@ Danke im Voraus.
 - Als Abschluss die **Lager-WAB's** ohne **Unter-Touren**
 - **KONTROLLE !!! (Schnellschüsse || Liefer_KW =! Prod_KW || etc.)**
 - Links oben auf Export ==> **Produktion des Herstelles wird eingelastet!!**
-- **Deadline verschieden für alle 3 Hersteller**
+- Deadline verschieden für alle 3 Hersteller => [Siehe Hier]()
 - Hersteller_H => 3 Wochen unterschied => **Bsp.: spät. Freitag KW7 für KW_11**
 
 ## 🚚 Guide für die Transportbestellung:
@@ -344,7 +342,7 @@ Danke im Voraus.
 > **💡 Auto Coloring for DIREKT Touren**\
 > **💡 Auto Copy of WAB's (Letzte Zeilen)**
 
-## Gebiete Erik - Hersteller NOS 🟢
+## Gebiete Erik - Hersteller NOS 💚
 - **Voradelberg(SC Dornbirn) + DE(S-W) + FL + CH**
     - Kein Küchenmonteur :o:
 - **Tirol (SC Innsbruck)**
@@ -375,13 +373,27 @@ Danke im Voraus.
 - **Konflikte** mit **BGO & SC-Leiter** (UNSURE ASK BIG-BOSS 😕)
     - Wer ruft Kunden bei welchen Problem an ? 💀
     - Abschieben auf $Hersteller & $SC-Leiter ==> **und Umgekehrt!**  💀
-    - **WHO THE FUCK IS TO BLAME AND FOR WHAT 💀❌💀**
+    - **WHO THE FUCK IS TO BLAME AND FOR WHAT 💀**
     - **Keine Verantwortung übernehmen :question: => Alles Problem von Hersteller** :question:
+    - Maybe ask all the Colleges ?
+
+## NOS 💚
+- Make Ms. Alex like me 💖
+    - She does not like her Ladeliste-Situation 📑😭 => (Figure out when iam there)
+    - She does not seems to like new Computer Programms
+    - Sweet Accent 😏
+    - Make sure I know all the easy things: Deadlines, Prod-Abgabe, Auslieferlisten, Extras, etc.
+
+- "2020/2022 - Software" seems important to this whole situation, even if nobody talks about it.
+    - Positions-Ebene / Autragsebene => I need to still figure out some Shit here (Maybe ask BIG-BOSS)
+
+- Check how Disposition works there and how to fix shit
+    - Cant be hard if its as bad as people say 🙉
 
 ## Extra Notes:
 - Excel Makros für Auslieferliste:
     - Werden nur Lokal in Excel gespeichert - (New to me i always put them in the actual file) 
-    - Will only work local - thats where the weird keycombo comes from 😂
+    - Will only work local - thats where the weird keycombo comes from.
 
 - $HERSTELLER
     - NOS - 🟢 - Hersteller_N -> 🔵 Schrift
