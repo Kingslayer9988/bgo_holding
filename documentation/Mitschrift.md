@@ -136,11 +136,11 @@
 
 ````
 NEEDS STILL TO BE FIXED!!
-Direkt | Post_Versand | Innsbruck - Landeck | DI ==> (Direkt/Postversand am Dienstag)
-SC WAB | Innsbruck | für 7,5t & 3,5t | MI ==> (Lager-WAB für 7,5t & 3,5t Touren)
-SC Touren für 7,5t & 3,5t | Innsbruck - Wörgl | | DO ==> (Untertouren 7,5t & 3,5t Fahrzeuge -> Von Lager-WAB)
-Seefeld | DO  ==> (Direkt-LKW Tour zur Baustelle)
-Plant SC Leiter | Imst - Reutte | 6 Kunden ==> (Untertour die SC-Leiter Plant)
+Postversand Innsbruck KW$$             ==> (Direkt/Postversand am Dienstag)
+SC WAB für 7,5t und 3,5t Touren MI     ==> (Lager-WAB für 7,5t & 3,5t Touren)
+SC 7,5t Innsbruck - Wörgl DO            ==> (Untertouren 7,5t & 3,5t Fahrzeuge -> Von Lager-WAB)
+$Kunde Seefeld DO                      ==> (Direkt-LKW Tour zur Baustelle)
+Plant SC Leiter / 6 Kunden             ==> (Untertour mit 6 Kunden die SC-Leiter Plant)
 ````
 
 - **Bei knappen/komischen Touren** => **Plant SC-Leiter** bzw. **Absprache mit SC-Leiter**
@@ -155,10 +155,6 @@ Plant SC Leiter | Imst - Reutte | 6 Kunden ==> (Untertour die SC-Leiter Plant)
     - Text: **Anlieferung am $Datum zum Lager oder Direkt zum Kunden (Siehe Excel file oder Profitour)**
     - **Jumbo-WAB vermerken**
     - Als **E-Mail an Oliver** senden - er sendet die **Untertouren** zurück!
-    
-
-    
-    
 
 ## Fenster_1 => TOP => **Touren-Fenster**
 
