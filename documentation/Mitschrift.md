@@ -77,6 +77,7 @@
 - Bei **2 Containeren(WAB's) auf einem LKW + Hänger** bei **Verladereihenfolge** auch **2 WAB-Nummern vergeben** und auf **Hänger** stellen!
 - **2 Arten von WAB's** => Eintragen von **[Rampe oder Platz]** in **Kommentar-Feld**  => **Bemerkung Transport**)
 - **Maximal 1 WAB auf Rampe** pro Tag => **2ter WAB** muss auf **Platz**
+    
     - **↗️ [Rampe]** (Lager-WAB) => bei Umladen in 7,5t bzw. 3,5t Fahrzeugen beim Lager **(eher = Bei vielen Kleinkunden)**
         - Container: **$Spedition_NORMAL**
         - **Niemals** einem **Jumbo-WAB** zur **Rampe**
@@ -90,8 +91,6 @@
         - **Auto-Button** berücksichtigt **keine Manuellen Änderungen** => **[Reset]**
         - Bei **Manuelle-Ladereihenfolge** verwendet wurde => Im **Kommentarfeld "Bemerkung Versamd"** vermerken!
             - Wieso Manuell-Ladereihenfolge ? => **Wenn 2 Unter-Touren** an **1 Tag** aus **1 WAB geladen** werden.
-> [!NOTE]
-> **Excel-Makro** zur **Fehlererkennung** erstellen => Sobald **2 Touren aus 1 WAB** laden!
 
 - **Verlade-Reihenfolge = 99** = Reihenfolge = **EGAL**
 
@@ -104,6 +103,9 @@
 
 - **WAB-Nummern Vergabe** = Siehe **Nummern-Kreis** auf **Ausdruck**
     - Aufpassen: Bei **Vorproduktionen** gibt es einen eigenen **Nummern-Kreis**
+
+> [!NOTE]
+> **Excel-Makro** für KW_$$ zur **Fehlererkennung** erstellen => Sobald **2 Touren aus 1 WAB** laden!
 
 ## 🚀 Guide für das erstellen von Unter-Touren:
 
