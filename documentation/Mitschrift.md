@@ -70,11 +70,6 @@
     - Hold **[SHIFT]** für **Zur Auswahl hinzufügen**
 
 ## Guide für das Erstellen von Touren
-- Auf der **Minimap** oder im **Unbearbeitet-Fenster** **Datensätze/Punkte** markieren => **Button: In Auswahl** => Datensätze nun im **Bearbeitungs-Fenster**
-
-- **Teilen von Touren** => **Löst Stopp aus WAB & Stopp aus Tour**
-    - Im Bearbeitungs-Fenster: **Aus Tour lösen und Teilung Rückgängig machen**
-    - Im Unbearbeitet-Fenster: **Teilung Rückgängig machen**
 
 - Zuerst immer **DIREKT & POST - Linien** erstellen!
     - Maximal **1 Postversand_SC(ORT) Linie** pro KW (Außnahme PST mit Fixtermin) 
@@ -137,7 +132,16 @@
     - Bei **Kleinen Küchen** mit **SC-Leiter abklären**
         - **Küchenmonteure teilweise** selbst vorhanden! **[See Here](#gebiete-erik---hersteller-nos-)**
 
-- 
+- Auf der **Minimap** oder im **Unbearbeitet-Fenster** **Datensätze/Punkte** markieren => **Button: In Auswahl** => Datensätze nun im **Bearbeitungs-Fenster**
+
+- **Teilen von Touren** => **Löst Stopp aus WAB & Stopp aus Tour**
+    - Im Bearbeitungs-Fenster: **Aus Tour lösen und Teilung Rückgängig machen**
+    - Im Unbearbeitet-Fenster: **Teilung Rückgängig machen**
+
+> [!TIP]
+> Übernnahme in die Planung Ladezeit verkürzen => Planung Reiter offen lassen & Tour aus Planung Entfernen\
+> Teilen von Touren kann auch im Unbearbeitet-Fenster gemacht werden => Schnelleres Verplanen von Änderungen\
+> HINT 3
 
 - **✒️ Naming-Scheme für Touren/WAB's:**
     - **DIREKT** => **DIR, Nr:043** => **DIREKT $Kunden_Name $Kunden_ORT WOCHENTAG(TT)**
@@ -181,19 +185,13 @@
 - Hier findest du deine **Zusammengestellten Touren** (Lager-WAB's, Untertouren, Post-Tour)
 
 - Der Inhalt dieses Fensters wird **Exportiert zum Hersteller** (Produktions_Abgabe)
-
-- **Tipps:**
-    - Rechtsklick auf Tour (Datenbank-Row) => **Transportauftrag** => Für **Zeit-Planung bzw. Calculation-Script**
-    - Bei "Plant SC-Leiter Touren" die Anzahl der Kunden dazuschreiben => Bsp-Name: **Plant_SC_Leiter_6_Kunden**
-    
-    - Kommentar_Felder:
-        - **Bemerkung Montage** ==> Infos für **Montage Arbeiter** => **Bsp.: (kleine Änderungen | Hinweise | Adresseänderung/Zufahrt)**
-            - Bei **Adress-Änderungen/Fehler** => **Mail an Hersteller** um weitere Fehler zu vermeiden!
-            - Falls **Plant-SC-Leiter-Tour** => SC-Leiter anrufen!
-        
-        - **Bemerkung Transport** => Infos für die Spedition => **Bsp.: (Ladereihenfolge, Sonderliche-Ladegüter, Zoll)**
-        
-        - **Bemerkung Versand** => Infos für den **$Hersteller** => **Bsp.: (???)** _(UNSURE ASK ISABEL 😕)_
+   
+- **Kommentar_Felder:**
+    - **Bemerkung Montage** ==> Infos für **Montage Arbeiter** => **Bsp.: (kleine Änderungen | Hinweise | Adresseänderung/Zufahrt)**
+        - Bei **Adress-Änderungen/Fehler** => **Mail an Hersteller** um weitere Fehler zu vermeiden!
+        - Falls **Plant-SC-Leiter-Tour** => SC-Leiter anrufen!
+    - **Bemerkung Transport** => Infos für die Spedition => **Bsp.: (Ladereihenfolge, Sonderliche-Ladegüter, Zoll)**
+    - **Bemerkung Versand** => Infos für den **$Hersteller** => **Bsp.: (???)** _(UNSURE ASK ISABEL 😕)_
 
 - **Fahrzeuge**
     - Fahrzeuge müssen den **Touren richtig zugeordnet** werden (Fahrzeuge sind **Links oben** im Vehice-Sub-Window)
