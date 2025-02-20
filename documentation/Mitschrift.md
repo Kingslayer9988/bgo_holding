@@ -67,11 +67,16 @@
     - ➡️ Pfeile => Zeigen die **Tour von Kunde zu Kunde** (Luftlinie)
     - Je **größer der Punkt** auf der Karte => **mehr 💵 💵 💵**
 
+## Guide für das Erstellen von Touren
 - Auf der **Minimap** oder im **Unbearbeitet-Fenster** **Datensätze/Punkte** markieren => **Button: In Auswahl** => Datensätze nun im **Bearbeitungs-Fenster**
+
+- **Teilen von Touren** => **Löst Stopp aus WAB & Stopp aus Tour**
+    - Im Bearbeitungs-Fenster: **Aus Tour lösen und Teilung Rückgängig machen**
+    - Im Unbearbeitet-Fenster: **Teilung Rückgängig machen**
 
 - Zuerst immer **DIREKT & POST - Linien** erstellen!
     - Maximal **1 Postversand_SC(ORT) Linie** pro KW 
-    - Bei **Postversand-Linie** auch **Verlade-Reihenfolge** richten [WAB-Nr.: 900]
+    - Bei **Postversand-Linie** auch **Verlade-Reihenfolge** richten **[WAB-Nr.: 900]**
 
 - Anschließend dann **Wunschtermine & Fixtermine** bzw. **größere Baustellen**
 
@@ -135,11 +140,13 @@
     - **Beispiele**:
 
 ````
-Postversand Innsbruck KW$$             ==> (Direkt/Postversand am Dienstag)
-SC WAB für 7,5t und 3,5t Touren MI     ==> (Lager-WAB für 7,5t & 3,5t Touren)
-SC 7,5t Innsbruck - Wörgl DO            ==> (Untertouren 7,5t & 3,5t Fahrzeuge -> Von Lager-WAB)
-$Kunde Seefeld DO                      ==> (Direkt-LKW Tour zur Baustelle)
-Plant SC Leiter / 6 Kunden             ==> (Untertour mit 6 Kunden die SC-Leiter Plant)
+[Postversand - Innsbruck - KW$$]           ==> (Direkt/Postversand am Dienstag)
+]Postversand - ORT - FIXTERMIN]            ==> (Postversand mit Fixtermin) ==> "FIXTERMIN" in "Bemerkung Montage"
+[SC WAB für 7,5t und 3,5t Touren - MI]     ==> (Lager-WAB für 7,5t & 3,5t Touren)
+[SC 7,5t Tour $Start_ORT - $End_ORT - DO]  ==> (Untertour 7,5t Fahrzeug -> Laden von Lager-WAB)
+[SC 3,5t Tour $Start_ORT - $End_ORT - DO]  ==> (Untertour 3,5t Fahrzeug -> Laden von Lager-WAB)
+[$Kundenname $Kunden_ORT - DO]             ==> (Direkt-LKW Tour zur Baustelle)
+[Plant SC Leiter / 6 Kunden]               ==> (Untertour mit 6 Kunden die SC-Leiter Plant)
 ````
 
 - **Bei knappen/komischen Touren** => **Plant SC-Leiter** bzw. **Absprache mit SC-Leiter**
