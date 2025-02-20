@@ -39,13 +39,8 @@
 - Direkt nach dem **Start des Programms** sichtbar!
 - Import und **Auswahl der Gebiete** findet hier statt! **(Bsp.: Wien, Linz, Steiermark, etc.)**
 - Isabel Gebiete => **SC Dornbirn + (DE+CH+FL)** | **SC Graz + Selten (SLO)** | **SC Innsbruck + (ITA)** | SC Klagenfurt
-- Import von **Hersteller_H** => Immer 06:30 & 14:00 Mo-Fr (Import von Hersteller_B und Hersteller_N sind anders)
 - Tipps:
-    - Für **Auslieferlisten**  => Abfrage von **[Prod & Lieferwoche] - [Mo. - Sa.] der gewünschten [KW]** auswählen!
-    - Für **Anvisieren** und erstellen von Touren => Abfrage von **[Lieferwoche]**
-    - Für **Transportbestellung** (Winkler, etc) => Abfrage von **[Touren + Aufnahme-Zeit]**
-
-### Nach der Auswahl der richtigen Datenbank-Einträge (Zeilen) => Klicke: "Übernahme in Planung"
+    
 
 ### Ansicht_2 = Planungs_Ansicht = Besteht aus **3 Fenstern** => Aufgrund von **Nutzungsweise hier 3-2-1**
 
@@ -252,12 +247,13 @@ Danke im Voraus.
 ````
 > [!NOTE]
 > Gesamter Prozess könnte **easy automatisiert werden**) [New Google-OKR Shit Done💲]\
-> Alle nötigen Daten könnten aus **Aviso PDF** (Richtes Avisieren) gezogen werden =>  => Godlike 💸 safed here\
+> Alle nötigen Daten könnten aus **Aviso PDF** (Richtes Avisieren) gezogen werden =>  => Much ⏰ safed here\
 > Prozess wird **Lokal automatisiert** => **Keine Anbindung an Profitour** => **Windwos_Contextmenu_PS_Script**)\
 > Nicht erwünscht ‼️ => **Persöhnlicher Verwendung!**) (MAYBE ASK BIG-BOSS 😕)\
 > btw. Google dosen't need a Buissnes-Concept => ITS A FUCKING MONOPOLY 💀
 
 ## 📄 Guide für Frachtbriefe & Tourenpläne (2-PDF's):
+- Filter -> **[Transportaufträge & Hali: Lieferwoche]** => **[JJJJ/KW] auswählen**
 - **Auswahl der Tour im Oberen Fenster** -> Frachtbrief -> Print as PDF -> Naming_Scheme: **[TT]_TOURNUMMER**
 - **Auswahl der Tour im Oberen Fenster** -> Tourenplan -> Print as PDF -> Naming_Scheme: **[TT]_TOURNUMMER_TB**
 - Frachtbrief und Tourenplan für SC-Leiter immer **$Montags_Aktuelle_KW** für **%Nächste_KW** -> Bsp.: **Montag in KW7** -> **Ausdrücke für KW08 an SC-Leiter**
@@ -267,6 +263,7 @@ Danke im Voraus.
 - Ablage auf Onedrive 📁 that never syncs even 10MB's 😨😂
 
 ## 📑 Guide für Auslieferlisten:
+- Filter -> **[Transportaufträge & Hali: Lieferwoche]** => **[JJJJ/KW] auswählen**
 - Für **Hersteller == Alle Touren außer [Lager-WAB's] -> %%Immer Freitags für Nächste KW**
 - Für **SC-Leiter == alle Touren außer [POST, Direkt, Lager-WAB's]**
     - **Auslieferlisten_SC** kommen von **SC-Leiter** zurück mit **allen 3 Herstellern kombiniert**
@@ -277,10 +274,12 @@ Danke im Voraus.
 - Bei SC-Leiter Touren: **Lösche Inhalt der Zellen mit Touren-Nummer** und schreibe **"Plant SC-Leiter"** in **🔴 & Fett**
 - Save as **.xlsx** => **(Will delete Makros)**
 - Naming_Scheme: **ALL_$ORT[WIEN,LINZ,GRAZ,etc]_[KW$$].xlsx**
+
 > [!NOTE]
 > Upgrade Makro to do the last 3 Steps in One
 
-## 📦 Guide für die Abgabe der (Produktion == Lager-WAB's) für Hersteller:
+## 📦 Guide für die Abgabe der (WAB's) für Hersteller:
+- Filter -> **[Transportaufträge & Hali: Lieferwoche]** => **[JJJJ/KW] auswählen**
 - Es gibt eine **Liste mit Abgabedaten** für **Hersteller_H**
 - Filter **$Folge_KW4** => Alle Orte
 - Im **Unbearbeitet-Fenster** makiere alle Aufträge => **Checke Gewicht und m³**
@@ -294,8 +293,7 @@ Danke im Voraus.
 - Hersteller_H => 3 Wochen unterschied => **Bsp.: spät. Freitag KW7 für KW_11**
 
 ## 🚚 Guide für die Transportbestellung:
-- Immer **Freitags $Aktulle_KW** für **$Folge_KW_2** ==> **(Bsp.: Fr, KW7 für KW9)**
-- Filter -> **[Touren / Auflade Zeit]** -> **KW Mo - Sa, auswählen**
+- Filter -> **[Touren & Aufladestelle/Zeitraum]** => **[MO -SA] der gewünschten KW** auswählen!
 - **Schnittstelle -> Export in Excel** -> safe as .xlxs Name: **Transportbestellunhg_KW__**
 - Alle Gebiete kontrollieren **(2 unteren Spalten in Excel zählen)** => **Direkt & Lager-WAB's**
 - **Ladereihenfolge checken** => oft **35/36/35** => Delete **35**
@@ -305,8 +303,8 @@ Danke im Voraus.
 - **Sonderbestellungen** wie Transmato, Quehenberger(Sattel) **sofort** bei Auftrag an Spedition senden!
 
 ## 📺 Guide für TV (TV = Termin-Verspätung)
-- Nur möglich wenn Untertouren der  fertiggestellt sind! 
-- Filter nach **Auftragsnummer** **(Steht auf TV)**
+- Nur möglich wenn **Untertouren fertiggestellt** sind! 
+- Filter -> **[Transportaufträge & Auftrag]** => **Auftragsnummer der TV** (Siehe TV)
 > [!TIP]
 > Im **Filter-Fenster** nach **Auftrag** => **Enter = Zeile hinzufügen** (Mehrere Aufträge)
 - Im **Touren-Fenster** **Tour die TV beinhaltet** auswählen
