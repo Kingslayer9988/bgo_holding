@@ -5,7 +5,7 @@
 - **Montag:** 
     - 📄 **Frachtbriefe & Tourenpläne für SC-Leiter** => Für **$Folge_KW_01** -> Bsp.: **Montag_KW_08 für KW_09** => **[GUIDE](#-guide-für-frachtbriefe--tourenpläne-2-pdfs)**
     - 📑 **Auslieferlisten für SC-Leiter** => Für **$Folge_KW_01** -> Bsp.: **Montag_KW_08 für KW_09** => **[GUIDE](#-guide-für-auslieferlisten)**
-    - ▶️ **Starten der Planung von mindestens $Folge_KW_5** => Bsp.: **Montag_KW_08 für KW_12** **[GUIDE](#fenster_3--bottom--unbearbeitet-fenster--minimap-gleich-wie-datenbank_ansicht)**
+    - ▶️ **Starten der Planung von mindestens $Folge_KW_5** => Bsp.: **Montag_KW_08 für KW_12** **[GUIDE](#-guide-für-das-erstellen-von-wab-touren)**
 - **Dienstag:**
     - 📅 **Daily Quests**
 - **Mittwoch:**
@@ -13,7 +13,7 @@
 - **Donnerstag:**
     - 📅 **Daily Quests + Something I keep forgetting! => PROD_EXPORT ???**
 - **Freitag:** 
-    - 📦 **Produktions-Export _(WAB's-Export)_**  => Für **MINDESTENS $Folge_KW_04** (Bsp: **Freitag_KW_08 für KW_12**) => **[GUIDE](#-guide-für-die-abgabe-der-produktion--lager-wabs-für-Hersteller)**
+    - 📦 **Produktions-Export _(WAB's-Export)_**  => Für **MINDESTENS $Folge_KW_04** (Bsp: **Freitag_KW_08 für KW_12**) => **[GUIDE](#-guide-für-die-abgabe-der-wabs-für-Hersteller)**
     - 🚚 **Transportbestellung** => Für **$Folge_KW_02** (Bsp: **Freitag_KW_08 für KW_10**) => **[GUIDE](#-guide-für-die-transportbestellung)**
     - 📑 **Auslieferliste für Hersteller** => Für **$Folge_KW_01** (Bsp: **Freitag_KW_08 für KW_09**) => **[GUIDE](#-guide-für-auslieferlisten)**
 
@@ -40,7 +40,7 @@
     - **Fahrer & Montagepersonal** muss extra **instruiert** werden!
 
 - 🟢 => **Kunde wurde bereits Avisiert**
-- 🔴 => **Kunde hat altes Aviso = Zeiten können nicht gehalten werden!** => **Neu Avisieren** [Siehe Zeile 420] oder **FORCE_GREEN**
+- 🔴 => **Kunde hat altes Aviso = Zeiten können nicht gehalten werden!** => **FORCE_GREEN** oder **Neu Avisieren** **[GUIDE](#-avisieren)**
 - **FORCE_GREEN_BUTTON** => Button: **Kunden_avis_bestätigen & Aktualisieren** => **Kein Avis versendet trotzdem 🟢**
     - **Tournummer** mitschreiben bei denen **FORCE_GREEN_BUTTON** benutzt wurde!
 
@@ -61,18 +61,6 @@
     - **EGAL** = Bei Direkt_Baustelle (Kein Umladen)
     - **JUMBO** = Bei über 35m³ => **Immer Direkt_Baustelle** (KEIN UMLADEN MÖGLICH)
     - **Sattel** = 60m³ => **KEINEN CONTAINER AUF TOUR ZIEHEN!** (Eher Selten)
-        
-- **Fahrzeuge are completely messed up for some areas => needs fixing!** => **Absprache mit SC-Leiter**
-    - Isabel macht **extra Arbeit** => Eintragen von **3,5t | 7,5t** => Weil SC-Leiter Fahrzeuge nicht Ändern will
-    - **Excel & Profitour & Realität** == STIMMEN **NICHT** ÜBEREIN 💀
-
-- **Fahrzeuge:**
-    - SC 3,5t & 7,5t Tour => **$ORT_Bus**
-    - Direkt_Baustelle Tour => **$ORT_Direkt**
-    - PLant SC LEITER Tour => **$ORT_Direkt**
-    - SC LKW Tour => **$SPEDITION_LKW**
-    - Es kann immer nur **1 Fahrzeug pro Tour** zugeteilt werden!
-        - Bei Touren mit verschiednen Fahrzeugtypen => **größtes Fahrzeug nehmen** => (Bsp: 3,5t + 7,5t Tour => 7,5t Fahrzeug)
 
 - **Fahrzeuge Infos**
     - **LKW Touren-Fahrzeug => 30m³ => DIREKT & LAGER** (C-FS) [WINKLER_EGAL|NORMAL]
@@ -80,6 +68,18 @@
     - **3,5t Touren-Fahrzeug => max. ~ 600kg** [LAGER-WAB] (B-FS) [GRAZ_DIREKT|BUS]
         - **Sattel** => **max. ~ 60m³** => **(2x WAB's pro Sattel)** (C-FS) [Bsp.: Quehenberger]
             - Haben **keinen eigenen Sattel** => Transportbestellung machen **[GUIDE](#-guide-für-die-transportbestellung)**
+
+- **Fahrzeuge:**
+    - Bei: **SC 3,5t & 7,5t Tour** => **$ORT_Bus**
+    - Bei **Direkt_Baustelle Tour** => **$ORT_Direkt**
+    - Bei **Plant SC LEITER Tour** => **$ORT_Direkt**
+    - Bei **SC LKW Tour** => **$SPEDITION_LKW**
+    - Es kann immer nur **1 Fahrzeug pro Tour** zugeteilt werden!
+        - Bei Touren mit verschiednen Fahrzeugtypen => **größtes Fahrzeug nehmen** => (Bsp.: 3,5t + 7,5t Tour => 7,5t Fahrzeug)
+
+- **Fahrzeuge are completely messed up for some areas => needs fixing - Absprache mit SC-Leiter**
+    - Isabel macht **extra Arbeit** => Eintragen von **3,5t | 7,5t** => Weil SC-Leiter Fahrzeuge nicht Ändern will
+    - **Excel & Profitour & Realität** == STIMMEN **NICHT** ÜBEREIN 💀
 
 - **Wochen-Auslatung des jeweiligen Herstelller berücksichtigen**
     - Mit **Mitarbeitern und Herstellen gute Lösung finden** (Isabell hat Schnittstelle vom Hersterller_H zum checken)
@@ -136,18 +136,14 @@
         - **Küchenmonteure teilweise** selbst vorhanden! **[See Here](#gebiete-erik---hersteller-nos-)**
 
 - Auf der **Minimap** oder im **Unbearbeitet-Fenster** **Datensätze/Punkte** markieren => **Button: In Auswahl** => Datensätze nun im **Bearbeitungs-Fenster**
-    - Infos über Minimap [Siehe Hier]()
+    - Infos über Minimap **[SIEHE HIER](#minimap---kleine-karte-links-unten---enthält-ausgewählte-datensätzeaufträge)**
 
 - Zuerst immer **DIREKT & POST - Linien** erstellen!
-    - Datensatz bei **DIREKT / POST / DIREKT_Baustelle** => **NICHT TEILEN**
-    - Maximal **1 Postversand_SC(ORT) Linie pro KW** (Außnahme PST mit Fixtermin) 
+    - Datensatz bei **DIREKT | POST | DIREKT_Baustelle** => **NICHT TEILEN**
+    - Maximal **1 Postversand_ORT Linie pro KW** (Außnahme PST mit Fixtermin) 
     - Bei **Postversand-Linie** auch **Verlade-Reihenfolge** richten **[WAB-Nr.: 900]**
 
 - Anschließend dann **Wunschtermine & Fixtermine** bzw. **größere Baustellen**
-
-- **Ändernen von Touren** => **Löst Stopp aus WAB & Stopp aus Tour**
-    - Im Bearbeitungs-Fenster: **Aus Tour lösen und Teilung Rückgängig machen**
-    - Im Unbearbeitet-Fenster: **Teilung Rückgängig machen**
 
 - **✒️ Naming-Scheme für Touren/WAB's:**
     - **DIREKT** => **DIR, Nr:043** => **DIREKT $Kunden_Name $Kunden_ORT WOCHENTAG(TT)**
@@ -158,7 +154,11 @@
     - **Postversand mit Fixtermin** => **PST** => **Postversand $ORT FIXTERMIN**
     - **Bei Direkt-LKW zur Baustelle (Ohne Lager)** => **____(LEER) $Kunden_Name $Kunden_ORT WOCHENTAG(TT)** => In **Excel** mit **Farbe hinterlegen!**
     - **Lager-WAB für jeweiliges Fahrzeug(oder Mehrere) Tour** => **SC WAB für [LKW | 7,5t | 3,5t] Touren** 
-    - **Untertouren die von Lager-WAB laden** => **SC [LKW | 7,5t | 3,5t] Tour $Start_ORT - $End_ORT WOCHENTAG(TT)** 
+    - **Untertouren die von Lager-WAB laden** => **SC [LKW | 7,5t | 3,5t] Tour $Start_ORT - $End_ORT WOCHENTAG(TT)**
+
+- **Ändernen von Touren** => **Löst Stopp aus WAB & Stopp aus Tour**
+    - Im Bearbeitungs-Fenster: **Aus Tour lösen und Teilung Rückgängig machen**
+    - Im Unbearbeitet-Fenster: **Teilung Rückgängig machen**
 
 > [!TIP]
 > make **Übernnahme in die Planung** fast => **Planung Reiter** offen lassen & Tour **aus Planung Entfernen**\
@@ -167,15 +167,17 @@
 
 - **Beispiele**:
 ````
-[Postversand - Innsbruck - KW$$]           | (Direkt/Postversand am Dienstag)
-[Postversand - ORT - FIXTERMIN]            | (Postversand mit Fixtermin) ==> "FIXTERMIN" in "Bemerkung Montage"
-[$Kunden_Name $Kunden_ORT - DO]            | (Direkt-LKW Tour zur Baustelle)
-[SC WAB für 7,5t und 3,5t Touren - MI]     | (Lager-WAB für 7,5t & 3,5t Touren)
-[SC 7,5t Tour $Start_ORT - $End_ORT - MI]  | (Untertour 7,5t Fahrzeug -> Laden von Lager-WAB)
-[SC 3,5t Tour $Start_ORT - $End_ORT - MI]  | (Untertour 3,5t Fahrzeug -> Laden von Lager-WAB)
-[SC WAB für LKW Touren - DI]               | (Lager-WAB für LKW Touren am Dienstag) ==> "RAMPE" in "Bemerkung Transport"
-[SC LKW Tour $Start_ORT - $End_ORT - DI]   | (Untertour LKW Fahrzeug -> Laden von Lager-WAB => Lager-WAB=Rampe)
-[Plant SC Leiter / 6 Kunden]               | (Untertour mit 6 Kunden die SC-Leiter Plant)
+|NAMESFELD                                 | INFO                                                                        |
+-------------------------------------------|------------------------------------------------------------------------------
+|Postversand - Innsbruck - KW$$]           | (Direkt/Postversand am Dienstag)                                            |
+|Postversand - ORT - FIXTERMIN]            | (Postversand mit Fixtermin) ==> "FIXTERMIN" in "Bemerkung Montage"          |
+|$Kunden_Name $Kunden_ORT - DO]            | (Direkt-LKW Tour zur Baustelle)                                             |
+|SC WAB für 7,5t und 3,5t Touren - MI]     | (Lager-WAB für 7,5t & 3,5t Touren)                                          |
+|SC 7,5t Tour $Start_ORT - $End_ORT - MI]  | (Untertour 7,5t Fahrzeug -> Laden von Lager-WAB)                            |
+|SC 3,5t Tour $Start_ORT - $End_ORT - MI]  | (Untertour 3,5t Fahrzeug -> Laden von Lager-WAB)                            |
+|SC WAB für LKW Touren - DI]               | (Lager-WAB für LKW Touren am Dienstag) ==> "RAMPE" in "Bemerkung Transport" |
+|SC LKW Tour $Start_ORT - $End_ORT - DI]   | (Untertour LKW Fahrzeug -> Laden von Lager-WAB => Lager-WAB=Rampe)          |
+|Plant SC Leiter / 6 Kunden]               | (Untertour mit 6 Kunden die SC-Leiter Plant)                                |
 ````
 
 - **Bei knappen/komischen Touren** => **Plant SC-Leiter** bzw. **Absprache mit SC-Leiter**
