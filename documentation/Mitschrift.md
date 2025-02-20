@@ -29,33 +29,64 @@
 ### ⚖️ LAW Number Two ➡️ Bei jeder Änderung -> Export für Hersteller ✅
 ### ⚖️ LAW Number Three ➡️ Don't even try SPECIAL_LETTERS(§$%_-) in Profitour ✅
 ### ⚖️ LAW Number Four ➡️ Don't open too many Instances because you will double Import ✅
-
----
 ---
 
-## Profi-Tour besteht aus 2-Teilen bzw. Ansichten (Datenbank & Planungs - Ansicht)
+## 💎 General Infos: 
+- **[DIR | STK | PST]** => **Alle DIREKT** => **Kein LAGER-WAB**
+    - **[PST]** Aufträge mit über **5m³** ==> Höchstwarscheindlich **Falsche Eingabe** von **Hersteller**
+- **[ABH]** => Selbstabholung der Ware durch Kunden **(Er hat Fahrzeug/LKW)**
+- **[Auftragsnummer: 034XXX]** -> **Internet Bestellung -> DIREKT**
+- **[Auftragsnummer: 04XXXX]** -> **Neutrale Bestellung -> Für Tischer [UNBESCHRIFTET] -> DIREKT**
+    - **Fahrer & Montagepersonal** muss extra **instruiert** werden!
 
-### Ansicht_1 = Datenbank_Ansicht
-- Direkt nach dem **Start des Programms** sichtbar!
-- Import und **Auswahl der Gebiete** findet hier statt! **(Bsp.: Wien, Linz, Steiermark, etc.)**
-- Isabel Gebiete => **SC Dornbirn + (DE+CH+FL)** | **SC Graz + Selten (SLO)** | **SC Innsbruck + (ITA)** | SC Klagenfurt
-- Tipps:
-    
+- 🟢 => **Kunde wurde bereits Avisiert**
+- 🔴 => **Kunde hat altes Aviso = Zeiten können nicht gehalten werden!** => **Neu Avisieren** [Siehe Zeile 420] oder **FORCE_GREEN**
+- **FORCE_GREEN_BUTTON** => Button: **Kunden_avis_bestätigen & Aktualisieren** => **Kein Avis versendet trotzdem 🟢**
+    - **Tournummer** mitschreiben bei denen **FORCE_GREEN_BUTTON** benutzt wurde!
 
-### Ansicht_2 = Planungs_Ansicht = Besteht aus **3 Fenstern** => Aufgrund von **Nutzungsweise hier 3-2-1**
+- **Kommentar_Felder:**
+    - **Bemerkung Montage** ==> Infos für **Montage Arbeiter** => **Bsp.: (FIXTERMIN | Hinweise | Adresseänderung/Zufahrt)**
+        - Bei **Adress-Änderungen/Fehler** => **Mail an Hersteller** um weitere Fehler zu vermeiden!
+        - Falls **Plant-SC-Leiter-Tour** => SC-Leiter anrufen!
+    - **Bemerkung Transport** => Infos für die **Spedition** => **Bsp.: (PLATZ, RAMPE)**
+    - **Bemerkung Versand** => Infos für **Verladung** => **Bsp.: (Manuelle Ladereihenfolge)**
 
-## Fenster_3 = BOTTOM = **Unbearbeitet-Fenster** + Minimap (Gleich wie Datenbank_Ansicht)
-- Hier starten wir nachdem wir in der **Datenbank-Ansicht unser Gebiet ausgewählt** haben!
+- **Fahrzeug_Felder:**
+    - Fahrzeuge müssen den **Touren richtig zugeordnet** werden (Fahrzeuge sind **Links oben** im Vehice-Sub-Window)
+    - Richtige Spedition auf Tour ziehen! 
+        - Spedition ist **NOTWENDIG** für **alle Touren** => Bsp. **Spedition_Winkler**
+  
+    - **Richtigen Container auf Touren ziehen!**
+        - Container ist **NOTWENDIG** für **Lager-WAB's** && **Direkt_Baustelle** => Bsp. **Winkler_Egal|Normal|Jumbo**
+            - **NORMAL** = Bei Lager-WAB's (Umladen)
+            - **EGAL** = Bei Direkt_Baustelle (Kein Umladen)
+            - **JUMBO** = Bei über 35m³ => **Immer Direkt_Baustelle** (KEIN UMLADEN MÖGLICH)
+            - **Sattel** = 60m³ => **KEINEN CONTAINER AUF TOUR ZIEHEN!** (Eher Selten)
+                 - Haben keinen eigenen Sattel => Transportbestellung machen **[GUIDE](#-guide-für-die-transportbestellung)**
 
-- Wichtige Infos zu den Ausgewählten Datensätzen: 
-    - **[DIR | STK | PST]** => **Alle DIREKT** => **Kein LAGER-WAB**
-        - **[PST]** Aufträge mit über **5m³** ==> Höchstwarscheindlich **Falsche Eingabe** von **Hersteller**
-    - **[ABH]** => Selbstabholung der Ware durch Kunden **(Er hat Fahrzeug/LKW)**
-    - **[Auftragsnummer: 034XXX]** -> **Internet Bestellung -> DIREKT**
-    - **[Auftragsnummer: 04XXXX]** -> **Neutrale Bestellung -> Für Tischer [UNBESCHRIFTET] -> DIREKT**
-        - **Fahrer & Montagepersonal** muss extra **instruiert** werden! 
+    - **Richtiges Fahrzeug auf Touren ziehen!**
+        - SC 3,5t & 7,5t Tour => **ORT_Bus**
+        - Direkt_Baustelle Tour => **ORT_Direkt**
+        - PLant SC LEITER Tour => **ORT_Direkt**
+        - SC LKW Tour => **$SPEDITION_LKW**
+        - Es kann immer nur **1 Fahrzeug pro Tour** zugeteilt werden!
+            - Bei Touren mit verschiednen Fahrzeugtypen => **größtes Fahrzeug nehmen** => (Bsp: 3,5t + 7,5t Tour => 7,5t Fahrzeug)
 
-- **Minimap** => Kleine Karte **links unten** => Enthält **ausgewählte Datensätze**
+    - **Fahrzeuge are completely messed up for some areas => needs fixing!** => **Absprache mit SC-Leiter**
+        - Isabel macht **extra Arbeit** => Eintragen von **3,5t | 7,5t** => Weil SC-Leiter Fahrzeuge nicht Ändern will
+        - **Excel & Profitour & Realität** == STIMMEN **NICHT** ÜBEREIN 💀
+
+    - **Fahrzeuge:**
+        - **Sattel** => **max. ~ 60m³** => **(2x WAB's pro Sattel)** (C-FS) [Bsp.: Quehenberger]
+        - **Jumbo_WAB** => **max. ~ 35m³ => NUR FÜR DIREKT** (C-FS) [WINKER_JUMBO]
+        - **LKW Touren-Fahrzeug => 30m³ => DIREKT & LAGER** (C-FS) [WINKLER_EGAL|NORMAL]
+        - **7,5t Touren-Fahrzeug => max. ~ 15m³ & 1000kg** [LAGER-WAB] (C-FS) [GRAZ_DIREKT|BUS]
+        - **3,5t Touren-Fahrzeug => max. ~ 600kg** [LAGER-WAB] (B-FS) [GRAZ_DIREKT|BUS]
+
+- **Wochen-Auslatung des jeweiligen Herstelller berücksichtigen**
+    - Mit **Mitarbeitern und Herstellen gute Lösung finden** (Isabell hat Schnittstelle vom Hersterller_H zum checken)
+
+## **Minimap** => Kleine Karte links unten => Enthält **ausgewählte Datensätze**
     - 🔵 Blau => **Unverplant** oder nur am WAB
     - 🔴 Rot => Baustelle mit **Trennwand**
     - 🟠 Orange => **Verplant WAB + Untertour**
@@ -63,15 +94,6 @@
     - Je **größer der Punkt** auf der Karte => **mehr 💵 💵 💵**
     - Hold **[STRG]** für **Neue Auswahl**
     - Hold **[SHIFT]** für **Zur Auswahl hinzufügen**
-
-## Fenster_2 = MIDDLE = **Bearbeitungs-Fenster**
-- Hier findet meiste **Arbeit** statt!
-
-- 🟢 => **Kunde wurde bereits Avisiert**
-- 🔴 => **Kunde hat altes Aviso = Zeiten können nicht gehalten werden!** => **Neu Avisieren** [Siehe Zeile 420] oder **FORCE_GREEN**
-
-- **FORCE_GREEN_BUTTON** => Button: **Kunden_avis_bestätigen & Aktualisieren** => **Kein Avis versendet trotzdem 🟢**
-    - **Tournummer** mitschreiben bei denen **FORCE_GREEN_BUTTON** benutzt wurde!
 
 ## 💣 Guide für das erstellen von WAB-Touren:
 - Bei **2 Containeren(WAB's) auf einem LKW + Hänger** bei **Verladereihenfolge** auch **2 WAB-Nummern vergeben** und auf **Hänger** stellen!
@@ -176,46 +198,7 @@
 
 - Der Inhalt dieses Fensters wird **Exportiert zum Hersteller** (Produktions_Abgabe)
    
-- **Kommentar_Felder:**
-    - **Bemerkung Montage** ==> Infos für **Montage Arbeiter** => **Bsp.: (kleine Änderungen | Hinweise | Adresseänderung/Zufahrt)**
-        - Bei **Adress-Änderungen/Fehler** => **Mail an Hersteller** um weitere Fehler zu vermeiden!
-        - Falls **Plant-SC-Leiter-Tour** => SC-Leiter anrufen!
-    - **Bemerkung Transport** => Infos für die Spedition => **Bsp.: (Ladereihenfolge, Sonderliche-Ladegüter, Zoll)**
-    - **Bemerkung Versand** => Infos für den **$Hersteller** => **Bsp.: (???)** _(UNSURE ASK ISABEL 😕)_
 
-- **Fahrzeuge**
-    - Fahrzeuge müssen den **Touren richtig zugeordnet** werden (Fahrzeuge sind **Links oben** im Vehice-Sub-Window)
-    
-    - Richtige Spedition auf Tour ziehen! 
-        - Spedition ist **NOTWENDIG** für **alle Touren** => Bsp. **Spedition_Winkler**
-        
-    - **Richtigen Container auf Touren ziehen!**
-        - Container ist **NOTWENDIG** für **Lager-WAB's** && **Direkt_Baustelle** => Bsp. **Winkler_Egal|Normal|Jumbo**
-            - **NORMAL** = Bei LagerWAB's (Umladen)
-            - **EGAL** = Bei Direkt_Baustelle (Kein Umladen)
-            - **JUMBO** = Bei über 35m³ => **Immer_Direkt** (KEIN UMLADEN MÖGLICH)
-            - **Extra:** **Sattel** = 60m³ => **KEINEN CONTAINER AUF TOUR ZIEHEN!**
-    
-    - **Richtiges Fahrezug auf Touren ziehen!**
-        - 3,5t Fahrzeug für Touren <= 3,5t Tonnen Fahrzeuge
-        - 7,5t Fahrzeug für Touren <= 7,5t Tonnen Fahrzeuge
-        - $LKW_$SPED für Touren <= LKW Fahrzeuge
-        - Bei Touren wo Bsp. 7,5t und 3,5t Fahrzeuge eingesetzt werden => **7,5t Fahrzeug nehmen!!**
-
-    - **Fahrzeuge are completely messed up for some areas => needs fixing!** => **Absprache mit SC-Leiter**
-        - _Note: Isabel macht **extra Arbeit** => Eintragen von **3,5t | 7,5t** => Weil SC-Leiter Fahrzeuge nicht Ändern will (UNSURE ASK BIG-BOSS 😕)_
-    
-    - **Fahrzeug_Tabelle:**
-        - Selten: **Sattel (Nicht Winkler)** => **~60m³** => **(2x WAB's pro Sattel)** (C-FS) [Quehenberger]
-        - Jumbo_WAB (LKW) => **max. ~ 35m³ => NUR FÜR DIREKT** = PASST NICHT INS LAGER (C-FS)
-        - WAB (LKW) **(Direkt | Lager_WAB) => 30m³ => EGAL** (C-FS)
-        - 7,5t Fahrzeug => **max. ~ 15m³ & 1000kg** [LAGER-WAB] (C-FS)
-        - 3,5t Fahrzeug => **max. ~ 600kg** [LAGER-WAB] (B-FS)
-
-- **Wochen-Auslatung des jeweiligen Herstelller berücksichtigen**
-    - Mit **Mitarbeitern und Herstellen gute Lösung finden** (Isabell hat Schnittstelle vom Hersterller_H zum checken)
-    - Hersteller_NOS fragen => Wie Auslatungen gemssen werden => **Date am 04.03.2025 & 11-12.03.2025 🌹**
-    - Hersteller_NOS fragen => Wie Deadlines liegen && Wie Nachgeplant wird
 
 ## 📗 Avisieren
 - Filter in **Datenbank-Ansicht** nach **[Prod + Lieferwoche] & [MO-SA]**
@@ -268,8 +251,8 @@ Danke im Voraus.
 - Filter -> **[Transportaufträge & Hali: Lieferwoche]** => **[JJJJ/KW] auswählen**
 - Für **Hersteller == Alle Touren außer [Lager-WAB's] -> %%Immer Freitags für Nächste KW**
 - Für **SC-Leiter == alle Touren außer [POST, Direkt, Lager-WAB's]**
-    - **Auslieferlisten_SC** kommen von **SC-Leiter** zurück mit **allen 3 Herstellern kombiniert**
-    - Haben **Infos** über genaue Touren, Mitarbeiter, Fahrzeuge etc. => Naming_Scheme: **Auslieferliste_$SC-Leiter_$KW__**
+    - Auslieferlisten werden von **SC-Leiter** bearbeitet und **alle 3 Herstellern kombiniert**
+    - Haben dann **Infos** über genaue Touren, Mitarbeiter, Fahrzeuge etc.
 - Single .csv Excel file -> Apply Makro -> **Save as .xlsx** save for **SC-Leiter** & **HERSTELLER**  = **receive it without Makros**
 - Touren markieren -> **Auslieferliste** -> **Saved as .csv on Remote [Profi-Tour-Server]** -> Copy to [Local] and open in Excel
 - Apply Excel ✨ **Magic-Makros** ✨ [Strg+Umschalt+A "For Austria + D for "Germany"]
@@ -328,6 +311,17 @@ Danke im Voraus.
 - Öffne **Sammelmappe** => Button: **Übernahme in die Planung**
 - Auftrag ist nun im **Unbearbeitet-Fenster** => Splitten, WAB, etc. => **behandeln wie neuen Auftag**
 
+## Profi-Tour besteht aus 2-Teilen bzw. Ansichten (Datenbank & Planungs - Ansicht)
+### Ansicht_1 = Datenbank_Ansicht
+- Direkt nach dem **Start des Programms** sichtbar!
+- Import und **Auswahl der Gebiete** findet hier statt! **(Bsp.: Wien, Linz, Steiermark, etc.)**
+
+### Fenster_2 = MIDDLE = **Bearbeitungs-Fenster**
+- Hier findet meiste **Arbeit** statt!
+
+### Fenster_3 = BOTTOM = **Unbearbeitet-Fenster** + Minimap (Gleich wie Datenbank_Ansicht)
+- Hier starten wir nachdem wir in der **Datenbank-Ansicht unser Gebiet ausgewählt** haben!
+
 ## Tipps für Excel-Listen: [Excel_Listen_Immer_pro_KW$$]
 - Werden **LIVE am Onedrive Ordner bearbeitet** 💀
 - SC-Leiter & BGO = **R,W,D-Rights** 💀
@@ -369,6 +363,7 @@ Danke im Voraus.
 - **Deutschland Gesamt (SC ?? | Relock-Partner)**  _(UNSURE ASK ISABEL 😕)_
     - Noch nicht sicher :question: :question: :question:
     - Ähnlich wie Voradelberg **(Relock ~ ULGB)**
+- Isabel Gebiete => **SC Dornbirn + (DE+CH+FL)** | **SC Graz + Selten (SLO)** | **SC Innsbruck + (ITA)** | SC Klagenfurt
 
 ## Other Things I got told and are probably Useful:
 - **❄️ Frozen Zone (Hali)❄️**
