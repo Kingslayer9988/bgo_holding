@@ -161,9 +161,9 @@
     - Im Unbearbeitet-Fenster: **Teilung Rückgängig machen**
 
 > [!TIP]
-> Übernnahme in die Planung fast => Planung Reiteroffen lassen & Tour aus Planung Entfernen\
-> Teilen von Aufträgen auch im Unbearbeitet-Fenster gemacht werden => Schnelleres Verplanen von Änderungen\
-> Bei  Verladeplanung+ => Nach Auswahl zuerst Bereitstell_Datum dannach Produktions_Datum => Auswahl bleibt!
+> **Schnelles Übernnahme in die Planung** - Planung Reiter offen lassen & Tour aus Planung Entfernen\
+> **Schnelles Verplanen von Änderungen** - Teilen von Aufträgen auch im Unbearbeitet-Fenster gemacht werden\
+> **Auswahl in Verladeplanung+ nicht verlieren** - Nach Auswahl zuerst Bereitstell_Datum dannach Produktions_Datum klicken
 
 | NAMESFELD | INFO |
 | --- | --- |
