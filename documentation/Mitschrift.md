@@ -165,8 +165,7 @@
 > **Teilen von Aufträgen** auch im **Unbearbeitet-Fenster** gemacht werden => **Schnelleres Verplanen von Änderungen**\
 > Bei **Verladeplanung+** => Nach Auswahl zuerst **Bereitstell_Datum** dannach **Produktions_Datum** => Auswahl bleibt!
 
-- **Beispiele**:
-````
+- **Beispiele:**
 |NAMESFELD                                 | INFO                                                                        |
 -------------------------------------------|------------------------------------------------------------------------------
 |Postversand - Innsbruck - KW$$]           | (Direkt/Postversand am Dienstag)                                            |
@@ -178,7 +177,6 @@
 |SC WAB für LKW Touren - DI]               | (Lager-WAB für LKW Touren am Dienstag) ==> "RAMPE" in "Bemerkung Transport" |
 |SC LKW Tour $Start_ORT - $End_ORT - DI]   | (Untertour LKW Fahrzeug -> Laden von Lager-WAB => Lager-WAB=Rampe)          |
 |Plant SC Leiter / 6 Kunden]               | (Untertour mit 6 Kunden die SC-Leiter Plant)                                |
-````
 
 - **Bei knappen/komischen Touren** => **Plant SC-Leiter** bzw. **Absprache mit SC-Leiter**
     - **❌ Nicht gewünscht** -> Suboptimal -> **Ausnahme Voradelberg**
