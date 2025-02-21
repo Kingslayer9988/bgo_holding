@@ -260,7 +260,7 @@ Danke im Voraus.
 > [!NOTE]
 > Upgrade Makro to do the last 3 Steps in One
 
-## 📦 Guide für die Abgabe der (WAB's) für Hersteller:
+## 📦 Guide für die Abgabe der Produktion:
 - Filter -> **[Transportaufträge & Hali: Lieferwoche]** => **[JJJJ/KW] auswählen**
 - Es gibt eine **Liste mit Abgabedaten** für **Hersteller_H**
 - Filter **$Folge_KW4** => Alle Orte
