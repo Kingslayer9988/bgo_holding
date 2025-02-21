@@ -139,7 +139,7 @@
         - **Küchenmonteure teilweise** selbst vorhanden! **[See Here](#gebiete-erik---hersteller-nos-)**
 
 - Auf der **Minimap** oder im **Unbearbeitet-Fenster** **Datensätze/Punkte** markieren => **Button: In Auswahl** => Datensätze nun im **Bearbeitungs-Fenster**
-    - Infos über Minimap **[See Here](#minimap---kleine-karte-links-unten---enthält-ausgewählte-datensätzeaufträge)**
+    - Infos über Minimap **[See Here](#%EF%B8%8F-minimap---kleine-karte-links-unten---enthält-ausgewählte-datensätzeaufträge)**
 
 - Zuerst immer **DIREKT & POST - Linien** erstellen!
     - Datensatz bei **DIREKT | POST | DIREKT_Baustelle** => **NICHT TEILEN**
