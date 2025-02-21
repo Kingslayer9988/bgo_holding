@@ -87,7 +87,7 @@
 - **Wochen-Auslatung des jeweiligen Herstelller berücksichtigen**
     - Mit **Mitarbeitern und Herstellen gute Lösung finden** (Isabell hat Schnittstelle vom Hersterller_H zum checken)
 
-## Minimap - Kleine Karte links unten - Enthält ausgewählte Datensätze/Aufträge
+## 🗺️ Minimap - Kleine Karte links unten - Enthält ausgewählte Datensätze/Aufträge
 - 🔵 Blau => **Unverplant** oder nur am WAB
 - 🔴 Rot => Baustelle mit **Trennwand**
 - 🟠 Orange => **Verplant WAB + Untertour**
