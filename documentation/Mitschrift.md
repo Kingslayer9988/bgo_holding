@@ -189,7 +189,13 @@
     - Text: **Anlieferung am $Datum zum Lager oder Direkt zum Kunden (Siehe Excel file oder Profitour)**
     - **Jumbo-WAB vermerken**
     - Als **E-Mail an Oliver** senden - er sendet die **Untertouren** zurück!
-    - Untertouren wieder in **Profi-Tour** eingeben!
+    - **Unter-Touren** wieder in **Profi-Tour** eingeben!
+        - Oliver sendet **PDF via Mail** - **auf "A3" ausdrucken!** => **Untertouren** stehen unter der **Excel-Tabelle**
+        - Alle Touren nach Oliver anlegen **(Naming: ULGB $Start_ORT $End_ORT Wochentag[TT])**
+        - Alle **Stopps(Kunden)** Richtien & richtige **Ankunft fixieren!**
+        - Alle Touren **Nachkalkulieren** & **Standzeit fixieren!** **[Siehe Hier]()**
+            - Aufpassen auf **Küchen** => **Montagezeit** stimmt im **Transportauftragsreport** teilen durch **Personen**
+            - Aufpassen bei **Trennwänden(RS/RG)**, **Glaswänden** etc. 
 
 ## 📗 Avisieren
 - Filter in **Datenbank-Ansicht** nach **[Prod + Lieferwoche] & [MO-SA]**
