@@ -273,8 +273,11 @@ Danke im Voraus.
 - Deadline verschieden für alle 3 Hersteller => [Siehe Hier]()
 - Hersteller_H => 3 Wochen unterschied => **Bsp.: spät. Freitag KW7 für KW_11**
 
-## 🔨📦 Guide für Glättung der Produktion:
-- WAB's Schieben
+## 🔨📦 Guide für die Glättung der Produktion:
+- im **Team abklären** wer **WAB's** leicht **verschieben kann um Auslastung** zu richten!
+- Auf **Fixtermine** und **Montage-Auslatung** achten!
+- Mit **SC-Leiter abklären** ob mann die Tage scheiben kann!
+- Bei **$Hersteller_KW =! $Wirkliche_KW** auf Tage achten (Bsp.: $Hersteller_KW = DI-DI) => **NOS 💚 sollte das nicht zutreffen!**
 
 ## 🚚 Guide für die Transportbestellung:
 - Filter -> **[Touren & Aufladestelle/Zeitraum]** => **[MO -SA] der gewünschten KW** auswählen!
