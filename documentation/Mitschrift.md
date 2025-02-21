@@ -414,15 +414,15 @@ Danke im Voraus.
 - First Date on Di, 04.03.2025 🌹
 - Second Date on Di, - Mi, 11. - 12.03.2025 🌹
 - Make Ms. Alex like me 💖
-    - She does not like her Ladeliste-Situation 📑😭 => (Figure out when iam there)
+    - She does not like her Ladeliste-Situation 📋😭 => (Figure out when iam there)
     - She does not seems to like new Computer Programms
     - Sweet Accent 😏
     - Make sure I know all the easy things:
-        - Deadlines,
-        - Prod-Abgabe,
-        - Auslieferlisten,
-        - Extras,
-        - $Hersteller_KW if it exits
+        - ☠️ Deadlines 
+        - 📦Produktions Abgabe
+        - 📑 Auslieferlisten
+        - 📛 Extras
+        - 📅 $Hersteller_KW if it exits
 
 - "2020/2022 - Software" seems important to this whole situation, even if nobody talks about it.
     - Positions-Ebene / Autragsebene => I need to still figure out some Shit here (Maybe ask BIG-BOSS)
