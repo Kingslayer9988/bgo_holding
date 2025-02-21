@@ -294,6 +294,7 @@ Danke im Voraus.
 - Im **Touren-Fenster** **Tour die TV beinhaltet** auswählen
 - Im **Bearbeitungs-Fenster** wähle **Transport_Aufträge** => **Positionen**
 - Es gibt **4 verschiedene Fälle von TV's**
+---
 * 1️⃣ **Wenn Ganzer Transportauftrag (AB-Nummer)** Verzögert ist:
     * Gehe zu **WAB der TV-Tour** beinhaltet => Button: **Aus Tour lösen und Teilung Rückgängig machen**
 ---
@@ -305,7 +306,7 @@ Danke im Voraus.
     * Button: Im **Bearbeitungs-Fenster** => **Neuen Transportauftrag erzeugen**
 ---
 * 4️⃣ Wenn **die TV eine Postversendung** ist => **Verladeplanung+** auf neues Datum richten!!
-
+---
 - Wenn **WAB-Tour in der Zukunft** => **Verladereihenfolge neu richten**
 - Anschließend oben Button: **Selection** (Falls Vergessen = Probleme im Bearbeitungs-Fenster) => Button: **In Auswahl**
 - Im Bearbeitungsfenster **Auftrag auswählen** => **Sammelmappe erstellen**
