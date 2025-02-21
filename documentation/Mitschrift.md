@@ -254,7 +254,7 @@ Danke im Voraus.
 - Für **SC-Leiter == alle Touren außer [POST, Direkt, Lager-WAB's]**
     - Auslieferlisten werden von **SC-Leiter** bearbeitet und **alle 3 Herstellern kombiniert**
     - Haben dann **Infos** über genaue Touren, Mitarbeiter, Fahrzeuge etc.
-- Single .csv Excel file -> Apply Makro -> **Save as .xlsx** save for **SC-Leiter** & **HERSTELLER**  = **receive it without Makros**
+- Single .csv Excel file -> Apply Makro -> **Save as .xlsx** save for **SC-Leiter** & **HERSTELLER**
 - Touren markieren -> **Auslieferliste** -> **Saved as .csv on Remote [Profi-Tour-Server]** -> Copy to [Local] and open in Excel
 - Apply Excel ✨ **Magic-Makros** ✨ [Strg+Umschalt+A "For Austria + D for "Germany"]
 - Bei SC-Leiter Touren: **Lösche Inhalt der Zellen mit Touren-Nummer** und schreibe **"Plant SC-Leiter"** in **🔴 & Fett**
