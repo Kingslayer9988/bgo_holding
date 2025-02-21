@@ -2,7 +2,8 @@
 
 ## Chronologischer Ablauf (Will Still have Mistakes - Aktuell für $Hersteller_H)
 
-- **Montag:** 
+- **Montag:**
+    - 📅 **Daily Quests** 
     - 📄 **Frachtbriefe & Tourenpläne für SC-Leiter** => Für **$Folge_KW_01** -> Bsp.: **Montag_KW_08 für KW_09** => **[Guide](#-guide-für-frachtbriefe--tourenpläne-2-pdfs)**
     - 📑 **Auslieferlisten für SC-Leiter** => Für **$Folge_KW_01** -> Bsp.: **Montag_KW_08 für KW_09** => **[Guide](#-guide-für-auslieferlisten)**
     - ▶️ **Starten der Planung von mindestens $Folge_KW_5** => Bsp.: **Montag_KW_08 für KW_12** => **[Guide](#-guide-für-das-erstellen-von-wab-touren)**
@@ -13,7 +14,8 @@
 - **Donnerstag:**
     - 📅 **Daily Quests**
     - 📦 **Produktions-Export (WAB's-Export)**  => Für **MINDESTENS $Folge_KW_04** (Bsp: **Donnerstag_KW_08 für KW_12**) => **[Guide](#-guide-für-die-abgabe-der-produktion)**
-- **Freitag:** 
+- **Freitag:**
+    - 📅 **Daily Quests** 
     - 🚚 **Transportbestellung** => Für **$Folge_KW_02** (Bsp: **Freitag_KW_08 für KW_10**) => **[Guide](#-guide-für-die-transportbestellung)**
     - 📑 **Auslieferliste für Hersteller** => Für **$Folge_KW_01** (Bsp: **Freitag_KW_08 für KW_09**) => **[Guide](#-guide-für-auslieferlisten)**
     - 🔨 **Möglicherweise Glättung der Produktion** => Für **Abgabe_KW** der **Produktion** (Bsp.: **Freitag_KW_08 für KW_12**) => **[Guide](#-guide-für-die-glättung-der-produktion)**
