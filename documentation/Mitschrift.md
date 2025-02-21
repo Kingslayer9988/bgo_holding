@@ -303,7 +303,7 @@ Danke im Voraus.
 * 3️⃣ Wenn **ein Teil einer Position** verzögert ist:
     * Beim Teilen zuerst die **Anzahl der Teilstücke** dann die **Stückzahl** => (Bsp.: 3/7 Sessel in TV => Teilen 2 Teilstücke mit 4 Rest)
     * Button: Im **Bearbeitungs-Fenster** => **Neuen Transportauftrag erzeugen**
-
+---
 * 4️⃣ Wenn **die TV eine Postversendung** ist => **Verladeplanung+** auf neues Datum richten!!
 
 - Wenn **WAB-Tour in der Zukunft** => **Verladereihenfolge neu richten**
