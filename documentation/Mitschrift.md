@@ -160,15 +160,6 @@
     - **Lager-WAB für jeweiliges Fahrzeug(oder Mehrere) Tour** => **SC WAB für [LKW | 7,5t | 3,5t] Touren** 
     - **Untertouren die von Lager-WAB laden** => **SC [LKW | 7,5t | 3,5t] Tour $Start_ORT - $End_ORT WOCHENTAG(TT)**
 
-- **Ändernen von Touren** => **Löst Stopp aus WAB & Stopp aus Tour**
-    - Im Bearbeitungs-Fenster: **Aus Tour lösen und Teilung Rückgängig machen**
-    - Im Unbearbeitet-Fenster: **Teilung Rückgängig machen**
-
-> [!TIP]
-> **Schnelles Übernnahme in die Planung** - Planung Reiter offen lassen & Tour aus Planung Entfernen\
-> **Schnelles Verplanen von Änderungen** - Teilen von Aufträgen auch im Unbearbeitet-Fenster gemacht werden\
-> **Auswahl in Verladeplanung+ nicht verlieren** - Nach Auswahl zuerst Bereitstell_Datum dannach Produktions_Datum klicken
-
 | NAMESFELD | INFO |
 | --- | --- |
 | Postversand - Innsbruck - KW$$ | Direkt/Postversand am Dienstag |
@@ -200,7 +191,17 @@
         - Alle **Stopps(Kunden)** Richtien & richtige **Ankunft fixieren!**
         - Alle Touren **Nachkalkulieren** & **Standzeit fixieren!** **[Siehe Hier](#-guide-für-das-erstellen-von-unter-touren)**
             - Aufpassen auf **Küchen** => **Montagezeit** stimmt im **Transportauftragsreport** teilen durch **Personen**
-            - Aufpassen bei **Trennwänden(RS/RG)**, **Glaswänden** etc. 
+            - Aufpassen bei **Trennwänden(RS/RG)**, **Glaswänden** etc.
+
+ - **Ändernen von Touren** => **Löst Stopp aus WAB & Stopp aus Tour**
+    - Im Bearbeitungs-Fenster: **Aus Tour lösen und Teilung Rückgängig machen**
+    - Im Unbearbeitet-Fenster: **Teilung Rückgängig machen**
+
+> [!TIP]
+> **Schnelles Übernnahme in die Planung** - Planung Reiter offen lassen & Tour aus Planung Entfernen\
+> **Schnelles Verplanen von Änderungen** - Teilen von Aufträgen auch im Unbearbeitet-Fenster gemacht werden\
+> **Auswahl in Verladeplanung+ nicht verlieren** - Nach Auswahl zuerst Bereitstell_Datum dannach Produktions_Datum klicken
+
 
 ## 📗 Avisieren
 - Filter in **Datenbank-Ansicht** nach **[Prod + Lieferwoche] & [MO-SA]**
