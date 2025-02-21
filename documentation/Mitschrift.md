@@ -404,7 +404,12 @@ Danke im Voraus.
     - She does not like her Ladeliste-Situation 📑😭 => (Figure out when iam there)
     - She does not seems to like new Computer Programms
     - Sweet Accent 😏
-    - Make sure I know all the easy things: Deadlines, Prod-Abgabe, Auslieferlisten, Extras, etc.
+    - Make sure I know all the easy things:
+        - Deadlines,
+        - Prod-Abgabe,
+        - Auslieferlisten,
+        - Extras,
+        - $Hersteller_KW if it exits
 
 - "2020/2022 - Software" seems important to this whole situation, even if nobody talks about it.
     - Positions-Ebene / Autragsebene => I need to still figure out some Shit here (Maybe ask BIG-BOSS)
