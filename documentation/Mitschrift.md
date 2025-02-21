@@ -427,7 +427,7 @@ Danke im Voraus.
     - Will only work local - thats where the weird keycombo comes from.
 
 - $HERSTELLER
-    - NOS - 🟢 - Hersteller_N -> 🔵 Schrift
+    - NOS -  🟢 - Hersteller_N -> 🔵 Schrift
     - HALI - 🔵 - Hersteller_H -> 🟢 Schrift
     - BENE - 🔴 - Hersteller_B -> ⚫ Schrift
 > [!NOTE]
