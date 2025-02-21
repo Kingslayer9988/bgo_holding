@@ -92,7 +92,7 @@
 - 🔴 Rot => Baustelle mit **Trennwand**
 - 🟠 Orange => **Verplant WAB + Untertour**
 - ➡️ Pfeile => Zeigen die **Tour von Kunde zu Kunde** (Luftlinie)
-- Je **größer der Punkt desto mehr 💵 💵 💵**
+- 💵 Je **größer der Punkt desto mehr 💵**
 - Hold **[STRG]** für **Neue Auswahl**
 - Hold **[SHIFT]** für **Zur Auswahl hinzufügen**
 
