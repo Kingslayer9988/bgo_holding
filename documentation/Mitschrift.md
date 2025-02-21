@@ -189,6 +189,7 @@
     - Text: **Anlieferung am $Datum zum Lager oder Direkt zum Kunden (Siehe Excel file oder Profitour)**
     - **Jumbo-WAB vermerken**
     - Als **E-Mail an Oliver** senden - er sendet die **Untertouren** zurück!
+    - Untertouren wieder in **Profi-Tour** eingeben!
 
 ## 📗 Avisieren
 - Filter in **Datenbank-Ansicht** nach **[Prod + Lieferwoche] & [MO-SA]**
@@ -267,8 +268,9 @@ Danke im Voraus.
 
 ## 🚚 Guide für die Transportbestellung:
 - Filter -> **[Touren & Aufladestelle/Zeitraum]** => **[MO -SA] der gewünschten KW** auswählen!
+- Nach dem Filter Alle Gebiete kontrollieren **(2 unteren Spalten in Excel zählen)** => **Direkt & Lager-WAB's**
 - **Schnittstelle -> Export in Excel** -> safe as .xlxs Name: **Transportbestellunhg_KW__**
-- Alle Gebiete kontrollieren **(2 unteren Spalten in Excel zählen)** => **Direkt & Lager-WAB's**
+- **Container-Nummer & Container Anzahl & Ladeeinheiten kontrollieren!**
 - **Ladereihenfolge checken** => oft **35/36/35** => Delete **35**
 - **m³ mit Fahrzeugen abglichen** bei => (Bsp.: **40m³** => **LKW + Hänger** oder **2 LKW's**)
 - Transportbestellung im richtigen **MS-Teams** Ordner ablegen!
