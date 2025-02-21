@@ -256,7 +256,7 @@ Danke im Voraus.
     - Haben dann **Infos** über genaue Touren, Mitarbeiter, Fahrzeuge etc.
 - Single .csv Excel file -> Apply Makro -> **Save as .xlsx** save for **SC-Leiter** & **HERSTELLER**
 - Touren markieren -> **Auslieferliste** -> **Saved as .csv on Remote [Profi-Tour-Server]** -> Copy to [Local] and open in Excel
-- Apply Excel ✨ **Magic-Makros** ✨ [Strg+Umschalt+A "For Austria + D for "Germany"]
+- Apply Excel ✨ **Magic-Makros** ✨ **[Strg+Umschalt+A]** = Austria || **[Strg+Umschalt+D]** for "Germany"
 - Bei SC-Leiter Touren: **Lösche Inhalt der Zellen mit Touren-Nummer** und schreibe **"Plant SC-Leiter"** in **🔴 & Fett**
 - Save as **.xlsx** => **(Will delete Makros)**
 - Naming_Scheme: **ALL_$ORT[WIEN,LINZ,GRAZ,etc]_[KW$$].xlsx**
