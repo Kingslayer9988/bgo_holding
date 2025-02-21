@@ -232,7 +232,7 @@ Danke im Voraus.
 ````
 > [!NOTE]
 > Gesamter Prozess könnte **easy automatisiert werden**)\
-> Alle nötigen Daten könnten aus **Aviso PDF** (Richtes Avisieren) gezogen werden =>  => Much ⏰ safed here\
+> Alle nötigen Daten könnten aus **Aviso PDF** (Richtes Avisieren) gezogen werden => Much ⏰ safed here\
 > Prozess wird **Lokal automatisiert** => **Keine Anbindung an Profitour** => **Windwos_Contextmenu_PS_Script**)\
 > Nicht erwünscht ‼️ => **Persöhnlicher Verwendung!**)\
 
