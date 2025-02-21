@@ -411,6 +411,8 @@ Danke im Voraus.
     - Maybe ask all the Colleges ?
 
 ## NOS 💚
+- First Date on Di, 04.03.2025 🌹
+- Second Date on Di, - Mi, 11. - 12.03.2025 🌹
 - Make Ms. Alex like me 💖
     - She does not like her Ladeliste-Situation 📑😭 => (Figure out when iam there)
     - She does not seems to like new Computer Programms
