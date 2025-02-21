@@ -91,8 +91,8 @@
 - 🔵 Blau => **Unverplant** oder nur am **WAB**
 - 🔴 Rot => Baustelle mit **Trennwand**
 - 🟠 Orange => **Verplant WAB + Untertour**
-- ➡️ Pfeile => Zeigen die **Tour von Kunde zu Kunde** (Luftlinie)
-- 💵 Je **größer der Punkt desto mehr 💵**
+- ➡️ Pfeile => Zeigen die **Tour von Kunde zu Kunde** (Luftlinie ✈️)
+- 💹 Je **größer der Punkt desto mehr 💵💶💴**
 - Hold **[STRG]** für **Neue Auswahl**
 - Hold **[SHIFT]** für **Zur Auswahl hinzufügen**
 
@@ -149,7 +149,7 @@
 
 - Anschließend dann **Wunschtermine & Fixtermine** bzw. **größere Baustellen**
 
-- **✒️ Naming-Scheme für Touren/WAB's:**
+- 📝 **Naming-Scheme für Touren/WAB's:**
     - **DIREKT** => **DIR, Nr:043** => **DIREKT $Kunden_Name $Kunden_ORT WOCHENTAG(TT)**
         - Bei **[DIR]** Fixtermin **WICHTIG**
         - Bei **Internet-Order(Nr.: 043)** => Fixtermin **EGAL**
