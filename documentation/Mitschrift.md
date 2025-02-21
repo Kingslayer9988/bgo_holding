@@ -132,8 +132,9 @@
 
 ## 🚀 Guide für das erstellen von Unter-Touren:
 
-- **📰 Transportauftragsreport checken**
+- **📰 Transportauftragsreport checken** bzw. **Nachkalkulieren** von Aufträgen
     - Im **Unbearbeitet-Fenster** => Rechtsklick auf Datensatz=> **Transportauftragsreport** => Für **Zeit-Berrechnung & Calc.sh**
+    - Auch möglich im **Bearbeitungs-Fenster** unter **Positionen**
     - Sollte bei **jedem Datensatz** kontrolliert bzw. **nachgerechnet** werden. => Für Kalkulation - **Skript => [See Here](../README.md#working-still-needs-adoption-for-hersteller)**
     - Bei **Kleinen Küchen** mit **SC-Leiter abklären**
         - **Küchenmonteure teilweise** selbst vorhanden! **[See Here](#gebiete-erik---hersteller-nos-)**
