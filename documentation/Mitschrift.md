@@ -11,11 +11,12 @@
 - **Mittwoch:**
     - 📅 **Daily Quests**
 - **Donnerstag:**
-    - 📅 **Daily Quests + Something I keep forgetting! => PROD_EXPORT ???**
+    - 📅 **Daily Quests +
+    - 📦 **Produktions-Export (WAB's-Export)**  => Für **MINDESTENS $Folge_KW_04** (Bsp: **Freitag_KW_08 für KW_12**) => **[Guide](#-guide-für-die-abgabe-der-wabs-für-Hersteller)**
 - **Freitag:** 
-    - 📦 **Produktions-Export _(WAB's-Export)_**  => Für **MINDESTENS $Folge_KW_04** (Bsp: **Freitag_KW_08 für KW_12**) => **[Guide](#-guide-für-die-abgabe-der-wabs-für-Hersteller)**
     - 🚚 **Transportbestellung** => Für **$Folge_KW_02** (Bsp: **Freitag_KW_08 für KW_10**) => **[Guide](#-guide-für-die-transportbestellung)**
     - 📑 **Auslieferliste für Hersteller** => Für **$Folge_KW_01** (Bsp: **Freitag_KW_08 für KW_09**) => **[Guide](#-guide-für-auslieferlisten)**
+    - 🔨 **Möglicherweise Glättung der Produktion** => Für **Abgabe_KW** der **Produktion** (Bsp.: **Freitag_KW_08 für KW_12**) => [GUIDE]()
 
 - **⌛ Daily Quests ⌛**
     - ♻️ Bei jedem Import von Hersteller_H **06:30 & 14:00 Täglich** (Hr. Roither für Probleme)
