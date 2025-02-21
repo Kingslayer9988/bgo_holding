@@ -417,7 +417,7 @@ Danke im Voraus.
     - She does not like her Ladeliste-Situation 📋😭 => (Figure out when iam there)
     - She does not seems to like new Computer Programms
     - Sweet Accent 😏
-    - Make sure I know all the easy things:
+    - Make sure I know all the easy things 👻:
         - ☠️ Deadlines 
         - 📦Produktions Abgabe
         - 📑 Auslieferlisten
