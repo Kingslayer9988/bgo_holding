@@ -30,7 +30,7 @@
 
 ### ⚖️ LAW Number One ➡️ Don't mess with Profi-Tour-Profile from Isabel ✅
 ### ⚖️ LAW Number Two ➡️ Bei jeder Änderung -> Export für Hersteller ✅
-### ⚖️ LAW Number Three ➡️ Don't even try SPECIAL_LETTERS(§$%_-) in Profitour ✅
+### ⚖️ LAW Number Three ➡️ Don't even try SPECIAL_LETTERS(§$%ÄÖÜ) in Profitour ✅
 ### ⚖️ LAW Number Four ➡️ Don't open too many Instances because you will double Import ✅
 ---
 
