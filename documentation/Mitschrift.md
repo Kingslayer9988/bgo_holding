@@ -325,18 +325,21 @@ Danke im Voraus.
 - Auftrag ist nun im **Unbearbeitet-Fenster** => Splitten, WAB, etc. => **behandeln wie neuen Auftag**
 
 ## Profi-Tour besteht aus 2-Teilen bzw. Ansichten (Datenbank & Planungs - Ansicht)
+
 ### Ansicht_1 = Datenbank_Ansicht
 - Direkt nach dem **Start des Programms** sichtbar!
 - Import und **Auswahl der Gebiete** findet hier statt! **(Bsp.: Wien, Linz, Steiermark, etc.)**
 
-### Fenster_1 => TOP => **Touren-Fenster**
+### Ansicht_2 = Planungs_Ansicht => Besteht aus 3 Fenstern:
+
+#### Fenster_1 => TOP => **Touren-Fenster**
 - Hier findest du deine **Zusammengestellten Touren** (Lager-WAB's, Untertouren, Post-Tour)
 - Der Inhalt dieses Fensters wird **Exportiert zum Hersteller** (Produktions_Abgabe)
 
-### Fenster_2 = MIDDLE = **Bearbeitungs-Fenster**
+#### Fenster_2 = MIDDLE = **Bearbeitungs-Fenster**
 - Hier findet meiste **Arbeit** statt!
 
-### Fenster_3 = BOTTOM = **Unbearbeitet-Fenster** + Minimap (Gleich wie Datenbank_Ansicht)
+#### Fenster_3 = BOTTOM = **Unbearbeitet-Fenster** + Minimap (Gleich wie Datenbank_Ansicht)
 - Hier starten wir nachdem wir in der **Datenbank-Ansicht unser Gebiet ausgewählt** haben!
 
 ## Tipps für Excel-Listen: [Excel_Listen_Immer_pro_KW$$]
