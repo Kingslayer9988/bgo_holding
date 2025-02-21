@@ -5,7 +5,7 @@
 - **Montag:** 
     - 📄 **Frachtbriefe & Tourenpläne für SC-Leiter** => Für **$Folge_KW_01** -> Bsp.: **Montag_KW_08 für KW_09** => **[Guide](#-guide-für-frachtbriefe--tourenpläne-2-pdfs)**
     - 📑 **Auslieferlisten für SC-Leiter** => Für **$Folge_KW_01** -> Bsp.: **Montag_KW_08 für KW_09** => **[Guide](#-guide-für-auslieferlisten)**
-    - ▶️ **Starten der Planung von mindestens $Folge_KW_5** => Bsp.: **Montag_KW_08 für KW_12** **[Guide](#-guide-für-das-erstellen-von-wab-touren)**
+    - ▶️ **Starten der Planung von mindestens $Folge_KW_5** => Bsp.: **Montag_KW_08 für KW_12** => **[Guide](#-guide-für-das-erstellen-von-wab-touren)**
 - **Dienstag:**
     - 📅 **Daily Quests**
 - **Mittwoch:**
