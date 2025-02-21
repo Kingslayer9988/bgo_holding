@@ -278,6 +278,7 @@ Danke im Voraus.
 - Auf **Fixtermine** und **Montage-Auslatung** achten!
 - Mit **SC-Leiter abklären** ob mann die Tage scheiben kann!
 - Bei **$Hersteller_KW =! $Wirkliche_KW** auf Tage achten (Bsp.: $Hersteller_KW = DI-DI) => **NOS 💚 sollte das nicht zutreffen!**
+- Öffne **Verladeplanung+** der **Lager-WAB's** die **geschoben** werden sollen => **Ändere Datum => Fertig**
 
 ## 🚚 Guide für die Transportbestellung:
 - Filter -> **[Touren & Aufladestelle/Zeitraum]** => **[MO -SA] der gewünschten KW** auswählen!
