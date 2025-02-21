@@ -273,6 +273,9 @@ Danke im Voraus.
 - Deadline verschieden für alle 3 Hersteller => [Siehe Hier]()
 - Hersteller_H => 3 Wochen unterschied => **Bsp.: spät. Freitag KW7 für KW_11**
 
+## 🔨📦 Guide für Glättung der Produktion:
+- WAB's Schieben
+
 ## 🚚 Guide für die Transportbestellung:
 - Filter -> **[Touren & Aufladestelle/Zeitraum]** => **[MO -SA] der gewünschten KW** auswählen!
 - Nach dem Filter Alle Gebiete kontrollieren **(2 unteren Spalten in Excel zählen)** => **Direkt & Lager-WAB's**
