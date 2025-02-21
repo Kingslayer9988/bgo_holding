@@ -422,6 +422,7 @@ Danke im Voraus.
         - 📑 Auslieferlisten
         - 📛 Extras
         - 📅 $Hersteller_KW if it exits
+- Get Postversand-Termine for all Gebiete (ASK ISABEL)
 
 - "2020/2022 - Software" seems important to this whole situation, even if nobody talks about it.
     - Positions-Ebene / Autragsebene => I need to still figure out some Shit here (Maybe ask BIG-BOSS)
