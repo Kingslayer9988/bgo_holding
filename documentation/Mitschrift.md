@@ -304,9 +304,11 @@ Danke im Voraus.
     * Gehe zu **WAB der TV-Tour** beinhaltet => Button: **Aus Tour lösen und Teilung Rückgängig machen**
 ---
 * 2️⃣ Wenn nur **eine Postion im Auftrag** verzögert ist:
-    * **Checken** ob bei der **Verzögerten Position Montagestunden** dabei sind 
+    * **Checken** ob bei der **Verzögerten Position Montagestunden** dabei sind und **keine weiteren Produkte**
     * Wenn ❌ **NEIN** => Button: Im **Bearbeitungs-Fenster** => **Neuen Transportauftrag erzeugen**
     * Wenn ✅ **JA** => Gehe zu **WAB der TV-Tour** beinhaltet => Button: **Aus Tour lösen und Teilung Rückgängig machen**
+    * Wenn 🔐 die **Verzögerte Position Montagestunden** und andere **nicht verzögerte Produkte** beinhaltet
+    * Löse die **Verzögerte Postition & Inklusive Montagestunden aus der Tour**
 ---
 * 3️⃣ Wenn **ein Teil einer Position** verzögert ist:
     * Beim Teilen zuerst die **Anzahl der Teilstücke** dann die **Stückzahl** => (Bsp.: 3/7 Sessel in TV => Teilen 2 Teilstücke mit 4 Rest)
