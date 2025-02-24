@@ -20,11 +20,24 @@
     - Grundfilter seems useful => DB-Makro to mark when 2 or more Variables fit the case!
     - Freigabe von Bildschirmeinstellungen
 - Übung 7 | done | (CS-JOB) => Watch @ home (Fahrer/Mitarbeiter-Anlage)
-- Übung 8 | done | (CS-JOB) => Watch @ home (Fahrer/Mitarbeiter-Anlage)
-- 
-- Übung 9 | X | (CS-JOB) => Watch @ home (Fahrer/Mitarbeiter-Anlage) 
-- Übung 10 | X | (CS-JOB) => Watch @ home (Fahrer/Mitarbeiter-Anlage)
-- Übung 11 | X | (CS-JOB) => Watch @ home (Fahrer/Mitarbeiter-Anlage)
+- Übung 8 | done | USEFUL (CS-PLAN)
+    - Reiter Offen/Disponiert => DB-Ansicht => Unten/Oben
+    - Reiter Live-Dispo useful zur Kontrolle
+    - Änderungen/TV => Suche über Filter: Auftragsnummer, WAB-Nummer etc.
+    - Alle Änderungen für Fahrzeug,Cont, etc. über Dropdown in DB-Ansicht möglich
+    - Multi-Druck möglich => Makieren & "F6"
+- Übung 9 | done | USEFUL (CS-PLAN)
+    - Containerdispo => Zeile oben mit Reitern => Daten ergänzen die in CS-JOB nicht richtig eingeben wurden
+    - Adresse ändern => Makieren => Reiter **Wegpunkte** => SC-GRAZ etc. (Excel funktion mit Runterziehen possible) 
+    - Rechtsclick -> **Auftragsdaten ergänzen** -> BS_DATUM, AUFN_DATUM etc. => Siehe unten!
+    - Rechtsclick -> **Containernummer ändern** => Sub_Window
+    - CS_PLAN => Fahrt =! Tour ==> Fahrt = DIREKT_BAUSTELLE || Tour = Lager-WAB + Unter-Touren
+    - DIREKT_BAUSTELLE => Auswahl der Datensätze (30m³) => Rechtsclick => **Zur Tour verbinden**
+    - ZU_TOUR_VERBINDEN_FENSTER ==>
+    - 
+
+- Übung 10 | X | 
+- Übung 11 | X | 
 
       
 ## Pros & Cons (Profi-Tour VS Cargo-Support)
@@ -61,10 +74,12 @@
 - Dispotrapl => Filter => **ZONE** Auswählen => Zone siehe .pptx Karte
 
 ## Planung von DIREKT_BAUSTELLE Touren (In DB-Ansicht möglich)
-- Bei DIREKT_BAUSTELLE => In Datenbank-Ansicht => Tour markieren => **TOUR VERBINDEN**
+- Bei DIREKT_BAUSTELLE => In Datenbank-Ansicht => Tour markieren => **Zu Tour Verbinden**
 
-- Neues Fenster öffnet sich => Fenster: **[Planungsdaten Ändern_ODER_NEUES_FENSTER_0]()**
-    - **Namens-Schema == Profitour**
+- Neues Fenster öffnet sich => Fenster: **[ZU_TOUR_VERBINDEN_FENSTER]()**
+    - **Fahrzeug, Fahrer, Frachtführer, Freitext** => Laut CS-Video
+    - 
+    - **Namen** **Namens-Schema == Profitour**
     - Alle anderen Einträge **können leer gelassen** werden!
 
 - **Alle Stopps der Tour markieren** => Button **[Planungsdaten Ändern]()**
