@@ -11,6 +11,7 @@
     - Minimap is way worse ==> Punkte werden nicht farbing hinterlegt bei AUSWAHL, VERPLANT, WAND etc.
     - Filter in der DB-Ansicht ist oben links => Keine "KW" => Montag bis Sonntag der gewünschten KW auswählen.
     - Dispotrapl => Filter => **ZONE** Auswählen => Zone siehe .pptx Karte
+    - Post == Besser = Wird automatisch verarbeitet! => Kein UserInput notwendig!
     - 
 
 
