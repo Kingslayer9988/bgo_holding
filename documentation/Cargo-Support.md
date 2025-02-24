@@ -37,9 +37,26 @@
 ## Guide für das Erstellen von Lager-WAB's
 - In DB-Ansicht gewünschte Datensätze markieren ==> Meist kleine Aufträge für Lager-WAB
 - Rechtsclick => Button: In den **[Planungspool]()**
-- 
+- Sobald Datensätze im **Planungspool** liegen werden sie auf **[Minimap]()** angezeigt!
+- Nach Auswahl der Punkte auf **Minimap** => Rechtsclick => Button: **Hinzufügen**
+- Ausgewählte Datensätze sind nun im **Virtuelle_Touren_Fenster**
+- **Im Virtuellen_Touren_Fenster** => Tour nach **gewünschter Fahrt richten** => Button: **Tour erzeugen**
+- Neues Fenster öffnet sich => Fenster: **Planungsdaten Ändern** => Namen vergeben (Bsp.: SC WAB für 3,5t Touren)
+- In der **DB-Ansicht** wird nun einen **generiete Tourennummer** vergen und in **gleicher Farbe** für die **Tour hinterlegt**
+- Tipp: **Sortieren nach Tour-Nummer** => legt gewünschte **Tour-Stopps** untereinander!
+
+
+  
+## Virtuelle Touren Fenster
+- Einfügen Vor / Nach ==> Wie im **BIOS** => **Höher/Tiefer** mit **ausgwählten Datensatz**
+-  
+
+## Minimap
+- Steuerung ist **Invertiert** im vergleich mit Profi-Tour [STRG] [SHIFT]
+- Farben sind ohne bedeutung ==> Should be fixed!
 
 ## Planungspool
+- Find out if this is better or worse than in Profitour.
 
 ---
 ---
