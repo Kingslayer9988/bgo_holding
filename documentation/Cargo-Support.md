@@ -53,7 +53,8 @@
 - Makiere alle Datensätze die auf Lager-WAB liegen => Rechtsclick => Button: **Multi-Split**
 - **Multi-Split** => Teilen der Tour **LagerWAB + Untertour**
 - Neues Fenster öffnet sich => Fenster: **NEUES_FENSTER_3_SC_LAGERNAME**
-- 
+- Feld: **Adresse** => SC-Lager einstellen => (Bsp.: SC-Graz)
+- Feld: **Fahrttype** => Zustellung einstellen (NEU bzw. auto. in Profi-Tour) => Möglicherweise noch andere Zustellungsarten (ASK SOMEONE THAT UNDERSTAND THAT FUCKING PROGRAM)
 
 ## Planungsdaten Ändern => bzw. Unterfenster zum bennen die sich öffnen
 - Abgleichen der Fenster => Logische Namen für Fenster überlegen => Aktuell Unübersichtlich
