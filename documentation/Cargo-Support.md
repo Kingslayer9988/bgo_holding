@@ -19,6 +19,7 @@
     - Datums-Filter-Einstellungen probably wrong for us "BGO"
     - Grundfilter seems useful => DB-Makro to mark when 2 or more Variables fit the case!
     - Freigabe von Bildschirmeinstellungen
+- Übung 7 | done | (CS-JOB) => Probably also Useful for (CS-PLAN) =>
       
 ## Pros & Cons (Profi-Tour VS Cargo-Support)
 - BIG PRO = Fahrzeuge / Datum / Container & mehr kann **alles aus der DB-Ansicht gemacht** werden!
@@ -29,7 +30,7 @@
 - PRO = DIREKT_BAUSTELLE Aufträge komplett in DB-Ansicht planbar! (saving lots of useless loadtimes)
 - PRO = Definitv mehr Möglichkeiten um Ansichten zu verändern (Dunno how Useful)
 
-- BIG CON = Work is in two seperate Programs => CS-JOB & CS-PLAN
+- BIG CON = Work is in two seperate Programs => CS-JOB & CS-PLAN (Profi-Tour DB-Ansicht = Teil von CS-JOB)
 - BIG CON = Aktualisieren "F5" is necessary
 - BIG CON = Programm ist deutlich langsamer als Profi-Tour & Keine Ladeanzeige!
 - BIG CON = Minimap is way worse than Profi-Tour => G-Maps API is perfect => But no Coloring of Dots is horrible & Loadingtimes are also horrible
