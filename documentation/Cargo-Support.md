@@ -34,7 +34,7 @@
     - **Entladestart == 08:00** | Bereitstellungsdatum + 1 Werktag
     - **Spedition hinzufügen**
 
-## Guide für das Erstellen von Lager-WAB's
+## Guide für das Erstellen von Lager-WAB's (HIER MACHEN WIR EINIGES DOPPELT => Könnte man optimieren) 
 - In DB-Ansicht gewünschte Datensätze markieren ==> Meist kleine Aufträge für Lager-WAB
 - Rechtsclick => Button: In den **[Planungspool]()**
 - Sobald Datensätze im **Planungspool** liegen werden sie auf **[Minimap]()** angezeigt!
@@ -46,6 +46,7 @@
 - Tipp: **Sortieren nach Tour-Nummer** => legt gewünschte **Tour-Stopps** untereinander!
 - **Container-Nummer => WAB-Nr.**
 - **Entladestart** ==> Auf **Stopp Nr.1 der Tour** stellen => **Anliefer_Datum** ausfüllen (Bereitstelldatum + 1 WKT)
+- Markieren der Tour => Fenster: **[Planungsdaten Ändern]()** => Datum und Uhrzeit für LagerWAB einstellen => **06:00 Uhr + Anliefer_Datum**
 
 ## Virtuelle Touren Fenster
 - Einfügen Vor / Nach ==> Wie im **BIOS** => **Höher/Tiefer** mit **ausgwählten Datensatz**
