@@ -41,18 +41,19 @@
 - Nach Auswahl der Punkte auf **Minimap** => Rechtsclick => Button: **Hinzufügen**
 - Ausgewählte Datensätze sind nun im **Virtuelle_Touren_Fenster**
 - **Im Virtuellen_Touren_Fenster** => Tour nach **gewünschter Fahrt richten** => Button: **Tour erzeugen**
-- Neues Fenster öffnet sich => Fenster: **[Planungsdaten Ändern???]()** => Namen vergeben (Bsp.: SC WAB für 3,5t Touren)
+- Neues Fenster öffnet sich => Fenster: **[Planungsdaten Ändern_ODER_NEUES_FENSTER_1]()** => Namen vergeben (Bsp.: SC WAB für 3,5t Touren)
 - In der **DB-Ansicht** wird nun einen **generiete Tourennummer** vergen und in **gleicher Farbe** für die **Tour hinterlegt**
 - Tipp: **Sortieren nach Tour-Nummer** => legt gewünschte **Tour-Stopps** untereinander!
 - **Container-Nummer => WAB-Nr.**
 - **Entladestart** ==> Auf **Stopp Nr.1 der Tour** stellen => **Anliefer_Datum** ausfüllen (Bereitstelldatum + 1 WKT)
-- Markieren der Tour => Fenster: **[Planungsdaten Ändern ???]()** => Datum und Uhrzeit für LagerWAB einstellen => **06:00 Uhr + Anliefer_Datum**
+- Markieren der Tour => Fenster: **[Planungsdaten Ändern_ODER_NEUES_FENSTER_2]()** => Datum und Uhrzeit für LagerWAB einstellen => **06:00 Uhr + Anliefer_Datum**
 
 ## Guide für das Erstellen von Unter-Touren
 - Wichtig = Arbeitsweise ist anders als in Profi-Tour => Zuerst Lager-WAB planen & Anschließend Tour teilen (PRO/CON = KEINE AHNUNG) => Isabel = Con
 - Makiere alle Datensätze die auf Lager-WAB liegen => Rechtsclick => Button: **Multi-Split**
 - **Multi-Split** => Teilen der Tour **LagerWAB + Untertour**
-- Neues Fenster öffnet sich => Fenster: **[Planungsdaten Ändern ???]()**
+- Neues Fenster öffnet sich => Fenster: **NEUES_FENSTER_3_SC_LAGERNAME**
+- 
 
 ## Planungsdaten Ändern => bzw. Unterfenster zum bennen die sich öffnen
 - Abgleichen der Fenster => Logische Namen für Fenster überlegen => Aktuell Unübersichtlich
