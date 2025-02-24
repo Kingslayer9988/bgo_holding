@@ -4,15 +4,35 @@
 
 ## 💎 Infos Cargo-Support => Everything below this Heading is a Copy from Profi-Tour and will get changed along the Way
 
-- Modularer Aufbau des Programms
-    - Ansichten sind komplett selbst knofigurierbar.
-    - Gebiete funktionen anders ==> BESSER
-        - Gebiete **ZONE** nach Karte Filter => Karte .pptx per Mail von Isabel
-    - Minimap is way worse ==> Punkte werden nicht farbing hinterlegt bei AUSWAHL, VERPLANT, WAND etc.
-    - Filter in der DB-Ansicht ist oben links => Keine "KW" => Montag bis Sonntag der gewünschten KW auswählen.
-    - Dispotrapl => Filter => **ZONE** Auswählen => Zone siehe .pptx Karte
-    - Post == Besser = Wird automatisch verarbeitet! => Kein UserInput notwendig!
-    - 
+## Pros & Cons (Profi-Tour VS Cargo-Support)
+- BIG PRO = Fahrzeuge / Datum / Container & mehr kann **alles aus der DB-Ansicht gemacht** werden!
+- BIG PRO = Programm ist um einiges **Modularer** als Profi-Tour (Fenster-Settings brauchen noch Programmierarbeit)
+- PRO = Gebiete sind viel deutlicher aufgeteilt => **Zonen >>> Bundesländer**
+- PRO = Postaufträge werden komplett automatisch verarbeitet! => 0 User Input 
+
+- BIG CON = Programm ist deutlich langsamer als Profi-Tour & Keine Ladeanzeige!
+- BIG CON = Minimap is way worse than Profi-Tour => G-Maps API is perfect => But no Coloring of Dots is horrible & Loadingtimes are also horrible
+- Tiny CON = Keinen "KW" Filter in DB-Ansicht 
+
+## Programmstart & Filter der Aufträge
+- Filter in der DB-Ansicht ist oben links => Keine "KW" => Montag bis Sonntag der gewünschten KW auswählen.
+- Gebiete **ZONE** nach Karte Filter => Karte .pptx per Mail von Isabel
+- Dispotrapl => Filter => **ZONE** Auswählen => Zone siehe .pptx Karte
+
+## Planung von DIREKT_BAUSTELLE Touren (In DB-Ansicht möglich)
+- Bei DIREKT_BAUSTELLE => In Datenbank-Ansicht => Tour markieren => **TOUR VERBINDEN**
+
+- Neues Fenster öffnet sich => Fenster: **Planungsdaten Ändern**
+    - **Namens-Schema == Profitour**
+    - Alle anderen Einträge **können leer gelassen** werden!
+
+- Tour markieren => Button **Planungsdaten Ändern**
+    - **Bereitstellungsdatum** vergeben! => Wie im Profi-Tour (Freitag für Montag / 1 Tag vorher)
+    - Container auswählen (NORMAL, EGAL,JUMBO)
+    - Bei **2 Container auf 1 Tour** => 2. Container **händisch in DB-Ansicht** einstellen!
+    - **Entladestart == 08:00** | Bereitstellungsdatum + 1 Werktag
+    - **Spedition hinzufügen**
+
 
 
 ---
