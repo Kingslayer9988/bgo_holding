@@ -15,7 +15,7 @@
 - PRO = Postaufträge werden komplett automatisch verarbeitet! => 0 User Input (saving lots of useless loadtimes also Mistakes)
 - PRO = DIREKT_BAUSTELLE Aufträge komplett in DB-Ansicht planbar! (saving lots of useless loadtimes)
 
-
+- BIG CON = Aktualisieren "F5" is necessary
 - BIG CON = Programm ist deutlich langsamer als Profi-Tour & Keine Ladeanzeige!
 - BIG CON = Minimap is way worse than Profi-Tour => G-Maps API is perfect => But no Coloring of Dots is horrible & Loadingtimes are also horrible
 - Tiny CON = Keinen "KW" Filter in DB-Ansicht
