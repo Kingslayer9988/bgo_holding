@@ -3,7 +3,6 @@
 # 🚥 Cargo-Support for Dummies 🚥
 
 ## 💎 Infos Cargo-Support
-## Is this thing written in JAVA ? (If yes - God who had that idea)
 
 ## Watch Guides from Web and Read Website - Maybe someuseful Infos
 - Übung 1 | done | (CS-JOB) => Watch @ home 
@@ -19,7 +18,7 @@
     - Vorsicht Änderungen der Ansicht werden nicht auto. gespeichert => Rechts oben Safe-Icon => Dropdown-Menu
     - Datums-Filter-Einstellungen probably wrong for us "BGO"
     - Grundfilter seems useful => DB-Makro to mark when 2 or more Variables fit the case!
-    - 
+    - Freigabe von Bildschirmeinstellungen
       
 ## Pros & Cons (Profi-Tour VS Cargo-Support)
 - BIG PRO = Fahrzeuge / Datum / Container & mehr kann **alles aus der DB-Ansicht gemacht** werden!
