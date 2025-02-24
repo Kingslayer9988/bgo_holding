@@ -361,10 +361,6 @@ Danke im Voraus.
 - **Microsoft Teams**
     - Aufpassen beim **Download von PDF's** => Downloaded gerne altes File! => **Teams is great Software**
   
-- **Excel Makros für Auslieferliste:**
-    - Werden nur Lokal in Excel gespeichert - (New to me i always put them in the actual file) 
-    - Will only work local - thats where the weird keycombo comes from.
-
 - **Konflikte** mit **BGO & SC-Leiter** (UNSURE ASK BIG-BOSS 😕)
     - Wer ruft Kunden bei welchen Problem an ? 💀
     - Abschieben auf $Hersteller & $SC-Leiter ==> **und Umgekehrt!**  💀
