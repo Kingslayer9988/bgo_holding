@@ -6,7 +6,12 @@
 ## Is this thing written in JAVA ? (If yes - God who had that idea)
 
 ## Watch Guides from Web and Read Website - Maybe someuseful Infos
-- Übung 1 & 2 done
+- Übung 1 | done | (CS-PLAN)
+- Übung 2 | done | Partly Useful => Frachtbriefe etc.
+- Übung 3 | done | (CS-PLAN)
+- Übung 4 | done | (CS-PLAN)
+- Übung 5 | done | (CS-PLAN)
+- Übung 6 | done |
 
 ## Pros & Cons (Profi-Tour VS Cargo-Support)
 - BIG PRO = Fahrzeuge / Datum / Container & mehr kann **alles aus der DB-Ansicht gemacht** werden!
@@ -16,6 +21,7 @@
 - PRO = Postaufträge werden komplett automatisch verarbeitet! => 0 User Input (saving lots of useless loadtimes also Mistakes)
 - PRO = DIREKT_BAUSTELLE Aufträge komplett in DB-Ansicht planbar! (saving lots of useless loadtimes)
 
+- BIG CON = Work is in two seperate Programs => CS-JOB & CS-PLAN
 - BIG CON = Aktualisieren "F5" is necessary
 - BIG CON = Programm ist deutlich langsamer als Profi-Tour & Keine Ladeanzeige!
 - BIG CON = Minimap is way worse than Profi-Tour => G-Maps API is perfect => But no Coloring of Dots is horrible & Loadingtimes are also horrible
