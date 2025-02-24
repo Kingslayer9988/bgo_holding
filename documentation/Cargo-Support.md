@@ -65,6 +65,7 @@
 - **Unter-Tour** sollte hiermit **abgeschlossen** sein => In **DB-Ansicht** nun im oberen Teil in **Schwarzer-Schrift** und mit **WAB-Nummer** sichtbar!
 - **Vermerke:** Bei diesem Schritt ist der **Datensatz des Lager-WAB's** in der **DB-Ansicht(Disponiert) verschwunden** => BUG ? => Doenst seem like one!
 - Nach neuem Filter => auf **Dispo_Datum** oder wieder Retour auf **Von_(B)** => Datensatz war wieder sichbar!
+- _Note: Probably just User-Error will try later or at home_
 
 ## Planungsdaten Ändern => bzw. Unterfenster zum bennen die sich öffnen
 - Abgleichen der Fenster => Logische Namen für Fenster überlegen => Aktuell Unübersichtlich
