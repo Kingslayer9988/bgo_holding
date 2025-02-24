@@ -4,7 +4,9 @@
 
 ## 💎 Infos Cargo-Support => Everything below this Heading is a Copy from Profi-Tour and will get changed along the Way
 
-
+- Modularer Aufbau des Programms
+    - Ansichten sind komplett selbst knofigurierbar.
+    - Gebiete funktionen anders ==> BESSER
 
 
 ---
