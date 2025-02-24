@@ -33,10 +33,11 @@
     - Rechtsclick -> **Containernummer ändern** => Sub_Window
     - CS_PLAN => Fahrt =! Tour ==> Fahrt = DIREKT_BAUSTELLE || Tour = Lager-WAB + Unter-Touren
     - DIREKT_BAUSTELLE => Auswahl der Datensätze (30m³) => Rechtsclick => **Zur Tour verbinden**
-    - ZU_TOUR_VERBINDEN_FENSTER ==>
-    - 
+    - ZU_TOUR_VERBINDEN_FENSTER ==> **Siehe unten** == Mitschrift =! Videos 
+    - TOUR_UND_NEUE_FAHRT_FENSTER ==> **Open Software and Check out** => Drag&Drop => Video unclear
+    - Rechtsclick auf **Datensatz in bestehender Tour** => Fahrt aus Tour entfernen == **Stopp auflösen in Profi-Tour**
 
-- Übung 10 | X | 
+- Übung 10 | half done | USEFUL (CS-PLAN) => Getting Tired continue tommorw
 - Übung 11 | X | 
 
       
@@ -71,7 +72,7 @@
 ## Programmstart & Filter der Aufträge
 - Filter in der DB-Ansicht ist oben links => Keine "KW" => Montag bis Sonntag der gewünschten KW auswählen.
 - Gebiete **ZONE** nach Karte Filter => Karte .pptx per Mail von Isabel
-- Dispotrapl => Filter => **ZONE** Auswählen => Zone siehe .pptx Karte
+- **Dispotopf** => Filter => **ZONE** Auswählen => Zone siehe .pptx Karte
 
 ## Planung von DIREKT_BAUSTELLE Touren (In DB-Ansicht möglich)
 - Bei DIREKT_BAUSTELLE => In Datenbank-Ansicht => Tour markieren => **Zu Tour Verbinden**
