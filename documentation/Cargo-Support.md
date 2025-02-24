@@ -28,12 +28,14 @@
 - PRO = Gebiete sind viel deutlicher aufgeteilt => **Zonen >>> Bundesländer** (Way better for my Brain, better logic) 
 - PRO = Postaufträge werden komplett automatisch verarbeitet! => 0 User Input (saving lots of useless loadtimes also Mistakes)
 - PRO = DIREKT_BAUSTELLE Aufträge komplett in DB-Ansicht planbar! (saving lots of useless loadtimes)
+- PRO = Definitv mehr Möglichkeiten um Ansichten zu verändern (Dunno how Useful)
 
 - BIG CON = Work is in two seperate Programs => CS-JOB & CS-PLAN
 - BIG CON = Aktualisieren "F5" is necessary
 - BIG CON = Programm ist deutlich langsamer als Profi-Tour & Keine Ladeanzeige!
 - BIG CON = Minimap is way worse than Profi-Tour => G-Maps API is perfect => But no Coloring of Dots is horrible & Loadingtimes are also horrible
 - Tiny CON = Keinen "KW" Filter in DB-Ansicht
+- Tiny CON = Steilere Lernkurve
 
 - UNSURE = **Planungspool** - Maybe better maybe worse not sure yet.  
 
