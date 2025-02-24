@@ -239,7 +239,9 @@ Danke im Voraus.
 > Nicht erwünscht ‼️ => **Persöhnlicher Verwendung!**)\
 
 ## 📄 Guide für Frachtbriefe & Tourenpläne (2-PDF's):
-- Filter -> **[Transportaufträge & Hali: Lieferwoche]** => **[JJJJ/KW] auswählen**
+- Filter -> **[Transportaufträge & Prod und Lieferwoche]** => **TT.MM.JJ - TT.MM.JJ der gewünschten KW auswählen**
+- Für **Hersteller** == Alle Touren außer **[Lager-WAB's] => Immer Freitags für $Folge_KW_1**
+- Für **SC-Leiter** == Alle Touren außer **[POST, Direkt, Lager-WAB's]**
 - **Auswahl der Tour im Oberen Fenster** -> Frachtbrief -> Print as PDF -> Naming_Scheme: **[TT]_TOURNUMMER**
 - **Auswahl der Tour im Oberen Fenster** -> Tourenplan -> Print as PDF -> Naming_Scheme: **[TT]_TOURNUMMER_TB**
 - Frachtbrief und Tourenplan für SC-Leiter immer **$Montags_Aktuelle_KW** für **%Nächste_KW** -> Bsp.: **Montag in KW7** -> **Ausdrücke für KW08 an SC-Leiter**
@@ -249,9 +251,9 @@ Danke im Voraus.
 - Ablage auf Onedrive 📁 that never syncs even 10MB's 😨😂
 
 ## 📑 Guide für Auslieferlisten:
-- Filter -> **[Transportaufträge & Hali: Lieferwoche]** => **[JJJJ/KW] auswählen**
-- Für **Hersteller == Alle Touren außer [Lager-WAB's] => Immer Freitags für $Folge_KW_1**
-- Für **SC-Leiter == alle Touren außer [POST, Direkt, Lager-WAB's]**
+- Filter -> **[Transportaufträge & Prod und Lieferwoche]** => **TT.MM.JJ - TT.MM.JJ der gewünschten KW auswählen**
+- Für **Hersteller** == Alle Touren außer **[Lager-WAB's] => Immer Freitags für $Folge_KW_1**
+- Für **SC-Leiter** == Alle Touren außer **[POST, Direkt, Lager-WAB's]**
     - Auslieferlisten werden von **SC-Leiter** bearbeitet und **alle 3 Herstellern kombiniert**
     - Haben dann **Infos** über genaue Touren, Mitarbeiter, Fahrzeuge etc.
 - **Touren** markieren => **Export** => Wähle **Auslieferliste** -> **Saved as .csv on Remote [Profi-Tour-Server]** -> Copy to **[Work-PC]** and open in Excel
