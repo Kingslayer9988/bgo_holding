@@ -6,6 +6,7 @@
 ## Is this thing written in JAVA ? (If yes - God who had that idea)
 
 ## Watch Guides from Web and Read Website - Maybe someuseful Infos
+- Übung 1 & 2 done
 
 ## Pros & Cons (Profi-Tour VS Cargo-Support)
 - BIG PRO = Fahrzeuge / Datum / Container & mehr kann **alles aus der DB-Ansicht gemacht** werden!
