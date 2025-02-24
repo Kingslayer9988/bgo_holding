@@ -55,6 +55,9 @@
 - Neues Fenster öffnet sich => Fenster: **NEUES_FENSTER_3_SC_LAGERNAME**
 - Feld: **Adresse** => SC-Lager einstellen => (Bsp.: SC-Graz)
 - Feld: **Fahrttype** => Zustellung einstellen (NEU bzw. auto. in Profi-Tour) => Möglicherweise noch andere Zustellungsarten (ASK SOMEONE)
+- fucking endless loading... => Fertig mit erstellen der Untertour 
+- **Unter-Tour** sollte hiermit **abgeschlossen** sein => In **DB-Ansicht** nun im oberen Teil in **Schwarzer-Schrift** und mit **WAB-Nummer** sichtbar!
+- **Vermerke:** Bei diesem Schritt ist der **Datensatz des Lager-WAB's** in der **DB-Ansicht(Disponiert) verschwunden** => BUG ? => Doenst seem like one! 
 
 ## Planungsdaten Ändern => bzw. Unterfenster zum bennen die sich öffnen
 - Abgleichen der Fenster => Logische Namen für Fenster überlegen => Aktuell Unübersichtlich
