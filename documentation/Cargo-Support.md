@@ -15,6 +15,10 @@
 - BIG CON = Minimap is way worse than Profi-Tour => G-Maps API is perfect => But no Coloring of Dots is horrible & Loadingtimes are also horrible
 - Tiny CON = Keinen "KW" Filter in DB-Ansicht 
 
+## DB-Ansicht besteht aus 2 Teilen
+- Oben => Datenbank => Unverplante Datensätze ==> Pretty much 1:1 Datenbank-Ansicht in Profitour
+- Unten => Disponiert => Verplante Datensätze ==> Touren-Fenster in Profitour => in DB-Ansicht sichtbar!
+
 ## Programmstart & Filter der Aufträge
 - Filter in der DB-Ansicht ist oben links => Keine "KW" => Montag bis Sonntag der gewünschten KW auswählen.
 - Gebiete **ZONE** nach Karte Filter => Karte .pptx per Mail von Isabel
