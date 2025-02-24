@@ -6,13 +6,21 @@
 ## Is this thing written in JAVA ? (If yes - God who had that idea)
 
 ## Watch Guides from Web and Read Website - Maybe someuseful Infos
-- Übung 1 | done | (CS-PLAN)
+- Übung 1 | done | (CS-JOB) => Watch @ home 
 - Übung 2 | done | Partly Useful => Frachtbriefe etc.
-- Übung 3 | done | (CS-PLAN)
-- Übung 4 | done | (CS-PLAN)
-- Übung 5 | done | (CS-PLAN)
-- Übung 6 | done |
-
+- Übung 3 | done | (CS-JOB) => Watch @ home 
+- Übung 4 | done | (CS-JOB) => Watch @ home 
+- Übung 5 | done | (CS-JOB) => Watch @ home 
+- Übung 6 | done | (CS-JOB) => Probably also Useful for (CS-PLAN) =>
+    - Spalten-Ausrichtung und Namensänmderung => wie in Profi-Tour + Fixieren möglich
+        - Maske bearbeiten => Layout editieren
+    - Funktionszeile links unten => Anzahl der Datensätze
+    - Gruppieren möglich (Spalte nach oben ziehen => Seems Useless but maybe good => Thats how "Dispo-Fenster" is done probably
+    - Vorsicht Änderungen der Ansicht werden nicht auto. gespeichert => Rechts oben Safe-Icon => Dropdown-Menu
+    - Datums-Filter-Einstellungen probably wrong for us "BGO"
+    - Grundfilter seems useful => DB-Makro to mark when 2 or more Variables fit the case!
+    - 
+      
 ## Pros & Cons (Profi-Tour VS Cargo-Support)
 - BIG PRO = Fahrzeuge / Datum / Container & mehr kann **alles aus der DB-Ansicht gemacht** werden!
 - BIG PRO = Programm ist um einiges **Modularer** als Profi-Tour (Fenster-Settings and how they behaive is still pretty buggy)
