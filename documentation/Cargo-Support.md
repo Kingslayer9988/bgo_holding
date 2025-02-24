@@ -2,13 +2,15 @@
 
 # 🚥 Cargo-Support for Dummies 🚥
 
-## 💎 Infos Cargo-Support 
+## 💎 Infos Cargo-Support
+## Is this thing written in JAVA ? (If yes - God who had that idea) 
 
 ## Pros & Cons (Profi-Tour VS Cargo-Support)
 - BIG PRO = Fahrzeuge / Datum / Container & mehr kann **alles aus der DB-Ansicht gemacht** werden!
-- BIG PRO = Programm ist um einiges **Modularer** als Profi-Tour (Fenster-Settings brauchen noch Programmierarbeit)
-- PRO = Gebiete sind viel deutlicher aufgeteilt => **Zonen >>> Bundesländer**
-- PRO = Postaufträge werden komplett automatisch verarbeitet! => 0 User Input
+- BIG PRO = Programm ist um einiges **Modularer** als Profi-Tour (Fenster-Settings and how they behaive is still pretty buggy)
+- PRO = Gebiete sind viel deutlicher aufgeteilt => **Zonen >>> Bundesländer** (Way better for my Brain, better logic) 
+- PRO = Postaufträge werden komplett automatisch verarbeitet! => 0 User Input (saving lots of useless loadtimes also Mistakes)
+- PRO = DIREKT_BAUSTELLE Aufträge komplett in DB-Ansicht planbar! (saving lots of useless loadtimes)
 - UNSURE = **Planungspool** - Maybe better maybe worse not sure yet. 
 
 - BIG CON = Programm ist deutlich langsamer als Profi-Tour & Keine Ladeanzeige!
