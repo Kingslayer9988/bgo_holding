@@ -239,7 +239,7 @@ Danke im Voraus.
 > Nicht erwünscht ‼️ => **Persöhnlicher Verwendung!**)\
 
 ## 📄 Guide für Frachtbriefe & Tourenpläne (2-PDF's):
-- Filter -> **[Transportaufträge & Prod und Lieferwoche]** => **TT.MM.JJ - TT.MM.JJ der gewünschten KW auswählen**
+- Filter -> **[Transportaufträge & Prod + Lieferwoche]** => **TT.MM.JJ - TT.MM.JJ** der gewünschten **KW auswählen**
 - Für **Hersteller** == Alle Touren außer **[Lager-WAB's] => Immer Freitags für $Folge_KW_1**
 - Für **SC-Leiter** == Alle Touren außer **[POST, Direkt, Lager-WAB's]**
 - **Auswahl der Tour im Oberen Fenster** -> Frachtbrief -> Print as PDF -> Naming_Scheme: **[TT]_TOURNUMMER**
@@ -251,7 +251,7 @@ Danke im Voraus.
 - Ablage auf Onedrive 📁 that never syncs even 10MB's 😨😂
 
 ## 📑 Guide für Auslieferlisten:
-- Filter -> **[Transportaufträge & Prod und Lieferwoche]** => **TT.MM.JJ - TT.MM.JJ der gewünschten KW auswählen**
+- Filter -> **[Transportaufträge & Prod + Lieferwoche]** => **TT.MM.JJ - TT.MM.JJ** der gewünschten **KW auswählen**
 - Für **Hersteller** == Alle Touren außer **[Lager-WAB's] => Immer Freitags für $Folge_KW_1**
 - Für **SC-Leiter** == Alle Touren außer **[POST, Direkt, Lager-WAB's]**
     - Auslieferlisten werden von **SC-Leiter** bearbeitet und **alle 3 Herstellern kombiniert**
