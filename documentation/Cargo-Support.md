@@ -3,7 +3,9 @@
 # 🚥 Cargo-Support for Dummies 🚥
 
 ## 💎 Infos Cargo-Support
-## Is this thing written in JAVA ? (If yes - God who had that idea) 
+## Is this thing written in JAVA ? (If yes - God who had that idea)
+
+## Watch Guides from Web and Read Website - Maybe someuseful Infos
 
 ## Pros & Cons (Profi-Tour VS Cargo-Support)
 - BIG PRO = Fahrzeuge / Datum / Container & mehr kann **alles aus der DB-Ansicht gemacht** werden!
@@ -11,11 +13,13 @@
 - PRO = Gebiete sind viel deutlicher aufgeteilt => **Zonen >>> Bundesländer** (Way better for my Brain, better logic) 
 - PRO = Postaufträge werden komplett automatisch verarbeitet! => 0 User Input (saving lots of useless loadtimes also Mistakes)
 - PRO = DIREKT_BAUSTELLE Aufträge komplett in DB-Ansicht planbar! (saving lots of useless loadtimes)
-- UNSURE = **Planungspool** - Maybe better maybe worse not sure yet. 
+
 
 - BIG CON = Programm ist deutlich langsamer als Profi-Tour & Keine Ladeanzeige!
 - BIG CON = Minimap is way worse than Profi-Tour => G-Maps API is perfect => But no Coloring of Dots is horrible & Loadingtimes are also horrible
-- Tiny CON = Keinen "KW" Filter in DB-Ansicht 
+- Tiny CON = Keinen "KW" Filter in DB-Ansicht
+
+- UNSURE = **Planungspool** - Maybe better maybe worse not sure yet.  
 
 ## DB-Ansicht besteht aus 2 Teilen
 - Oben => Datenbank => Unverplante Datensätze ==> Pretty much 1:1 Datenbank-Ansicht in Profitour
@@ -33,7 +37,7 @@
     - **Namens-Schema == Profitour**
     - Alle anderen Einträge **können leer gelassen** werden!
 
-- Tour markieren => Button **[Planungsdaten Ändern]()**
+- **Alle Stopps der Tour markieren** => Button **[Planungsdaten Ändern]()**
     - **Bereitstellungsdatum** vergeben! => Wie im Profi-Tour (Freitag für Montag / 1 Tag vorher)
     - Container auswählen (NORMAL, EGAL,JUMBO)
     - Bei **2 Container auf 1 Tour** => 2. Container **händisch in DB-Ansicht** einstellen!
@@ -72,8 +76,13 @@
 - **SIND DIESE FENSTER ALLE NOTWENDID ?? => DB-Ansicht ist ja in Cargo-Support editierbar**
 
 ## Virtuelle Touren Fenster
-- Einfügen Vor / Nach ==> Wie im **BIOS** => **Höher/Tiefer** mit **ausgwählten Datensatz**
--  
+- **Einfügen von Stopp - Vor / Nach** => Wie im **BIOS-Boot-Reihenfolge** (F5/F6)=> **Höher/Tiefer** mit **ausgwählten Datensatz**
+- **Montagezeiten(Standzeiten)** => Werden auch hier Festgelegt => **[Transportauftragsreport]()** => Kann hier angeshen werden **JA/NEIN** ? (ASK SOMEONE)
+- _Note: Nobody knows will try later or at home_
+- **Gewicht bzw.- Volumen hier checken** => Je nach Ergebniss => Fahrzeug wählen
+- Button: **Löschen = Aus Tour entferenen**
+- Button: **Tour_erzeugen** => **Feld: Name** => (Bsp. SC 3,5 t Tour Graz - Gresten) => Again siehe Profi-Tour
+- **Feld: Freitext_1** => **WAB-Nummer** wie **Profitour** => Nummern-Kreis
 
 ## Minimap
 - Steuerung ist **Invertiert** im vergleich mit Profi-Tour [STRG] [SHIFT]
@@ -81,6 +90,10 @@
 
 ## Planungspool
 - Find out if this is better or worse than in Profitour.
+- Items vom Planungspool können nur one by one gelöscht werden => **Andere Kunden von Cargo-Support**
+- Falls Planungspool zu viele Unnötige Items enthält => Planungspool komplett löschen => Neu Anlegen
+- _Note: Because multiple "Planungspools" are possible maybe make them according to "Zone's"_
+- _Note: Should make moving inbetween them way faster ?_
 
 # Everything below this Heading is a Copy from Profi-Tour and will get changed along the Way
 
