@@ -8,7 +8,8 @@
 - BIG PRO = Fahrzeuge / Datum / Container & mehr kann **alles aus der DB-Ansicht gemacht** werden!
 - BIG PRO = Programm ist um einiges **Modularer** als Profi-Tour (Fenster-Settings brauchen noch Programmierarbeit)
 - PRO = Gebiete sind viel deutlicher aufgeteilt => **Zonen >>> Bundesländer**
-- PRO = Postaufträge werden komplett automatisch verarbeitet! => 0 User Input 
+- PRO = Postaufträge werden komplett automatisch verarbeitet! => 0 User Input
+- UNSURE = **Planungspool** - Maybe better maybe worse not sure yet. 
 
 - BIG CON = Programm ist deutlich langsamer als Profi-Tour & Keine Ladeanzeige!
 - BIG CON = Minimap is way worse than Profi-Tour => G-Maps API is perfect => But no Coloring of Dots is horrible & Loadingtimes are also horrible
@@ -33,7 +34,12 @@
     - **Entladestart == 08:00** | Bereitstellungsdatum + 1 Werktag
     - **Spedition hinzufügen**
 
+## Guide für das Erstellen von Lager-WAB's
+- In DB-Ansicht gewünschte Datensätze markieren ==> Meist kleine Aufträge für Lager-WAB
+- Rechtsclick => Button: In den **[Planungspool]()**
+- 
 
+## Planungspool
 
 ---
 ---
