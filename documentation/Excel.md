@@ -40,3 +40,8 @@
     - Noch nicht sicher :question: :question: :question:
     - Ähnlich wie Voradelberg **(Relock ~ ULGB)**
 - Isabel Gebiete => **SC Dornbirn + (DE+CH+FL)** | **SC Graz + Selten (SLO)** | **SC Innsbruck + (ITA)** | SC Klagenfurt
+
+- **Excel Makros für Auslieferliste:**
+    - Werden nur Lokal in Excel gespeichert - (New to me i always put them in the actual file) 
+    - Will only work local - thats where the weird keycombo comes from.
+
