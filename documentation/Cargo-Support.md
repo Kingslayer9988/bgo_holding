@@ -23,7 +23,7 @@
 ## Planung von DIREKT_BAUSTELLE Touren (In DB-Ansicht möglich)
 - Bei DIREKT_BAUSTELLE => In Datenbank-Ansicht => Tour markieren => **TOUR VERBINDEN**
 
-- Neues Fenster öffnet sich => Fenster: **[Planungsdaten Ändern]()**
+- Neues Fenster öffnet sich => Fenster: **[Planungsdaten Ändern_ODER_NEUES_FENSTER_0]()**
     - **Namens-Schema == Profitour**
     - Alle anderen Einträge **können leer gelassen** werden!
 
