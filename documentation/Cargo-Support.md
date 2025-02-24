@@ -10,6 +10,7 @@
 ## Pros & Cons (Profi-Tour VS Cargo-Support)
 - BIG PRO = Fahrzeuge / Datum / Container & mehr kann **alles aus der DB-Ansicht gemacht** werden!
 - BIG PRO = Programm ist um einiges **Modularer** als Profi-Tour (Fenster-Settings and how they behaive is still pretty buggy)
+- BIG PRO = **Frachtbrief & Tourenplan & Transportauftrag** aus **DB-Ansicht** Druckbar (Siehe oben bei Filter)
 - PRO = Gebiete sind viel deutlicher aufgeteilt => **Zonen >>> Bundesländer** (Way better for my Brain, better logic) 
 - PRO = Postaufträge werden komplett automatisch verarbeitet! => 0 User Input (saving lots of useless loadtimes also Mistakes)
 - PRO = DIREKT_BAUSTELLE Aufträge komplett in DB-Ansicht planbar! (saving lots of useless loadtimes)
@@ -24,6 +25,12 @@
 ## DB-Ansicht besteht aus 2 Teilen
 - Oben => Datenbank => Unverplante Datensätze ==> Pretty much 1:1 Datenbank-Ansicht in Profitour
 - Unten => Disponiert => Verplante Datensätze ==> Touren-Fenster in Profitour => in DB-Ansicht sichtbar!
+- Standartansicht => **Std. Dispo Basis** => laut CS-Video
+- Aufträge können direkt in **DB-Ansicht gefilterd** werden => Feld: **Auftrags-Nr.**
+- Fahrzeug: Dropdown
+- Fahrtstatus in Standartansicht => Rechts => Disponiert / Offen => Bei uns Unten/Oben
+- Frachtbrief & Tourenplan & Transportauftrag & Auftragsbest => Alle von **DB-Ansicht** aus **druckbar** => **"F6"**
+- 
 
 ## Programmstart & Filter der Aufträge
 - Filter in der DB-Ansicht ist oben links => Keine "KW" => Montag bis Sonntag der gewünschten KW auswählen.
