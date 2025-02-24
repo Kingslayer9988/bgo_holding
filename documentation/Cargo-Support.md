@@ -19,7 +19,13 @@
     - Datums-Filter-Einstellungen probably wrong for us "BGO"
     - Grundfilter seems useful => DB-Makro to mark when 2 or more Variables fit the case!
     - Freigabe von Bildschirmeinstellungen
-- Übung 7 | done | (CS-JOB) => Probably also Useful for (CS-PLAN) =>
+- Übung 7 | done | (CS-JOB) => Watch @ home (Fahrer/Mitarbeiter-Anlage)
+- Übung 8 | done | (CS-JOB) => Watch @ home (Fahrer/Mitarbeiter-Anlage)
+- 
+- Übung 9 | X | (CS-JOB) => Watch @ home (Fahrer/Mitarbeiter-Anlage) 
+- Übung 10 | X | (CS-JOB) => Watch @ home (Fahrer/Mitarbeiter-Anlage)
+- Übung 11 | X | (CS-JOB) => Watch @ home (Fahrer/Mitarbeiter-Anlage)
+
       
 ## Pros & Cons (Profi-Tour VS Cargo-Support)
 - BIG PRO = Fahrzeuge / Datum / Container & mehr kann **alles aus der DB-Ansicht gemacht** werden!
