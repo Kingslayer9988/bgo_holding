@@ -2,7 +2,7 @@
 
 # 🚥 Cargo-Support for Dummies 🚥
 
-## 💎 Infos Cargo-Support => Everything below this Heading is a Copy from Profi-Tour and will get changed along the Way
+## 💎 Infos Cargo-Support 
 
 ## Pros & Cons (Profi-Tour VS Cargo-Support)
 - BIG PRO = Fahrzeuge / Datum / Container & mehr kann **alles aus der DB-Ansicht gemacht** werden!
@@ -23,11 +23,11 @@
 ## Planung von DIREKT_BAUSTELLE Touren (In DB-Ansicht möglich)
 - Bei DIREKT_BAUSTELLE => In Datenbank-Ansicht => Tour markieren => **TOUR VERBINDEN**
 
-- Neues Fenster öffnet sich => Fenster: **Planungsdaten Ändern**
+- Neues Fenster öffnet sich => Fenster: **[Planungsdaten Ändern]()**
     - **Namens-Schema == Profitour**
     - Alle anderen Einträge **können leer gelassen** werden!
 
-- Tour markieren => Button **Planungsdaten Ändern**
+- Tour markieren => Button **[Planungsdaten Ändern]()**
     - **Bereitstellungsdatum** vergeben! => Wie im Profi-Tour (Freitag für Montag / 1 Tag vorher)
     - Container auswählen (NORMAL, EGAL,JUMBO)
     - Bei **2 Container auf 1 Tour** => 2. Container **händisch in DB-Ansicht** einstellen!
@@ -41,12 +41,12 @@
 - Nach Auswahl der Punkte auf **Minimap** => Rechtsclick => Button: **Hinzufügen**
 - Ausgewählte Datensätze sind nun im **Virtuelle_Touren_Fenster**
 - **Im Virtuellen_Touren_Fenster** => Tour nach **gewünschter Fahrt richten** => Button: **Tour erzeugen**
-- Neues Fenster öffnet sich => Fenster: **Planungsdaten Ändern** => Namen vergeben (Bsp.: SC WAB für 3,5t Touren)
+- Neues Fenster öffnet sich => Fenster: **[Planungsdaten Ändern]()** => Namen vergeben (Bsp.: SC WAB für 3,5t Touren)
 - In der **DB-Ansicht** wird nun einen **generiete Tourennummer** vergen und in **gleicher Farbe** für die **Tour hinterlegt**
 - Tipp: **Sortieren nach Tour-Nummer** => legt gewünschte **Tour-Stopps** untereinander!
+- **Container-Nummer => WAB-Nr.**
+- **Entladestart** ==> Auf **Stopp Nr.1 der Tour** stellen => **Anliefer_Datum** ausfüllen (Bereitstelldatum + 1 WKT)
 
-
-  
 ## Virtuelle Touren Fenster
 - Einfügen Vor / Nach ==> Wie im **BIOS** => **Höher/Tiefer** mit **ausgwählten Datensatz**
 -  
@@ -57,6 +57,8 @@
 
 ## Planungspool
 - Find out if this is better or worse than in Profitour.
+
+# Everything below this Heading is a Copy from Profi-Tour and will get changed along the Way
 
 ---
 ---
