@@ -141,7 +141,7 @@
 - _Note: Because multiple "Planungspools" are possible maybe make them according to "Zone's"_
 - _Note: Should make moving inbetween them way faster ?_
 
-# Everything below this Heading is a Copy from Profi-Tour and will get changed along the Way
+# Everything below this Heading is a Copy from Profi-Tour and will get changed along the Way (For Easy STRG+C & STRG+V)
 
 ---
 ---
