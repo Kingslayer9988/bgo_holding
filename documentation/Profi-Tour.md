@@ -83,7 +83,8 @@
     - Bei **SC LKW Tour** => **$SPEDITION_LKW**
    
 
-- **🚛 Fahrzeuge:**     
+- **🚛 Fahrzeuge:**
+     
 | Fahrzeug | Gewicht | Volumen | Name | Kommentar | FS |
 | --- | --- | --- | --- | --- | --- |
 | **Montage-Bus** | **???** | **4m³** | GRAZ_Direkt | Für Arbeiter um zu Baustelle zu kommen | B |
