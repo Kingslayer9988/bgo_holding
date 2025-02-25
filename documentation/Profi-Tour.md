@@ -267,7 +267,7 @@ Danke im Voraus.
 - Aufpassen bei **Trennwänden(RS/RG)**, **Trennwand/Glaswand** etc. mit **SC-Leiter abklären**
 - Aufpassen bei **Küchen** => **Montagezeit** stimmt **Transportauftragsreport** teilen durch **Personen** => **Standzeit fixieren**
 - Bei **Kleinen Küchen** mit **SC-Leiter abklären** ob wir sie selbst machen können!
-    - **Küchenmonteure teilweise** selbst vorhanden! **[See Here](Nos.md)**
+    - **Küchenmonteure teilweise** selbst vorhanden! **[Siehe Hier für NOS💚](NOS.md)**
 
 ## 📦 Guide für die Abgabe der Produktion:
 - Filter -> **[Transportaufträge & Hali: Lieferwoche]** => **[JJJJ/KW] auswählen**
@@ -280,7 +280,7 @@ Danke im Voraus.
 - Als Abschluss die **Lager-WAB's** ohne **Unter-Touren**
 - **KONTROLLE !!! (Schnellschüsse || Liefer_KW =! Prod_KW || etc.)**
 - Links oben auf Export ==> **Produktion des Herstelles wird eingelastet!!**
-- Deadline verschieden für alle 3 Hersteller => **[Siehe Hier](#nos-)**
+- Deadline verschieden für alle 3 Hersteller => **[NOS💚](NOS.md)**
 - Hersteller_H => 3 Wochen unterschied => **Bsp.: spät. Freitag KW7 für KW_11**
 
 ## 🔨 Guide für die Glättung der Produktion:
@@ -305,8 +305,8 @@ Danke im Voraus.
 - **Untertouren werden von ULGB zusammengestellt** nach einer Liste von uns!
 - Filter in Datenbank nach **[Dornbirn + FL + CH + DE]**
 - Datenbank Ansicht auf **[Isabel-Voradelberg]**
-- **Schnittstelle => Export als Excel file (.csv)**
-- Autosumme pro WAB erstellen für **[Gewicht und m³]**
+- Oben auf **Schnittstelle** => Export als **Excel file (.csv)**
+- Auto-Summe pro WAB erstellen für **[Gewicht und m³]**
 - Text: **Anlieferung am $Datum zum Lager oder Direkt zum Kunden (Siehe Excel file oder Profitour)**
 - **Jumbo-WAB vermerken**
 - Als **E-Mail an Oliver** senden - er sendet die **Untertouren** zurück!
@@ -315,6 +315,9 @@ Danke im Voraus.
     - Alle Touren nach Oliver anlegen **(Naming: ULGB $Start_ORT $End_ORT Wochentag[TT])**
     - Alle **Stopps(Kunden)** Richtien & richtige **Ankunft fixieren!**
     - Alle Touren **Nachkalkulieren** & **Standzeit fixieren!** **[Siehe Hier](#%EF%B8%8F-montagezeit-kalkulieren-bzw-transportauftrag-checken)**
+
+> [!NOTE]
+> Make One and Only ⛰️ Vorarlberg Excel-Makro for Isabel (STRG+UMSCHALT+V)
 
 ## 📺 Guide für TV (TV = Termin-Verspätung)
 - Nur möglich wenn **Untertouren fertiggestellt** sind! 
@@ -354,17 +357,20 @@ Danke im Voraus.
 - Direkt nach dem **Start des Programms** sichtbar!
 - Import und **Auswahl der Gebiete** findet hier statt! **(Bsp.: Wien, Linz, Steiermark, etc.)**
 
-### Ansicht_2 = Planungs_Ansicht => Besteht aus 3 Fenstern:
+### Ansicht_2 = Planungs_Ansicht = Besteht aus 3 Fenstern:
 
-#### Fenster_1 => TOP => **Touren-Fenster**
+#### Fenster_1 = TOP = **Touren-Fenster**
 - Hier findest du deine **Zusammengestellten Touren** (Lager-WAB's, Untertouren, Post-Tour)
-- Der Inhalt dieses Fensters wird **Exportiert zum Hersteller** (Produktions_Abgabe)
+- Der Inhalt dieses Fensters wird **Exportiert zum Hersteller** **📦[Produktions-Abgabe](#-guide-für-die-abgabe-der-produktion)**
 
 #### Fenster_2 = MIDDLE = **Bearbeitungs-Fenster**
-- Hier findet meiste **Arbeit** statt!
+- **Teilen/Auflösen/Ändern** von **Touren** & **Checken von Transportaufträgen** und vieles mehr
+- **Ändernen von Touren** => **Löst Stopp aus WAB & Stopp aus Tour**
+    - Im Bearbeitungs-Fenster: **Aus Tour lösen und Teilung Rückgängig machen**
+    - Im Unbearbeitet-Fenster: **Teilung Rückgängig machen**     
 
-#### Fenster_3 = BOTTOM = **Unbearbeitet-Fenster** + Minimap (Gleich wie Datenbank_Ansicht)
-- Hier starten wir nachdem wir in der **Datenbank-Ansicht unser Gebiet ausgewählt** haben!
+#### Fenster_3 = BOTTOM = **Unbearbeitet-Fenster**
+- Im Prinizip wie **Datenbank-Ansicht** nur mit **übernommenen Datensätzen** haben
 
 ## Other Things I got told and are probably Useful:
 - **❄️ Frozen Zone (Hali)❄️**
@@ -394,9 +400,3 @@ Danke im Voraus.
 
 > [!NOTE]
 > Later make Guides switchable per $_Hersteller and Color them accordingly 🌈
-
-
-Dunno where to put it yet:
-- **Ändernen von Touren** => **Löst Stopp aus WAB & Stopp aus Tour**
-    - Im Bearbeitungs-Fenster: **Aus Tour lösen und Teilung Rückgängig machen**
-    - Im Unbearbeitet-Fenster: **Teilung Rückgängig machen**
