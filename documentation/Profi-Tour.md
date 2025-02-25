@@ -96,7 +96,12 @@
 - Hold **[STRG]** für **Neue Auswahl**
 - Hold **[SHIFT]** für **Zur Auswahl hinzufügen**
 
-## 💣 Guide für das erstellen von WAB-Touren:
+## 💣 Guide für das erstellen von WAB-Touren & Direkt/Post:
+- Zuerst immer **DIREKT & POST - Linien** erstellen!
+    - Datensatz bei **DIREKT | POST | DIREKT_Baustelle** => **NICHT TEILEN**
+    - Maximal **1 Postversand_ORT Linie pro KW** (Außnahme PST mit Fixtermin) 
+    - Bei **Postversand-Linie** auch **Verlade-Reihenfolge** richten **[WAB-Nr.: 900]**
+
 - Bei **2 Containeren(WAB's) auf einem LKW + Hänger** bei **Verladereihenfolge** auch **2 WAB-Nummern vergeben** und auf **Hänger** stellen!
 - **2 Arten von WAB's** => Eintragen von **[Rampe oder Platz]** in **Kommentar-Feld**  => **Bemerkung Transport**)
 - **Maximal 1 WAB auf Rampe** pro Tag => **2ter WAB** muss auf **Platz**
@@ -132,23 +137,18 @@
 
 ## 🚀 Guide für das erstellen von Unter-Touren:
 
-- Datensätze nach **WAB's (WAB-Nummern)** auswählen und in die Auswahl übernehmen. (Bsp. Alle Datensätze am WAB 050)
+- Datensätze nach **WAB's (WAB-Nummern)** auswählen und **in die Auswahl** übernehmen. (Bsp. Alle Datensätze am "WAB 050")
     - WAB's sollten schon erstellt sein => **[Produktions-Abgabe](#-guide-für-die-abgabe-der-produktion)** bzw. **[Guide für WAB Touren](#-guide-für-das-erstellen-von-wab-touren)**
 
 - Ausgewählte Datensätze auf **[Montagezeit(Transportauftragsreport)](#-transportauftragsreport-checken-bzw-montage-zeit-nachkalkuliern)**, **Gewicht, Volumen(m³)** durchchecken!
-    - Falls sich die **Tour** aufgrund von **Fahrzeiten** oder **Montagezeiten NICHT** ausgeht
-    - Datensätze auf **[Minimap](#%EF%B8%8F-minimap---kleine-karte-links-unten---enthält-ausgewählte-datensätzeaufträge)** ansehen und nach **Orten/Fahrtstrecke** teilen
-    - Datensätze im **Bearbeitungs-Fenster** - **aus der Tour lösen** bzw. **Stopp entfernen** bei erstellter Tour
+    - Die Datensätze die mit **(00:30 h)** eingegeben sind können **gemeinsam kontrolliert** werden => Stimmen meistens!
+    - Falls sich die **Tour** aufgrund von **Fahrzeiten** oder **Montagezeiten NICHT** ausgeht:
+        - Datensätze auf **[Minimap](#%EF%B8%8F-minimap---kleine-karte-links-unten---enthält-ausgewählte-datensätzeaufträge)** ansehen und nach **Orten/Fahrtstrecke** teilen
+        - Datensätze im **Bearbeitungs-Fenster** - **aus der Tour lösen** bzw. **Stopp entfernen** bei erstellter Tour
 
 - Fahrzeug nach Tour einteilen **( 3,5t | 7,5t | LKW )** **[Siehe Hier](#-general-infos)**
 
-- Auf der **Minimap** oder im **Unbearbeitet-Fenster** **Datensätze/Punkte** markieren => **Button: In Auswahl** => Datensätze nun im **Bearbeitungs-Fenster**
-    - Infos über Minimap **[See Here](#%EF%B8%8F-minimap---kleine-karte-links-unten---enthält-ausgewählte-datensätzeaufträge)**
 
-- Zuerst immer **DIREKT & POST - Linien** erstellen!
-    - Datensatz bei **DIREKT | POST | DIREKT_Baustelle** => **NICHT TEILEN**
-    - Maximal **1 Postversand_ORT Linie pro KW** (Außnahme PST mit Fixtermin) 
-    - Bei **Postversand-Linie** auch **Verlade-Reihenfolge** richten **[WAB-Nr.: 900]**
 
 - Anschließend dann **Wunschtermine & Fixtermine** bzw. **größere Baustellen**
 
