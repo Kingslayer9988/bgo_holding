@@ -65,7 +65,7 @@
 - Spedition müssen den **Touren richtig zugeordnet** werden (**Links oben** aus dem Fenster ziehen)
 - Spedition ist **NOTWENDIG** für **alle Lager-WAB-Touren** => Bsp. **Spedition_Winkler**
 - Es kann immer nur **1 Fahrzeug pro Tour** zugeteilt werden!
-- Bei Touren mit verschiednen Fahrzeugtypen => **größtes Fahrzeug nehmen** => (Bsp.: 3,5t + 7,5t Tour => 7,5t Fahrzeug)
+- Bei **Touren** mit **verschiednen Fahrzeugtypen** => **größtes Fahrzeug nehmen** => (Bsp.: 3,5t + 7,5t Tour => 7,5t Fahrzeug)
 
 #### 🛢️ Container
 
@@ -87,14 +87,14 @@
 | **Sattel** | ∞ | **60 m³** | Kein FZ=SPED_QUEHENBERGER | Nur bei **DIREKT_BAUSTELLEN** verwendet <br> Billiger als LKW + Anhänger <br> BGO hat **keinen eigenen Sattel** => **[Transportbestellung](#-guide-für-die-transportbestellung)** | C |
 
 - **Fahrzeuge are completely messed up in some areas => Needs fixing - Absprache mit SC-Leiter**
-    - **Excel-Liste** von Isabel => Eintragen von **3,5t | 7,5t** Spalten
+    - [**Excel-Listen**]() von Isabel => Eintragen von **3,5t | 7,5t** Spalten
     - **Excel & Profitour & Realität** = STIMMEN **NICHT** ÜBEREIN 💀
 
 ## 🗺️ Minimap - Kleine Karte links unten - Enthält ausgewählte Datensätze/Aufträge
-- 🔵 Blau => **Unverplant** oder nur am **WAB**
-- 🔴 Rot => Baustelle mit **Trennwand**
-- 🟠 Orange => **Verplant WAB + Untertour**
-- ➡️ Pfeile => Zeigen die **Tour von Kunde zu Kunde** (Luftlinie ✈️)
+- 🔵 Blau = Kunde/Baustelle **Unverplant** oder nur am **Lager-WAB**
+- 🔴 Rot = Kunde/Baustelle mit **Trennwand**
+- 🟠 Orange = Kunde/Baustell **Verplant**
+- ➡️ Pfeile = Zeigen die **Tour von Kunde zu Kunde** (Luftlinie ✈️)
 - 💹 Je **größer der Punkt desto mehr 💵💶💴**
 - ⌨️ Hold **[STRG]** für **Neue Auswahl**
 - ⌨️ Hold **[SHIFT]** für **Zur Auswahl hinzufügen**
@@ -106,10 +106,12 @@
     - Bei **DIREKT_Touren** auch **Verlade-Reihenfolge** richten & **WAB-Nummer** vergeben
 
 - Bei **DIREKT_Baustelle_Touren** auch **Verlade-Reihenfolge** richten & **WAB-Nummer** vergeben
-    - Aufpassen im Normalfall **nicht mehr als 1 Kunde** => **Spedition** kann normal **nicht mehr als 2h auf Baustelle** warten
+    - Aufpassen wenn **3 WAB's oder mehr** gebraucht werden => Immer **maximal 2 WAB's** pro **Tour**
+    - Für den **3 bzw 4. WAB** eine neue Tour anlegen & **Ankunftszeit fixieren** (Bsp.: **1&2-WAB - 08:00** | **3&4-WAB - 12:00**) 
+    - Aufpassen im **Normalfall** - **nicht mehr als 1 Kunde** => **Spedition** kann normal **nicht mehr als 2h auf Baustelle** warten
 
 - Bei **2 Containeren(WAB's) auf einem LKW + Hänger** bei **Verladereihenfolge** auch **2 WAB-Nummern vergeben** und auf **Hänger** stellen!
-- **2 Arten von WAB's** => Eintragen von **[Rampe oder Platz]** in **Kommentar-Feld**  => **Bemerkung Transport**)
+- **2 Arten von WAB's** => Eintragen von **[Rampe oder Platz]** in **Bemerkung Transport**
 - **Maximal 1 WAB auf Rampe** pro Tag => **2ter WAB** muss auf **Platz**
     
     - **↗️ [Rampe]** (Lager-WAB) => Bei **3,5t & 7,5t Unter-Touren** => **(eher = Bei vielen Kleinkunden)**
@@ -125,10 +127,11 @@
         
     - **🔁 Automatische Verlade-Reihenfolge**
         - **Auto-Button** berücksichtigt **keine Manuellen Änderungen** => **[Reset]**
-        - Bei **Manuelle-Ladereihenfolge** verwendet wurde => Im **Kommentarfeld "Bemerkung Versamd"** vermerken!
-            - Wieso Manuell-Ladereihenfolge ? => **Wenn 2 Unter-Touren** an **1 Tag** aus **1 WAB geladen** werden.
+        - Bei **Manuelle-Ladereihenfolge** verwendet wurde => In Kommentarfeld **Bemerkung Versamd** vermerken!
+        - Wieso **Manuelle-Ladereihenfolge** => Wenn **2 Unter-Touren** an **1 Tag** aus **1 WAB geladen** werden.
 
 - **Verlade-Reihenfolge = 99** = Reihenfolge = **EGAL**
+    - Oft bei **LKW + Hänger** auf einer **DIREKT_BAUSTELLE_Tour** angewendet
 
 - **Vorproduktion:** => **WAB in Produktionswoche** anlegen & Bei **Unter-Tour** => Button: **Datum fixieren** => **Lieferdatum auswählen**
 
@@ -136,7 +139,7 @@
     - Aufpassen: Bei **Vorproduktionen** gibt es einen eigenen **Nummern-Kreis**
 
 - **💸 Tipps um Geld zu sparen**
-    - **2 WAB's** mit **LKW + Anhänger an 1 Tag** ist **billiger** als **2 WAB's** an **2 verschiedenen Tagen**
+    - **2 WAB's** mit **LKW + Anhänger an 1 Tag** ist **billiger** als **2 LKW's** mit jeweils **1 WAB** an **2 verschiedenen Tagen**
     - Aufpassen teilweise **Spedition & SC-Leiter** aufgrund von **Auslastung** nicht Happy
     - **LKW gewünscht:** - Manchmal ist es **teurer umzuladen** in **3,5t bzw 7,5t Fahrzeug** - In diesen Fällen mit LKW zu **kleinem Kunden zu fahren!**
 
@@ -260,11 +263,11 @@ Danke im Voraus.
 - In egal welchem Fenster => **Rechtsklick auf Datensatz** => **Transportauftragsreport** => Für **Zeit-Berrechnung bzw. Calc.sh**
 - Sollte bei **jedem Datensatz / Auftrag** kontrolliert bzw. **nachgerechnet** werden.
 - Datensätze die mit **(00:30 h)** eingegeben sind können **gemeinsam kontrolliert** werden => **Stimmen meistens!**
-- Für **Calcullation-Skript** => **[Siehe Hier](../README.md#working-still-needs-adoption-for-hersteller)**
+- Für **Kalkulations-Skript** => **[Siehe Hier](../README.md#working-still-needs-adoption-for-hersteller)**
 - Aufpassen bei **Trennwänden(RS/RG)**, **Trennwand/Glaswand** etc. mit **SC-Leiter abklären**
 - Aufpassen bei **Küchen** => **Montagezeit** stimmt **Transportauftragsreport** teilen durch **Personen** => **Standzeit fixieren**
 - Bei **Kleinen Küchen** mit **SC-Leiter abklären** ob wir sie selbst machen können!
-    - **Küchenmonteure teilweise** selbst vorhanden! **[See Here](#gebiete-erik---hersteller-nos-)**
+    - **Küchenmonteure teilweise** selbst vorhanden! **[See Here](Nos.md)**
 
 ## 📦 Guide für die Abgabe der Produktion:
 - Filter -> **[Transportaufträge & Hali: Lieferwoche]** => **[JJJJ/KW] auswählen**
@@ -308,11 +311,10 @@ Danke im Voraus.
 - **Jumbo-WAB vermerken**
 - Als **E-Mail an Oliver** senden - er sendet die **Untertouren** zurück!
 - **Unter-Touren** wieder in **Profi-Tour** eingeben!
-- Oliver sendet **PDF via Mail** - **auf "A3" ausdrucken!** => **Untertouren** stehen unter der **Excel-Tabelle**
+* Oliver sendet **PDF via Mail** - **auf "A3" ausdrucken!** => **Untertouren** stehen unter der **Excel-Tabelle**
     - Alle Touren nach Oliver anlegen **(Naming: ULGB $Start_ORT $End_ORT Wochentag[TT])**
     - Alle **Stopps(Kunden)** Richtien & richtige **Ankunft fixieren!**
-    - Alle Touren **Nachkalkulieren** & **Standzeit fixieren!** **[Siehe Hier](#-guide-für-das-erstellen-von-unter-touren)**
-
+    - Alle Touren **Nachkalkulieren** & **Standzeit fixieren!** **[Siehe Hier](#%EF%B8%8F-montagezeit-kalkulieren-bzw-transportauftrag-checken)**
 
 ## 📺 Guide für TV (TV = Termin-Verspätung)
 - Nur möglich wenn **Untertouren fertiggestellt** sind! 
