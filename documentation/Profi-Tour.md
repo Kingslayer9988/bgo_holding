@@ -144,13 +144,13 @@
 
 - **⚠️ Wunschtermine & Fixtermine** bzw. **größere Baustellen** beachten!!
 
-- **📜 [Montagezeit(Transportauftragsreport)](#-transportauftragsreport-checken-bzw-montage-zeit-nachkalkuliern)**, **Gewicht, Volumen(m³)** kontrollieren
+- **⏱️ [Montagezeit(Transportauftragsreport)](#-transportauftragsreport-checken-bzw-montage-zeit-nachkalkuliern)**
     - Die Datensätze die mit **(00:30 h)** eingegeben sind können **gemeinsam kontrolliert** werden => Stimmen meistens!
     - Falls sich die **Tour** aufgrund von **Fahrzeiten** oder **Montagezeiten NICHT** ausgeht:
         - Datensätze auf **[Minimap](#%EF%B8%8F-minimap---kleine-karte-links-unten---enthält-ausgewählte-datensätzeaufträge)** ansehen und nach **Orten/Fahrtstrecke** teilen
         - Datensätze im **Bearbeitungs-Fenster** - **aus der Tour lösen** bzw. **Stopp entfernen** bei erstellter Tour
 
-- **🚗 Fahrzeug** nach **Tour** einteilen **( 3,5t | 7,5t | LKW )** **[Siehe Hier](#-general-infos)**
+- **🚗 Fahrzeug** nach **Gewicht, Volumen(m³)** der **Tour** einteilen **( 3,5t | 7,5t | LKW )** **[Siehe Hier](#-general-infos)**
 
 - **❌ Bei knappen/komischen-Touren** => **Plant SC-Leiter** bzw. **Absprache mit SC-Leiter**
     - Nicht gewünscht => **Ausnahme Voradelberg (ULGB)**
@@ -272,7 +272,7 @@ Danke im Voraus.
 > [!NOTE]
 > Upgrade Makro to do the last 3 Steps in One
 
-## 📰 Transportauftragsreport checken bzw. Montage-Zeit nachkalkuliern
+## ⏱️ Montagezeit kalkulieren bzw. Transportauftrag checken
 - In egal welchem Fenster => **Rechtsklick auf Datensatz** => **Transportauftragsreport** => Für **Zeit-Berrechnung bzw. Calc.sh**
 - Sollte bei **jedem Datensatz / Auftrag** kontrolliert bzw. **nachgerechnet** werden.
 - Für **Calcullation-Skript** => **[Siehe Hier](../README.md#working-still-needs-adoption-for-hersteller)**
