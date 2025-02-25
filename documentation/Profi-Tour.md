@@ -39,7 +39,7 @@
 
 | ART | INFO | KOMMENTAR |
 | --- | --- | --- |
-| **[DIR / STK / PST]** | **Alle DIREKT** <br> **Kein LAGER-WAB** | **als 1. Verplanen** <br> **Durchläufer** |
+| **[DIR / STK / PST]** | **Alle DIREKT** <br> **Kein LAGER-WAB** | **als 1. Verplanen** = **Durchläufer** |
 | **[PST]** | Postversand **pro KW** oder **FIXTERMIN** | **>= 5m³** = **Falsche Eingabe** von **Hersteller** |
 | **[DIR]** | **Keine Fixtermine** | Durchläufer - **Immer eigene Tour** |
 | **[ABH]** | **Selbstabholung** durch Kunden | **Durchläufer** - **Immer eigene Tour** | 
