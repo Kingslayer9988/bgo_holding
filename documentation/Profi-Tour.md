@@ -57,7 +57,7 @@
 ### 🧾 Kommentar Felder
 - **Bemerkung Transport** => Infos für die **Spedition** => **Bsp.: (PLATZ, RAMPE)**
 - **Bemerkung Versand** => Infos für **Verladung** => **Bsp.: (Manuelle Ladereihenfolge)**
-- **Bemerkung Montage** ==> Infos für **Montage Arbeiter** => **Bsp.: (FIXTERMIN | Hinweise | Adresseänderung/Zufahrt)**
+- **Bemerkung Montage** => Infos für **Montage Arbeiter** => **Bsp.: (FIXTERMIN | Hinweise | Adresseänderung/Zufahrt)**
     - Bei **Adress-Änderungen/Fehler** => **Mail an Hersteller** um weitere Fehler zu vermeiden!
     - Falls **Plant-SC-Leiter-Tour** => SC-Leiter anrufen!
 
@@ -87,7 +87,7 @@
 | **Sattel** | ∞ | **60 m³** | Kein FZ=SPED_QUEHENBERGER | Nur bei **DIREKT_BAUSTELLEN** verwendet <br> Billiger als LKW + Anhänger <br> BGO hat **keinen eigenen Sattel** => **[Transportbestellung](#-guide-für-die-transportbestellung)** | C |
 
 - **Fahrzeuge are completely messed up for some areas => Needs fixing - Absprache mit SC-Leiter**
-    - **Excel-liste** von Isabel => Eintragen von **3,5t | 7,5t** Spalten
+    - **Excel-Liste** von Isabel => Eintragen von **3,5t | 7,5t** Spalten
     - **Excel & Profitour & Realität** = STIMMEN **NICHT** ÜBEREIN 💀
 
 ## 🗺️ Minimap - Kleine Karte links unten - Enthält ausgewählte Datensätze/Aufträge
@@ -102,8 +102,11 @@
 ## 💣 Guide für das erstellen von WAB-Touren & Direkt/Post:
 - Zuerst immer **DIREKT & POST - Linien** erstellen!
     - Datensatz bei **DIREKT | POST | DIREKT_Baustelle** => **NICHT TEILEN**
-    - Maximal **1 Postversand_ORT Linie pro KW** (Außnahme PST mit Fixtermin) 
-    - Bei **DIREKT-Touren** auch **Verlade-Reihenfolge** richten & **WAB-Nummer** vergeben
+    - Maximal **1 Postversand_$ORT_Linie - pro KW** (Außnahme PST mit FIXTERMIN) 
+    - Bei **DIREKT_Touren** auch **Verlade-Reihenfolge** richten & **WAB-Nummer** vergeben
+
+- Bei **DIREKT_Baustelle_Touren** auch **Verlade-Reihenfolge** richten & **WAB-Nummer** vergeben
+    - Aufpassen im Normalfall **nicht mehr als 1 Kunde** => **Spedition** kann normal **nicht mehr als 2h auf Baustelle** warten
 
 - Bei **2 Containeren(WAB's) auf einem LKW + Hänger** bei **Verladereihenfolge** auch **2 WAB-Nummern vergeben** und auf **Hänger** stellen!
 - **2 Arten von WAB's** => Eintragen von **[Rampe oder Platz]** in **Kommentar-Feld**  => **Bemerkung Transport**)
@@ -395,5 +398,3 @@ Dunno where to put it yet:
 - **Ändernen von Touren** => **Löst Stopp aus WAB & Stopp aus Tour**
     - Im Bearbeitungs-Fenster: **Aus Tour lösen und Teilung Rückgängig machen**
     - Im Unbearbeitet-Fenster: **Teilung Rückgängig machen**
-
-- Aufpassen im Normalfall **nicht mehr als 2 Kunden** => **Spedition** kann normal **nicht mehr als 2h auf Baustelle** warten
