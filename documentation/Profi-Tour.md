@@ -109,14 +109,16 @@
 - **2 Arten von WAB's** => Eintragen von **[Rampe oder Platz]** in **Kommentar-Feld**  => **Bemerkung Transport**)
 - **Maximal 1 WAB auf Rampe** pro Tag => **2ter WAB** muss auf **Platz**
     
-    - **↗️ [Rampe]** (Lager-WAB) => bei Umladen in 7,5t bzw. 3,5t Fahrzeugen beim Lager **(eher = Bei vielen Kleinkunden)**
+    - **↗️ [Rampe]** (Lager-WAB) => Bei **3,5t & 7,5t Unter-Touren** => **(eher = Bei vielen Kleinkunden)**
         - Container: **$Spedition_NORMAL**
+        - Fahrzeug: **3,5t** oder **7,5t - Fahrzeug**
         - **Niemals** einem **Jumbo-WAB** zur **Rampe**
+        - Nur **max. 1 LKW** auf **Rampe**
 
-    - **🅿️ [Platz] (Lager & Direkt-WAB)**  => Zuerst ins Lager & mit LKW zu Kunden gefahren wird **(eher = Bei wenig Großkunden)**
-        - Container: **$Spedition_EGAL**
-        - Aufpassen auf **Zufahrten etc.** oft ist es **nicht möglich** mit **LKW zur Baustelle** zu kommen!
-        - Aufpassen im Normalfall **nicht mehr als 2 Kunden** => **Spedition** kann normal **nicht mehr als 2h auf Baustelle** warten
+    - **🅿️ [Platz] (Lager & Direkt-WAB)**  => Bei **LKW Unter-Touren** **(eher = Bei wenig Großkunden)**
+        - Container: **$Spedition_NORMAL**
+        - Fahrzeug: **LKW - Fahrzeug**
+        - Aufpassen auf **Zufahrten etc.** oft ist es **nicht möglich** mit **LKW bis zur Baustelle** zu kommen
         
     - **🔁 Automatische Verlade-Reihenfolge**
         - **Auto-Button** berücksichtigt **keine Manuellen Änderungen** => **[Reset]**
@@ -393,3 +395,5 @@ Dunno where to put it yet:
 - **Ändernen von Touren** => **Löst Stopp aus WAB & Stopp aus Tour**
     - Im Bearbeitungs-Fenster: **Aus Tour lösen und Teilung Rückgängig machen**
     - Im Unbearbeitet-Fenster: **Teilung Rückgängig machen**
+
+- Aufpassen im Normalfall **nicht mehr als 2 Kunden** => **Spedition** kann normal **nicht mehr als 2h auf Baustelle** warten
