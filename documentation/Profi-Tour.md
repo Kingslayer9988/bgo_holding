@@ -162,26 +162,27 @@
 
 | ART | INFO | NAME |
 | --- | --- | --- |
-| **DIREKT** | **DIR, Nr:043** | **DIREKT $Kunden_Name $Kunden_ORT $WT(TT)** |
+| **DIREKT** | **DIR, Nr:043** 
 | **Postversand ohne Fixtermin** | **Postversand $ORT $Aktuelle_KW** | Alle **Post-Aufträge ohne FIXTERMIN** in diese **Tour** |
 | **Postversand mit Fixtermin** | **Postversand $ORT FIXTERMIN** | (Nicht in Bemerkung_Montage vermerken) |
-| **Direkt Baustelle (Ohne Lager-WAB)** | **$Kunden_Name $Kunden_ORT $WT(TT)** | In **Excel** mit **Farbe hinterlegen!** **[Siehe Hier](Excel.md)** |
-| **Lager-WAB für 1 or more Fahrzeug Tour** | **SC WAB für LKW | 7,5t | 3,5t Touren** | Lager-WAB oft für mehrere Touren |
-| **Unter-Touren die von Lager-WAB laden** | **SC [LKW | 7,5t | 3,5t] Tour $Start_ORT - $End_ORT $WT(TT)** | Immer 1 Fahrzeug pro Tour |
+| **Direkt Baustelle (Ohne Lager-WAB)** | **$Kunden_Name $Kunden_ORT $WT(TT)** | In **[Excel](Excel.md)** mit **Farbe hinterlegen!** |
+| **Lager-WAB für 1 or more Fahrzeug Tour** | **SC WAB für [LKW / 7,5t / 3,5t] Touren** | Lager-WAB oft für mehrere Touren |
+| **Unter-Touren die von Lager-WAB laden** | **SC [LKW / 7,5t / 3,5t] Tour $Start_ORT - $End_ORT $WT(TT)** | Immer 1 Fahrzeug pro Tour |
 
 
 | NAME | INFO |
 | --- | --- |
-| Postversand Innsbruck KW12 | Direkt/Postversand am Dienstag |
-| Postversand Innsbruck FIXTERMIN | Postversand mit Fixtermin ==> "FIXTERMIN" in "Bemerkung Montage" |
-| FirmaABC Innsbruck DO | Direkt-LKW Tour zur Baustelle |
-| SC WAB für 7,5t und 3,5t Touren MI | Lager-WAB für 7,5t & 3,5t Touren |
-| SC 7,5t Tour Innsbruck - Telfs MI | Untertour 7,5t Fahrzeug -> Laden von Lager-WAB |
-| SC 3,5t Tour Meran - Brixen MI | Untertour 3,5t Fahrzeug -> Laden von Lager-WAB |
-| SC WAB für LKW und 3,5t Touren DI | Lager-WAB am Dienstag für LKW & 3,5t Touren) ==> "RAMPE" in "Bemerkung Transport" |
-| SC LKW Tour Fügen - Jenbach DI | Untertour LKW Fahrzeug -> Laden von Lager-WAB => Lager-WAB=Rampe |
-| Plant SC Leiter / 6 Kunden | Untertour mit 6 Kunden die SC-Leiter Plant |
-| ULGB Feldkirch - Dornbirn FR | Untertour VORADELBERG(ULBG) am Freitag |
+| **DIREKT FirmaABC Innsbruck MO** | Direktversand am Montag |
+| **Postversand Innsbruck KW12** | Alle Postversand ohne Fixtermin in KW_12 |
+| **Postversand Innsbruck MO FIXTERMIN** | Postversand mit Fixtermin am Montag - "FIXTERMIN" in "Bemerkung Montage" |
+| **FirmaABC Innsbruck DO** | Direkt-LKW Tour zur Baustelle |
+| **SC WAB für 7,5t und 3,5t Touren MI** | Lager-WAB für 7,5t & 3,5t Touren |
+| **SC 7,5t Tour Innsbruck - Telfs MI** | Untertour 7,5t Fahrzeug -> Laden von Lager-WAB |
+| **SC 3,5t Tour Meran - Brixen MI** | Untertour 3,5t Fahrzeug -> Laden von Lager-WAB |
+| **SC WAB für LKW und 3,5t Touren DI** | Lager-WAB am Dienstag für LKW & 3,5t Touren) ==> "RAMPE" in "Bemerkung Transport" |
+| **SC LKW Tour Fügen - Jenbach DI** | Untertour LKW Fahrzeug -> Laden von Lager-WAB => Lager-WAB=Rampe |
+| **Plant SC Leiter / 6 Kunden** | Untertour mit 6 Kunden die SC-Leiter Plant |
+| **ULGB Feldkirch - Dornbirn FR** | Untertour VORADELBERG(ULBG) am Freitag |
 
 
 - **Voradelberg ist anders** => **Untertouren werden von ULGB (Oliver) Zusammengestellt**
