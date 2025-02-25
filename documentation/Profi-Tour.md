@@ -6,7 +6,7 @@
     - ⌛ **Daily Quests** 
     - 📄 **Frachtbriefe & Tourenpläne für SC-Leiter** => Für **$Folge_KW_01** -> Bsp.: **Montag_KW_08 für KW_09** => **[Guide](#-guide-für-frachtbriefe--tourenpläne-2-pdfs)**
     - 📑 **Auslieferlisten für SC-Leiter** => Für **$Folge_KW_01** -> Bsp.: **Montag_KW_08 für KW_09** => **[Guide](#-guide-für-auslieferlisten)**
-    - ▶️ **Starten der Planung von mindestens $Folge_KW_4** => Bsp.: **Montag_KW_08 für KW_12** => **[Guide](#-guide-für-das-erstellen-von-wab-touren)**
+    - ▶️ **Starten der Planung von mindestens $Folge_KW_4** => Bsp.: **Montag_KW_08 für KW_12** => **[Guide](#-guide-für-das-erstellen-von-wab-touren--direktpost)**
 - **📅 Dienstag:**
     - ⌛ **Daily Quests**
 - **📅 Mittwoch:**
@@ -138,7 +138,7 @@
 ## 🚀 Guide für das erstellen von Unter-Touren:
 
 - Datensätze nach **WAB's (WAB-Nummern)** auswählen und **in die Auswahl** übernehmen. (Bsp. Alle Datensätze am "WAB 050")
-    - WAB's sollten schon erstellt sein => **[Produktions-Abgabe](#-guide-für-die-abgabe-der-produktion)** bzw. **[Guide für WAB Touren](#-guide-für-das-erstellen-von-wab-touren)**
+    - WAB's sollten schon erstellt sein => **[Produktions-Abgabe](#-guide-für-die-abgabe-der-produktion)** bzw. **[Guide für WAB Touren](#-guide-für-das-erstellen-von-wab-touren--direktpost)**
 
 - Ausgewählte Datensätze auf **[Montagezeit(Transportauftragsreport)](#-transportauftragsreport-checken-bzw-montage-zeit-nachkalkuliern)**, **Gewicht, Volumen(m³)** durchchecken!
     - Die Datensätze die mit **(00:30 h)** eingegeben sind können **gemeinsam kontrolliert** werden => Stimmen meistens!
