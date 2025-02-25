@@ -4,21 +4,21 @@
 
 - **📅 Montag:**
     - ⌛ **Daily Quests** 
-    - 📄 **Frachtbriefe & Tourenpläne für SC-Leiter** => Für **$Folge_KW_01** -> Bsp.: **Montag_KW_08 für KW_09** => **[Guide](#-guide-für-frachtbriefe--tourenpläne-2-pdfs)**
-    - 📑 **Auslieferlisten für SC-Leiter** => Für **$Folge_KW_01** -> Bsp.: **Montag_KW_08 für KW_09** => **[Guide](#-guide-für-auslieferlisten)**
-    - ▶️ **Starten der Planung von mindestens $Folge_KW_4** => Bsp.: **Montag_KW_08 für KW_12** => **[Guide](#-guide-für-das-erstellen-von-wab-touren--direktpost)**
+    * 📄 **Frachtbriefe & Tourenpläne für SC-Leiter** => Für **$Folge_KW_01** -> Bsp.: **Montag_KW_08 für KW_09** => **[Guide](#-guide-für-frachtbriefe--tourenpläne-2-pdfs)**
+    * 📑 **Auslieferlisten für SC-Leiter** => Für **$Folge_KW_01** -> Bsp.: **Montag_KW_08 für KW_09** => **[Guide](#-guide-für-auslieferlisten)**
+    * ▶️ **Starten der Planung von mindestens $Folge_KW_4** => Bsp.: **Montag_KW_08 für KW_12** => **[Guide](#-guide-für-das-erstellen-von-wab-touren--direktpost)**
 - **📅 Dienstag:**
     - ⌛ **Daily Quests**
 - **📅 Mittwoch:**
     - ⌛ **Daily Quests**
 - **📅 Donnerstag:**
     - ⌛ **Daily Quests**
-    - 📦 **Produktions-Export (WAB's-Export)**  => Für **MINDESTENS $Folge_KW_04** (Bsp: **Donnerstag_KW_08 für KW_12**) => **[Guide](#-guide-für-die-abgabe-der-produktion)**
+    * 📦 **Produktions-Export (WAB's-Export)**  => Für **MINDESTENS $Folge_KW_04** (Bsp: **Donnerstag_KW_08 für KW_12**) => **[Guide](#-guide-für-die-abgabe-der-produktion)**
 - **📅 Freitag:**
     - ⌛ **Daily Quests** 
-    - 🚚 **Transportbestellung** => Für **$Folge_KW_02** (Bsp: **Freitag_KW_08 für KW_10**) => **[Guide](#-guide-für-die-transportbestellung)**
-    - 📑 **Auslieferliste für Hersteller** => Für **$Folge_KW_01** (Bsp: **Freitag_KW_08 für KW_09**) => **[Guide](#-guide-für-auslieferlisten)**
-    - 🔨 **Möglicherweise Glättung der Produktion** => Für **Abgabe_KW** der **Produktion** (Bsp.: **Freitag_KW_08 für KW_12**) => **[Guide](#-guide-für-die-glättung-der-produktion)**
+    * 🚚 **Transportbestellung** => Für **$Folge_KW_02** (Bsp: **Freitag_KW_08 für KW_10**) => **[Guide](#-guide-für-die-transportbestellung)**
+    * 📑 **Auslieferliste für Hersteller** => Für **$Folge_KW_01** (Bsp: **Freitag_KW_08 für KW_09**) => **[Guide](#-guide-für-auslieferlisten)**
+    * 🔨 **Möglicherweise Glättung der Produktion** => Für **Abgabe_KW** der **Produktion** (Bsp.: **Freitag_KW_08 für KW_12**) => **[Guide](#-guide-für-die-glättung-der-produktion)**
 
 - **⌛ Daily Quests:**
     - ♻️ Bei jedem Import von Hersteller_H **06:30 & 14:00 Täglich** (Hr. Roither für Probleme)
