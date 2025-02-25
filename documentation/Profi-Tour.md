@@ -163,9 +163,9 @@
 | --- | --- | --- | --- |
 | **DIREKT FirmaABC Innsbruck MO** | **DIREKT $KUNDE $ORT $WT(TT)** | Direktversand am Montag | [DIR] |
 | **Postversand Innsbruck KW12** | **POSTVERSAND $ORT $KW** | Alle Postversand ohne Fixtermin in KW_12 | [PST] |
-| **Postversand Innsbruck MO FIXTERMIN**&nbsp; | **POSTVERSAND $ORT $WT(TT) FIXTERMIN** | Postversand mit Fixtermin am Montag | [LKW] |
+| **Postversand Innsbruck MO FIXTERMIN**&#8203; | **POSTVERSAND $ORT $WT(TT) FIXTERMIN** | Postversand mit Fixtermin am Montag | [LKW] |
 | **FirmaABC Innsbruck DO** | **$KUNDE $ORT $WT(TT)** | Direkt-LKW Tour zur Baustelle am Donnerstag | [LKW] |
-| **SC WAB für LKW und 7,5t und 3,5t Touren MI**&nbsp; | **SC WAB für $Fahrzeuge Touren $WT(TT)** | Lager-WAB Mittwoch für LKW & 7,5t & 3,5t Touren <br> "RAMPE" in "Bemerkung Transport" | [LKW] |
+| **SC WAB für LKW und 7,5t und 3,5t Touren MI**&#8203; | **SC WAB für $Fahrzeuge Touren $WT(TT)** | Lager-WAB Mittwoch für LKW & 7,5t & 3,5t Touren <br> "RAMPE" in "Bemerkung Transport" | [LKW] |
 | **SC 7,5t Tour Innsbruck - Telfs MI** | **SC $Fahrzeuge Tour $ORT_S $ORT_E $WT(TT)** | Untertour 7,5t Fahrzeug <br> Laden von Lager-WAB | [LKW] |
 | **SC 3,5t Tour Meran - Brixen MI** | **SC $Fahrzeuge Tour $ORT_S $ORT_E $WT(TT)**  | Untertour 3,5t Fahrzeug <br> Laden von Lager-WAB | [LKW] |
 | **SC LKW Tour Fügen - Jenbach DI** | **SC $Fahrzeuge Tour $ORT_S $ORT_E $WT(TT)**  | Untertour LKW Fahrzeug <br> Laden von Lager-WAB => Lager-WAB=Rampe | [LKW] |
