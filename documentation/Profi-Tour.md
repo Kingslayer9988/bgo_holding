@@ -91,8 +91,8 @@
      
 | Fahrzeug | Gewicht | Volumen | Name | Kommentar | FS |
 | --- | --- | --- | --- | --- | --- |
-| **3,5 Tonnen** | **max. ~ 600 kg** | ∞ | GRAZ_Bus_1 | Nur für Unter-Touren verwendet | B |
-| **7,5 Tonnen** | **max. ~ 1000 kg** | **15 m³** | GRAZ_Bus_1 | Nur für Unter-Touren verwendet | C |
+| **3,5 Tonnen** | **~ 600 kg** | ∞ | GRAZ_Bus_1 | Nur für Unter-Touren verwendet | B |
+| **7,5 Tonnen** | **~ 1000 kg** | **15 m³** | GRAZ_Bus_1 | Nur für Unter-Touren verwendet | C |
 | **LKW** | ∞ | **30 m³ (1 WAB)** | ∞ | LKW_KESIC | Für Unter-Touren verwendet oder um Lager-WAB anzuliefern | C |
 | **LKW + Anhänger** | ∞ | **60 m³ (2 WAB's)** | Kein Fahrzeug=SPED_WINKLER | Um 2 Lager-WAB's am selben Tag anzuliefern <br> Nicht auf Rampe | C |
 | **Sattel** | ∞ | **60 m³ (2 WAB's)** | Kein Fahrzeug=SPED_QUEHENBERGER | Nur bei **DIREKT_BAUSTELLEN** verwendet <br> Billiger als LKW + Anhänger <br> BGO hat **keinen eigenen Sattel** => **[Transportbestellung](#-guide-für-die-transportbestellung)** | C |
