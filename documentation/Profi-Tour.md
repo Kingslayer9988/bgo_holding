@@ -132,7 +132,18 @@
 
 ## 🚀 Guide für das erstellen von Unter-Touren:
 
-- **📰 Transportauftragsreport checken** bzw. **Nachkalkulieren** von Aufträgen
+- Datensätze nach **WAB's (WAB-Nummern)** auswählen und in die Auswahl übernehmen.
+    - WAB's sollten schon erstellt sein => **[Produktions-Abgabe](#-guide-für-die-abgabe-der-produktion)**) bzw. **[Guide für WAB Touren](#-guide-für-das-erstellen-von-wab-touren)**
+
+- Ausgewählte Datensätze auf **Montagezeit(Transportauftragsreport), Gewicht, Volumen** durchchecken!
+    - Falls sich die **Tour** aufgrund von **Fahrzeiten** oder **Montagezeiten NICHT** ausgeht
+    - Datensätze auf **[Minimap](#%EF%B8%8F-minimap---kleine-karte-links-unten---enthält-ausgewählte-datensätzeaufträge)**
+
+- Fahrzeug nach Tour einteilen **( 3,5t | 7,5t | LKW )** **[Siehe Hier](#-general-infos)**
+
+- 
+
+- **📰 Transportauftragsreport checken** bzw. **Montagezeit** nachkalkulieren
     - Im **Unbearbeitet-Fenster** => Rechtsklick auf Datensatz=> **Transportauftragsreport** => Für **Zeit-Berrechnung & Calc.sh**
     - Auch möglich im **Bearbeitungs-Fenster** unter **Positionen**
     - Sollte bei **jedem Datensatz** kontrolliert bzw. **nachgerechnet** werden. => Für Kalkulation - **Skript => [See Here](../README.md#working-still-needs-adoption-for-hersteller)**
