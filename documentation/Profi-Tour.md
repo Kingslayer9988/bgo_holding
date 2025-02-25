@@ -36,6 +36,7 @@
 
 ## 💎 General Infos:
 - **Aufträge / Datensätze**
+
 | ART | INFO | KOMMENTAR |
 | --- | --- | --- |
 | **[DIR / STK / PST]** | **Alle DIREKT** <br> **Kein LAGER-WAB** | **als 1. Verplanen** <br> **Durchläufer** |
