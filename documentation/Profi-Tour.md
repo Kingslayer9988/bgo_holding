@@ -140,17 +140,17 @@
 ## 🚀 Guide für das erstellen von Unter-Touren:
 
 - Datensätze nach **WAB's (WAB-Nummern)** auswählen und **in die Auswahl** übernehmen. (Bsp. Alle Datensätze am "WAB 050")
-    - WAB's sollten schon erstellt sein => **[Produktions-Abgabe](#-guide-für-die-abgabe-der-produktion)** bzw. **[Guide für WAB Touren](#-guide-für-das-erstellen-von-wab-touren--direktpost)**
+    - WAB's sollten schon erstellt sein => **📦[Produktions-Abgabe](#-guide-für-die-abgabe-der-produktion)** bzw. **💣[Guide für WAB Touren](#-guide-für-das-erstellen-von-wab-touren--direktpost)**
 
-- Achte auf **Wunschtermine & Fixtermine** bzw. **größere Baustellen**
+- **⚠️ Wunschtermine & Fixtermine** bzw. **größere Baustellen** beachten!!
 
-- Ausgewählte Datensätze auf **[Montagezeit(Transportauftragsreport)](#-transportauftragsreport-checken-bzw-montage-zeit-nachkalkuliern)**, **Gewicht, Volumen(m³)** durchchecken!
+- **📜 [Montagezeit(Transportauftragsreport)](#-transportauftragsreport-checken-bzw-montage-zeit-nachkalkuliern)**, **Gewicht, Volumen(m³)** kontrollieren
     - Die Datensätze die mit **(00:30 h)** eingegeben sind können **gemeinsam kontrolliert** werden => Stimmen meistens!
     - Falls sich die **Tour** aufgrund von **Fahrzeiten** oder **Montagezeiten NICHT** ausgeht:
         - Datensätze auf **[Minimap](#%EF%B8%8F-minimap---kleine-karte-links-unten---enthält-ausgewählte-datensätzeaufträge)** ansehen und nach **Orten/Fahrtstrecke** teilen
         - Datensätze im **Bearbeitungs-Fenster** - **aus der Tour lösen** bzw. **Stopp entfernen** bei erstellter Tour
 
-- Fahrzeug nach Tour einteilen **( 3,5t | 7,5t | LKW )** **[Siehe Hier](#-general-infos)**
+- **🚗 Fahrzeug** nach **Tour** einteilen **( 3,5t | 7,5t | LKW )** **[Siehe Hier](#-general-infos)**
 
 - **❌ Bei knappen/komischen-Touren** => **Plant SC-Leiter** bzw. **Absprache mit SC-Leiter**
     - Nicht gewünscht => **Ausnahme Voradelberg (ULGB)**
@@ -179,7 +179,6 @@
 | ULGB $Start_ORT - $End_ORT - FR | Untertour VORADELBERG(ULBG) am Freitag |
 
 
-    
 - **Voradelberg ist anders** => **Untertouren werden von ULGB (Oliver) Zusammengestellt**
     - **Untertouren werden von ULGB zusammengestellt** nach einer Liste von uns!
     - Filter in Datenbank nach **[Dornbirn + FL + CH + DE]**
