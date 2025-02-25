@@ -132,23 +132,15 @@
 
 ## 🚀 Guide für das erstellen von Unter-Touren:
 
-- Datensätze nach **WAB's (WAB-Nummern)** auswählen und in die Auswahl übernehmen.
+- Datensätze nach **WAB's (WAB-Nummern)** auswählen und in die Auswahl übernehmen. (Bsp. Alle Datensätze am WAB 050)
     - WAB's sollten schon erstellt sein => **[Produktions-Abgabe](#-guide-für-die-abgabe-der-produktion)** bzw. **[Guide für WAB Touren](#-guide-für-das-erstellen-von-wab-touren)**
 
-- Ausgewählte Datensätze auf **Montagezeit(Transportauftragsreport), Gewicht, Volumen** durchchecken!
+- Ausgewählte Datensätze auf **Montagezeit(Transportauftragsreport), Gewicht, Volumen(m³)** durchchecken!
     - Falls sich die **Tour** aufgrund von **Fahrzeiten** oder **Montagezeiten NICHT** ausgeht
-    - Datensätze auf **[Minimap](#%EF%B8%8F-minimap---kleine-karte-links-unten---enthält-ausgewählte-datensätzeaufträge)**
+    - Datensätze auf **[Minimap](#%EF%B8%8F-minimap---kleine-karte-links-unten---enthält-ausgewählte-datensätzeaufträge)** ansehen und nach **Orten/Fahrtstrecke** teilen
+    - Datensätze im **Bearbeitungs-Fenster** - **aus der Tour lösen** bzw. **Stopp entfernen** bei erstellter Tour
 
 - Fahrzeug nach Tour einteilen **( 3,5t | 7,5t | LKW )** **[Siehe Hier](#-general-infos)**
-
-- 
-
-- **📰 Transportauftragsreport checken** bzw. **Montagezeit** nachkalkulieren
-    - Im **Unbearbeitet-Fenster** => Rechtsklick auf Datensatz=> **Transportauftragsreport** => Für **Zeit-Berrechnung & Calc.sh**
-    - Auch möglich im **Bearbeitungs-Fenster** unter **Positionen**
-    - Sollte bei **jedem Datensatz** kontrolliert bzw. **nachgerechnet** werden. => Für Kalkulation - **Skript => [See Here](../README.md#working-still-needs-adoption-for-hersteller)**
-    - Bei **Kleinen Küchen** mit **SC-Leiter abklären**
-        - **Küchenmonteure teilweise** selbst vorhanden! **[See Here](#gebiete-erik---hersteller-nos-)**
 
 - Auf der **Minimap** oder im **Unbearbeitet-Fenster** **Datensätze/Punkte** markieren => **Button: In Auswahl** => Datensätze nun im **Bearbeitungs-Fenster**
     - Infos über Minimap **[See Here](#%EF%B8%8F-minimap---kleine-karte-links-unten---enthält-ausgewählte-datensätzeaufträge)**
@@ -275,6 +267,14 @@ Danke im Voraus.
 
 > [!NOTE]
 > Upgrade Makro to do the last 3 Steps in One
+
+## 📰 Transportauftragsreport checken bzw. Montage-Zeit nachkalkuliern
+- In egal welchem Fenster => **Rechtsklick auf Datensatz** => **Transportauftragsreport** => Für **Zeit-Berrechnung bzw. Calc.sh**
+- Sollte bei **jedem Datensatz** kontrolliert bzw. **nachgerechnet** werden.
+- Für **Calcullation-Skript** => [See Here](../README.md#working-still-needs-adoption-for-hersteller)**
+- Bei **Trennwänden(RG/RW)** mit **SC-Leiter abklären** 
+- Bei **Kleinen Küchen** mit **SC-Leiter abklären**
+    - **Küchenmonteure teilweise** selbst vorhanden! **[See Here](#gebiete-erik---hersteller-nos-)**
 
 ## 📦 Guide für die Abgabe der Produktion:
 - Filter -> **[Transportaufträge & Hali: Lieferwoche]** => **[JJJJ/KW] auswählen**
