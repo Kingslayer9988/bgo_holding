@@ -129,7 +129,7 @@
     - **Auto-Button** berücksichtigt **keine Manuellen Änderungen** => **[Reset]**
     - Bei **Manuelle-Ladereihenfolge** verwendet wurde => In Kommentarfeld **Bemerkung Versamd** vermerken!
     - Wieso **Manuelle-Ladereihenfolge** => Wenn **2 Unter-Touren** an **1 Tag** aus **1 WAB geladen** werden.
-    * **Verlade-Reihenfolge = 99** = Reihenfolge = **EGAL**
+    - **Verlade-Reihenfolge = 99** = Reihenfolge = **EGAL**
         - Oft bei **LKW + Hänger** auf einer **DIREKT_BAUSTELLE_Tour** angewendet
 
 - **Vorproduktion:** => **WAB in Produktionswoche** anlegen & Bei **Unter-Tour** => Button: **Datum fixieren** => **Lieferdatum auswählen**
