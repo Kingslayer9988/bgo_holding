@@ -67,23 +67,13 @@
 - Es kann immer nur **1 Fahrzeug pro Tour** zugeteilt werden!
 - Bei Touren mit verschiednen Fahrzeugtypen => **größtes Fahrzeug nehmen** => (Bsp.: 3,5t + 7,5t Tour => 7,5t Fahrzeug)
 
-- **🏣 Speditionen**
-  
-- **🛢️ Container**
-    - Container ist **NOTWENDIG** für **Lager-WAB's** & **Direkt_Baustelle** => Bsp. **Winkler_Egal|Normal|Jumbo**
-    - **NORMAL** = Bei **Lager-WAB's** (Umladen)
-    - **EGAL** = Bei **Direkt_Baustelle** (Kein Umladen)
-    - **JUMBO** = Bei **30 - 35m³** => **Immer Direkt_Baustelle** (KEIN UMLADEN MÖGLICH)
-
 - **🛢️ Container**
 
 | Container | Verwendung | Kommentar |
 | --- | --- | --- |
-| **NORMAL** | Bei **Lager-WAB's**  | K |
-| **EGAL** | Bei **Direkt_Baustelle** | K | 
-| **JUMBO** | Bei **Direkt_Baustelle & 30-35m³** | K |
-
-
+| **NORMAL** | Bei **Lager-WAB's**  | Für Untertouren mit LKW oder 3,5/7,5t |
+| **EGAL** | Bei **Direkt_Baustelle** | Nur für Direkt_Baustellen | 
+| **JUMBO** | Bei **Direkt_Baustelle & 30-35m³** | Nur für Direkt_Baustellen > 30m³ |
 
 - **🚛 Fahrzeuge:**
      
@@ -97,12 +87,9 @@
 | **Sattel** | ∞ | **60 m³** | Kein FZ=SPED_QUEHENBERGER | Nur bei **DIREKT_BAUSTELLEN** verwendet <br> Billiger als LKW + Anhänger <br> BGO hat **keinen eigenen Sattel** => **[Transportbestellung](#-guide-für-die-transportbestellung)** | C |
 
 
-- **Fahrzeuge are completely messed up for some areas => needs fixing - Absprache mit SC-Leiter**
+- **Fahrzeuge are completely messed up for some areas => Needs fixing - Absprache mit SC-Leiter**
     - Isabel macht **extra Arbeit** => Eintragen von **3,5t | 7,5t**
-    - **Excel & Profitour & Realität** == STIMMEN **NICHT** ÜBEREIN 💀
-
-- **Wochen-Auslatung des jeweiligen Herstelller berücksichtigen**
-    - Mit **Mitarbeitern und Herstellen gute Lösung finden** (Isabell hat Schnittstelle vom Hersterller_H zum checken)
+    - **Excel & Profitour & Realität** = STIMMEN **NICHT** ÜBEREIN 💀
 
 ## 🗺️ Minimap - Kleine Karte links unten - Enthält ausgewählte Datensätze/Aufträge
 - 🔵 Blau => **Unverplant** oder nur am **WAB**
@@ -168,7 +155,10 @@
 - **🚗 Fahrzeug** nach **Gewicht, Volumen(m³)** der **Tour** einteilen **( 3,5t | 7,5t | LKW )** **[Siehe Hier](#-general-infos)**
 
 - **☎️ Bei knappen/komischen-Touren** => **Absprache mit SC-Leiter** => **Plant-SC-Leiter-Tour erstellen**
-    - Nicht gewünscht => **Ausnahme**: [Vorarlberg ist anders]() (ULGB)** 
+    - Nicht gewünscht => **Ausnahme**: [Vorarlberg ist anders]() (ULGB)**
+
+ - **Wochen-Auslatung des jeweiligen Herstelller berücksichtigen**
+    - Mit **Mitarbeitern und Herstellen gute Lösung finden** (Isabell hat Schnittstelle vom Hersterller_H zum checken)
 
 - **📝 Naming-Scheme für Touren/WAB's:**
 - **⚠️ FIXTERMIN** Im **Tourennamen** und im Feld **Bemerkung_Montage** vermerken (Außnahme Internet/Postversand)
