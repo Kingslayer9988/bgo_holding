@@ -35,7 +35,8 @@
 ---
 
 ## 💎 General Infos:
-- **Aufträge / Datensätze**
+
+### Aufträge bzw. Datensätze
 
 | ART | INFO | KOMMENTAR |
 | --- | --- | --- |
@@ -46,43 +47,56 @@
 | **Internet-Order (AB-Nr: 034XXX)** | **Fixtermin** = **EGAL** | Fixtermin ist für Kunde **nicht sichtbar** |
 | **Neutrale Bestellung (AB-Nr: 04XXXX)** | Für Tischer Unbeschriftet | **Fahrer & Montagepersonal** muss **instruiert** werden |
 
+
+### Kunden spezifischische Infos
 - 🟢 => **Kunde wurde bereits Avisiert**
 - 🔴 => **Kunde hat altes Aviso = Zeiten können nicht gehalten werden!** => **FORCE_GREEN** oder **Neu Avisieren** **[Guide](#-avisieren)**
 - **FORCE_GREEN_BUTTON** => Button: **Kunden_avis_bestätigen & Aktualisieren** => **Kein Avis versendet trotzdem 🟢**
     - **Tournummer** mitschreiben bei denen **FORCE_GREEN_BUTTON** benutzt wurde!
 
-- **Kommentar_Felder:**
+### 🧾 Kommentar Felder
     - **Bemerkung Transport** => Infos für die **Spedition** => **Bsp.: (PLATZ, RAMPE)**
     - **Bemerkung Versand** => Infos für **Verladung** => **Bsp.: (Manuelle Ladereihenfolge)**
     - **Bemerkung Montage** ==> Infos für **Montage Arbeiter** => **Bsp.: (FIXTERMIN | Hinweise | Adresseänderung/Zufahrt)**
         - Bei **Adress-Änderungen/Fehler** => **Mail an Hersteller** um weitere Fehler zu vermeiden!
         - Falls **Plant-SC-Leiter-Tour** => SC-Leiter anrufen!
 
-- **Spedition**
-    - Fahrzeuge müssen den **Touren richtig zugeordnet** werden (Fahrzeuge sind **Links oben** im Vehice-Sub-Window)
-    - Spedition ist **NOTWENDIG** für **alle Touren** => Bsp. **Spedition_Winkler**
+### 🏣 Spedition & 🛢️ Container & 🚛 Fahrzeuge
 
-- **Container**
-    - Container ist **NOTWENDIG** für **Lager-WAB's** && **Direkt_Baustelle** => Bsp. **Winkler_Egal|Normal|Jumbo**
-    - **NORMAL** = Bei Lager-WAB's (Umladen)
-    - **EGAL** = Bei Direkt_Baustelle (Kein Umladen)
-    - **JUMBO** = Bei über 35m³ => **Immer Direkt_Baustelle** (KEIN UMLADEN MÖGLICH)
-    - **Sattel** = 60m³ => **KEINEN CONTAINER AUF TOUR ZIEHEN!** (Eher Selten)
+- **🏣 Spedition**
+    - Spedition müssen den **Touren richtig zugeordnet** werden (**Links oben** aus dem Fenster ziehen)
+    - Spedition ist **NOTWENDIG** für **alle Lager-WAB-Touren** => Bsp. **Spedition_Winkler**
 
-- **Fahrzeuge Infos**
-    - **LKW Touren-Fahrzeug => 30m³ => DIREKT & LAGER** (C-FS) [WINKLER_EGAL|NORMAL]
-    - **7,5t Touren-Fahrzeug => max. ~ 15m³ & 1000kg** [LAGER-WAB] (C-FS) [GRAZ_DIREKT|BUS]
-    - **3,5t Touren-Fahrzeug => max. ~ 600kg** [LAGER-WAB] (B-FS) [GRAZ_DIREKT|BUS]
-        - **Sattel** => **max. ~ 60m³** => **(2x WAB's pro Sattel)** (C-FS) [Bsp.: Quehenberger]
-            - Haben **keinen eigenen Sattel** => Transportbestellung machen **[Guide](#-guide-für-die-transportbestellung)**
+- **🛢️ Container**
+    - Container ist **NOTWENDIG** für **Lager-WAB's** & **Direkt_Baustelle** => Bsp. **Winkler_Egal|Normal|Jumbo**
+    - **NORMAL** = Bei **Lager-WAB's** (Umladen)
+    - **EGAL** = Bei **Direkt_Baustelle** (Kein Umladen)
+    - **JUMBO** = Bei **30 - 35m³** => **Immer Direkt_Baustelle** (KEIN UMLADEN MÖGLICH)
+    - **SATTEL** = Bei **~ 60m³** **KEINEN CONTAINER AUF TOUR ZIEHEN!** (Eher Selten)
 
-- **Fahrzeuge:**
+- **🚛 Fahrzeuge:**
     - Bei: **SC 3,5t & 7,5t Tour** => **$ORT_Bus**
     - Bei **Direkt_Baustelle Tour** => **$ORT_Direkt**
     - Bei **Plant SC LEITER Tour** => **$ORT_Direkt**
     - Bei **SC LKW Tour** => **$SPEDITION_LKW**
     - Es kann immer nur **1 Fahrzeug pro Tour** zugeteilt werden!
         - Bei Touren mit verschiednen Fahrzeugtypen => **größtes Fahrzeug nehmen** => (Bsp.: 3,5t + 7,5t Tour => 7,5t Fahrzeug)
+
+- **🚛 Fahrzeuge_Infos**
+    - **LKW Touren-Fahrzeug => 30m³ => DIREKT & LAGER** (C-FS) [WINKLER_EGAL|NORMAL]
+    - **7,5t Touren-Fahrzeug => max. ~ 15m³ & 1000kg** [LAGER-WAB] (C-FS) [GRAZ_DIREKT|BUS]
+    - **3,5t Touren-Fahrzeug => max. ~ 600kg** [LAGER-WAB] (B-FS) [GRAZ_DIREKT|BUS]
+    - **Sattel** => **max. ~ 60m³** => **(2x WAB's pro Sattel)** (C-FS) [Bsp.: Quehenberger]
+        - BGO hat **keinen eigenen Sattel** => Transportbestellung machen **[Guide](#-guide-für-die-transportbestellung)**
+     
+| Fahrzeug | Gewicht | Volumen | Name | Kommentar | FS |
+| --- | --- | --- | --- | --- | --- |
+| **3,5 Tonnen** | **max. ~ 600 kg** | ∞ | GRAZ_Bus_1 | Nur für Unter-Touren verwendet | B |
+| **7,5 Tonnen** | **max. ~ 1000 kg** | **15 m³** | GRAZ_Bus_1 | Nur für Unter-Touren verwendet | C |
+| **LKW** | ∞ | **30 m³ (1 WAB)** | ∞ | LKW_KESIC | Für Unter-Touren verwendet oder um Lager-WAB anzuliefern | C |
+| **LKW + Anhänger** | ∞ | **60 m³ (2 WAB's)** | Kein Fahrzeug=SPED_WINKLER | Um 2 Lager-WAB's am selben Tag anzuliefern <br> Nicht auf Rampe | C |
+| **Sattel** | ∞ | **60 m³ (2 WAB's)** | Kein Fahrzeug=SPED_QUEHENBERGER | Nur bei **DIREKT_BAUSTELLEN** verwendet <br> Billiger als LKW + Anhänger <br> BGO hat **keinen eigenen Sattel** => **[Transportbestellung](#-guide-für-die-transportbestellung)** | C |
+
 
 - **Fahrzeuge are completely messed up for some areas => needs fixing - Absprache mit SC-Leiter**
     - Isabel macht **extra Arbeit** => Eintragen von **3,5t | 7,5t**
