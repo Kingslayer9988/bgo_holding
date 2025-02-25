@@ -51,8 +51,8 @@
 ### 🤵‍♂️ Kunden-spezifischische Infos
 - 🟢 => **Kunde wurde bereits Avisiert**
 - 🔴 => **Kunde hat altes Aviso = Zeiten können nicht gehalten werden!** => **FORCE_GREEN** oder **Neu Avisieren** **[Guide](#-avisieren)**
-- **FORCE_GREEN_BUTTON** => Button: **Kunden_avis_bestätigen & Aktualisieren** => **Kein Avis versendet trotzdem 🟢**
-    - **Tournummer** mitschreiben bei denen **FORCE_GREEN_BUTTON** benutzt wurde!
+- **FORCE_🟢_BUTTON** => Button: **Kunden_Avis_Bestätigen** => **Kein Avis versendet trotzdem 🟢**
+- **Tournummer** mitschreiben bei denen **FORCE_🟢_BUTTON** benutzt wurde!
 
 ### 🧾 Kommentar Felder
 - **Bemerkung Transport** => Infos für die **Spedition** => **Bsp.: (PLATZ, RAMPE)**
