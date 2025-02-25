@@ -144,11 +144,12 @@
 
 - **⚠️ Wunschtermine & Fixtermine** bzw. **größere Baustellen** beachten!!
 
-- **⏱️ [Montagezeit(Transportauftragsreport)](#%EF%B8%8F-montagezeit-kalkulieren-bzw-transportauftrag-checken) nachkalkulieren!**
+- **⏱️ [Montagezeit (Transportauftragsreport)](#%EF%B8%8F-montagezeit-kalkulieren-bzw-transportauftrag-checken) nachkalkulieren!**
     - Die Datensätze die mit **(00:30 h)** eingegeben sind können **gemeinsam kontrolliert** werden => Stimmen meistens!
-    - Falls sich die **Tour** aufgrund von **Fahrzeiten** oder **Montagezeiten NICHT** ausgeht:
-        - Datensätze auf **[Minimap](#%EF%B8%8F-minimap---kleine-karte-links-unten---enthält-ausgewählte-datensätzeaufträge)** ansehen und nach **Orten/Fahrtstrecke** teilen
-        - Datensätze im **Bearbeitungs-Fenster** - **aus der Tour lösen** bzw. **Stopp entfernen** bei erstellter Tour
+
+- Falls sich die **Tour** aufgrund von **Fahrzeiten** oder **Montagezeiten NICHT** ausgeht:
+    - Datensätze auf **[Minimap](#%EF%B8%8F-minimap---kleine-karte-links-unten---enthält-ausgewählte-datensätzeaufträge)** ansehen und nach **Orten/Fahrtstrecke** teilen
+    - Datensätze im **Bearbeitungs-Fenster** - **aus der Tour lösen** bzw. **Stopp entfernen** bei erstellter Tour.
 
 - **🚗 Fahrzeug** nach **Gewicht, Volumen(m³)** der **Tour** einteilen **( 3,5t | 7,5t | LKW )** **[Siehe Hier](#-general-infos)**
 
@@ -275,6 +276,7 @@ Danke im Voraus.
 ## ⏱️ Montagezeit kalkulieren bzw. Transportauftrag checken
 - In egal welchem Fenster => **Rechtsklick auf Datensatz** => **Transportauftragsreport** => Für **Zeit-Berrechnung bzw. Calc.sh**
 - Sollte bei **jedem Datensatz / Auftrag** kontrolliert bzw. **nachgerechnet** werden.
+- Datensätze die mit **(00:30 h)** eingegeben sind können **gemeinsam kontrolliert** werden => **Stimmen meistens!**
 - Für **Calcullation-Skript** => **[Siehe Hier](../README.md#working-still-needs-adoption-for-hersteller)**
 - Bei **Trennwänden(RG/RW)** mit **SC-Leiter abklären** 
 - Bei **Kleinen Küchen** mit **SC-Leiter abklären**
