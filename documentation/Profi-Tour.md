@@ -206,10 +206,9 @@ Bitte um eine kurze Antwort, ob der Termin für sie in Ordnung ist.
 Danke im Voraus.
 ````
 > [!NOTE]
-> Gesamter Prozess könnte **easy automatisiert werden**)\
-> Alle nötigen Daten könnten aus **Aviso PDF** (Richtes Avisieren) gezogen werden => Much ⏰ safed here\
-> Prozess wird **Lokal automatisiert** => **Keine Anbindung an Profitour** => **Windwos_Contextmenu_PS_Script**)\
-> Nicht erwünscht ‼️ => **Persöhnlicher Verwendung!**)
+> Mittels PDF-Parser kann dieses Prozess **easy automatisiert werden**\
+> Alle notwendigen Daten könnten aus **Aviso PDF** gezogen werden => Much ⏰ safed here\
+> Prozess wird **Lokal automatisiert** => **Keine Anbindung an Profitour** => **Windwos_Contextmenu_PS_Script**)
 
 ## 📗 Avisieren
 - Filter in **Datenbank-Ansicht** nach **[Prod + Lieferwoche] & [MO-SA]**
@@ -219,6 +218,7 @@ Danke im Voraus.
     - **Datum** immer in dem **Bearbeitungs-Fenster** unter **Stopps** kontrollieren!
     - **Datum** kann sich aufgrund von Tagesarbeitszeit oder **falschen $BUILD_TIMES from $HERSTELLER** auf nächsten Tag rutschen!
     - **Fehler passieren hier leicht** und **keine Software-Kontrolle** für Fehler wie diese!
+
 > [!NOTE]
 > Probably a big reason that "AI" is not already taking Disponenten-Jobs (needs a sick Algorithm 😄)\
 > Bad for me but  => **Local Deepseek with Live Training here 👀👀**
@@ -257,7 +257,7 @@ Danke im Voraus.
 - Naming-Scheme: **ALL_$ORT[WIEN,LINZ,GRAZ,etc]_[KW$$].xlsx**
 
 > [!NOTE]
-> Upgrade Makro to do the last 3 Steps in One
+> Upgrade Makro to do the last 3 Steps also automatically
 
 ## ⏱️ Montagezeit kalkulieren bzw. Transportauftrag checken
 - In egal welchem Fenster => **Rechtsklick auf Datensatz** => **Transportauftragsreport** => Für **Zeit-Berrechnung bzw. Calc.sh**
