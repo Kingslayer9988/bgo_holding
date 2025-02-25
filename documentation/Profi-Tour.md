@@ -76,23 +76,17 @@
     - **JUMBO** = Bei **30 - 35m³** => **Immer Direkt_Baustelle** (KEIN UMLADEN MÖGLICH)
     - **SATTEL** = Bei **~ 60m³** **KEINEN CONTAINER AUF TOUR ZIEHEN!** (Eher Selten)
 
-- **🚛 Fahrzeuge:** 
-    - Bei: **SC 3,5t & 7,5t Tour** => **$ORT_Bus**
-    - Bei **Direkt_Baustelle Tour** => **$ORT_Direkt**
-    - Bei **Plant SC LEITER Tour** => **$ORT_Direkt**
-    - Bei **SC LKW Tour** => **$SPEDITION_LKW**
-   
 
 - **🚛 Fahrzeuge:**
      
 | Fahrzeug | Gewicht | Volumen | Name | Kommentar | FS |
 | --- | --- | --- | --- | --- | --- |
-| **Montage-Bus** | **???** | **4m³** | GRAZ_Direkt | Für Arbeiter um zu Baustelle zu kommen | B |
+| **Montage-Bus** | **???** | **4m³** | GRAZ_Direkt | Für Arbeiter um zu Baustelle zu kommen <br> zB. Bei DIREKT_BAUSTELLE | B |
 | **3,5 Tonnen** | **600 kg** | ∞ | GRAZ_Bus_1 | Nur für Unter-Touren verwendet | B |
 | **7,5 Tonnen** | **1000 kg** | **15 m³** | GRAZ_Bus_1 | Nur für Unter-Touren verwendet | C |
 | **LKW** | ∞ | **30 m³** | LKW_KESIC | Für Unter-Touren verwendet oder um Lager-WAB anzuliefern | C |
-| **LKW + Anhänger** | ∞ | **60 m³** | Kein Fahrzeug=SPED_WINKLER | Um 2 Lager-WAB's am selben Tag anzuliefern <br> Nicht auf Rampe | C |
-| **Sattel** | ∞ | **60 m³** | Kein Fahrzeug=SPED_QUEHENBERGER | Nur bei **DIREKT_BAUSTELLEN** verwendet <br> Billiger als LKW + Anhänger <br> BGO hat **keinen eigenen Sattel** => **[Transportbestellung](#-guide-für-die-transportbestellung)** | C |
+| **LKW + Anhänger** | ∞ | **60 m³** | Kein FZ=SPED_WINKLER | Um 2 Lager-WAB's am selben Tag anzuliefern <br> Nicht auf Rampe | C |
+| **Sattel** | ∞ | **60 m³** | Kein FZ=SPED_QUEHENBERGER | Nur bei **DIREKT_BAUSTELLEN** verwendet <br> Billiger als LKW + Anhänger <br> BGO hat **keinen eigenen Sattel** => **[Transportbestellung](#-guide-für-die-transportbestellung)** | C |
 
 
 - **Fahrzeuge are completely messed up for some areas => needs fixing - Absprache mit SC-Leiter**
