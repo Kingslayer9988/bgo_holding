@@ -74,7 +74,15 @@
     - **NORMAL** = Bei **Lager-WAB's** (Umladen)
     - **EGAL** = Bei **Direkt_Baustelle** (Kein Umladen)
     - **JUMBO** = Bei **30 - 35m³** => **Immer Direkt_Baustelle** (KEIN UMLADEN MÖGLICH)
-    - **SATTEL** = Bei **~ 60m³** **KEINEN CONTAINER AUF TOUR ZIEHEN!** (Eher Selten)
+
+- **🛢️ Container**
+
+| Container | Verwendung | Kommentar |
+| --- | --- | --- |
+| **NORMAL** | Bei **Lager-WAB's**  | K |
+| **EGAL** | Bei **Direkt_Baustelle** | K | 
+| **JUMBO** | Bei **Direkt_Baustelle & 30-35m³** | K |
+
 
 
 - **🚛 Fahrzeuge:**
