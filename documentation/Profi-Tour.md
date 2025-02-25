@@ -34,15 +34,16 @@
 ### ⚖️ LAW Number Four ➡️ Don't open too many Instances because you will double Import ✅
 ---
 
-## 💎 General Infos: 
-- **[DIR | STK | PST]** => **Alle DIREKT** => **Kein LAGER-WAB**
-    - **[PST]** Aufträge mit über **5m³** ==> Höchstwarscheindlich **Falsche Eingabe** von **Hersteller**
-    - **[DIR]** **Fixtermin** => **WICHTIG**
-    - **Internet-Order(Nr.: 043)** => **Fixtermin** => **EGAL**
-- **[ABH]** => Selbstabholung der Ware durch Kunden **(Er hat Fahrzeug/LKW)**
-- **[Auftragsnummer: 034XXX]** -> **Internet Bestellung -> DIREKT**
-- **[Auftragsnummer: 04XXXX]** -> **Neutrale Bestellung -> Für Tischer [UNBESCHRIFTET] -> DIREKT**
-    - **Fahrer & Montagepersonal** muss extra **instruiert** werden!
+## 💎 General Infos:
+- **Aufträge / Datensätze**
+| ART | INFO | KOMMENTAR |
+| --- | --- | --- |
+| **[DIR / STK / PST]** | **Alle DIREKT** <br> **Kein LAGER-WAB** | **als 1. Verplanen** <br> **Durchläufer** |
+| **[PST]** | Postversand **pro KW** oder **FIXTERMIN** | **>= 5m³** = **Falsche Eingabe** von **Hersteller** |
+| **[DIR]** | **Keine Fixtermine** | Durchläufer - **Immer eigene Tour** |
+| **[ABH]** | **Selbstabholung** durch Kunden | **Durchläufer** - **Immer eigene Tour** | 
+| **Internet-Order (AB-Nr: 034XXX)** | **Fixtermin** = **EGAL** | Fixtermin ist für Kunde **nicht sichtbar** |
+| **Neutrale Bestellung (AB-Nr: 04XXXX)** | Für Tischer Unbeschriftet | **Fahrer & Montagepersonal** muss **instruiert** werden |
 
 - 🟢 => **Kunde wurde bereits Avisiert**
 - 🔴 => **Kunde hat altes Aviso = Zeiten können nicht gehalten werden!** => **FORCE_GREEN** oder **Neu Avisieren** **[Guide](#-avisieren)**
