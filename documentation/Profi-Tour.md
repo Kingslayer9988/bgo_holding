@@ -157,13 +157,13 @@
     - Nicht gewünscht => **Ausnahme Voradelberg (ULGB)**
 
 - **📝 Naming-Scheme für Touren/WAB's:**
-    - **DIREKT** => **DIR, Nr:043** => **DIREKT $Kunden_Name $Kunden_ORT WOCHENTAG(TT)**
+    - **DIREKT** => **DIR, Nr:043** => **DIREKT $Kunden_Name $Kunden_ORT $WT(TT)**
     - **FIXTERMIN** => Im **Tourennamen** und **Bemerkung Montage vermerken** (Außnahme Internet-Order)
     - **Postversand ohne Fixtermin** => **Postversand $ORT $Aktuelle_KW** => Alle **Post-Aufträge ohne FIXTERMIN** in diese **Tour**
     - **Postversand mit Fixtermin** => **Postversand $ORT FIXTERMIN** => (Nicht in Bemerkung_Montage vermerken)
-    - **Bei Direkt_Baustelle (Ohne Lager-WAB)** => **$Kunden_Name $Kunden_ORT WOCHENTAG(TT)** => In **Excel** mit **Farbe hinterlegen!** **[Siehe Hier](Excel.md)**
-    - **Lager-WAB für jeweiliges Fahrzeug(oder Mehrere) Tour** => **SC WAB für [LKW | 7,5t | 3,5t] Touren**
-    - **Untertouren die von Lager-WAB laden** => **SC [LKW | 7,5t | 3,5t] Tour $Start_ORT - $End_ORT WOCHENTAG(TT)**
+    - **Direkt Baustelle (Ohne Lager-WAB)** => **$Kunden_Name $Kunden_ORT $WT(TT)** => In **Excel** mit **Farbe hinterlegen!** **[Siehe Hier](Excel.md)**
+    - **Lager-WAB für 1 or more Fahrzeug Tour** => **SC WAB für [LKW | 7,5t | 3,5t] Touren**
+    - **Unter-Touren die von Lager-WAB laden** => **SC [LKW | 7,5t | 3,5t] Tour $Start_ORT - $End_ORT $WT(TT)**
 
 | NAMESFELD | INFO |
 | --- | --- |
