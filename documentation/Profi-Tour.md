@@ -145,7 +145,6 @@
 - **⚠️ Wunschtermine & Fixtermine** bzw. **größere Baustellen** beachten!!
 
 - **⏱️ [Montagezeit (Transportauftragsreport)](#%EF%B8%8F-montagezeit-kalkulieren-bzw-transportauftrag-checken) nachkalkulieren!**
-    - Die Datensätze die mit **(00:30 h)** eingegeben sind können **gemeinsam kontrolliert** werden => Stimmen meistens!
 
 - **❌ Falls sich die Tour** aufgrund von **Fahrzeiten** oder **Montagezeiten NICHT** ausgeht:
     - Datensätze auf **[Minimap](#%EF%B8%8F-minimap---kleine-karte-links-unten---enthält-ausgewählte-datensätzeaufträge)** ansehen und nach **Orten/Fahrtstrecke** teilen
@@ -154,7 +153,7 @@
 - **🚗 Fahrzeug** nach **Gewicht, Volumen(m³)** der **Tour** einteilen **( 3,5t | 7,5t | LKW )** **[Siehe Hier](#-general-infos)**
 
 - **☎️ Bei knappen/komischen-Touren** => **Absprache mit SC-Leiter** => **Plant-SC-Leiter-Tour erstellen**
-    - Nicht gewünscht => **Ausnahme Voradelberg (ULGB)**
+    - Nicht gewünscht => **Ausnahme**: [Vorarlberg ist anders]() (ULGB)** 
 
 - **📝 Naming-Scheme für Touren/WAB's:**
 - **⚠️ FIXTERMIN** Im **Tourennamen** und im Feld **Bemerkung_Montage** vermerken (Außnahme Internet/Postversand)
@@ -170,25 +169,7 @@
 | **SC 3,5t Tour Meran - Brixen MI** | **SC $Fahrzeuge Tour $ORT_S $ORT_E $WT(TT)**  | Untertour 3,5t Fahrzeug <br> Laden von Lager-WAB |
 | **SC LKW Tour Fügen - Jenbach DI** | **SC $Fahrzeuge Tour $ORT_S $ORT_E $WT(TT)**  | Untertour LKW Fahrzeug <br> Laden von Lager-WAB|
 | **Plant SC Leiter / 6 Kunden** |  | Unter-Tour mit 6 Kunden <br> die SC-Leiter Plant |
-| **ULGB Feldkirch - Dornbirn FR** |  | Unter-Tour in VORADELBERG (ULBG) am Freitag <br> PLANT SC LEITER |
-
-
-- **Voradelberg ist anders** => **Untertouren werden von ULGB (Oliver) Zusammengestellt**
-    - **Untertouren werden von ULGB zusammengestellt** nach einer Liste von uns!
-    - Filter in Datenbank nach **[Dornbirn + FL + CH + DE]**
-    - Datenbank Ansicht auf **[Isabel-Voradelberg]**
-    - **Schnittstelle => Export als Excel file (.csv)**
-    - Autosumme pro WAB erstellen für **[Gewicht und m³]**
-    - Text: **Anlieferung am $Datum zum Lager oder Direkt zum Kunden (Siehe Excel file oder Profitour)**
-    - **Jumbo-WAB vermerken**
-    - Als **E-Mail an Oliver** senden - er sendet die **Untertouren** zurück!
-    - **Unter-Touren** wieder in **Profi-Tour** eingeben!
-        - Oliver sendet **PDF via Mail** - **auf "A3" ausdrucken!** => **Untertouren** stehen unter der **Excel-Tabelle**
-        - Alle Touren nach Oliver anlegen **(Naming: ULGB $Start_ORT $End_ORT Wochentag[TT])**
-        - Alle **Stopps(Kunden)** Richtien & richtige **Ankunft fixieren!**
-        - Alle Touren **Nachkalkulieren** & **Standzeit fixieren!** **[Siehe Hier](#-guide-für-das-erstellen-von-unter-touren)**
-            - Aufpassen auf **Küchen** => **Montagezeit** stimmt im **Transportauftragsreport** teilen durch **Personen**
-            - Aufpassen bei **Trennwänden(RS/RG)**, **Glaswänden** etc.
+| **ULGB Feldkirch - Dornbirn FR** |  | Unter-Tour in Vorarlberg (ULBG) am Freitag <br> PLANT SC LEITER |
 
 > [!TIP]
 > **Schnelles Übernnahme in die Planung** - Planung Reiter offen lassen & Tour aus Planung Entfernen\
@@ -271,8 +252,9 @@ Danke im Voraus.
 - Sollte bei **jedem Datensatz / Auftrag** kontrolliert bzw. **nachgerechnet** werden.
 - Datensätze die mit **(00:30 h)** eingegeben sind können **gemeinsam kontrolliert** werden => **Stimmen meistens!**
 - Für **Calcullation-Skript** => **[Siehe Hier](../README.md#working-still-needs-adoption-for-hersteller)**
-- Bei **Trennwänden(RG/RW)** mit **SC-Leiter abklären** 
-- Bei **Kleinen Küchen** mit **SC-Leiter abklären**
+- Aufpassen bei **Trennwänden(RS/RG)**, **Trennwand/Glaswand** etc. mit **SC-Leiter abklären**
+- Aufpassen bei **Küchen** => **Montagezeit** stimmt **Transportauftragsreport** teilen durch **Personen** => **Standzeit fixieren**
+- Bei **Kleinen Küchen** mit **SC-Leiter abklären** ob wir sie selbst machen können!
     - **Küchenmonteure teilweise** selbst vorhanden! **[See Here](#gebiete-erik---hersteller-nos-)**
 
 ## 📦 Guide für die Abgabe der Produktion:
@@ -306,6 +288,22 @@ Danke im Voraus.
 - Transportbestellung im richtigen **MS-Teams** Ordner ablegen!
 - **Letzter im Team** fügt die **Excel-Imports der Mitarbeiter zusammen** und sendet sie an **Spedition Winkler**
 - **Sonderbestellungen** wie Transmato, Quehenberger(Sattel) **sofort** bei Auftrag an Spedition senden!
+
+## ⛰️ Vorarlberg ist Anders
+- **Untertouren werden von ULGB zusammengestellt** nach einer Liste von uns!
+- Filter in Datenbank nach **[Dornbirn + FL + CH + DE]**
+- Datenbank Ansicht auf **[Isabel-Voradelberg]**
+- **Schnittstelle => Export als Excel file (.csv)**
+- Autosumme pro WAB erstellen für **[Gewicht und m³]**
+- Text: **Anlieferung am $Datum zum Lager oder Direkt zum Kunden (Siehe Excel file oder Profitour)**
+- **Jumbo-WAB vermerken**
+- Als **E-Mail an Oliver** senden - er sendet die **Untertouren** zurück!
+- **Unter-Touren** wieder in **Profi-Tour** eingeben!
+- Oliver sendet **PDF via Mail** - **auf "A3" ausdrucken!** => **Untertouren** stehen unter der **Excel-Tabelle**
+    - Alle Touren nach Oliver anlegen **(Naming: ULGB $Start_ORT $End_ORT Wochentag[TT])**
+    - Alle **Stopps(Kunden)** Richtien & richtige **Ankunft fixieren!**
+    - Alle Touren **Nachkalkulieren** & **Standzeit fixieren!** **[Siehe Hier](#-guide-für-das-erstellen-von-unter-touren)**
+
 
 ## 📺 Guide für TV (TV = Termin-Verspätung)
 - Nur möglich wenn **Untertouren fertiggestellt** sind! 
