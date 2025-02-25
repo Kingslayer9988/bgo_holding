@@ -86,9 +86,8 @@
 | **LKW + Anhänger** | ∞ | **60 m³** | Kein FZ=SPED_WINKLER | Um 2 Lager-WAB's am selben Tag anzuliefern <br> Nicht auf Rampe | C |
 | **Sattel** | ∞ | **60 m³** | Kein FZ=SPED_QUEHENBERGER | Nur bei **DIREKT_BAUSTELLEN** verwendet <br> Billiger als LKW + Anhänger <br> BGO hat **keinen eigenen Sattel** => **[Transportbestellung](#-guide-für-die-transportbestellung)** | C |
 
-
 - **Fahrzeuge are completely messed up for some areas => Needs fixing - Absprache mit SC-Leiter**
-    - Isabel macht **extra Arbeit** => Eintragen von **3,5t | 7,5t**
+    - **Excel-liste** von Isabel => Eintragen von **3,5t | 7,5t** Spalten
     - **Excel & Profitour & Realität** = STIMMEN **NICHT** ÜBEREIN 💀
 
 ## 🗺️ Minimap - Kleine Karte links unten - Enthält ausgewählte Datensätze/Aufträge
@@ -104,7 +103,7 @@
 - Zuerst immer **DIREKT & POST - Linien** erstellen!
     - Datensatz bei **DIREKT | POST | DIREKT_Baustelle** => **NICHT TEILEN**
     - Maximal **1 Postversand_ORT Linie pro KW** (Außnahme PST mit Fixtermin) 
-    - Bei **Postversand-Linie** auch **Verlade-Reihenfolge** richten **[WAB-Nr.: 900]**
+    - Bei **DIREKT-Touren** auch **Verlade-Reihenfolge** richten & **WAB-Nummer** vergeben
 
 - Bei **2 Containeren(WAB's) auf einem LKW + Hänger** bei **Verladereihenfolge** auch **2 WAB-Nummern vergeben** und auf **Hänger** stellen!
 - **2 Arten von WAB's** => Eintragen von **[Rampe oder Platz]** in **Kommentar-Feld**  => **Bemerkung Transport**)
