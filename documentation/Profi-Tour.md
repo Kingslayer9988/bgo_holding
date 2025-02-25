@@ -196,10 +196,6 @@
             - Aufpassen auf **Küchen** => **Montagezeit** stimmt im **Transportauftragsreport** teilen durch **Personen**
             - Aufpassen bei **Trennwänden(RS/RG)**, **Glaswänden** etc.
 
- - **Ändernen von Touren** => **Löst Stopp aus WAB & Stopp aus Tour**
-    - Im Bearbeitungs-Fenster: **Aus Tour lösen und Teilung Rückgängig machen**
-    - Im Unbearbeitet-Fenster: **Teilung Rückgängig machen**
-
 > [!TIP]
 > **Schnelles Übernnahme in die Planung** - Planung Reiter offen lassen & Tour aus Planung Entfernen\
 > **Schnelles Verplanen von Änderungen** - Teilen von Aufträgen auch im Unbearbeitet-Fenster gemacht werden\
@@ -394,3 +390,9 @@ Danke im Voraus.
 
 > [!NOTE]
 > Later make Guides switchable per $_Hersteller and Color them accordingly 🌈
+
+
+Dunno where to put it yet:
+- **Ändernen von Touren** => **Löst Stopp aus WAB & Stopp aus Tour**
+    - Im Bearbeitungs-Fenster: **Aus Tour lösen und Teilung Rückgängig machen**
+    - Im Unbearbeitet-Fenster: **Teilung Rückgängig machen**
