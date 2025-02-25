@@ -135,7 +135,7 @@
 - Datensätze nach **WAB's (WAB-Nummern)** auswählen und in die Auswahl übernehmen. (Bsp. Alle Datensätze am WAB 050)
     - WAB's sollten schon erstellt sein => **[Produktions-Abgabe](#-guide-für-die-abgabe-der-produktion)** bzw. **[Guide für WAB Touren](#-guide-für-das-erstellen-von-wab-touren)**
 
-- Ausgewählte Datensätze auf **Montagezeit(Transportauftragsreport), Gewicht, Volumen(m³)** durchchecken!
+- Ausgewählte Datensätze auf **[Montagezeit(Transportauftragsreport)](#-transportauftragsreport-checken-bzw-montage-zeit-nachkalkuliern)**, **Gewicht, Volumen(m³)** durchchecken!
     - Falls sich die **Tour** aufgrund von **Fahrzeiten** oder **Montagezeiten NICHT** ausgeht
     - Datensätze auf **[Minimap](#%EF%B8%8F-minimap---kleine-karte-links-unten---enthält-ausgewählte-datensätzeaufträge)** ansehen und nach **Orten/Fahrtstrecke** teilen
     - Datensätze im **Bearbeitungs-Fenster** - **aus der Tour lösen** bzw. **Stopp entfernen** bei erstellter Tour
@@ -270,8 +270,8 @@ Danke im Voraus.
 
 ## 📰 Transportauftragsreport checken bzw. Montage-Zeit nachkalkuliern
 - In egal welchem Fenster => **Rechtsklick auf Datensatz** => **Transportauftragsreport** => Für **Zeit-Berrechnung bzw. Calc.sh**
-- Sollte bei **jedem Datensatz** kontrolliert bzw. **nachgerechnet** werden.
-- Für **Calcullation-Skript** => [See Here](../README.md#working-still-needs-adoption-for-hersteller)**
+- Sollte bei **jedem Datensatz / Auftrag** kontrolliert bzw. **nachgerechnet** werden.
+- Für **Calcullation-Skript** => **[Siehe Hier](../README.md#working-still-needs-adoption-for-hersteller)**
 - Bei **Trennwänden(RG/RW)** mit **SC-Leiter abklären** 
 - Bei **Kleinen Küchen** mit **SC-Leiter abklären**
     - **Küchenmonteure teilweise** selbst vorhanden! **[See Here](#gebiete-erik---hersteller-nos-)**
