@@ -86,7 +86,7 @@
 | **LKW + Anhänger** | ∞ | **60 m³** | Kein FZ=SPED_WINKLER | Um 2 Lager-WAB's am selben Tag anzuliefern <br> Nicht auf Rampe | C |
 | **Sattel** | ∞ | **60 m³** | Kein FZ=SPED_QUEHENBERGER | Nur bei **DIREKT_BAUSTELLEN** verwendet <br> Billiger als LKW + Anhänger <br> BGO hat **keinen eigenen Sattel** => **[Transportbestellung](#-guide-für-die-transportbestellung)** | C |
 
-- **Fahrzeuge are completely messed up for some areas => Needs fixing - Absprache mit SC-Leiter**
+- **Fahrzeuge are completely messed up in some areas => Needs fixing - Absprache mit SC-Leiter**
     - **Excel-Liste** von Isabel => Eintragen von **3,5t | 7,5t** Spalten
     - **Excel & Profitour & Realität** = STIMMEN **NICHT** ÜBEREIN 💀
 
@@ -96,8 +96,8 @@
 - 🟠 Orange => **Verplant WAB + Untertour**
 - ➡️ Pfeile => Zeigen die **Tour von Kunde zu Kunde** (Luftlinie ✈️)
 - 💹 Je **größer der Punkt desto mehr 💵💶💴**
-- Hold **[STRG]** für **Neue Auswahl**
-- Hold **[SHIFT]** für **Zur Auswahl hinzufügen**
+- ⌨️ Hold **[STRG]** für **Neue Auswahl**
+- ⌨️ Hold **[SHIFT]** für **Zur Auswahl hinzufügen**
 
 ## 💣 Guide für das erstellen von WAB-Touren & Direkt/Post:
 - Zuerst immer **DIREKT & POST - Linien** erstellen!
