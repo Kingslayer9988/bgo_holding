@@ -37,6 +37,8 @@
 ## 💎 General Infos: 
 - **[DIR | STK | PST]** => **Alle DIREKT** => **Kein LAGER-WAB**
     - **[PST]** Aufträge mit über **5m³** ==> Höchstwarscheindlich **Falsche Eingabe** von **Hersteller**
+    - **[DIR]** **Fixtermin** => **WICHTIG**
+    - **Internet-Order(Nr.: 043)** => **Fixtermin** => **EGAL**
 - **[ABH]** => Selbstabholung der Ware durch Kunden **(Er hat Fahrzeug/LKW)**
 - **[Auftragsnummer: 034XXX]** -> **Internet Bestellung -> DIREKT**
 - **[Auftragsnummer: 04XXXX]** -> **Neutrale Bestellung -> Für Tischer [UNBESCHRIFTET] -> DIREKT**
@@ -140,6 +142,8 @@
 - Datensätze nach **WAB's (WAB-Nummern)** auswählen und **in die Auswahl** übernehmen. (Bsp. Alle Datensätze am "WAB 050")
     - WAB's sollten schon erstellt sein => **[Produktions-Abgabe](#-guide-für-die-abgabe-der-produktion)** bzw. **[Guide für WAB Touren](#-guide-für-das-erstellen-von-wab-touren--direktpost)**
 
+- Achte auf **Wunschtermine & Fixtermine** bzw. **größere Baustellen**
+
 - Ausgewählte Datensätze auf **[Montagezeit(Transportauftragsreport)](#-transportauftragsreport-checken-bzw-montage-zeit-nachkalkuliern)**, **Gewicht, Volumen(m³)** durchchecken!
     - Die Datensätze die mit **(00:30 h)** eingegeben sind können **gemeinsam kontrolliert** werden => Stimmen meistens!
     - Falls sich die **Tour** aufgrund von **Fahrzeiten** oder **Montagezeiten NICHT** ausgeht:
@@ -148,14 +152,12 @@
 
 - Fahrzeug nach Tour einteilen **( 3,5t | 7,5t | LKW )** **[Siehe Hier](#-general-infos)**
 
+- **❌ Bei knappen/komischen-Touren** => **Plant SC-Leiter** bzw. **Absprache mit SC-Leiter**
+    - Nicht gewünscht => **Ausnahme Voradelberg (ULGB)**
 
-
-- Anschließend dann **Wunschtermine & Fixtermine** bzw. **größere Baustellen**
-
-- 📝 **Naming-Scheme für Touren/WAB's:**
+- **📝 Naming-Scheme für Touren/WAB's:**
     - **DIREKT** => **DIR, Nr:043** => **DIREKT $Kunden_Name $Kunden_ORT WOCHENTAG(TT)**
-        - Bei **[DIR]** Fixtermin **WICHTIG**
-        - Bei **Internet-Order(Nr.: 043)** => Fixtermin **EGAL**
+        
     - **FIXTERMIN** => Im **Tourennamen** und in **Bemerkung Montage vermerken** (Außnahme Internet-Order)
     - **Postversand ohne Fixtermin** => **PST** => **Postversand KW_$$ WOCHENTAG(TT)** => Alle **PST-Aufträge ohne FIXTERMIN** in diese **Tour!**
     - **Postversand mit Fixtermin** => **PST** => **Postversand $ORT FIXTERMIN**
@@ -176,8 +178,7 @@
 | Plant SC Leiter / 6 Kunden | Untertour mit 6 Kunden die SC-Leiter Plant |
 | ULGB $Start_ORT - $End_ORT - FR | Untertour VORADELBERG(ULBG) am Freitag |
 
-- **Bei knappen/komischen Touren** => **Plant SC-Leiter** bzw. **Absprache mit SC-Leiter**
-    - **❌ Nicht gewünscht** -> Suboptimal -> **Ausnahme Voradelberg**
+
     
 - **Voradelberg ist anders** => **Untertouren werden von ULGB (Oliver) Zusammengestellt**
     - **Untertouren werden von ULGB zusammengestellt** nach einer Liste von uns!
@@ -205,19 +206,6 @@
 > **Schnelles Verplanen von Änderungen** - Teilen von Aufträgen auch im Unbearbeitet-Fenster gemacht werden\
 > **Auswahl in Verladeplanung+ nicht verlieren** - Nach Auswahl zuerst Bereitstell_Datum dannach Produktions_Datum klicken
 
-
-## 📗 Avisieren
-- Filter in **Datenbank-Ansicht** nach **[Prod + Lieferwoche] & [MO-SA]**
-- **Avisieren** immer im **Touren-Fenster** => **[OBEN]**
-- **Alles 2x kontrollieren**
-- **Datum bei Touren** & **Ladereihenfolge WAB's 3x kontrollieren**
-    - **Datum** immer in dem **Bearbeitungs-Fenster** unter **Stopps** kontrollieren!
-    - **Datum** kann sich aufgrund von Tagesarbeitszeit oder **falschen $BUILD_TIMES from $HERSTELLER** auf nächsten Tag rutschen!
-    - **Fehler passieren hier leicht** und **keine Software-Kontrolle** für Fehler wie diese!
-> [!NOTE]
-> Probably a big reason that "AI" is not already taking Disponenten-Jobs (needs a sick Algorithm 😄)\
-> Bad for me but  => **Local Deepseek with Live Training here 👀👀**
-
 ## 📙 Vorraus Avisieren (Vor-Avisieren)
 - Kann auch **Telefonisch** gemacht werden => Gut für **Stammkunden**
 - **E-Mail & Kontakt & Datum** aus Profitour (Datenbank-Ansicht) nehmen und **E-Mail** erfassen!
@@ -240,6 +228,27 @@ Danke im Voraus.
 > Alle nötigen Daten könnten aus **Aviso PDF** (Richtes Avisieren) gezogen werden => Much ⏰ safed here\
 > Prozess wird **Lokal automatisiert** => **Keine Anbindung an Profitour** => **Windwos_Contextmenu_PS_Script**)\
 > Nicht erwünscht ‼️ => **Persöhnlicher Verwendung!**)\
+
+## 📗 Avisieren
+- Filter in **Datenbank-Ansicht** nach **[Prod + Lieferwoche] & [MO-SA]**
+- **Avisieren** immer im **Touren-Fenster** => **[OBEN]**
+- **Alles 2x kontrollieren**
+- **Datum bei Touren** & **Ladereihenfolge WAB's 3x kontrollieren**
+    - **Datum** immer in dem **Bearbeitungs-Fenster** unter **Stopps** kontrollieren!
+    - **Datum** kann sich aufgrund von Tagesarbeitszeit oder **falschen $BUILD_TIMES from $HERSTELLER** auf nächsten Tag rutschen!
+    - **Fehler passieren hier leicht** und **keine Software-Kontrolle** für Fehler wie diese!
+> [!NOTE]
+> Probably a big reason that "AI" is not already taking Disponenten-Jobs (needs a sick Algorithm 😄)\
+> Bad for me but  => **Local Deepseek with Live Training here 👀👀**
+
+## 📘 Erneut Avisieren (2tes) (Nach-Avisieren) - (Kunde kann Termin nicht halten)
+- Oft de Fall gleich nach dem **[Avisieren](#-avisieren)** => Kunden bekommen Aviso und wollen **neuen Termin**
+- Filter nach **[Transportaufträge & Auftrag]** => **Auftragsnummer des Kunden** (Siehe **Mail** bzw. oft per **Telefon**)
+- Gehe zu **Tour** die den **Kunden(Stopp)** beinhaltet
+- Checke ob schon **alle Kunden** auf **Tour** avisiert wurden
+- Falls **JA** checke alle **anderen Kunden(Stopps)** und versuche **Zeit/Datum des Kunden** anzupassen mit **möglichst wenig neues Avisos**
+    -  	🛑 Vorsicht kann **Teufelskreis** werden _(Bsp.: Tour drehen => 5 neue Avisos die den Kunden nicht passen und 1 das passt)_
+
 
 ## 📄 Guide für Frachtbriefe & Tourenpläne (2-PDF's):
 - Filter -> **[Transportaufträge & Prod + Lieferwoche]** => **TT.MM.JJ - TT.MM.JJ** der gewünschten **KW auswählen**
