@@ -57,8 +57,8 @@
 ### 🧾 Kommentar Felder
 - **Bemerkung Transport** => Infos für die **Spedition** => **Bsp.: (PLATZ, RAMPE)**
 - **Bemerkung Versand** => Infos für **Verladung** => **Bsp.: (Manuelle Ladereihenfolge)**
-- **Bemerkung Montage** ==> Infos für **Montage Arbeiter** => **Bsp.: (FIXTERMIN | Hinweise | Adresseänderung/Zufahrt)**
-    - Bei **Adress-Änderungen/Fehler** => **Mail an Hersteller** um weitere Fehler zu vermeiden!
+* **Bemerkung Montage** ==> Infos für **Montage Arbeiter** => **Bsp.: (FIXTERMIN | Hinweise | Adresseänderung/Zufahrt)**
+    * Bei **Adress-Änderungen/Fehler** => **Mail an Hersteller** um weitere Fehler zu vermeiden!
     - Falls **Plant-SC-Leiter-Tour** => SC-Leiter anrufen!
 
 ### 🏣 Spedition & 🛢️ Container & 🚛 Fahrzeuge
