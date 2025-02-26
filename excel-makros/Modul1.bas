@@ -17,11 +17,12 @@ Sub FixContainerColoringAndPercentages()
     Set colorMap = CreateObject("Scripting.Dictionary")
     Set containerCount = CreateObject("Scripting.Dictionary")
     
-    ' Define relevant columns
+    ' Touren Felder
     topColumns = Array(4, 7, 10, 13, 16, 19) ' D, G, J, M, P, S
+    ' WAB Felder
     lastColumns = Array(2, 5, 8, 11, 14, 17) ' B, E, H, K, N, Q
 
-    ' **STEP 1: Count occurrences of each container in the upper section**
+    ' **STEP 1: Count occurrences of each WAB-Container in the upper section**
     For i = LBound(topColumns) To UBound(topColumns)
         Set topRange = ws.Range(ws.Cells(3, topColumns(i)), ws.Cells(23, topColumns(i)))
         
@@ -37,7 +38,7 @@ Sub FixContainerColoringAndPercentages()
         Next topCell
     Next i
     
-    ' **STEP 2: Assign Colors and Fix Lower Fields**
+    ' **STEP 2: Assign Colors for WAB Fields**
     For i = LBound(topColumns) To UBound(topColumns)
         Set topRange = ws.Range(ws.Cells(3, topColumns(i)), ws.Cells(23, topColumns(i)))
         Set lastRows = ws.Range(ws.Cells(35, lastColumns(i)), ws.Cells(38, lastColumns(i)))
@@ -57,8 +58,8 @@ Sub FixContainerColoringAndPercentages()
                 ' **Apply color to the correct lower fields**
                 lastCell.Interior.Color = colorCode ' Container Number
                 lastCell.Offset(0, 1).Interior.Color = colorCode ' LE Field
-                lastCell.Offset(0, 2).Interior.Color = colorCode ' Empty Field
-                lastCell.Offset(0, 3).Interior.Color = colorCode ' Weight Field
+                lastCell.Offset(1, 0).Interior.Color = colorCode ' Empty Field
+                lastCell.Offset(1, 1).Interior.Color = colorCode ' Weight Field
                 
                 ' **STEP 3: Update upper section based on the container matches**
                 For Each topCell In topRange
