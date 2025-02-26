@@ -26,21 +26,6 @@
 > **💡 Auto Coloring for DIREKT Touren**\
 > **💡 Auto Copy of WAB's (Letzte Zeilen)**
 
-## Gebiete Erik - Hersteller NOS 💚
-- **Voradelberg(SC Dornbirn) + DE(S-W) + FL + CH**
-    - Kein Küchenmonteur :o:
-- **Tirol (SC Innsbruck)**
-    - Kein Küchenmonteur :o:
-- **Kärnten (SC Klagenfurt) + ITA**
-    - Küchenmonteur vorhanden :heavy_check_mark:
-    - Kleines SC => Max 2 LKW pro Tag (1x Platz & 1x Rampe)
-- **Steiermark(SC Graz)** 
-    - Kein Küchenmonteur **aber gute Monteure(Außnahme)** :heavy_check_mark:
-- **Deutschland Gesamt (SC ?? | Relock-Partner)**  _(UNSURE ASK ISABEL 😕)_
-    - Noch nicht sicher :question: :question: :question:
-    - Ähnlich wie Voradelberg **(Relock ~ ULGB)**
-- Isabel Gebiete => **SC Dornbirn + (DE+CH+FL)** | **SC Graz + Selten (SLO)** | **SC Innsbruck + (ITA)** | SC Klagenfurt
-
 - **Excel Makros für Auslieferliste:**
     - Werden nur Lokal in Excel gespeichert - (New to me i always put them in the actual file) 
     - Will only work local - thats where the weird keycombo comes from.
