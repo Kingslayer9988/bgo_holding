@@ -18,7 +18,7 @@
 - Lösung für mich => **Local_Excel_File mit Extra Infos und Calculations für Lademenge etc**
 - **Force Sync** => **SC_Leiter_Excel_File + Removal of extra Infos**
 > [!NOTE]
-> **Automations & Fixes (Work in Progress):**
+> **Automations & Fixes (Work in Progress): [LINK](../excel_makros/Modul1.bas)**
 > 
 > **💡 Make Hersteller_KW visable if its not MO - SO | Bsp.: DI - DI**\
 > **💡 Automatic Numbering of _KW$ in File & creating of Files**\
