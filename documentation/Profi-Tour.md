@@ -213,7 +213,7 @@ Danke im Voraus.
 ## 📗 Avisieren
 - Filter in **Datenbank-Ansicht** nach **[Prod + Lieferwoche] & [MO-SA]**
 - **Avisieren** immer im **Touren-Fenster** => **[OBEN]**
-- **Alle Kunden außer **[DIR]()** und **[PST]()** und **[Lager-WAB-Touren](#-guide-für-das-erstellen-von-wab-touren--direktpost)**
+- **Alle Kunden außer **[DIR](#aufträge-bzw-datensätze)** und **[PST](#aufträge-bzw-datensätze)** und **[Lager-WAB-Touren](#-guide-für-das-erstellen-von-wab-touren--direktpost)**
 - **Alles 2x kontrollieren**
 - **Datum bei Touren** & **Ladereihenfolge WAB's 3x kontrollieren**
     - **Datum** immer in dem **Bearbeitungs-Fenster** unter **Stopps** kontrollieren!
