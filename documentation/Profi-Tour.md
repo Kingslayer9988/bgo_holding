@@ -234,7 +234,7 @@ Danke im Voraus.
 - 🛑 Vorsicht kann **Teufelskreis** werden _(Bsp.: Tour drehen => 5 neue Avisos die den Kunden nicht passen und 1 das passt)_
 - Falls **NEIN** schieben ist leichter weil **kein neues Avisieren notwendig** ist!
 - Beim schieben auch auf **🔨 [Auslastung des Herstellers](#-guide-für-die-glättung-der-produktion) Rücksicht** geben
-- Bei **$Hersteller_H** (Villeicht weitere) auf **[❄️ Frozen Zone]()** & **[☑️ Checkmark Eingelastet]()** Rücksicht geben
+- Bei **$Hersteller_H** (Villeicht weitere) auf **[❄️ Frozen Zone](#other-things-i-got-told-and-are-probably-useful)** & **[☑️ Checkmark Eingelastet](#other-things-i-got-told-and-are-probably-useful)** Rücksicht geben
 
 ## 📄 Guide für Frachtbriefe & Tourenpläne (2-PDF's):
 - Filter -> **[Transportaufträge & Prod + Lieferwoche]** => **TT.MM.JJ - TT.MM.JJ** der gewünschten **KW auswählen**
