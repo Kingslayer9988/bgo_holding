@@ -227,9 +227,12 @@ Danke im Voraus.
 - Oft de Fall gleich nach dem **[Avisieren](#-avisieren)** => Kunden bekommen Aviso und wollen **neuen Termin**
 - Filter nach **[Transportaufträge & Auftrag]** => **Auftragsnummer des Kunden** (Siehe **Mail** bzw. oft per **Telefon**)
 - Gehe zu **Tour** die den **Kunden(Stopp)** beinhaltet
+- Aufpassen ob andere Kunden auf Tour einen **⚠️ Fixtermin** vereinbart haben
 - Checke ob schon **alle Kunden** auf **Tour** avisiert wurden
 - Falls **JA** checke alle **anderen Kunden(Stopps)** und versuche **Zeit/Datum des Kunden** anzupassen mit **möglichst wenig neues Avisos**
-    -  	🛑 Vorsicht kann **Teufelskreis** werden _(Bsp.: Tour drehen => 5 neue Avisos die den Kunden nicht passen und 1 das passt)_
+- 🛑 Vorsicht kann **Teufelskreis** werden _(Bsp.: Tour drehen => 5 neue Avisos die den Kunden nicht passen und 1 das passt)_
+- Falls **NEIN** schieben ist leichter weil **kein neues Avisieren notwendig** ist!
+- Beim schieben auch auf **🔨 [Auslastung des Herstellers](#-guide-für-die-glättung-der-produktion)** Rücksicht geben
 
 
 ## 📄 Guide für Frachtbriefe & Tourenpläne (2-PDF's):
