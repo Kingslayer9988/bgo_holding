@@ -172,6 +172,7 @@
 | NAME | SCHEME | INFO |
 | --- | --- | --- |
 | **DIREKT FirmaABC Innsbruck MO** | **DIREKT $KUNDE $ORT $WT(TT)** | Direktversand am Montag |
+| **ABH FirmaABC Innsbruck DO** | **ABH $KUNDE $ORT $WT(TT)** | Selbstabholungs-Tour am Donnerstag |
 | **Postversand Innsbruck KW12** | **POSTVERSAND $ORT $KW** | Alle Postversand ohne Fixtermin in KW_12 |
 | **Postversand Innsbruck MO FIXTERMIN** | **POSTVERSAND $ORT $WT(TT) FIXTERMIN** | Postversand mit <br> Fixtermin am Montag |
 | **FirmaABC Innsbruck DO** | **$KUNDE $ORT $WT(TT)** | Direkt-LKW Tour zur Baustelle am Donnerstag |
