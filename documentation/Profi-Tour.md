@@ -224,8 +224,8 @@ Danke im Voraus.
 > Bad for me but  => **Local Deepseek with Live Training here 👀👀**
 
 ## 📘 Erneut Avisieren (Nach-Avisieren)
-- **Meistens** der **Fall** das Kunde den Termin nicht halten kann. => Checken ob **[Vor-Avisiert]()** wurde  
-- Oft de Fall gleich nach dem **[Avisieren](#-avisieren)** => Kunden bekommen Aviso und wollen **neuen Termin**
+- **Meistens** der **Fall** das Kunde den Termin nicht halten kann. => Checken ob **[Vor-Avisiert](#-vorraus-avisieren-vor-avisieren)** wurde  
+- Oft der **Fall** gleich nach dem **[Avisieren](#-avisieren)** => Kunden bekommen Aviso und wollen **neuen Termin**
 - Filter nach **[Transportaufträge & Auftrag]** => **Auftragsnummer des Kunden** (Siehe **Mail** bzw. oft per **Telefon**)
 - Gehe zu **Tour** die den **Kunden(Stopp)** beinhaltet
 - Aufpassen ob andere Kunden auf Tour einen **⚠️ Fixtermin** vereinbart haben
