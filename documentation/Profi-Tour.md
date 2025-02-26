@@ -158,16 +158,17 @@
     - Datensätze auf **[Minimap](#%EF%B8%8F-minimap---kleine-karte-links-unten---enthält-ausgewählte-datensätzeaufträge)** ansehen und nach **Orten/Fahrtstrecke** teilen
     - Datensätze im **Bearbeitungs-Fenster** - **aus der Tour lösen** bzw. **Stopp entfernen** bei erstellter Tour.
 
-- **🚗 Fahrzeug** nach **Gewicht, Volumen(m³)** der **Tour** einteilen **( 3,5t | 7,5t | LKW )** **[Siehe Hier](#-general-infos)**
+- **🚗 Fahrzeug** nach **Gewicht, Volumen(m³)** der **Tour** einteilen **( 3,5t | 7,5t | LKW )** **[Siehe Hier](#-fahrzeuge)**
 
 - **☎️ Bei knappen/komischen-Touren** => **Absprache mit SC-Leiter** => **Plant-SC-Leiter-Tour erstellen**
     - **Ausnahme**: **[Vorarlberg ist anders](#%EF%B8%8F-vorarlberg-ist-anders) (ULGB)**
 
  - **Wochen-Auslatung des jeweiligen Herstelller berücksichtigen**
-    - Mit **Mitarbeitern und Herstellen gute Lösung finden** (Isabell hat Schnittstelle vom Hersterller_H zum checken)
+    - Mit **Kollegen und Herstellen gute Lösung finden** (Isabell hat Schnittstelle vom Hersterller_H zum checken)
+
+- **⚠️ FIXTERMIN** Im **Tourennamen** und im Feld **Bemerkung_Montage** vermerken (Außnahme Internet/Postversand)
 
 - **📝 Naming-Scheme für Touren/WAB's:**
-- **⚠️ FIXTERMIN** Im **Tourennamen** und im Feld **Bemerkung_Montage** vermerken (Außnahme Internet/Postversand)
 
 | NAME | SCHEME | INFO |
 | --- | --- | --- |
