@@ -223,7 +223,8 @@ Danke im Voraus.
 > Probably a big reason that "AI" is not already taking Disponenten-Jobs (needs a sick Algorithm 😄)\
 > Bad for me but  => **Local Deepseek with Live Training here 👀👀**
 
-## 📘 Erneut Avisieren (2tes) (Nach-Avisieren) - (Kunde kann Termin nicht halten)
+## 📘 Erneut Avisieren (Nach-Avisieren)
+- **Meistens** der **Fall** das Kunde den Termin nicht halten kann. => Checken ob **[Vor-Avisiert]()** wurde  
 - Oft de Fall gleich nach dem **[Avisieren](#-avisieren)** => Kunden bekommen Aviso und wollen **neuen Termin**
 - Filter nach **[Transportaufträge & Auftrag]** => **Auftragsnummer des Kunden** (Siehe **Mail** bzw. oft per **Telefon**)
 - Gehe zu **Tour** die den **Kunden(Stopp)** beinhaltet
@@ -232,8 +233,7 @@ Danke im Voraus.
 - Falls **JA** checke alle **anderen Kunden(Stopps)** und versuche **Zeit/Datum des Kunden** anzupassen mit **möglichst wenig neues Avisos**
 - 🛑 Vorsicht kann **Teufelskreis** werden _(Bsp.: Tour drehen => 5 neue Avisos die den Kunden nicht passen und 1 das passt)_
 - Falls **NEIN** schieben ist leichter weil **kein neues Avisieren notwendig** ist!
-- Beim schieben auch auf **🔨 [Auslastung des Herstellers](#-guide-für-die-glättung-der-produktion)** Rücksicht geben
-
+- Beim schieben auch auf **🔨 [Auslastung des Herstellers](#-guide-für-die-glättung-der-produktion) Rücksicht** geben
 
 ## 📄 Guide für Frachtbriefe & Tourenpläne (2-PDF's):
 - Filter -> **[Transportaufträge & Prod + Lieferwoche]** => **TT.MM.JJ - TT.MM.JJ** der gewünschten **KW auswählen**
