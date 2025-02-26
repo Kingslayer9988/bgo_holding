@@ -18,8 +18,7 @@
 
 - Check how Disposition works there and how to fix shit
     - Cant be hard if its as bad as people say 🙉
-
-
+ 
 # Still needs fixing / combining
 ## Gebiete Erik - Hersteller NOS 1 💚
 - **Voradelberg(SC Dornbirn) + DE(S-W) + FL + CH**
@@ -50,3 +49,5 @@
     - Noch nicht sicher :question: :question: :question:
     - Ähnlich wie Voradelberg **(Relock ~ ULGB)**
 - Isabel Gebiete => **SC Dornbirn + (DE+CH+FL)** | **SC Graz + Selten (SLO)** | **SC Innsbruck + (ITA)** | SC Klagenfurt
+
+
