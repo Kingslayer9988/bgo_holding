@@ -213,11 +213,11 @@ Danke im Voraus.
 ## 📗 Avisieren
 - Filter in **Datenbank-Ansicht** nach **[Prod + Lieferwoche] & [MO-SA]**
 - **Avisieren** immer im **Touren-Fenster** => **[OBEN]**
-- **Alle Kunden außer **[DIR](#aufträge-bzw-datensätze)** und **[PST](#aufträge-bzw-datensätze)** und **[Lager-WAB-Touren](#-guide-für-das-erstellen-von-wab-touren--direktpost)**
-- **Alles 2x kontrollieren**
+- **Alle Touren** außer **[DIR](#aufträge-bzw-datensätze)** und **[PST](#aufträge-bzw-datensätze)** und **[Lager-WAB-Touren](#-guide-für-das-erstellen-von-wab-touren--direktpost)** Avisieren!
+- **Alles 2x Kontrollieren**
 - **Datum bei Touren** & **Ladereihenfolge WAB's 3x kontrollieren**
     - **Datum** immer in dem **Bearbeitungs-Fenster** unter **Stopps** kontrollieren!
-    - **Datum** kann sich aufgrund von Tagesarbeitszeit oder **falschen $BUILD_TIMES from $HERSTELLER** auf nächsten Tag rutschen!
+    - **Datum** kann sich aufgrund von Tagesarbeitszeit oder **Falscher [Montagezeit](#%EF%B8%8F-montagezeit-kalkulieren-bzw-transportauftrag-checken)** auf **nächsten Tag** rutschen!
     - **Fehler passieren hier leicht** und **keine Software-Kontrolle** für Fehler wie diese!
 
 > [!NOTE]
