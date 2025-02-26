@@ -42,7 +42,7 @@
 | --- | --- | --- |
 | **[DIR / STK / PST]** | **Alle DIREKT** - **Kein LAGER-WAB** | **als 1. Verplanen** = **Durchläufer** |
 | **[PST]** | Postversand **pro KW** oder **FIXTERMIN** | **>= 5m³** = **Falsche Eingabe** von **Hersteller** |
-| **[DIR]** | **Keine Fixtermine** | Durchläufer - **Immer eigene Tour** |
+| **[DIR]** | **Keine Fixtermine** | Durchläufer - **Immer eigene Tour** <br> Achtung muss **[Avisiert](#-avisieren)** werden! |
 | **[ABH]** | **Selbstabholung** durch Kunden | **Durchläufer** - **Immer eigene Tour** | 
 | **Internet-Order (AB-Nr: 034XXX)** | **Fixtermin** = **EGAL** | Fixtermin ist für Kunde **nicht sichtbar** |
 | **Neutrale Bestellung (AB-Nr: 04XXXX)** | Für Tischer Unbeschriftet | **Fahrer & Montagepersonal** muss **instruiert** werden |
