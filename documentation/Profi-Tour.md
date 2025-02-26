@@ -276,15 +276,12 @@ Danke im Voraus.
 ## 📦 Guide für die Abgabe der Produktion:
 - Filter -> **[Transportaufträge & Hali: Lieferwoche]** => **[JJJJ/KW] auswählen**
 - Es gibt eine **Liste mit Abgabedaten** für **Hersteller_H**
-- Filter **$Folge_KW4** => Alle Orte
+- Filter **$Folge_KW4** => Alle **Gebiete**
 - Im **Unbearbeitet-Fenster** makiere alle Aufträge => **Checke Gewicht und m³**
-- Erstelle immer als erstes **DIREKT & POST** Touren.
-- Als nächstes Kontrolle auf **$FIXTERMIN & $WUNSCHDATUM**
-- Lege als nächstes **DIREKT_BAUSTELLEN** an!
-- Als Abschluss die **Lager-WAB's** ohne **Unter-Touren**
-- **KONTROLLE !!! (Schnellschüsse || Liefer_KW =! Prod_KW || etc.)**
+- Erstelle Alle **[DIREKT & PST & DIREKT_BAUSTELLE & LAGER_WAB-Touren](#-guide-für-das-erstellen-von-wab-touren--direktpost)**
+- **KONTROLLE auf 🔫 Schnellschüsse** => Schnellschuss = **Lieferungs_KW** ist **nicht** in **Produktions_KW**
 - Links oben auf Export ==> **Produktion des Herstelles wird eingelastet!!**
-- Deadline verschieden für alle 3 Hersteller => **[NOS💚](NOS.md)**
+- **Deadline** verschieden für alle 3 Hersteller => **[NOS💚](NOS.md)**
 - Hersteller_H => 3 Wochen unterschied => **Bsp.: spät. Freitag KW7 für KW_11**
 
 ## 🔨 Guide für die Glättung der Produktion:
