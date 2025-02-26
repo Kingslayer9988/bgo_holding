@@ -15,6 +15,7 @@
         - Maske bearbeiten => Layout editieren
     - Funktionszeile links unten => Anzahl der Datensätze
     - Gruppieren möglich (Spalte nach oben ziehen => Seems Useless but maybe good => Thats how "Dispo-Fenster" is done probably
+        - Gruppieren => Feature für Disponmiert/Offen Spalte => Wieso nicht mit Fahrtstatus ? 
     - Vorsicht Änderungen der Ansicht werden nicht auto. gespeichert => Rechts oben Safe-Icon => Dropdown-Menu
     - Datums-Filter-Einstellungen probably wrong for us "BGO"
     - Grundfilter seems useful => DB-Makro to mark when 2 or more Variables fit the case!
@@ -90,9 +91,15 @@
     - **Entladestart == 08:00** | Bereitstellungsdatum + 1 Werktag
     - **Spedition hinzufügen**
 
+- **Rechtsclick-Menü** öffnet sich nur bei makierten Datensatz => Häckchen gesetzt.
+- 
+
 ## Guide für das Erstellen von Lager-WAB's (HIER MACHEN WIR EINIGES DOPPELT => Könnte man optimieren) 
 - In DB-Ansicht gewünschte Datensätze markieren ==> Meist kleine Aufträge für Lager-WAB
 - Rechtsclick => Button: In den **[Planungspool]()**
+- Öffnet [Neues_Fenster_Planungspool]()
+- Mann kann neuen Pool erstellen => Fenster muss geschlossen werden um zu aktualisieren.
+- "F5" => Auswahl vornehmen => PLanungspool nun sichbar!
 - Sobald Datensätze im **Planungspool** liegen werden sie auf **[Minimap]()** angezeigt!
 - Nach Auswahl der Punkte auf **Minimap** => Rechtsclick => Button: **Hinzufügen**
 - Ausgewählte Datensätze sind nun im **Virtuelle_Touren_Fenster**
@@ -140,6 +147,10 @@
 - Falls Planungspool zu viele Unnötige Items enthält => Planungspool komplett löschen => Neu Anlegen
 - _Note: Because multiple "Planungspools" are possible maybe make them according to "Zone's"_
 - _Note: Should make moving inbetween them way faster ?_
+
+## Not sure about some things yet
+- Button: **Fahrt Bearbeiten** auf erstellter Tour öffnet Fenster: **Fahrt_Bearbeiten_Fenster**
+    - Sinnhaftigkeit ? bzw. gibt es hier Felder die benützt werden die sonst nicht verwendet werden. 
 
 # Everything below this Heading is a Copy from Profi-Tour and will get changed along the Way (For Easy STRG+C & STRG+V)
 
