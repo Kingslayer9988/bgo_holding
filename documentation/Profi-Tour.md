@@ -180,8 +180,8 @@
 | **SC 3,5t Tour Meran - Brixen MI** | **SC $Fahrzeuge Tour $ORT_S $ORT_E $WT(TT)**  | Untertour 3,5t Fahrzeug <br> Laden von Lager-WAB |
 | **SC LKW Tour Fügen - Jenbach DI** | **SC $Fahrzeuge Tour $ORT_S $ORT_E $WT(TT)**  | Untertour LKW Fahrzeug <br> Laden von Lager-WAB|
 | **Plant SC Leiter / 6 Kunden** |  | Unter-Tour mit 6 Kunden <br> die SC-Leiter Plant |
-| **SC WAB für ULGB MI** | **SC WAB für ULGB $WT(TT)** | Lager-WAB Mittwoch <br> für **[⛰️ ULGB Voradelberg ist Anders](%EF%B8%8F-vorarlberg-ist-anders)** <br> Voradelberg nur "Platz" |
-| **ULGB Feldkirch - Dornbirn FR** |  | Unter-Tour in Vorarlberg (ULBG) am Freitag <br> PLANT SC LEITER |
+| **SC WAB für ULGB MI** | **SC WAB für ULGB $WT(TT)** | **[⛰️ ULGB Voradelberg ist Anders](%EF%B8%8F-vorarlberg-ist-anders)** <br> Lager-WAB Mittwoch <br> Voradelberg **immer "Platz"** |
+| **ULGB Feldkirch - Dornbirn FR** | **ULGB $ORT_S $ORT_E $WT(TT)** | **[⛰️ ULGB Voradelberg ist Anders](%EF%B8%8F-vorarlberg-ist-anders)** <br> Tour am Freitag(lt. ULGB) |
 
 > [!TIP]
 > **Schnelles Übernnahme in die Planung** - Planung Reiter offen lassen & Tour aus Planung Entfernen\
