@@ -181,7 +181,13 @@
 | **SC LKW Tour Fügen - Jenbach DI** | **SC $Fahrzeuge Tour $ORT_S $ORT_E $WT(TT)**  | Untertour LKW Fahrzeug <br> Laden von Lager-WAB|
 | **Plant SC Leiter / 6 Kunden** |  | Unter-Tour mit 6 Kunden <br> die SC-Leiter Plant |
 | **SC WAB für ULGB MI** | **SC WAB für ULGB $WT(TT)** | **[⛰️ ULGB Voradelberg ist Anders](%EF%B8%8F-vorarlberg-ist-anders)** <br> Lager-WAB Mittwoch <br> Voradelberg **immer "Platz"** |
-| **ULGB Feldkirch - Dornbirn FR** | **ULGB $ORT_S $ORT_E $WT(TT)** | **[⛰️ ULGB Voradelberg ist Anders](%EF%B8%8F-vorarlberg-ist-anders)** <br> Tour am Freitag(lt. ULGB) |
+| **ULGB Feldkirch - Dornbirn FR** | **ULGB $ORT_S $ORT_E $WT(TT)** | **[⛰️ ULGB Voradelberg ist Anders](%EF%B8%8F-vorarlberg-ist-anders)** <br> Tour am Freitag (lt. ULGB) |
+
+> [!NOTE]
+> Ich finde **[SC_ORT] & [Datum]** sollte jeder Tour beigefügt werden **[TT.MM.JJJJ]**\
+> Erlaubt später alle Gebiete bzw. mehrere KW's auf einmal zu bearbeiten!\
+> **SC WAB für [Fahrzeuge]** => Ist **Useless** und muss **oft geändert** werden!\
+> Hier sollte **meiner Meinung** nach die **Excel-Liste** angepasst werden!
 
 > [!TIP]
 > **Schnelles Übernnahme in die Planung** - Planung Reiter offen lassen & Tour aus Planung Entfernen\
