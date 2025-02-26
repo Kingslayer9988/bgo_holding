@@ -87,7 +87,7 @@
 | **Sattel** | ∞ | **60 m³** | Kein FZ=SPED_QUEHENBERGER | Nur bei **DIREKT_BAUSTELLEN** verwendet <br> Billiger als LKW + Anhänger <br> BGO hat **keinen eigenen Sattel** => **[Transportbestellung](#-guide-für-die-transportbestellung)** | C |
 
 - **Fahrzeuge are completely messed up in some areas => Needs fixing - Absprache mit SC-Leiter**
-    - [**Excel-Listen**]() von Isabel => Eintragen von **3,5t | 7,5t** Spalten
+    - **[Excel-Listen](Excel.md)** von Isabel => Eintragen von **3,5t | 7,5t** Spalten
     - **Excel & Profitour & Realität** = STIMMEN **NICHT** ÜBEREIN 💀
 
 ## 🗺️ Minimap - Kleine Karte links unten - Enthält ausgewählte Datensätze/Aufträge
@@ -150,7 +150,8 @@
 - Datensätze nach **WAB's (WAB-Nummern)** auswählen und **in die Auswahl** übernehmen. (Bsp. Alle Datensätze am "WAB 050")
     - WAB's sollten schon erstellt sein => **📦[Produktions-Abgabe](#-guide-für-die-abgabe-der-produktion)** bzw. **💣[Guide für WAB Touren](#-guide-für-das-erstellen-von-wab-touren--direktpost)**
 
-- **⚠️ Wunschtermine & Fixtermine** bzw. **größere Baustellen** beachten!!
+- **⚠️ Wunschtermine & Fixtermine** bzw. **größere Baustellen** beachten
+- **⚠️ FIXTERMIN** Im **Tourennamen** und im Feld **Bemerkung_Montage** vermerken (Außnahme Internet/Postversand)
 
 - **⏱️ [Montagezeit (Transportauftragsreport)](#%EF%B8%8F-montagezeit-kalkulieren-bzw-transportauftrag-checken) nachkalkulieren!**
 
@@ -158,15 +159,12 @@
     - Datensätze auf **[Minimap](#%EF%B8%8F-minimap---kleine-karte-links-unten---enthält-ausgewählte-datensätzeaufträge)** ansehen und nach **Orten/Fahrtstrecke** teilen
     - Datensätze im **Bearbeitungs-Fenster** - **aus der Tour lösen** bzw. **Stopp entfernen** bei erstellter Tour.
 
-- **🚗 Fahrzeug** nach **Gewicht, Volumen(m³)** der **Tour** einteilen **( 3,5t | 7,5t | LKW )** **[Siehe Hier](#-fahrzeuge)**
+- **🚛 Fahrzeug** nach **Gewicht, Volumen(m³)** der **Tour** einteilen **( 3,5t | 7,5t | LKW )** **[Siehe Hier](#-fahrzeuge)**
 
 - **☎️ Bei knappen/komischen-Touren** => **Absprache mit SC-Leiter** => **Plant-SC-Leiter-Tour erstellen**
     - **Ausnahme**: **[Vorarlberg ist anders](#%EF%B8%8F-vorarlberg-ist-anders) (ULGB)**
 
- - **Wochen-Auslatung des jeweiligen Herstelller berücksichtigen**
-    - Mit **Kollegen und Herstellen gute Lösung finden** (Isabell hat Schnittstelle vom Hersterller_H zum checken)
-
-- **⚠️ FIXTERMIN** Im **Tourennamen** und im Feld **Bemerkung_Montage** vermerken (Außnahme Internet/Postversand)
+ - 🔨 **[Glättung der Produktion](#-guide-für-die-glättung-der-produktion)** des **jeweiligen Herstelller** berücksichtigen
 
 - **📝 Naming-Scheme für Touren/WAB's:**
 
