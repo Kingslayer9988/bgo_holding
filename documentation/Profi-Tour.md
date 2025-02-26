@@ -83,7 +83,7 @@
 | **3,5 Tonnen** | **600 kg** | ∞ | GRAZ_Bus_1 | Nur für Unter-Touren verwendet | B |
 | **7,5 Tonnen** | **1000 kg** | **15 m³** | GRAZ_Bus_1 | Nur für Unter-Touren verwendet | C |
 | **LKW** | ∞ | **30 m³** | LKW_KESIC | Für Unter-Touren verwendet oder um Lager-WAB anzuliefern | C |
-| **LKW + Anhänger** | ∞ | **60 m³** | Kein FZ=SPED_WINKLER | Um 2 Lager-WAB's am selben Tag anzuliefern <br> Nicht auf Rampe | C |
+| **LKW + Hänger** | ∞ | **60 m³** | Kein FZ=SPED_WINKLER | Um 2 Lager-WAB's am selben Tag anzuliefern <br> Nicht auf Rampe | C |
 | **Sattel** | ∞ | **60 m³** | Kein FZ=SPED_QUEHENBERGER | Nur bei **DIREKT_BAUSTELLEN** verwendet <br> Billiger als LKW + Anhänger <br> BGO hat **keinen eigenen Sattel** => **[Transportbestellung](#-guide-für-die-transportbestellung)** | C |
 
 - **Fahrzeuge are completely messed up in some areas => Needs fixing - Absprache mit SC-Leiter**
