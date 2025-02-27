@@ -196,8 +196,11 @@
 > **Auswahl in Verladeplanung+ nicht verlieren** - Nach Auswahl zuerst Bereitstell_Datum dannach Produktions_Datum klicken
 
 ## 🔄 Nachplanen
-- Auto Verladeplanung => Innerhalb von 6 Tagen => 1W + 1 Tag ist noch möglich => Auto. Verladeplnung nicht richten !! Wegen Etiketten-Druck!!!
-- Bei Frachtbriefen die neu an SC leiter gesendet werden müssen Woche bereits Abgeben => Vor Aviso machen um Touren rot markiert zu haben
+- **WAB's richten** und **📄 Frachtbriefe/Tourenpläne** vor dem **[Erneut-Avisieren](#-erneut-avisieren-nach-avisieren)** machen um **geänderte Touren rot markiert** zu haben.
+- Aufpassen bei der **🔁 Automatische Verlade-Reihenfolge** => Falls der Tag nicht **mindestens 📅 8 Tage** in der Zukunft liegt
+    - **🔁 Automatische Verlade-Reihenfolge 🛑 NICHT** machen Wegen **Etiketten-Druck**
+- **[📄 Frachtbriefe & Tourenpläne für SC-Leiter](#-guide-für-frachtbriefe--tourenpläne-2-pdfs)** müssen neu gesendet falls die Woche bereits gesendet wurde.
+
 
 ## 📙 Vorraus Avisieren (Vor-Avisieren)
 - Kann auch **Telefonisch** gemacht werden => Gut für **Stammkunden**
@@ -268,7 +271,7 @@ Danke im Voraus.
     - Haben dann **Infos** über genaue Touren, Mitarbeiter, Fahrzeuge etc.
 - **Touren** markieren => **Export** => Wähle **Auslieferliste** -> **Saved as .csv on Remote [Profi-Tour-Server]** -> Copy to **[Work-PC]** and open in Excel
 - Apply Excel ✨ **Magic-Makros** ✨ **[Strg+Umschalt+A]** = Austria || **[Strg+Umschalt+D]** for "Germany"
-- Bei **Plant-SC-Leiter-Touren:** => **Lösche Inhalt der Zellen in Grün** und schreibe **"Plant SC-Leiter"** in **🔴 & Fett**
+- Bei **Plant-SC-Leiter-Touren:** => **Lösche Inhalt der Zellen in Grün** und schreibe **"Plant SC-Leiter"** in **Rot & Fett**
 - Save as **.xlsx**
 - Naming-Scheme: **ALL_$ORT[WIEN,LINZ,GRAZ,etc]_[KW$$].xlsx**
 
