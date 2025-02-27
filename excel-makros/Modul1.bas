@@ -5,83 +5,104 @@ Sub FixContainerColoringAndPercentages()
     Dim containerMap As Object
     Dim colorMap As Object
     Dim containerCount As Object
-    Dim dateMap As Object
-    Dim timeMap As Object
-    Dim topColumns As Variant, lastColumns As Variant, topdateColumns As Variant
+    Dim containerCells As Object
     Dim i As Integer, j As Integer, k As Integer
     Dim topValue As Variant, lastValue As String
     Dim colorCode As Long
-    Dim occurrences As Integer
     Dim cellDate As Variant, cellTime As Variant
-    Dim timeArray() As Double, sortedCells() As Range
-    Dim allDates As Object
-    Dim sortedList() As Variant, temp As Variant
+    Dim sortedKeys() As String, temp As Variant
     Dim Key As Variant
+    Dim fractionCell As Range
+    Dim row As Long, col As Long
 
     Set ws = ThisWorkbook.Sheets("Tourenplan Dispo")
     Set containerMap = CreateObject("Scripting.Dictionary")
     Set colorMap = CreateObject("Scripting.Dictionary")
     Set containerCount = CreateObject("Scripting.Dictionary")
-    Set dateMap = CreateObject("Scripting.Dictionary")
+    Set containerCells = CreateObject("Scripting.Dictionary")
 
     ' Touren Felder (Top Section)
+    Dim topColumns As Variant
     topColumns = Array(4, 7, 10, 13, 16, 19) ' D, G, J, M, P, S
-    topdateColumns = Array(3, 6, 9, 12, 15, 18) ' C, F, I, L, O, R
+    
+    Dim dateColumns As Variant
+    dateColumns = Array(3, 6, 9, 12, 15, 18) ' C, F, I, L, O, R
+    
     ' WAB Felder (Bottom Section)
+    Dim lastColumns As Variant
     lastColumns = Array(2, 5, 8, 11, 14, 17) ' B, E, H, K, N, Q
-
-    ' **STEP 1: Count occurrences and store date & time**
+    
+    ' **EXTREME CLEARING** - Clear ALL cells in ALL fraction columns
+    ' This ensures there are no leftover values from previous runs
+    On Error Resume Next
+    For i = LBound(dateColumns) To UBound(dateColumns)
+        col = dateColumns(i)
+        For row = 1 To 50 ' Cover the entire worksheet range
+            ws.Cells(row, col).value = ""
+        Next row
+    Next i
+    On Error GoTo 0
+    
+    ' STEP 1: First collect all container cells and assign colors
     For i = LBound(topColumns) To UBound(topColumns)
         Set topRange = ws.Range(ws.Cells(3, topColumns(i)), ws.Cells(23, topColumns(i)))
-
+        
         For Each topCell In topRange
             topValue = CleanNumber(topCell.value)
             If topValue <> "" Then
                 ' Extract Date from Row 2
-                cellDate = ws.Cells(2, topdateColumns(i)).value
+                cellDate = ws.Cells(2, dateColumns(i)).value
                 ' Extract Time from row below container number
-                cellTime = ws.Cells(topCell.Row + 1, topColumns(i)).value
-
-                ' Store count of containers
+                cellTime = ws.Cells(topCell.row + 1, topColumns(i)).value
+                
+                ' Create a sort key for this container occurrence
+                Dim sortKey As String
+                If IsDate(cellDate) Then
+                    sortKey = Format(cellDate, "yyyy-mm-dd")
+                Else
+                    sortKey = "1900-01-01"
+                End If
+                
+                If IsDate(cellTime) Then
+                    sortKey = sortKey & " " & Format(cellTime, "hh:mm:ss")
+                Else
+                    sortKey = sortKey & " 00:00:00"
+                End If
+                
+                ' Store container cell with sort key
+                If Not containerCells.Exists(topValue) Then
+                    Set containerCells(topValue) = CreateObject("Scripting.Dictionary")
+                End If
+                
+                ' Use a unique key with cell address to avoid duplicates
+                containerCells(topValue).Add sortKey & "_" & topCell.Address, topCell
+                
+                ' Count containers
                 If containerCount.Exists(topValue) Then
                     containerCount(topValue) = containerCount(topValue) + 1
                 Else
                     containerCount.Add topValue, 1
                 End If
-
+                
                 ' Assign color if not already assigned
                 If Not colorMap.Exists(topValue) Then
-                    If containerCount.Exists(topValue) Then
-                        Randomize topValue
-                        colorCode = RGB(Int(Rnd * 255), Int(Rnd * 255), Int(Rnd * 255))
-                        colorMap.Add topValue, colorCode
-                    End If
+                    Randomize topValue
+                    colorCode = RGB(Int(Rnd * 255), Int(Rnd * 255), Int(Rnd * 255))
+                    colorMap.Add topValue, colorCode
                 End If
                 colorCode = colorMap(topValue)
-
+                
                 ' Apply color to top section
                 topCell.Interior.Color = colorCode
                 topCell.Offset(1, 0).Interior.Color = colorCode ' Also color time row
-
-                ' Store date/time for sorting
-                If Not dateMap.Exists(topValue) Then
-                    Set dateMap(topValue) = CreateObject("Scripting.Dictionary")
-                End If
-                If Not dateMap(topValue).Exists(cellDate) Then
-                    Set dateMap(topValue)(cellDate) = CreateObject("Scripting.Dictionary")
-                End If
-                ' **Fix: Only add unique time entries**
-                If Not dateMap(topValue)(cellDate).Exists(cellTime) Then
-                    dateMap(topValue)(cellDate).Add cellTime, topCell
-                End If
             End If
         Next topCell
     Next i
-
-    ' **STEP 2: Assign Colors for WAB Fields**
+    
+    ' STEP 2: Assign Colors for WAB Fields
     For i = LBound(topColumns) To UBound(topColumns)
         Set lastRows = ws.Range(ws.Cells(35, lastColumns(i)), ws.Cells(38, lastColumns(i)))
-
+        
         For Each lastCell In lastRows
             lastValue = CleanNumber(lastCell.value)
             If lastValue <> "" Then
@@ -94,7 +115,7 @@ Sub FixContainerColoringAndPercentages()
                     End If
                 End If
                 colorCode = colorMap(lastValue)
-
+                
                 ' Apply color
                 lastCell.Interior.Color = colorCode
                 lastCell.Offset(0, 1).Interior.Color = colorCode
@@ -103,54 +124,65 @@ Sub FixContainerColoringAndPercentages()
             End If
         Next lastCell
     Next i
-
-    ' **STEP 3: Assign fractions & sort time for fraction calculation**
-    For Each topValue In containerCount.Keys
-        If dateMap.Exists(topValue) Then
-            Set allDates = CreateObject("Scripting.Dictionary")
-
-            ' Collect all date-time pairs for the container
-            For Each cellDate In dateMap(topValue).Keys
-                For Each cellTime In dateMap(topValue)(cellDate).Keys
-                    allDates.Add cellDate & "_" & cellTime, Array(cellDate, cellTime, dateMap(topValue)(cellDate)(cellTime))
-                Next cellTime
-            Next cellDate
-
-            ' Sort all dates and times globally
-            ReDim sortedList(allDates.count - 1)
-
+    
+    ' STEP 3: Assign fractions globally for each container
+    For Each topValue In containerCells.Keys
+        If containerCells(topValue).count > 0 Then
+            ' Get all sort keys for this container
+            ReDim sortedKeys(containerCells(topValue).count - 1)
             j = 0
-            For Each Key In allDates.Keys
-                sortedList(j) = allDates(Key)
+            For Each Key In containerCells(topValue).Keys
+                sortedKeys(j) = Key
                 j = j + 1
             Next Key
-
-            ' Sort based on date & time
-            For j = LBound(sortedList) To UBound(sortedList) - 1
-                For k = j + 1 To UBound(sortedList)
-                    If sortedList(j)(0) > sortedList(k)(0) Or (sortedList(j)(0) = sortedList(k)(0) And sortedList(j)(1) > sortedList(k)(1)) Then
-                        temp = sortedList(j)
-                        sortedList(j) = sortedList(k)
-                        sortedList(k) = temp
+            
+            ' Sort the keys to get the correct order
+            For j = LBound(sortedKeys) To UBound(sortedKeys) - 1
+                For k = j + 1 To UBound(sortedKeys)
+                    If sortedKeys(j) > sortedKeys(k) Then
+                        temp = sortedKeys(j)
+                        sortedKeys(j) = sortedKeys(k)
+                        sortedKeys(k) = temp
                     End If
                 Next k
             Next j
-
-            ' Assign fractions based on global sorting
-            For j = LBound(sortedList) To UBound(sortedList)
-                ' Write the fraction to the cell to the left of the container
-                sortedList(j)(2).Offset(0, -1).value = (j + 1) & "/" & allDates.count
+            
+            ' Assign fractions in order
+            For j = LBound(sortedKeys) To UBound(sortedKeys)
+                ' Get the container cell
+                Set topCell = containerCells(topValue)(sortedKeys(j))
                 
+                ' CRITICAL: Get EXACT column and row for the fraction cell
+                col = topCell.Column - 1
+                row = topCell.row
+                
+                ' Now use direct cell reference - avoid using Offset which might introduce errors
+                ws.Cells(row, col).NumberFormat = "@"
+                ws.Cells(row, col).value = (j + 1) & "/" & containerCells(topValue).count
             Next j
         End If
     Next topValue
-
+    
+    ' VERIFICATION STEP: Double-check no values in cells below fractions
+    ' This is a safeguard to ensure no values appear where they shouldn't
+    For i = LBound(topColumns) To UBound(topColumns)
+        Set topRange = ws.Range(ws.Cells(3, topColumns(i)), ws.Cells(23, topColumns(i)))
+        
+        For Each topCell In topRange
+            If topCell.value <> "" Then
+                ' Check the cell below the fraction
+                On Error Resume Next
+                ws.Cells(topCell.row + 1, topCell.Column - 1).value = ""
+                On Error GoTo 0
+            End If
+        Next topCell
+    Next i
+    
     ' Cleanup
     Set containerMap = Nothing
     Set colorMap = Nothing
     Set containerCount = Nothing
-    Set dateMap = Nothing
-    Set allDates = Nothing
+    Set containerCells = Nothing
 End Sub
 
 ' Function to clean numbers (removes text)
