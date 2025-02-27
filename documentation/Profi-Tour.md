@@ -198,7 +198,7 @@
 ## 🔄 Nachplanen
 - **WAB's richten** und **📄 Frachtbriefe/Tourenpläne** vor dem **[Erneut-Avisieren](#-erneut-avisieren-nach-avisieren)** machen um **geänderte Touren rot markiert** zu haben.
 - Aufpassen bei der **🔁 Automatische Verlade-Reihenfolge** => Falls der Tag nicht **mindestens 📅 8 Tage** in der Zukunft liegt
-    - **🔁 Automatische Verlade-Reihenfolge 🛑 NICHT** machen Wegen **Etiketten-Druck**
+- **🛑 Keine 🔁 Automatische Verlade-Reihenfolge** machen Wegen **Etiketten-Druck**
 - **[📄 Frachtbriefe & Tourenpläne für SC-Leiter](#-guide-für-frachtbriefe--tourenpläne-2-pdfs)** müssen neu gesendet falls die Woche bereits gesendet wurde.
 
 
