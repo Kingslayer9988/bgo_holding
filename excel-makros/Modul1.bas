@@ -94,7 +94,7 @@ Sub FixContainerColoringAndPercentages()
                 
                 ' Apply color to top section
                 topCell.Interior.Color = colorCode
-                topCell.Offset(1, 0).Interior.Color = colorCode ' Also color time row
+                ' topCell.Offset(1, 0).Interior.Color = colorCode ' Also color time row
             End If
         Next topCell
     Next i
@@ -121,6 +121,8 @@ Sub FixContainerColoringAndPercentages()
                 lastCell.Offset(0, 1).Interior.Color = colorCode
                 lastCell.Offset(1, 0).Interior.Color = colorCode
                 lastCell.Offset(1, 1).Interior.Color = colorCode
+                lastCell.Offset(0, 2).Interior.Color = colorCode
+                lastCell.Offset(1, 2).Interior.Color = colorCode
             End If
         Next lastCell
     Next i
