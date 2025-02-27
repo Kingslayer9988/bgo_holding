@@ -9,6 +9,7 @@
     * ▶️ **Starten der Planung von mindestens $Folge_KW_4** => Bsp.: **Montag_KW_08 für KW_12** => **[Guide](#-guide-für-das-erstellen-von-wab-touren--direktpost)**
 - **📅 Dienstag:**
     - ⌛ **Daily Quests**
+    - **📗 Avisieren mindestens $Folge_KW_2**=> Bsp.: **Dienstag_KW08 für KW_10** => **[Guide](#-avisieren)**
 - **📅 Mittwoch:**
     - ⌛ **Daily Quests**
 - **📅 Donnerstag:**
