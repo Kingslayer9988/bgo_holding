@@ -32,7 +32,7 @@
 ### ⚖️ LAW Number One ➡️ Don't mess with Profi-Tour-Profile from Isabel
 ### ⚖️ LAW Number Two ➡️ Bei jeder Änderung -> Export für Hersteller
 ### ⚖️ LAW Number Three ➡️ Don't even try SPECIAL_LETTERS(§$%) in Profitour
-### ⚖️ LAW Number Four ➡️ Don't open too many Instances because of double "Übernahme in Planung"
+### ⚖️ LAW Number Four ➡️ Don't open many Instances because of double "Übernahme in Planung"
 ---
 
 ## 💎 General Infos:
