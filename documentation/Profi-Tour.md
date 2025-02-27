@@ -194,6 +194,10 @@
 > **Schnelles Verplanen von Änderungen** - Teilen von Aufträgen auch im Unbearbeitet-Fenster gemacht werden\
 > **Auswahl in Verladeplanung+ nicht verlieren** - Nach Auswahl zuerst Bereitstell_Datum dannach Produktions_Datum klicken
 
+## 🔄 Nachplanen
+- Auto Verladeplanung => Innerhalb von 6 Tagen => 1W + 1 Tag ist noch möglich => Auto. Verladeplnung nicht richten !! Wegen Etiketten-Druck!!!
+- Bei Frachtbriefen die neu an SC leiter gesendet werden müssen Woche bereits Abgeben => Vor Aviso machen um Touren rot markiert zu haben
+
 ## 📙 Vorraus Avisieren (Vor-Avisieren)
 - Kann auch **Telefonisch** gemacht werden => Gut für **Stammkunden**
 - **E-Mail & Kontakt & Datum** aus Profitour (Datenbank-Ansicht) nehmen und **E-Mail** erfassen!
