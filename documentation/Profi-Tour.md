@@ -23,7 +23,7 @@
 
 - **⌛ Daily Quests:**
     - ♻️ Bei jedem Import von Hersteller_H **06:30 & 14:00 Täglich** (Hr. Roither für Probleme)
-        - 🔄 **Nachplanen** => **Alle neuen Aufträge** wieder verplanen für **$Folge_KW_1 & $Folge_KW_2 & $Folge_KW_3 & $Folge_KW_4**
+        - 🔄 **Nachplanen** => **Alle neuen Aufträge** wieder verplanen für **$Folge_KW_1 & $Folge_KW_2 & $Folge_KW_3 & $Folge_KW_4** ==> **[Guide](#-nachplanen)**
         - 🔶 Ausnahme **Freitags 14:00: Nur DIREKT/POST** Lieferungen verplanen **(Runde der Mitarbeiter)** 
     - 📺 **TV's** machen die Anfallen! => **[Guide](#-guide-für-tv-tv--termin-Verspätung)**
 
