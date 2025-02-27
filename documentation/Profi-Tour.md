@@ -185,7 +185,7 @@
 | **ULGB Feldkirch - Dornbirn FR** | **ULGB $ORT_S $ORT_E $WT(TT)** | **[⛰️ ULGB Voradelberg ist Anders](%EF%B8%8F-vorarlberg-ist-anders)** <br> Tour am Freitag (lt. ULGB) |
 
 > [!NOTE]
-> Ich finde **[SC_ORT] & [Datum]** sollte jeder Tour beigefügt werden **[TT.MM.JJJJ]**\
+> Ich finde **[SC_ORT] & [Datum]** sollte jeder Tour beigefügt werden **[TT.MM.JJJJ]**
 > Erlaubt später alle Gebiete bzw. mehrere KW's auf einmal zu bearbeiten!\
 > **SC WAB für [Fahrzeuge]** => Ist **Useless** und muss **oft geändert** werden!\
 > Hier sollte **meiner Meinung** nach die **Excel-Liste** angepasst werden!
