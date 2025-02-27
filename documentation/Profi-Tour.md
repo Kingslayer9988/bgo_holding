@@ -80,7 +80,7 @@
      
 | Fahrzeug | Gewicht | Volumen | Name | Kommentar | FS |
 | --- | --- | --- | --- | --- | --- |
-| **Montage-Bus** | **???** | **4m³** | GRAZ_Direkt | Für Arbeiter um zu Baustelle zu kommen <br> zB. Bei DIREKT_BAUSTELLE | B |
+| **Mont-Bus** | **???** | **4m³** | GRAZ_Direkt | Für Arbeiter um zu Baustelle zu kommen <br> zB. Bei DIREKT_BAUSTELLE | B |
 | **3,5 Tonnen** | **600 kg** | ∞ | GRAZ_Bus_1 | Nur für Unter-Touren verwendet | B |
 | **7,5 Tonnen** | **1000 kg** | **15 m³** | GRAZ_Bus_1 | Nur für Unter-Touren verwendet | C |
 | **LKW** | ∞ | **30 m³** | LKW_KESIC | Für Unter-Touren verwendet oder um Lager-WAB anzuliefern | C |
