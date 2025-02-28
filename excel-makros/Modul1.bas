@@ -26,7 +26,7 @@ Sub FixContainerColoringAndPercentages()
     topColumns = Array(4, 7, 10, 13, 16, 19) ' D, G, J, M, P, S
     
     Dim dateColumns As Variant
-    dateColumns = Array(3, 6, 9, 12, 15, 18) ' C, F, I, L, O, R
+    dateColumns = Array(2, 5, 8, 11, 14, 17) ' B, E, H, K, N, Q
     
     ' WAB Felder (Bottom Section)
     Dim lastColumns As Variant
@@ -34,14 +34,14 @@ Sub FixContainerColoringAndPercentages()
     
     ' **EXTREME CLEARING** - Clear ALL cells in ALL fraction columns
     ' This ensures there are no leftover values from previous runs
-    On Error Resume Next
-    For i = LBound(dateColumns) To UBound(dateColumns)
-        col = dateColumns(i)
-        For row = 1 To 50 ' Cover the entire worksheet range
-            ws.Cells(row, col).value = ""
-        Next row
-    Next i
-    On Error GoTo 0
+    ' On Error Resume Next
+    ' For i = LBound(dateColumns) To UBound(dateColumns)
+    '    col = dateColumns(i)
+    '    For row = 1 To 39 ' Cover the entire worksheet range
+    '        ws.Cells(row, col).value = ""
+    '    Next row
+    ' Next i
+    ' On Error GoTo 0
     
     ' STEP 1: First collect all container cells and assign colors
     For i = LBound(topColumns) To UBound(topColumns)
