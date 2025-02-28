@@ -1,4 +1,4 @@
-Sub FixContainerColoringAndPercentages()
+Sub FixContainerColoringAndPercentagesNew()
     Dim ws As Worksheet
     Dim topRange As Range, lastRows As Range
     Dim topCell As Range, lastCell As Range
@@ -32,17 +32,6 @@ Sub FixContainerColoringAndPercentages()
     Dim lastColumns As Variant
     lastColumns = Array(2, 5, 8, 11, 14, 17) ' B, E, H, K, N, Q
     
-    ' **EXTREME CLEARING** - Clear ALL cells in ALL fraction columns
-    ' This ensures there are no leftover values from previous runs
-    ' On Error Resume Next
-    ' For i = LBound(dateColumns) To UBound(dateColumns)
-    '    col = dateColumns(i)
-    '    For row = 1 To 39 ' Cover the entire worksheet range
-    '        ws.Cells(row, col).value = ""
-    '    Next row
-    ' Next i
-    ' On Error GoTo 0
-    
     ' STEP 1: First collect all container cells and assign colors
     For i = LBound(topColumns) To UBound(topColumns)
         Set topRange = ws.Range(ws.Cells(3, topColumns(i)), ws.Cells(23, topColumns(i)))
@@ -52,8 +41,10 @@ Sub FixContainerColoringAndPercentages()
             If topValue <> "" Then
                 ' Extract Date from Row 2
                 cellDate = ws.Cells(2, dateColumns(i)).value
-                ' Extract Time from row below container number
-                cellTime = ws.Cells(topCell.row + 1, topColumns(i)).value
+                
+                ' IMPORTANT FIX: Extract Time from row DIRECTLY below container number
+                ' This is the critical fix needed
+                cellTime = ws.Cells(topCell.row + 1, topCell.Column).value
                 
                 ' Create a sort key for this container occurrence
                 Dim sortKey As String
@@ -63,19 +54,43 @@ Sub FixContainerColoringAndPercentages()
                     sortKey = "1900-01-01"
                 End If
                 
-                If IsDate(cellTime) Then
-                    sortKey = sortKey & " " & Format(cellTime, "hh:mm:ss")
+                ' FIX: Handle time values correctly for sorting
+                ' Convert any time format to a standardized string for sorting
+                If Not IsEmpty(cellTime) Then
+                    ' For numeric time formats (e.g., 8.5 representing 8:30)
+                    If IsNumeric(cellTime) Then
+                        sortKey = sortKey & " " & Format(cellTime, "hh:mm:ss")
+                    ' For time strings like "08:00" or "0800"
+                    ElseIf VarType(cellTime) = vbString Then
+                        If Len(cellTime) = 4 And IsNumeric(cellTime) Then
+                            ' Handle "0800" format
+                            sortKey = sortKey & " " & Left(cellTime, 2) & ":" & Right(cellTime, 2) & ":00"
+                        ElseIf InStr(cellTime, ":") > 0 Then
+                            ' Handle "08:00" format
+                            sortKey = sortKey & " " & cellTime & ":00"
+                        Else
+                            sortKey = sortKey & " 99:99:99" ' Invalid time format
+                        End If
+                    Else
+                        sortKey = sortKey & " 99:99:99" ' Unknown time format
+                    End If
                 Else
-                    sortKey = sortKey & " 00:00:00"
+                    sortKey = sortKey & " 99:99:99" ' No time value
                 End If
+                
+                ' Ensure uniqueness by adding cell address at the end
+                sortKey = sortKey & "_" & topCell.Address
+                
+                ' Debug the sort key being created
+                ' ws.Cells(topCell.row, 20).value = sortKey ' Uncomment to see sort keys
                 
                 ' Store container cell with sort key
                 If Not containerCells.Exists(topValue) Then
                     Set containerCells(topValue) = CreateObject("Scripting.Dictionary")
                 End If
                 
-                ' Use a unique key with cell address to avoid duplicates
-                containerCells(topValue).Add sortKey & "_" & topCell.Address, topCell
+                ' Use the sortKey as dictionary key to enable proper sorting
+                containerCells(topValue).Add sortKey, topCell
                 
                 ' Count containers
                 If containerCount.Exists(topValue) Then
@@ -94,7 +109,8 @@ Sub FixContainerColoringAndPercentages()
                 
                 ' Apply color to top section
                 topCell.Interior.Color = colorCode
-                ' topCell.Offset(1, 0).Interior.Color = colorCode ' Also color time row
+                ' Also color time row
+                topCell.Offset(0, 0).Interior.Color = colorCode
             End If
         Next topCell
     Next i
@@ -128,6 +144,7 @@ Sub FixContainerColoringAndPercentages()
     Next i
     
     ' STEP 3: Assign fractions globally for each container
+    ' THIS IS THE CRITICAL PART THAT NEEDS TO BE FIXED
     For Each topValue In containerCells.Keys
         If containerCells(topValue).count > 0 Then
             ' Get all sort keys for this container
@@ -138,7 +155,7 @@ Sub FixContainerColoringAndPercentages()
                 j = j + 1
             Next Key
             
-            ' Sort the keys to get the correct order
+            ' Sort the keys to ensure correct order by date + time
             For j = LBound(sortedKeys) To UBound(sortedKeys) - 1
                 For k = j + 1 To UBound(sortedKeys)
                     If sortedKeys(j) > sortedKeys(k) Then
@@ -148,6 +165,11 @@ Sub FixContainerColoringAndPercentages()
                     End If
                 Next k
             Next j
+            
+            ' Optional debug - show sorted keys for verification
+            ' For j = LBound(sortedKeys) To UBound(sortedKeys)
+            '    Debug.Print j & ": " & sortedKeys(j)
+            ' Next j
             
             ' Assign fractions in order
             For j = LBound(sortedKeys) To UBound(sortedKeys)
@@ -161,6 +183,9 @@ Sub FixContainerColoringAndPercentages()
                 ' Now use direct cell reference - avoid using Offset which might introduce errors
                 ws.Cells(row, col).NumberFormat = "@"
                 ws.Cells(row, col).value = (j + 1) & "/" & containerCells(topValue).count
+                
+                ' Debug - show the order assignment
+                ' ws.Cells(row, 21).value = j + 1
             Next j
         End If
     Next topValue
