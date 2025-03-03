@@ -6,6 +6,7 @@ Sub FixContainerColoringAndPercentagesNew()
     Dim colorMap As Object
     Dim containerCount As Object
     Dim containerCells As Object
+    Dim containerDates As Object ' New dictionary to store container dates
     Dim i As Integer, j As Integer, k As Integer
     Dim topValue As Variant, lastValue As String
     Dim colorCode As Long
@@ -15,12 +16,14 @@ Sub FixContainerColoringAndPercentagesNew()
     Dim fractionCell As Range
     Dim row As Long, col As Long
     Dim textColor As Long ' Added for contrasting text color
+    Dim containerDay As Integer, tourDay As Integer ' New variables for date comparison
 
     Set ws = ThisWorkbook.Sheets("Tourenplan Dispo")
     Set containerMap = CreateObject("Scripting.Dictionary")
     Set colorMap = CreateObject("Scripting.Dictionary")
     Set containerCount = CreateObject("Scripting.Dictionary")
     Set containerCells = CreateObject("Scripting.Dictionary")
+    Set containerDates = CreateObject("Scripting.Dictionary") ' Initialize container dates dictionary
 
     ' Touren Felder (Top Section)
     Dim topColumns As Variant
@@ -33,7 +36,33 @@ Sub FixContainerColoringAndPercentagesNew()
     Dim lastColumns As Variant
     lastColumns = Array(2, 5, 8, 11, 14, 17) ' B, E, H, K, N, Q
     
-    ' STEP 1: First collect all container cells and assign colors
+    ' STEP 0: First collect all container dates from the bottom section
+    For i = LBound(lastColumns) To UBound(lastColumns)
+        Set lastRows = ws.Range(ws.Cells(35, lastColumns(i)), ws.Cells(38, lastColumns(i)))
+        
+        For Each lastCell In lastRows
+            lastValue = CleanNumber(lastCell.value)
+            If lastValue <> "" Then
+                ' Get the date from the column header (row 2)
+                Dim containerDate As Variant
+                containerDate = ws.Cells(2, lastColumns(i)).value
+                
+                ' Store the container and its date
+                If IsDate(containerDate) Then
+                    ' If container already exists in dictionary, only update if this date is earlier
+                    If containerDates.Exists(lastValue) Then
+                        If CDate(containerDate) < CDate(containerDates(lastValue)) Then
+                            containerDates(lastValue) = containerDate
+                        End If
+                    Else
+                        containerDates.Add lastValue, containerDate
+                    End If
+                End If
+            End If
+        Next lastCell
+    Next i
+    
+    ' STEP 1: Collect all container cells and assign colors
     For i = LBound(topColumns) To UBound(topColumns)
         Set topRange = ws.Range(ws.Cells(3, topColumns(i)), ws.Cells(23, topColumns(i)))
         
@@ -82,9 +111,6 @@ Sub FixContainerColoringAndPercentagesNew()
                 ' Ensure uniqueness by adding cell address at the end
                 sortKey = sortKey & "_" & topCell.Address
                 
-                ' Debug the sort key being created
-                ' ws.Cells(topCell.row, 20).value = sortKey ' Uncomment to see sort keys
-                
                 ' Store container cell with sort key
                 If Not containerCells.Exists(topValue) Then
                     Set containerCells(topValue) = CreateObject("Scripting.Dictionary")
@@ -103,7 +129,16 @@ Sub FixContainerColoringAndPercentagesNew()
                 ' Assign color if not already assigned
                 If Not colorMap.Exists(topValue) Then
                     Randomize topValue
-                    colorCode = RGB(Int(Rnd * 255), Int(Rnd * 255), Int(Rnd * 255))
+                    ' Ensure we never generate red (255,0,0) as a random color
+                    Dim r As Integer, g As Integer, b As Integer
+                    r = Int(Rnd * 230) ' Max 230 instead of 255 to avoid pure red
+                    g = Int(Rnd * 255)
+                    b = Int(Rnd * 255)
+                    ' If it's too close to red, add some green to make it distinct
+                    If r > 200 And g < 50 And b < 50 Then
+                        g = g + 100 ' Add some green to avoid looking like the error color
+                    End If
+                    colorCode = RGB(r, g, b)
                     colorMap.Add topValue, colorCode
                 End If
                 colorCode = colorMap(topValue)
@@ -111,13 +146,27 @@ Sub FixContainerColoringAndPercentagesNew()
                 ' Get contrasting text color (black or white)
                 textColor = GetContrastingTextColor(colorCode)
                 
+                ' NEW: Check if container date is later than tour date
+                Dim isInvalidDate As Boolean
+                isInvalidDate = False
+                
+                If containerDates.Exists(topValue) And IsDate(cellDate) And IsDate(containerDates(topValue)) Then
+                    ' Compare dates - if container is scheduled after tour, mark as invalid
+                    If CDate(containerDates(topValue)) > CDate(cellDate) Then
+                        isInvalidDate = True
+                        ' If invalid, override with red color
+                        colorCode = RGB(255, 0, 0)
+                        textColor = RGB(255, 255, 255) ' White text on red background
+                    End If
+                End If
+                
                 ' Apply color to top section
                 topCell.Interior.Color = colorCode
                 topCell.Font.Color = textColor
                 
                 ' Also color time cell below
-                topCell.Offset(0, 0).Interior.Color = colorCode
-                topCell.Offset(0, 0).Font.Color = textColor
+                topCell.Offset(1, 0).Interior.Color = colorCode
+                topCell.Offset(1, 0).Font.Color = textColor
             End If
         Next topCell
     Next i
@@ -186,11 +235,6 @@ Sub FixContainerColoringAndPercentagesNew()
                 Next k
             Next j
             
-            ' Optional debug - show sorted keys for verification
-            ' For j = LBound(sortedKeys) To UBound(sortedKeys)
-            '    Debug.Print j & ": " & sortedKeys(j)
-            ' Next j
-            
             ' Assign fractions in order
             For j = LBound(sortedKeys) To UBound(sortedKeys)
                 ' Get the container cell
@@ -202,7 +246,30 @@ Sub FixContainerColoringAndPercentagesNew()
                 
                 ' Now use direct cell reference - avoid using Offset which might introduce errors
                 ws.Cells(row, col).NumberFormat = "@"
-                ws.Cells(row, col).value = (j + 1) & "/" & containerCells(topValue).count
+                
+                ' Get the tour cell and check if it has an invalid date
+                Set topCell = containerCells(topValue)(sortedKeys(j))
+                Dim tourCellDate As Variant
+                Dim tourColIndex As Integer
+                tourColIndex = GetArrayIndex(topColumns, topCell.Column)
+                If tourColIndex >= 0 Then
+                    tourCellDate = ws.Cells(2, dateColumns(tourColIndex)).value
+                End If
+                
+                Dim isDateError As Boolean
+                isDateError = False
+                
+                If containerDates.Exists(topValue) And IsDate(tourCellDate) And IsDate(containerDates(topValue)) Then
+                    If CDate(containerDates(topValue)) > CDate(tourCellDate) Then
+                        isDateError = True
+                        ws.Cells(row, col).value = "Date Error"
+                    End If
+                End If
+                
+                ' Only use the fraction if it's not a date error
+                If Not isDateError Then
+                    ws.Cells(row, col).value = (j + 1) & "/" & containerCells(topValue).count
+                End If
             Next j
         End If
     Next topValue
@@ -227,6 +294,7 @@ Sub FixContainerColoringAndPercentagesNew()
     Set colorMap = Nothing
     Set containerCount = Nothing
     Set containerCells = Nothing
+    Set containerDates = Nothing
 End Sub
 
 ' Function to clean numbers (removes text)
@@ -242,6 +310,19 @@ Function CleanNumber(value As String) As String
     Next i
     
     CleanNumber = Trim(cleanedValue)
+End Function
+
+' Function to find index of value in array
+Function GetArrayIndex(arr As Variant, valueToFind As Variant) As Integer
+    Dim i As Integer
+    GetArrayIndex = -1
+    
+    For i = LBound(arr) To UBound(arr)
+        If arr(i) = valueToFind Then
+            GetArrayIndex = i
+            Exit Function
+        End If
+    Next i
 End Function
 
 ' Function to determine if a color is light or dark and return a contrasting color
