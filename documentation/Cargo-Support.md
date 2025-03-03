@@ -137,6 +137,25 @@
 - Button: **Tour_erzeugen** => **Feld: Name** => (Bsp. SC 3,5 t Tour Graz - Gresten) => Again siehe Profi-Tour
 - **Feld: Freitext_1** => **WAB-Nummer** wie **Profitour** => Nummern-Kreis
 
+## Zonen Erik NOS
+- **Voradelberg[VBG] - (SC Dornbirn) + DE (Deutschland) + FL (Liechtenstein) + CH (Schweiz)**
+    - **(J)** = Cargo-Support
+    - Kein Küchenmonteur ⭕
+- **Tirol[T] (SC Innsbruck)**
+    - **(I)** = Cargo-Support
+    - Kein Küchenmonteur ⭕
+- **Kärnten[KTN] (SC Klagenfurt) + ITA (Italien)**
+    - **(G)** = Cargo-Support
+    - Küchenmonteur vorhanden ✔️
+    - Kleines SC => Max 2 LKW pro Tag (1x Platz & 1x Rampe)
+- **Steiermark[STMK] (SC Graz) + HR (Kroatien) + SI (Slovakei) + SLO (Solvenien)**
+    - **(F)** = Cargo-Support
+    - Kein Küchenmonteur aber gute Monteure(Außnahme) ✔️   
+- **Deutschland Gesamt (Relogg-Partner)** (UNSURE ASK ISABEL 😕)
+    - **(???)** = Cargo-Support
+    - Noch nicht sicher ❓ ❓ ❓
+    - Ähnlich wie Voradelberg (Relogg ~ ULGB)
+        
 ## Minimap
 - Steuerung ist **Invertiert** im vergleich mit Profi-Tour **[STRG] [SHIFT]**
 - Farben sind ohne bedeutung ==> Should be fixed!
