@@ -57,8 +57,10 @@
 - BIG CON = Minimap is way worse than Profi-Tour => G-Maps API is perfect => But no Coloring of Dots is horrible & Loadingtimes are also horrible
 - Tiny CON = Keinen "KW" Filter in DB-Ansicht
 - Tiny CON = Steilere Lernkurve
-
 - UNSURE = **Planungspool** - Maybe better maybe worse not sure yet.  
+
+## Felder die für alle User verstellet werden & Uselesse Felder
+- Startzeit_ab & Startzeit_bis = ???
 
 ## DB-Ansicht besteht aus 2 Teilen
 - Oben => Datenbank => Unverplante Datensätze ==> Pretty much 1:1 Datenbank-Ansicht in Profitour
@@ -68,7 +70,6 @@
 - Fahrzeug: Dropdown
 - Fahrtstatus in Standartansicht => Rechts => Disponiert / Offen => Bei uns Unten/Oben
 - Frachtbrief & Tourenplan & Transportauftrag & Auftragsbest => Alle von **DB-Ansicht** aus **druckbar** => **"F6"**
-- 
 
 ## Programmstart & Filter der Aufträge
 - Filter in der DB-Ansicht ist oben links => Keine "KW" => Montag bis Sonntag der gewünschten KW auswählen.
@@ -91,7 +92,10 @@
     - **Entladestart == 08:00** | Bereitstellungsdatum + 1 Werktag
     - **Spedition hinzufügen**
 
-- **Rechtsclick-Menü** öffnet sich nur bei makierten Datensatz => Häckchen gesetzt.
+## Rechtsclick-Menü** öffnet sich nur bei makierten Datensatz => Häckchen gesetzt.
+- Button: **In den Planungspool** = Datensätze in das Virtuelle_Touren_Fenster übernehmen!
+- Button: **Letztes_E_Avis_Termin** => 3h Aviszeit für Kunden hinterlegen => wird nicht gesendet!
+- Button: **Fahrt Bearbeiten** auf erstellter Tour öffnet Fenster: **Fahrt_Bearbeiten_Fenster**
 
 ## Guide für das Erstellen von Lager-WAB's (HIER MACHEN WIR EINIGES DOPPELT => Könnte man optimieren) 
 - In DB-Ansicht gewünschte Datensätze markieren ==> Meist kleine Aufträge für Lager-WAB
@@ -108,6 +112,7 @@
 - Tipp: **Sortieren nach Tour-Nummer** => legt gewünschte **Tour-Stopps** untereinander!
 - **Container-Nummer => WAB-Nr.**
 - **Entladestart** ==> Auf **Stopp Nr.1 der Tour** stellen => **Anliefer_Datum** ausfüllen (Bereitstelldatum + 1 WKT)
+- Feld: **Entlade_Start** = zeigt **Entlade/Belade Reihenfolge für Stopps => 1, 2, 3, 4** etc.
 - Markieren der Tour => Fenster: **[Planungsdaten Ändern_ODER_NEUES_FENSTER_2]()** => Datum und Uhrzeit für LagerWAB einstellen => **06:00 Uhr + Anliefer_Datum**
 
 ## Guide für das Erstellen von Unter-Touren
@@ -115,13 +120,10 @@
 - Makiere alle Datensätze die auf Lager-WAB liegen => Rechtsclick => Button: **Multi-Split**
 - **Multi-Split** => Teilen der Tour **LagerWAB + Untertour**
 - Neues Fenster öffnet sich => Fenster: **NEUES_FENSTER_3_SC_LAGERNAME**
-- Feld: **Adresse** => SC-Lager einstellen => (Bsp.: SC-Graz)
-- Feld: **Fahrttype** => Zustellung einstellen (NEU bzw. auto. in Profi-Tour) => Möglicherweise noch andere Zustellungsarten (ASK SOMEONE)
-- Fucking endless loading... => Fertig mit erstellen der Untertour 
+- Feld: **Adresse** => **SC-Lager** einstellen => (Bsp.: SC-Graz)
+- Feld: **Fahrttype** => **Zustellung** einstellen (NEU bzw. auto. in Profi-Tour) => Möglicherweise noch andere Zustellungsarten (ASK SOMEONE)
 - **Unter-Tour** sollte hiermit **abgeschlossen** sein => In **DB-Ansicht** nun im oberen Teil in **Schwarzer-Schrift** und mit **WAB-Nummer** sichtbar!
-- **Vermerke:** Bei diesem Schritt ist der **Datensatz des Lager-WAB's** in der **DB-Ansicht(Disponiert) verschwunden** => BUG ? => Doenst seem like one!
-- Nach neuem Filter => auf **Dispo_Datum** oder wieder Retour auf **Von_(B)** => Datensatz war wieder sichbar!
-- _Note: Probably just User-Error will try later or at home_
+- Anschließend **markieren der WAB's** => Rechtsclick => **Veraldereihenfolge schreiben** => **Verladeplanung+ in Profi-Tour**
 
 ## Planungsdaten Ändern => bzw. Unterfenster zum bennen die sich öffnen
 - Abgleichen der Fenster => Logische Namen für Fenster überlegen => Aktuell Unübersichtlich
@@ -148,7 +150,7 @@
 - _Note: Should make moving inbetween them way faster ?_
 
 ## Not sure about some things yet
-- Button: **Fahrt Bearbeiten** auf erstellter Tour öffnet Fenster: **Fahrt_Bearbeiten_Fenster**
+
     - Sinnhaftigkeit ? bzw. gibt es hier Felder die benützt werden die sonst nicht verwendet werden.
 - Button: **Tour drehen** & **Tour optimieren** im Virtuelle_Touren Fenster funktionieren nicht. 
 
