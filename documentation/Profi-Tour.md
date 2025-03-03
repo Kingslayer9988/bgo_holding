@@ -133,13 +133,16 @@
     - **Verlade-Reihenfolge = 99** = Reihenfolge = **EGAL**
         - Oft bei **LKW + Hänger** auf einer **DIREKT_BAUSTELLE_Tour** angewendet
 
-- **Vorproduktion:** => **WAB in Produktionswoche** anlegen & Bei **Unter-Tour** => Button: **Datum fixieren** => **Lieferdatum auswählen**
-- **Vorproduktion-Nummernkreis** verwenden!
-    - Bei Verschiebungen auch den **Vorproduktion-Nummernkreis** verwenden wenn Produktionsdatum **mehr als 1 Werktag** von **Lieferdatum** entfernt ist.
-    - Außnahme bei Küchen nicht den **Vorproduktion-Nummernkreis** verwenden!
-
 - **WAB-Nummern Vergabe** = Siehe **Nummern-Kreis** auf **Ausdruck**
-    - Aufpassen: Bei **Vorproduktionen** gibt es einen eigenen **Nummern-Kreis**
+    - 🛑 Aufpassen: Bei **Vorproduktionen** gibt es einen eigenen **Nummern-Kreis**
+
+- **Vorproduktion:** => **WAB in Produktionswoche** anlegen & Bei **Unter-Tour** => Button: **Datum fixieren** => **Lieferdatum auswählen**
+    - Bei Verschiebungen auch den **Vorproduktion-Nummernkreis** verwenden wenn Produktionsdatum **mehr als 1 Werktag** von **Lieferdatum** entfernt ist.
+    - Außnahme bei **🍳 Küchen** nicht den **Vorproduktion-Nummernkreis** verwenden!
+
+- **Tour kombinieren** => Button ermöglich die **kombination** von **2 Touren (WAB's)**
+    - 🛑 Aufpassen: **🔫 Schnellschuss** hier leicht möglich - **Touren** dürfen **nicht nach vor** geschoben werden
+    - Auch möglich bei **Falschanlage** von bsp. **Postversand-Tour** => Tour mit **richtiger Tour** kombinieren
 
 - **💸 Tipps um Geld zu sparen**
     - **2 WAB's** mit **LKW + Anhänger an 1 Tag** ist **billiger** als **2 LKW's** mit jeweils **1 WAB** an **2 verschiedenen Tagen**
@@ -287,8 +290,8 @@ Danke im Voraus.
 - Datensätze die mit **(00:30 h)** eingegeben sind können **gemeinsam kontrolliert** werden => **Stimmen meistens!**
 - Für **Kalkulations-Skript** => **[Siehe Hier](../README.md#working-still-needs-adoption-for-hersteller)**
 - Aufpassen bei **Trennwänden(RS/RG)**, **Trennwand/Glaswand** etc. mit **SC-Leiter abklären**
-- Aufpassen bei **Küchen** => **Montagezeit** stimmt **Transportauftragsreport** teilen durch **Personen** => **Standzeit fixieren**
-- Bei **Kleinen Küchen** mit **SC-Leiter abklären** ob wir sie selbst machen können!
+- Aufpassen bei **🍳 Küchen** => **Montagezeit** stimmt **Transportauftragsreport** teilen durch **Personen** => **Standzeit fixieren**
+- Bei **🍳 Kleinen Küchen** mit **SC-Leiter abklären** ob wir sie selbst machen können!
     - **Küchenmonteure teilweise** selbst vorhanden! **[Siehe Hier für NOS💚](NOS.md)**
 
 ## 📦 Guide für die Abgabe der Produktion:
@@ -370,7 +373,7 @@ Danke im Voraus.
 - Öffne **Sammelmappe** => Button: **Übernahme in die Planung**
 - Auftrag ist nun im **Unbearbeitet-Fenster** => Splitten, WAB, etc. => **behandeln wie neuen Auftag**
 - Bei **Verschiebungen** auch den **Vorproduktion-Nummernkreis** verwenden wenn Produktionsdatum **mehr als 1 Werktag** von **Lieferdatum** entfernt ist.
-    - Außnahme bei **Küchen** nicht den **Vorproduktion-Nummernkreis** verwenden!
+    - Außnahme bei **🍳 Küchen** nicht den **Vorproduktion-Nummernkreis** verwenden!
 
 ## Profi-Tour besteht aus 2-Teilen bzw. Ansichten (Datenbank & Planungs - Ansicht)
 
