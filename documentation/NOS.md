@@ -19,35 +19,23 @@
 - Check how Disposition works there and how to fix shit
     - Cant be hard if its as bad as people say 🙉
  
-# Still needs fixing / combining
-## Gebiete Erik - Hersteller NOS 1 💚
+## Gebiete Erik - Hersteller NOS 💚
 - **Voradelberg(SC Dornbirn) + DE(S-W) + FL + CH**
+    - **(J)** = **Cargo-Support**
     - Kein Küchenmonteur :o:
 - **Tirol (SC Innsbruck)**
-    - Kein Küchenmonteur :o:
+    - **(I)** = **Cargo-Support**
+    - Kein Küchenmonteur :o:    
 - **Kärnten (SC Klagenfurt) + ITA**
+    - **(G)** = **Cargo-Support**
     - Küchenmonteur vorhanden :heavy_check_mark:
     - Kleines SC => Max 2 LKW pro Tag (1x Platz & 1x Rampe)
-- **Steiermark(SC Graz)** 
+- **Steiermark(SC Graz) + HR + SI + SLO**
     - Kein Küchenmonteur **aber gute Monteure(Außnahme)** :heavy_check_mark:
+    - **(F)** = **Cargo-Support**
 - **Deutschland Gesamt (SC ?? | Relock-Partner)**  _(UNSURE ASK ISABEL 😕)_
     - Noch nicht sicher :question: :question: :question:
     - Ähnlich wie Voradelberg **(Relock ~ ULGB)**
-- Isabel Gebiete => **SC Dornbirn + (DE+CH+FL)** | **SC Graz + Selten (SLO)** | **SC Innsbruck + (ITA)** | SC Klagenfurt
-
-## Gebiete Erik - Hersteller NOS 2 💚
-- **Voradelberg(SC Dornbirn) + DE(S-W) + FL + CH**
-    - Kein Küchenmonteur :o:
-- **Tirol (SC Innsbruck)**
-    - Kein Küchenmonteur :o:
-- **Kärnten (SC Klagenfurt) + ITA**
-    - Küchenmonteur vorhanden :heavy_check_mark:
-    - Kleines SC => Max 2 LKW pro Tag (1x Platz & 1x Rampe)
-- **Steiermark(SC Graz)** 
-    - Kein Küchenmonteur **aber gute Monteure(Außnahme)** :heavy_check_mark:
-- **Deutschland Gesamt (SC ?? | Relock-Partner)**  _(UNSURE ASK ISABEL 😕)_
-    - Noch nicht sicher :question: :question: :question:
-    - Ähnlich wie Voradelberg **(Relock ~ ULGB)**
-- Isabel Gebiete => **SC Dornbirn + (DE+CH+FL)** | **SC Graz + Selten (SLO)** | **SC Innsbruck + (ITA)** | SC Klagenfurt
+    - **(???)** = **Cargo-Support**
 
 
