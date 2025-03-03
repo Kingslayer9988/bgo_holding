@@ -92,7 +92,6 @@
     - **Spedition hinzufügen**
 
 - **Rechtsclick-Menü** öffnet sich nur bei makierten Datensatz => Häckchen gesetzt.
-- 
 
 ## Guide für das Erstellen von Lager-WAB's (HIER MACHEN WIR EINIGES DOPPELT => Könnte man optimieren) 
 - In DB-Ansicht gewünschte Datensätze markieren ==> Meist kleine Aufträge für Lager-WAB
@@ -150,7 +149,8 @@
 
 ## Not sure about some things yet
 - Button: **Fahrt Bearbeiten** auf erstellter Tour öffnet Fenster: **Fahrt_Bearbeiten_Fenster**
-    - Sinnhaftigkeit ? bzw. gibt es hier Felder die benützt werden die sonst nicht verwendet werden. 
+    - Sinnhaftigkeit ? bzw. gibt es hier Felder die benützt werden die sonst nicht verwendet werden.
+- Button: **Tour drehen** & **Tour optimieren** im Virtuelle_Touren Fenster funktionieren nicht. 
 
 # Everything below this Heading is a Copy from Profi-Tour and will get changed along the Way (For Easy STRG+C & STRG+V)
 
