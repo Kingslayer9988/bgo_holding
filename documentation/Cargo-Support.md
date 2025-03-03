@@ -89,7 +89,7 @@
     - Container auswählen (NORMAL, EGAL,JUMBO)
     - Bei **2 Container auf 1 Tour** => 2. Container **händisch in DB-Ansicht** einstellen!
     - **Entladestart == 08:00** | Bereitstellungsdatum + 1 Werktag
-    - **Spedition hinzufügen**
+    - **Spedition hinzufügen** => Same as in Profi-Tour
 
 ## Rechtsclick-Menü** öffnet sich nur bei makierten Datensatz => Häckchen gesetzt.
 - Button: **In den Planungspool** = Datensätze in das Virtuelle_Touren_Fenster übernehmen!
