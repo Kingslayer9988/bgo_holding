@@ -138,7 +138,7 @@
 - **Feld: Freitext_1** => **WAB-Nummer** wie **Profitour** => Nummern-Kreis
 
 ## Minimap
-- Steuerung ist **Invertiert** im vergleich mit Profi-Tour [STRG] [SHIFT]
+- Steuerung ist **Invertiert** im vergleich mit Profi-Tour **[STRG] [SHIFT]**
 - Farben sind ohne bedeutung ==> Should be fixed!
 
 ## Planungspool
