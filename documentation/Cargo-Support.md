@@ -4,9 +4,6 @@
 
 ## 💎 Infos Cargo-Support
 
-## Felder die für alle User verstellet werden & Uselesse Felder
-- Startzeit_ab & Startzeit_bis = ???
-
 ## DB-Ansicht besteht aus 2 Teilen
 - Oben => Datenbank => Unverplante Datensätze ==> Pretty much 1:1 Datenbank-Ansicht in Profitour
 - Unten => Disponiert => Verplante Datensätze ==> Touren-Fenster in Profitour => in DB-Ansicht sichtbar!
@@ -113,8 +110,9 @@
 - _Note: Should make moving inbetween them way faster ?_
 
 ## Not sure about some things yet
-
-    - Sinnhaftigkeit ? bzw. gibt es hier Felder die benützt werden die sonst nicht verwendet werden.
+- Sinnhaftigkeit ? bzw. gibt es hier Felder die benützt werden die sonst nicht verwendet werden.
+- Felder == Startzeit_ab & Startzeit_bis = ???
+- Es soll Felder geben die wenn man sie verstellt sind sie für alle verstellet ??? (UNSURE ASK BIG BOSS) 
 - Button: **Tour drehen** & **Tour optimieren** im Virtuelle_Touren Fenster funktionieren nicht. 
 
 ## Watch Guides from Web and Read Website - Maybe someuseful Infos
