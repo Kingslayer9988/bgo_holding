@@ -20,22 +20,20 @@
     - Cant be hard if its as bad as people say 🙉
  
 ## Gebiete Erik - Hersteller NOS 💚
-- **Voradelberg (SC Dornbirn) + DE (Deutschland) + FL (Liechtenstein) + CH (Schweiz)**
-    - **(J)** = **Cargo-Support**
-    - Kein Küchenmonteur :o:
-- **Tirol (SC Innsbruck)**
-    - **(I)** = **Cargo-Support**
-    - Kein Küchenmonteur :o:    
-- **Kärnten (SC Klagenfurt) + ITA (Italien)**
-    - **(G)** = **Cargo-Support**
-    - Küchenmonteur vorhanden :heavy_check_mark:
+- **Voradelberg[VBG] - (SC Dornbirn) + DE (Deutschland) + FL (Liechtenstein) + CH (Schweiz)**
+    - **(J)** = Cargo-Support
+    - Kein Küchenmonteur ⭕
+- **Tirol[T] (SC Innsbruck)**
+    - **(I)** = Cargo-Support
+    - Kein Küchenmonteur ⭕
+- **Kärnten[KTN] (SC Klagenfurt) + ITA (Italien)**
+    - **(G)** = Cargo-Support
+    - Küchenmonteur vorhanden ✔️
     - Kleines SC => Max 2 LKW pro Tag (1x Platz & 1x Rampe)
-- **Steiermark(SC Graz) + HR (Kroatien) + SI (Slovakei) + SLO (Solvenien)**
-    - Kein Küchenmonteur **aber gute Monteure(Außnahme)** :heavy_check_mark:
-    - **(F)** = **Cargo-Support**
-- **Deutschland Gesamt (Relogg-Partner)**  _(UNSURE ASK ISABEL 😕)_
-    - Noch nicht sicher :question: :question: :question:
-    - Ähnlich wie Voradelberg **(Relogg ~ ULGB)**
-    - **(???)** = **Cargo-Support**
-
-
+- **Steiermark[STMK] (SC Graz) + HR (Kroatien) + SI (Slovakei) + SLO (Solvenien)**
+    - **(F)** = Cargo-Support
+    - Kein Küchenmonteur aber gute Monteure(Außnahme) ✔️   
+- **Deutschland Gesamt (Relogg-Partner)** (UNSURE ASK ISABEL 😕)
+    - **(???)** = Cargo-Support
+    - Noch nicht sicher ❓ ❓ ❓
+    - Ähnlich wie Voradelberg (Relogg ~ ULGB)
