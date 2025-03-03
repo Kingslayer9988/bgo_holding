@@ -74,14 +74,13 @@
 ## Programmstart & Filter der Aufträge
 - Filter in der DB-Ansicht ist oben links => Keine "KW" => Montag bis Sonntag der gewünschten KW auswählen.
 - Gebiete **ZONE** nach Karte Filter => Karte .pptx per Mail von Isabel
-- **Dispotopf** => Filter => **ZONE** Auswählen => Zone siehe .pptx Karte
+- **Dispotopf** => Filter => **ZONE** Auswählen => Zone siehe **.pptx Karte**
 
 ## Planung von DIREKT_BAUSTELLE Touren (In DB-Ansicht möglich)
 - Bei DIREKT_BAUSTELLE => In Datenbank-Ansicht => Tour markieren => **Zu Tour Verbinden**
 
 - Neues Fenster öffnet sich => Fenster: **[ZU_TOUR_VERBINDEN_FENSTER]()**
     - **Fahrzeug, Fahrer, Frachtführer, Freitext** => Laut CS-Video
-    - 
     - **Namen** **Namens-Schema == Profitour**
     - Alle anderen Einträge **können leer gelassen** werden!
 
