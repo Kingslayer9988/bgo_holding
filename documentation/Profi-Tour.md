@@ -134,6 +134,9 @@
         - Oft bei **LKW + Hänger** auf einer **DIREKT_BAUSTELLE_Tour** angewendet
 
 - **Vorproduktion:** => **WAB in Produktionswoche** anlegen & Bei **Unter-Tour** => Button: **Datum fixieren** => **Lieferdatum auswählen**
+- **Vorproduktion-Nummernkreis** verwenden!
+    - Bei Verschiebungen auch den **Vorproduktion-Nummernkreis** verwenden wenn Produktionsdatum **mehr als 1 Werktag** von **Lieferdatum** entfernt ist.
+    - Außnahme bei Küchen nicht den **Vorproduktion-Nummernkreis** verwenden!
 
 - **WAB-Nummern Vergabe** = Siehe **Nummern-Kreis** auf **Ausdruck**
     - Aufpassen: Bei **Vorproduktionen** gibt es einen eigenen **Nummern-Kreis**
@@ -366,6 +369,8 @@ Danke im Voraus.
 - Filter nach **$KW_WO_TV_HINGEHÖRT** in **[Lieferwoche]**
 - Öffne **Sammelmappe** => Button: **Übernahme in die Planung**
 - Auftrag ist nun im **Unbearbeitet-Fenster** => Splitten, WAB, etc. => **behandeln wie neuen Auftag**
+- Bei **Verschiebungen** auch den **Vorproduktion-Nummernkreis** verwenden wenn Produktionsdatum **mehr als 1 Werktag** von **Lieferdatum** entfernt ist.
+    - Außnahme bei **Küchen** nicht den **Vorproduktion-Nummernkreis** verwenden!
 
 ## Profi-Tour besteht aus 2-Teilen bzw. Ansichten (Datenbank & Planungs - Ansicht)
 
