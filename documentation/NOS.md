@@ -20,22 +20,22 @@
     - Cant be hard if its as bad as people say 🙉
  
 ## Gebiete Erik - Hersteller NOS 💚
-- **Voradelberg(SC Dornbirn) + DE(S-W) + FL + CH**
+- **Voradelberg (SC Dornbirn) + DE (Deutschland) + FL (Liechtenstein) + CH (Schweiz)**
     - **(J)** = **Cargo-Support**
     - Kein Küchenmonteur :o:
 - **Tirol (SC Innsbruck)**
     - **(I)** = **Cargo-Support**
     - Kein Küchenmonteur :o:    
-- **Kärnten (SC Klagenfurt) + ITA**
+- **Kärnten (SC Klagenfurt) + ITA (Italien)**
     - **(G)** = **Cargo-Support**
     - Küchenmonteur vorhanden :heavy_check_mark:
     - Kleines SC => Max 2 LKW pro Tag (1x Platz & 1x Rampe)
-- **Steiermark(SC Graz) + HR + SI + SLO**
+- **Steiermark(SC Graz) + HR (Kroatien) + SI (Slovakei) + SLO (Solvenien)**
     - Kein Küchenmonteur **aber gute Monteure(Außnahme)** :heavy_check_mark:
     - **(F)** = **Cargo-Support**
-- **Deutschland Gesamt (SC ?? | Relock-Partner)**  _(UNSURE ASK ISABEL 😕)_
+- **Deutschland Gesamt (Relogg-Partner)**  _(UNSURE ASK ISABEL 😕)_
     - Noch nicht sicher :question: :question: :question:
-    - Ähnlich wie Voradelberg **(Relock ~ ULGB)**
+    - Ähnlich wie Voradelberg **(Relogg ~ ULGB)**
     - **(???)** = **Cargo-Support**
 
 
