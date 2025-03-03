@@ -18,6 +18,8 @@
 
 - Check how Disposition works there and how to fix shit
     - Cant be hard if its as bad as people say 🙉
+    - **Schiebendrein Helmuth** disponiert **Gebiete: Wien, OÖ, NÖ**
+    - **Nussbaumer Heinz** disponiert **Gebiete: Rest von Helmuth**
  
 ## Gebiete Erik - Hersteller NOS 💚
 - **Voradelberg[VBG] - (SC Dornbirn) + DE (Deutschland) + FL (Liechtenstein) + CH (Schweiz)**
