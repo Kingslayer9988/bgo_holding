@@ -6,7 +6,9 @@
 - We are taking about Frontend when the way more important backend is not working 😂😂 this is just embarrassing.
 - Do they want me to fo actually 2 Gebiete and pay me just for that seems boring AF.
 - Colleagues are super friendly
-- Schnittstelle is Nr1 Problem - why nobody gets this is ctazy to me l.
+- Schnittstelle is Nr1 Problem - why nobody gets this is crazy to me l.
+- splitten/ladereihenfolge/internal-wab-nr all are kinda useless
+- Sheets of Paper will always be there - Ms Alex will be even more 😭 
 - Programm Profi/Cargo makes 0 difference in terms of how slow this people are in Computers anyway
 - How can this Schnittstelle be not fixed if this fuck is in use since jan 2024
 - are people actually blind or is me the only one with eyes ? 
@@ -17,7 +19,6 @@
 
 
 - Second Date on Di, - Mi, 11. - 12.03.2025 🌹
-- Make Ms. Alex like me 💖
     - She does not like her Ladeliste-Situation 📋😭 => (Figure out when iam there)
     - She does not seems to like new Computer Programms
     - Sweet Accent 😏
