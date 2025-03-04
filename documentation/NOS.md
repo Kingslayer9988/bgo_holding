@@ -1,5 +1,21 @@
 ## NOS 💚
-- First Date on Di, 04.03.2025 🌹
+
+
+###Di, 04.03.2025:
+
+- We are taking about Frontend when the way more important backend is not working 😂😂 this is just embarrassing.
+- Do they want me to fo actually 2 Gebiete and pay me just for that seems boring AF.
+- Colleagues are super friendly
+- Schnittstelle is Nr1 Problem - why nobody gets this is ctazy to me l.
+- Programm Profi/Cargo makes 0 difference in terms of how slow this people are in Computers anyway
+- How can this Schnittstelle be not fixed if this fuck is in use since jan 2024
+- are people actually blind or is me the only one with eyes ? 
+- do people wanna have the Problem ? 
+- either the IT Guys are sleeping or somebody corrups money. HOW can a Basic backend things like this not be fixed???
+- it kills the people there ladys are running while people in wy are sleeping
+- ask big boss is necessary here
+
+
 - Second Date on Di, - Mi, 11. - 12.03.2025 🌹
 - Make Ms. Alex like me 💖
     - She does not like her Ladeliste-Situation 📋😭 => (Figure out when iam there)
