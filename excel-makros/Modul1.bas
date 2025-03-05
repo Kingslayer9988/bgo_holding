@@ -72,6 +72,33 @@ Sub FixContainerColoringAndPercentagesNew()
                 ' Extract Date from Row 2
                 cellDate = ws.Cells(2, dateColumns(i)).value
                 
+                ' MERGE TOUR NAME CELLS FOR ALL TOURS
+                Dim tourRow As Long
+                tourRow = topCell.row - 1
+                
+                ' Only process if this is a row that would contain a tour name (first row of each 3-row tour)
+                If tourRow >= 3 And (tourRow - 3) Mod 3 = 0 Then
+                    ' First check if these cells are merged, if not, merge them
+                    On Error Resume Next
+                    If Not ws.Cells(tourRow, dateColumns(i)).MergeCells Then
+                        ' Unmerge just to be safe (in case there's partial merging)
+                        ws.Range(ws.Cells(tourRow, dateColumns(i)), ws.Cells(tourRow, dateColumns(i) + 2)).UnMerge
+                        
+                        ' Save the tour name
+                        Dim tourNameForMerging As String
+                        tourNameForMerging = ws.Cells(tourRow, dateColumns(i)).value
+                        
+                        ' Clear any values in these cells that might interfere with merging
+                        ws.Cells(tourRow, dateColumns(i) + 1).ClearContents
+                        ws.Cells(tourRow, dateColumns(i) + 2).ClearContents
+                        
+                        ' Merge the cells and restore the tour name
+                        ws.Range(ws.Cells(tourRow, dateColumns(i)), ws.Cells(tourRow, dateColumns(i) + 2)).Merge
+                        ws.Cells(tourRow, dateColumns(i)).value = tourNameForMerging
+                    End If
+                    On Error GoTo 0
+                End If
+                
                 ' IMPORTANT FIX: Extract Time from row DIRECTLY below container number
                 ' This is the critical fix needed
                 cellTime = ws.Cells(topCell.row + 1, topCell.Column).value
@@ -262,7 +289,11 @@ Sub FixContainerColoringAndPercentagesNew()
                 If containerDates.Exists(topValue) And IsDate(tourCellDate) And IsDate(containerDates(topValue)) Then
                     If CDate(containerDates(topValue)) > CDate(tourCellDate) Then
                         isDateError = True
+                        ' Format the Date Error text with red background and black bold text
                         ws.Cells(row, col).value = "Date Error"
+                        ws.Cells(row, col).Interior.Color = RGB(255, 0, 0)
+                        ws.Cells(row, col).Font.Color = RGB(0, 0, 0)
+                        ws.Cells(row, col).Font.Bold = True
                     End If
                 End If
                 
@@ -289,12 +320,204 @@ Sub FixContainerColoringAndPercentagesNew()
         Next topCell
     Next i
     
+    ' STEP 3.5: Handle DIRECT_CONTAINER Tours (rows 25-33)
+    ' Dictionary to track unique direct tours for unique coloring
+    Dim directTourColors As Object
+    Set directTourColors = CreateObject("Scripting.Dictionary")
+    Dim nextLightColorIndex As Integer
+    nextLightColorIndex = 0
+    
+    ' Arrays to track direct tours for each day
+    Dim directTourCount(5) As Integer ' One for each day (0-5)
+    
+    ' Initialize direct tour counters
+    For i = 0 To 5
+        directTourCount(i) = 0
+    Next i
+    
+    ' Scan for direct tours
+    For i = LBound(dateColumns) To UBound(dateColumns)
+        ' Loop through each tour (3 rows per tour)
+        For row = 3 To 23 Step 3
+            ' Get the tour name
+            Dim tourName As String
+            tourName = Trim(ws.Cells(row, dateColumns(i)).value)
+            
+            ' Check if this is a direct tour (not starting with excluded prefixes)
+            If tourName <> "" And _
+               Not (Left(tourName, 2) = "SC" Or _
+                    Left(tourName, 4) = "ULGB" Or _
+                    Left(tourName, 14) = "PLANT SC LEITER") Then
+                
+                ' This is a direct tour - get a light background color
+                Dim lightColor As Long
+                Dim directTourKey As String
+                
+                ' Create a unique key for this tour (tour name + container number)
+                Dim containerCol As Integer
+                containerCol = dateColumns(i) + 2
+                Dim containerNumber As String
+                containerNumber = CleanNumber(ws.Cells(row + 1, containerCol).value)
+                directTourKey = tourName & "_" & containerNumber
+                
+                ' If we haven't seen this tour before, assign a new light color
+                If Not directTourColors.Exists(directTourKey) Then
+                    ' Create a series of light pastel colors
+                    Select Case nextLightColorIndex
+                        Case 0
+                            lightColor = RGB(235, 235, 255) ' Light blue
+                        Case 1
+                            lightColor = RGB(255, 235, 235) ' Light red
+                        Case 2
+                            lightColor = RGB(235, 255, 235) ' Light green
+                        Case 3
+                            lightColor = RGB(255, 255, 235) ' Light yellow
+                        Case 4
+                            lightColor = RGB(255, 235, 255) ' Light magenta
+                        Case 5
+                            lightColor = RGB(235, 255, 255) ' Light cyan
+                        Case Else
+                            ' If we run out of predefined colors, create a random light color
+                            Randomize
+                            lightColor = RGB(200 + Int(Rnd * 55), 200 + Int(Rnd * 55), 200 + Int(Rnd * 55))
+                    End Select
+                    
+                    ' Store this color for this tour
+                    directTourColors.Add directTourKey, lightColor
+                    
+                    ' Increment for next new tour
+                    nextLightColorIndex = nextLightColorIndex + 1
+                Else
+                    ' Use the existing color for this tour
+                    lightColor = directTourColors(directTourKey)
+                End If
+                
+                ' Process this direct tour
+                Dim startCol As Integer, endCol As Integer
+                startCol = dateColumns(i)
+                endCol = dateColumns(i) + 2
+                
+                ' IMPORTANT: Fix tour name spanning in the Upper Section tours
+                ' First check if these cells are merged, if not, merge them
+                On Error Resume Next
+                If Not ws.Cells(row, startCol).MergeCells Then
+                    ' Unmerge just to be safe (in case there's partial merging)
+                    ws.Range(ws.Cells(row, startCol), ws.Cells(row, endCol)).UnMerge
+                    
+                    ' Save the tour name
+                    Dim originalTourName As String
+                    originalTourName = ws.Cells(row, startCol).value
+                    
+                    ' Clear any values in these cells that might interfere with merging
+                    ws.Cells(row, startCol + 1).ClearContents
+                    ws.Cells(row, startCol + 2).ClearContents
+                    
+                    ' Merge the cells and restore the tour name
+                    ws.Range(ws.Cells(row, startCol), ws.Cells(row, endCol)).Merge
+                    ws.Cells(row, startCol).value = originalTourName
+                End If
+                On Error GoTo 0
+                
+                ' Color the entire tour area with light background
+                ws.Range(ws.Cells(row, startCol), ws.Cells(row + 2, endCol)).Interior.Color = lightColor
+                
+                ' Set all text to black in the tour
+                ws.Range(ws.Cells(row, startCol), ws.Cells(row + 2, endCol)).Font.Color = RGB(0, 0, 0)
+                
+                ' Store this for copying to DIRECT_CONTAINER section
+                If directTourCount(i) < 3 Then
+                    ' Copy to DIRECT_CONTAINER section (rows 25-33)
+                    Dim destRow As Integer
+                    destRow = 25 + (directTourCount(i) * 3)
+                    
+                    ' Clear the specific cells we're going to use
+                    ws.Range(ws.Cells(destRow, startCol), ws.Cells(destRow + 2, endCol)).ClearContents
+                    ws.Range(ws.Cells(destRow, startCol), ws.Cells(destRow + 2, endCol)).Interior.ColorIndex = xlNone
+                    
+                    ' IMPORTANT: Explicitly handle cell merging for proper display
+                    
+                    ' 1. First unmerge any existing merged cells in this area (to be safe)
+                    On Error Resume Next
+                    ws.Range(ws.Cells(destRow, startCol), ws.Cells(destRow, endCol)).UnMerge
+                    On Error GoTo 0
+                    
+                    ' 2. Set the tour name and merge cells for proper spanning
+                    ws.Cells(destRow, startCol).value = tourName
+                    ws.Range(ws.Cells(destRow, startCol), ws.Cells(destRow, endCol)).Merge
+                    
+                    ' 3. Copy tour number (like T-Nr. 474442) if present
+                    If Not IsEmpty(ws.Cells(row + 1, startCol).value) Then
+                        ws.Cells(destRow + 1, startCol).value = ws.Cells(row + 1, startCol).value
+                    End If
+                    
+                    ' 4. Copy container number
+                    ws.Cells(destRow + 1, endCol).value = containerNumber
+                    
+                    ' 5. Copy time
+                    ws.Cells(destRow + 2, endCol).value = ws.Cells(row + 2, endCol).value
+                    
+                    ' 5. Set background color for the cells
+                    ws.Range(ws.Cells(destRow, startCol), ws.Cells(destRow + 2, endCol)).Interior.Color = lightColor
+                    
+                    ' 6. Set all text to black
+                    ws.Range(ws.Cells(destRow, startCol), ws.Cells(destRow + 2, endCol)).Font.Color = RGB(0, 0, 0)
+                    
+                    ' Increment counter
+                    directTourCount(i) = directTourCount(i) + 1
+                End If
+            End If
+        Next row
+    Next i
+    
+    ' STEP 4: Count and calculate total workers per day
+    ' Define the worker calculation fields
+    Dim workerTotalColumns As Variant
+    workerTotalColumns = Array(4, 7, 10, 13, 16, 19) ' D, G, J, M, P, S
+    
+    ' Initialize arrays to store count for each day
+    Dim bmlWorkers(5) As Integer ' One for each day (0-5)
+    Dim lpWorkers(5) As Integer ' One for each day (0-5)
+    
+    ' Loop through days
+    For i = LBound(topColumns) To UBound(topColumns)
+        ' Reset counters for this day
+        bmlWorkers(i) = 0
+        lpWorkers(i) = 0
+        
+        ' Loop through each tour row for this day
+        For row = 3 To 23 Step 3
+            ' Get the worker text
+            Dim workerText As String
+            workerText = Trim(ws.Cells(row + 2, dateColumns(i)).value)
+            
+            ' Check if there's actual text (not empty)
+            If workerText <> "" Then
+                ' Parse the worker text to count BML and LP workers
+                Dim bmlCount As Integer, lpCount As Integer
+                ParseWorkerText workerText, bmlCount, lpCount
+                
+                ' Add to day totals
+                bmlWorkers(i) = bmlWorkers(i) + bmlCount
+                lpWorkers(i) = lpWorkers(i) + lpCount
+            End If
+        Next row
+        
+        ' Write the totals to the summary fields (row 34)
+        ' If we have both BML and LP workers, format as "BML+LP"
+        If lpWorkers(i) > 0 Then
+            ws.Cells(34, workerTotalColumns(i)).value = bmlWorkers(i) & "+" & lpWorkers(i)
+        Else
+            ws.Cells(34, workerTotalColumns(i)).value = bmlWorkers(i)
+        End If
+    Next i
+    
     ' Cleanup
     Set containerMap = Nothing
     Set colorMap = Nothing
     Set containerCount = Nothing
     Set containerCells = Nothing
     Set containerDates = Nothing
+    Set directTourColors = Nothing
 End Sub
 
 ' Function to clean numbers (removes text)
@@ -303,11 +526,13 @@ Function CleanNumber(value As String) As String
     Dim i As Integer
     cleanedValue = ""
     
-    For i = 1 To Len(value)
-        If Mid(value, i, 1) Like "#" Then
-            cleanedValue = cleanedValue & Mid(value, i, 1)
-        End If
-    Next i
+    If Not IsEmpty(value) Then
+        For i = 1 To Len(value)
+            If Mid(value, i, 1) Like "#" Then
+                cleanedValue = cleanedValue & Mid(value, i, 1)
+            End If
+        Next i
+    End If
     
     CleanNumber = Trim(cleanedValue)
 End Function
@@ -345,3 +570,65 @@ Function GetContrastingTextColor(ByVal backgroundColor As Long) As Long
         GetContrastingTextColor = RGB(0, 0, 0) ' Black
     End If
 End Function
+
+' Function to parse worker text and extract worker counts
+Sub ParseWorkerText(ByVal workerText As String, ByRef bmlCount As Integer, ByRef lpCount As Integer)
+    ' Initialize counts
+    bmlCount = 0
+    lpCount = 0
+    
+    ' Remove any extra spaces
+    workerText = Trim(workerText)
+    
+    ' Process BML count
+    Dim bmlPos As Integer
+    bmlPos = InStr(1, workerText, "BML", vbTextCompare)
+    
+    If bmlPos > 1 Then
+        ' Extract number before "BML"
+        Dim bmlNumStr As String, i As Integer
+        bmlNumStr = ""
+        
+        ' Go backwards from BML position to find the number
+        For i = bmlPos - 1 To 1 Step -1
+            If IsNumeric(Mid(workerText, i, 1)) Then
+                bmlNumStr = Mid(workerText, i, 1) & bmlNumStr
+            Else
+                If i < bmlPos - 1 Then
+                    Exit For ' Found a non-numeric character after finding at least one digit
+                End If
+            End If
+        Next i
+        
+        ' Convert to number if we found something
+        If Len(bmlNumStr) > 0 Then
+            bmlCount = CInt(bmlNumStr)
+        End If
+    End If
+    
+    ' Process LP count
+    Dim lpPos As Integer
+    lpPos = InStr(1, workerText, "LP", vbTextCompare)
+    
+    If lpPos > 1 Then
+        ' Extract number before "LP"
+        Dim lpNumStr As String
+        lpNumStr = ""
+        
+        ' Go backwards from LP position to find the number
+        For i = lpPos - 1 To 1 Step -1
+            If IsNumeric(Mid(workerText, i, 1)) Then
+                lpNumStr = Mid(workerText, i, 1) & lpNumStr
+            Else
+                If i < lpPos - 1 Then
+                    Exit For ' Found a non-numeric character after finding at least one digit
+                End If
+            End If
+        Next i
+        
+        ' Convert to number if we found something
+        If Len(lpNumStr) > 0 Then
+            lpCount = CInt(lpNumStr)
+        End If
+    End If
+End Sub
