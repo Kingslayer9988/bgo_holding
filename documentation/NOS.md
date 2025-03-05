@@ -33,6 +33,8 @@
         - Bereitstell_Datum +1 Werktag von 📦 Produktions_Datum 
     - 🚛 Fuhpark & Personal
         - haben eigenen LKW der 2 WAB laden kann
+        - 8 Monteure wurden nach SC-Wiener Neustadt geben => 4 Monteure über bei NOS direkt
+        - Sped_Kusztrich ist sehr zuverlässig laut NOS
         - NOS Info in Cargo-Support fast nie 30m³ auf einem WAB => Mehr 20 - 25 m³
         - Andauerende Probleme bei der Verladung => Reihenfolge passt nicht => bzw. wird nicht befolgt = nichts neues
         - Oft wird Produkion während des einräumen des WAB's fertiggstellet => Aber nicht in der richtigen Reihenfolge = Wird dann für den falschen Stopp verladen
@@ -42,10 +44,14 @@
     - ♻️ Import der Cargo-Support Datensätze = **[Täglich um 06:00 & 10:00 & 14:00 Uhr]**
     - 📗 NOS 💚 Avisieret nur **pro Tag** => Kein **3h-Fenster**
             - Außerdem bekommt Helmuth die ganze Zeit die ausgedruckten Aufträge aus 2020 auf seinen Tisch geliefert.
+    - Deutschland hat NOS 💚 nur 10-15 m³ pro Woche => Lösung muss her manchmal Touren nach Hamburg/Berlin mit 2-5 Tischen etc.
+        - Lösung wie bei $Hersteller_B => Ware nach Eferding ?
+    - Export gibt es bei NOS nicht viel manchmal Bratislava, Budapest und (Slovenien => macht Riegler Klagenfurt)
     - 💡 Excel-Listen mit Helmuth und Heinz müssen eingeführt werden => Teams & Excel vorbereiten (Screenshot von Isabel)
     - 💡 PDF-Parser und Crap-Scripts für automation seems very powerful at NOS
     - 📛 Extras
         - Schieben von Positionen/Aufträgen ist in 2020 unmöglich => Das heißt jede TV etc. wird neuer Auftrag (Schieben = Keine Regeln) == Alte Ladeliste (Auftrag) kann nicht verändert werde
+        - Excel Urlaubs-Liste von Isabel kopieren und nutzen
     - 📅 $Hersteller_KW if it exits
 
 - Get Postversand-Termine for all Gebiete (ASK ISABEL)
@@ -95,18 +101,22 @@
 ## Gebiete Erik - Hersteller NOS 💚
 - **Akutelle Aufgabe** nur **Touren** in **Cargo-Support zusammenstellen & 📗 Avisieren & 🔄 Nachplanen**
 - **Voradelberg[VBG] - (SC Dornbirn) + DE (Deutschland) + FL (Liechtenstein) + CH (Schweiz)**
+    - **NOS 💚 = 1-2 WAB pro 📅 KW**
     - **(J)** = Cargo-Support
     - Untertouren macht **[⛰️ ULGB Voradelberg ist Anders](https://github.com/Kingslayer9988/bgo_holding/blob/main/documentation/Profi-Tour.md#%EF%B8%8F-vorarlberg-ist-anders)**
     - Kein Küchenmonteur ⭕
 - **Tirol[T] (SC Innsbruck)**
+    - **NOS 💚 = 2-4 WAB pro 📅 KW**
     - **(I)** = Cargo-Support
     - Kein Küchenmonteur ⭕
 - **Kärnten[KTN] (SC Klagenfurt) + ITA (Italien)**
+    - **NOS 💚 = 1-2 WAB pro 📅 KW**
     - **(G)** = Cargo-Support
     - Untertouren macht **[Riegler Voradelberg ist Anders](https://github.com/Kingslayer9988/bgo_holding/blob/main/documentation/Profi-Tour.md#%EF%B8%8F-vorarlberg-ist-anders)**
     - Küchenmonteur vorhanden ✔️
     - Kleines SC => Max 2 LKW pro Tag (1x Platz & 1x Rampe)
 - **Steiermark[STMK] (SC Graz) + HR (Kroatien) + SI (Slovakei) + SLO (Solvenien)**
+    - **NOS 💚 = 5 WAB pro 📅 KW**
     - **(F)** = Cargo-Support
     - Kein Küchenmonteur aber gute Monteure(Außnahme) ✔️   
 - **Deutschland Gesamt (Relogg-Partner)** (UNSURE ASK ISABEL 😕)
