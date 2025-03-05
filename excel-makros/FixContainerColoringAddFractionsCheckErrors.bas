@@ -1,4 +1,4 @@
-Sub FixContainerColoringAndPercentagesNew()
+Sub FixContainerColoringAddFractionsCheckErrors()
     Dim ws As Worksheet
     Dim topRange As Range, lastRows As Range
     Dim topCell As Range, lastCell As Range
