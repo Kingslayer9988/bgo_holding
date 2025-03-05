@@ -53,17 +53,25 @@
     - **Schiebendrein Helmuth** disponiert **Gebiete: Wien, OÖ, NÖ**
     - **Nussbaumer Heinz** disponiert **Gebiete: Rest von Helmuth**
 
-- Di, - Mi, 11. - 12.03.2025 🌹
+- Cargo Support NOS💚-Style
+    - Litterally look on the Sheet of Paper => Check AB-Number and Search in CS => Checkmark ✅
+    - Literally look at Sheet of Paper (Selfwritten) => Check Tour-Number and Search in CS => Checkmark ✅
+    - Litterally make rightclick => Combine Tours => 📺 TV done
+    - They say they have a bug where $Fahrzeug => Overwrites $Spediton => Not true i think
+
+- Di-Mi 11. - 12.03.2025 🌹
 
 ## Gebiete Erik - Hersteller NOS 💚
 - **Voradelberg[VBG] - (SC Dornbirn) + DE (Deutschland) + FL (Liechtenstein) + CH (Schweiz)**
     - **(J)** = Cargo-Support
+    - Untertouren macht **[⛰️ ULGB Voradelberg ist Anders](https://github.com/Kingslayer9988/bgo_holding/blob/main/documentation/Profi-Tour.md#%EF%B8%8F-vorarlberg-ist-anders)**
     - Kein Küchenmonteur ⭕
 - **Tirol[T] (SC Innsbruck)**
     - **(I)** = Cargo-Support
     - Kein Küchenmonteur ⭕
 - **Kärnten[KTN] (SC Klagenfurt) + ITA (Italien)**
     - **(G)** = Cargo-Support
+    - Untertouren macht **[Riegler Voradelberg ist Anders](https://github.com/Kingslayer9988/bgo_holding/blob/main/documentation/Profi-Tour.md#%EF%B8%8F-vorarlberg-ist-anders)**
     - Küchenmonteur vorhanden ✔️
     - Kleines SC => Max 2 LKW pro Tag (1x Platz & 1x Rampe)
 - **Steiermark[STMK] (SC Graz) + HR (Kroatien) + SI (Slovakei) + SLO (Solvenien)**
