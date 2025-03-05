@@ -359,6 +359,7 @@ Danke im Voraus.
 * 2️⃣ Wenn nur **eine Postion im Auftrag** verzögert ist:
     * **Checken** ob bei der **Verzögerten Position Montagestunden** dabei sind und **keine weiteren Produkte**
     * Wenn ❌ **NEIN** => Button: Im **Bearbeitungs-Fenster** => **Neuen Transportauftrag erzeugen**
+        - Anschließend **Datensatz** im **Unbearbeitet-Fenster teilen** => **Sammelmappe**
     * Wenn ✅ **JA** => Gehe zu **WAB der TV-Tour** beinhaltet => Button: **Aus Tour lösen und Teilung Rückgängig machen**
     * Wenn 🔐 die **Verzögerte Position Montagestunden** und andere **nicht verzögerte Produkte** beinhaltet
     * Löse die **Verzögerte Postition & Inklusive Montagestunden aus der Tour**
