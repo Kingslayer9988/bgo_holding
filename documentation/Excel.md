@@ -22,8 +22,8 @@
 > 
 > **💡 Make Hersteller_KW visable if its not MO - SO | Bsp.: DI - DI**\
 > **💡 Automatic Numbering of _KW$ in File & creating of Files**\
-> **💡 Auto find of WAB auto. zuordnung zu Untertouren**\ => **DONE ✅**
-> **💡 Auto Coloring for DIREKT Touren**\ => **DONE ✅**
+> **💡 Auto find of WAB auto. zuordnung zu Untertouren** => **DONE ✅** \
+> **💡 Auto Coloring for DIREKT Touren** => **DONE ✅** \
 > **💡 Auto Copy of WAB's (Vorletzte Zeilen)** => **DONE ✅**
 
 - **Excel Makros für Auslieferliste:**
