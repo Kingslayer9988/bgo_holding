@@ -1,22 +1,6 @@
 ## NOS 💚
 
-- Di, 04.03.2025:
-
-- We are taking about Frontend when the way more important backend is not working 😂😂 this is just embarrassing.
-
-- Frontends will actually be the downfall of people 😂 shell users shoutout.
-
-- Schnittstelle is Nr1 Problem - why nobody gets this is crazy to me l. how are there even choices of frontends when backend is not ready ?
-
-- How can this Schnittstelle be not fixed if this fuck is in use since jan 2024
-
-- Splitten/Ladereihenfolge/Internal-WAB-Nr all are kinda useless without proper Export.
-
-- Sheets of Paper will always be there - Ms Alex will be even more 😭
-
-- Colleagues are super friendly.
-
-- Programm Profi/Cargo makes 0 difference in terms of how slow this people are in Computers anyway
+- We are taking about Frontend when the way more important backend is not working 😂
 
 - Tische von $Hersteller_B are a big thing and its not working out well 😂
     - 20 min extra für zerlegten Tisch
