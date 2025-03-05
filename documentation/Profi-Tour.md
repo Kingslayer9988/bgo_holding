@@ -150,7 +150,7 @@
     - **LKW gewünscht:** - Manchmal ist es **teurer umzuladen** in **3,5t bzw 7,5t Fahrzeug** - In diesen Fällen mit LKW zu **kleinem Kunden zu fahren!**
 
 > [!NOTE]
-> **Excel-Makro** für KW_$$ zur **Fehlererkennung** erstellen => Sobald **2 Touren aus 1 WAB** laden!
+> **Excel-Makro** für KW_$$ zur **Fehlererkennung** erstellen => Sobald **2 Touren aus 1 WAB** laden! => **DONE ✅**
 
 ## 🚀 Guide für das erstellen von Unter-Touren:
 
