@@ -24,7 +24,7 @@
 > **💡 Automatic Numbering of _KW$ in File & creating of Files** => **DONE ✅** \
 > **💡 Auto find of WAB auto. zuordnung zu Untertouren** => **DONE ✅** \
 > **💡 Auto Coloring for DIREKT Touren** => **DONE ✅** \
-> **💡 Auto Copy of WAB's (Vorletzte Zeilen)** => **DONE ✅**
+> **💡 Auto Copy of WAB's (Vorletzte Zeilen)** => **DONE ✅** \
 > **💡 [BIG ONE] Make Export-Import Makro for Profi-Tour.csv => Tourenplan.xlsm**
 
 - **Excel Makros für Auslieferliste:**
