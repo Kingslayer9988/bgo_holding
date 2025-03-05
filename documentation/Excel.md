@@ -22,9 +22,9 @@
 > 
 > **💡 Make Hersteller_KW visable if its not MO - SO | Bsp.: DI - DI**\
 > **💡 Automatic Numbering of _KW$ in File & creating of Files**\
-> **💡 Auto Calc of WAB_Gewicht inkl. auto. zuordnung zu Untertouren**\
-> **💡 Auto Coloring for DIREKT Touren**\
-> **💡 Auto Copy of WAB's (Letzte Zeilen)**
+> **💡 Auto find of WAB auto. zuordnung zu Untertouren**\ => **DONE ✅**
+> **💡 Auto Coloring for DIREKT Touren**\ => **DONE ✅**
+> **💡 Auto Copy of WAB's (Vorletzte Zeilen)** => **DONE ✅**
 
 - **Excel Makros für Auslieferliste:**
     - Werden nur Lokal in Excel gespeichert - (New to me i always put them in the actual file) 
