@@ -158,15 +158,19 @@
     - WAB's sollten schon erstellt sein => **📦[Produktions-Abgabe](#-guide-für-die-abgabe-der-produktion)** bzw. **💣[Guide für WAB Touren](#-guide-für-das-erstellen-von-wab-touren--direktpost)**
 
 - **⚠️ Wunschtermine & Fixtermine** bzw. **größere Baustellen** beachten
-- **⚠️ FIXTERMIN** Im **Tourennamen** und im Feld **Bemerkung_Montage** vermerken (Außnahme Internet/Postversand)
+    - **⚠️ FIXTERMIN** Im **Tourennamen** und im Feld **Bemerkung_Montage** vermerken (Außnahme Internet/Postversand)
 
-- **⏱️ [Montagezeit (Transportauftragsreport)](#%EF%B8%8F-montagezeit-kalkulieren-bzw-transportauftrag-checken) nachkalkulieren!**
-
+- **⏱️ [Montagezeit (Transportauftragsreport)](#%EF%B8%8F-montagezeit-kalkulieren-bzw-transportauftrag-checken) für alle Stopps nachkalkulieren!**
+    - Aufpassen bei **🍳 Küchen** => **Montagezeit** stimmt **Transportauftragsreport** teilen durch **Personen** => **Standzeit fixieren**
+    - Aufpassen bei **Trennwänden** => **Montage => pro 1 Laufmeter = 3h**  / **Demontage => pro 1 Laufmeter = 1,5h** => In **Excel** übernehmen
+ 
 - **❌ Falls sich die Tour** aufgrund von **Fahrzeiten** oder **Montagezeiten NICHT** ausgeht:
     - Datensätze auf **[Minimap](#%EF%B8%8F-minimap---kleine-karte-links-unten---enthält-ausgewählte-datensätzeaufträge)** ansehen und nach **Orten/Fahrtstrecke** teilen
     - Datensätze im **Bearbeitungs-Fenster** - **aus der Tour lösen** bzw. **Stopp entfernen** bei erstellter Tour.
 
-- **🚛 Fahrzeug** nach **Gewicht, Volumen(m³)** der **Tour** einteilen **( 3,5t | 7,5t | LKW )** **[Siehe Hier](#-fahrzeuge)**
+- **[🕋 Fracht checken](#-fracht)** und **richtiges Fahrzeug** einteilen
+
+- **[🚛 Fahrzeug](#-fahrzeuge)** nach **Gewicht, Volumen(m³)** der **Tour** einteilen **( 3,5t | 7,5t | LKW )**
 
 - **☎️ Bei knappen/komischen-Touren** => **Absprache mit SC-Leiter** => **Plant-SC-Leiter-Tour erstellen**
     - **Ausnahme**: **[⛰️ Vorarlberg ist anders](#%EF%B8%8F-vorarlberg-ist-anders) (ULGB)**
