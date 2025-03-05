@@ -40,6 +40,7 @@
         - 📑 Alex hat Kapazitätsreport von 2020 => Bekommt Helmuth täglich => Wichtige Infos für mich
     - 📅 Team-Gespräch sollte eigeführt werden mind. 1x die Woche
     - ♻️ Import der Cargo-Support Datensätze = **[Täglich um 06:00 & 10:00 & 14:00 Uhr]**
+    - 📗 NOS 💚 Avisieret nur **pro Tag** => Kein **3h-Fenster**
             - Außerdem bekommt Helmuth die ganze Zeit die ausgedruckten Aufträge aus 2020 auf seinen Tisch geliefert.
     - 💡 Excel-Listen mit Helmuth und Heinz müssen eingeführt werden => Teams & Excel vorbereiten (Screenshot von Isabel)
     - 💡 PDF-Parser und Crap-Scripts für automation seems very powerful at NOS
@@ -82,17 +83,17 @@
         - 🔶 Ausnahme **Freitags 14:00: Nur DIREKT/POST** Lieferungen verplanen **(Runde der Mitarbeiter)** 
     - 📺 **TV's** machen die Anfallen! => **[Guide](https://github.com/Kingslayer9988/bgo_holding/blob/main/documentation/Profi-Tour.md#-guide-für-tv-tv--termin-Verspätung)**
 
-
-
 - Cargo Support NOS💚-Style
     - Litterally look on the Sheet of Paper => Check AB-Number and Search in CS => Checkmark ✅
     - Literally look at Sheet of Paper (Selfwritten) => Check Tour-Number and Search in CS => Checkmark ✅
     - Litterally make rightclick => Combine Tours => 📺 TV done
     - They say they have a bug where $Fahrzeug => Overwrites $Spediton => Not true i think
+    - Ablauf: Cargo Tour planen (Teilweise mit Virt-Tour & Teils Ohne) => Ladelisten zusammenstellen => Verladung weitergeben => Ladelisten an SC-Leiter
 
 - Di-Mi 11. - 12.03.2025 🌹
 
 ## Gebiete Erik - Hersteller NOS 💚
+- **Akutelle Aufgabe** nur **Touren** in **Cargo-Support zusammenstellen & 📗 Avisieren & 🔄 Nachplanen**
 - **Voradelberg[VBG] - (SC Dornbirn) + DE (Deutschland) + FL (Liechtenstein) + CH (Schweiz)**
     - **(J)** = Cargo-Support
     - Untertouren macht **[⛰️ ULGB Voradelberg ist Anders](https://github.com/Kingslayer9988/bgo_holding/blob/main/documentation/Profi-Tour.md#%EF%B8%8F-vorarlberg-ist-anders)**
