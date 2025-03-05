@@ -21,10 +21,11 @@
 > **Automations & Fixes (Work in Progress): [LINK](../excel_makros/Modul1.bas)**
 > 
 > **💡 Make Hersteller_KW visable if its not MO - SO | Bsp.: DI - DI**\
-> **💡 Automatic Numbering of _KW$ in File & creating of Files**\
+> **💡 Automatic Numbering of _KW$ in File & creating of Files** => **DONE ✅** \
 > **💡 Auto find of WAB auto. zuordnung zu Untertouren** => **DONE ✅** \
 > **💡 Auto Coloring for DIREKT Touren** => **DONE ✅** \
 > **💡 Auto Copy of WAB's (Vorletzte Zeilen)** => **DONE ✅**
+> **💡 [BIG ONE] Make Export-Import Makro for Profi-Tour.csv => Tourenplan.xlsm**
 
 - **Excel Makros für Auslieferliste:**
     - Werden nur Lokal in Excel gespeichert - (New to me i always put them in the actual file) 
