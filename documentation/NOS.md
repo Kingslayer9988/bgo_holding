@@ -36,12 +36,13 @@
         - NOS Info in Cargo-Support fast nie 30m³ auf einem WAB => Mehr 20 - 25 m³
         - Andauerende Probleme bei der Verladung => Reihenfolge passt nicht => bzw. wird nicht befolgt = nichts neues
         - Oft wird Produkion während des einräumen des WAB's fertiggstellet => Aber nicht in der richtigen Reihenfolge = Wird dann für den falschen Stopp verladen
-        - Alex glättet Produktion => Ist hier alles ok ?
-        - Alex hat Kapazitätsreport => Bekommt Helmuth täglich => Wichtige Infos für mich 
+        - 🔨 Alex glättet Produktion => Ist hier alles ok ?
+        - 📑 Alex hat Kapazitätsreport von 2020 => Bekommt Helmuth täglich => Wichtige Infos für mich
     - 📅 Team-Gespräch sollte eigeführt werden mind. 1x die Woche
     - ♻️ Import der Cargo-Support Datensätze = **[Täglich um 06:00 & 10:00 & 14:00 Uhr]**
             - Außerdem bekommt Helmuth die ganze Zeit die ausgedruckten Aufträge aus 2020 auf seinen Tisch geliefert.
-    - 📑 Auslieferlisten
+    - 💡 Excel-Listen mit Helmuth und Heinz müssen eingeführt werden => Teams & Excel vorbereiten (Screenshot von Isabel)
+    - 💡 PDF-Parser und Crap-Scripts für automation seems very powerful at NOS
     - 📛 Extras
         - Schieben von Positionen/Aufträgen ist in 2020 unmöglich => Das heißt jede TV etc. wird neuer Auftrag (Schieben = Keine Regeln) == Alte Ladeliste (Auftrag) kann nicht verändert werde
     - 📅 $Hersteller_KW if it exits
@@ -52,6 +53,36 @@
     - Cant be hard if its as bad as people say 🙉
     - **Schiebendrein Helmuth** disponiert **Gebiete: Wien, OÖ, NÖ**
     - **Nussbaumer Heinz** disponiert **Gebiete: Rest von Helmuth**
+
+## Chronologischer Ablauf (Will Still have Mistakes - Aktuell für $Hersteller_N)
+
+- **📅 Montag:**
+    - ⌛ **Daily Quests**
+    * ▶️ **Starten der Planung von mindestens $Folge_KW_4** => Bsp.: **Montag_KW_08 für KW_12** => **[Guide](https://github.com/Kingslayer9988/bgo_holding/blob/main/documentation/Profi-Tour.md#-guide-für-das-erstellen-von-wab-touren--direktpost)** 
+    * 🔨 **Feinplanung für Abgabe_KW => Glätten?**
+    * 🚚 **Transportbestellung** => Für **$Folge_KW_02** (Bsp: **Freitag_KW_08 für KW_10**) => **[Guide](https://github.com/Kingslayer9988/bgo_holding/blob/main/documentation/Profi-Tour.md#-guide-für-die-transportbestellung)**
+- **📅 Dienstag:**
+    - ⌛ **Daily Quests**
+    - **Vertragepersonal bestellen** => Nicht unsere Arbeit eigentlich 
+- **📅 Mittwoch:**
+    - ⌛ **Daily Quests**
+    * 📑 **Auslieferlisten für SC-Leiter** => Für **$Folge_KW_01** -> Bsp.: **Montag_KW_08 für KW_09** => **[Guide](https://github.com/Kingslayer9988/bgo_holding/blob/main/documentation/Profi-Tour.md#-guide-für-auslieferlisten)**
+- **📅 Donnerstag:**
+    - ⌛ **Daily Quests**
+    * **📙 Vorraus Avisieren (Vor-Avisieren)** wird für alle gemacht **[Guide](https://github.com/Kingslayer9988/bgo_holding/blob/main/documentation/Profi-Tour.md#-vorraus-avisieren-vor-avisieren)**
+    * **📗 Avisieren mindestens $Folge_KW_4**=> Bsp.: **Dienstag_KW08 für KW_12** => **[Guide](https://github.com/Kingslayer9988/bgo_holding/blob/main/documentation/Profi-Tour.md#-avisieren)**
+- **📅 Freitag:**
+    - ⌛ **Daily Quests** 
+    * 📑 **FEHLT AKTUELL Auslieferliste für Hersteller** => Für **$Folge_KW_01** (Bsp: **Freitag_KW_08 für KW_09**) => **[Guide](https://github.com/Kingslayer9988/bgo_holding/blob/main/documentation/Profi-Tour.md#-guide-für-auslieferlisten)**
+    * 🔨 **MONTAGS ?? Möglicherweise Glättung der Produktion** => Für **Abgabe_KW** der **Produktion** (Bsp.: **Freitag_KW_08 für KW_12**) => **[Guide](https://github.com/Kingslayer9988/bgo_holding/blob/main/documentation/Profi-Tour.md#-guide-für-die-glättung-der-produktion)**
+
+- **⌛ Daily Quests:**
+    - ♻️ Bei jedem Import von Hersteller_H **06:30 & 14:00 Täglich** (Hr. Roither für Probleme)
+        - 🔄 **Nachplanen** => **Alle neuen Aufträge** wieder verplanen für **$Folge_KW_1 & $Folge_KW_2 & $Folge_KW_3 & $Folge_KW_4** => **[Guide](https://github.com/Kingslayer9988/bgo_holding/blob/main/documentation/Profi-Tour.md#-nachplanen)**
+        - 🔶 Ausnahme **Freitags 14:00: Nur DIREKT/POST** Lieferungen verplanen **(Runde der Mitarbeiter)** 
+    - 📺 **TV's** machen die Anfallen! => **[Guide](https://github.com/Kingslayer9988/bgo_holding/blob/main/documentation/Profi-Tour.md#-guide-für-tv-tv--termin-Verspätung)**
+
+
 
 - Cargo Support NOS💚-Style
     - Litterally look on the Sheet of Paper => Check AB-Number and Search in CS => Checkmark ✅
