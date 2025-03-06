@@ -11,10 +11,27 @@
 
 - Make sure I know all the easy things 👻:
     - ☠️ Deadlines
-        - ❄️ Frozen Zone (NOS) ❄️ = mindestens 12T vor Auslieferdatum
-        - 📦 Bei Abgabe der Produktions_KW => 1 Woche hinter $Hersteller_H => gleich mit $Hersteller_B (Bsp.: KW_09 für KW_13)
-        - 📦 Produktions_Datum für Auftrag = normalerweise -3 Werktage stattt -1 Werktag bei $Hersteller_H (Kann auch mehr als 3 Tage unterschied sein => ASK SOMNEONE)
-        - Bereitstell_Datum +1 Werktag von 📦 Produktions_Datum 
+        - **❄️ Frozen Zone (NOS) ❄️** = **mindestens 12T vor Auslieferdatum** => **13. Tag vor Auslieferdatum => Schieben möglich**
+        - **📦 Bei Abgabe der Produktions_KW => 1 Woche hinter $Hersteller_H => gleich mit $Hersteller_B (Bsp.: KW_09 für KW_13)**
+        - **📦 Produktions_Datum für Auftrag = normalerweise -3 Werktage vor Ausliefer_Datum**
+        - **Bereitstell_Datum +1 Werktag zum 📦 Produktions_Datum** => Eg. **-2 Werktage vor Ausliefer_Datum**
+        - **📗 Avisieren** immer **[Donnerstags]** für **Folge_KW_4** => **(Bsp. KW09 für KW13)** und **Avis** immer nur für **ganzen Tag**
+        - **♻️ Import der Cargo-Support Datensätze** = **[Täglich um 06:00 & 10:00 & 14:00 Uhr]**
+        - **🛢️ WAB'S** => **bei 20-25m³ voll** => meist **nicht auf 30m³ füllbar**
+        - 🛑 Missing: **📦 Produktions_Datum manchmal unterschiedlich ? => Wieso ? => Schema ?**
+        - 🛑 Missing: **WAB_Bereitstell_Uhrzeit: ??:?? Uhr pro Gebiet** => Hersteller_H 06:00
+        - 🛑 Missing: **📑 Frachtbriefe und Auslieferliste für SC-Leiter** => Wird aktuell anderes gemacht => Montag für Folge_KW_1 ?
+        - 🛑 Missing: **🚛 Fuhrpark => Fahrzeuge und Speditionen pro Gebiet**
+        - 🛑 Missing: **Unterschiedliche Kalenderwochen für Gebiete** (Falls existiert) (Bsp.: DI-DI / MI-MI)
+        - 🛑 Missing: **Produktions_Export_Datum** und **[WOCHENTAG]**
+        - 🛑 Missing: **Postversand / DIREKT-Versand Termine pro Gebiete**
+        - 🛑 Missing: **Rampe / Platz** für SC-Lager **pro Gebiete** => Prob. same as Hersteller_H
+        - 🛑 Missing: **FIXTERMINE** wo müssen sie gehalten werden und wo nicht.
+        - 🛑 Missing: **Naming-Scheme für Touren/WAB's**
+        - 🛑 Missing: **Wandmonteure & Küchenmonteure** => Wo und wieviel => Was machen wir selbst
+        - 🛑 Missing: **Vorproduktion** und wie es gehandelt wird.
+        - 🛑 Missing: **Spezielle NOS💚 Eigenheiten** die ich wissen sollte
+
     - 🚛 Fuhpark & Personal
         - haben eigenen LKW der 2 WAB laden kann
         - 8 Monteure wurden nach SC-Wiener Neustadt geben => 4 Monteure über bei NOS direkt
@@ -25,9 +42,6 @@
         - 🔨 Alex glättet Produktion => Ist hier alles ok ?
         - 📑 Alex hat Kapazitätsreport von 2020 => Bekommt Helmuth täglich => Wichtige Infos für mich
     - 📅 Team-Gespräch sollte eigeführt werden mind. 1x die Woche
-    - ♻️ Import der Cargo-Support Datensätze = **[Täglich um 06:00 & 10:00 & 14:00 Uhr]**
-    - 📗 NOS 💚 Avisieret nur **pro Tag** => Kein **3h-Fenster**
-            - Außerdem bekommt Helmuth die ganze Zeit die ausgedruckten Aufträge aus 2020 auf seinen Tisch geliefert.
     - Deutschland hat NOS 💚 nur 10-15 m³ pro Woche => Lösung muss her manchmal Touren nach Hamburg/Berlin mit 2-5 Tischen etc.
         - Lösung wie bei $Hersteller_B => Ware nach Eferding ?
     - Export gibt es bei NOS nicht viel manchmal Bratislava, Budapest und (Slovenien => macht Riegler Klagenfurt)
