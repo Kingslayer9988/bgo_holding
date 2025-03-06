@@ -117,13 +117,13 @@
     
     - **↗️ [Rampe]** (Lager-WAB) => Bei **3,5t & 7,5t Unter-Touren** => **(eher = Bei vielen Kleinkunden)**
         - Container: **$Spedition_NORMAL**
-        - Fahrzeug: **3,5t** oder **7,5t - Fahrzeug**
+        - Umladen in: **3,5t** oder **7,5t**
         - **Niemals** einem **Jumbo-WAB** zur **Rampe**
         - Nur **max. 1 LKW** auf **Rampe**
 
-    - **🅿️ [Platz] (Lager & Direkt-WAB)**  => Bei **LKW Unter-Touren** **(eher = Bei wenig Großkunden)**
+    - **🅿️ [Platz] (Lager-WAB)**  => Bei **LKW Unter-Touren** **(eher = Bei wenig Großkunden)**
         - Container: **$Spedition_NORMAL**
-        - Fahrzeug: **LKW - Fahrzeug**
+        - Umladen in: **LKW**
         - Aufpassen auf **Zufahrten etc.** oft ist es **nicht möglich** mit **LKW bis zur Baustelle** zu kommen
         
 - **🔁 Automatische Verlade-Reihenfolge**
