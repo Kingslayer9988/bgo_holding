@@ -37,7 +37,6 @@
         - 8 Monteure wurden nach SC-Wiener Neustadt geben => 4 Monteure über bei NOS direkt
         - Sped_Kusztrich ist sehr zuverlässig laut NOS
         - NOS Info in Cargo-Support fast nie 30m³ auf einem WAB => Mehr 20 - 25 m³
-        - Andauerende Probleme bei der Verladung => Reihenfolge passt nicht => bzw. wird nicht befolgt = nichts neues
         - Oft wird Produkion während des einräumen des WAB's fertiggstellet => Aber nicht in der richtigen Reihenfolge = Wird dann für den falschen Stopp verladen
         - 🔨 Alex glättet Produktion => Ist hier alles ok ?
         - 📑 Alex hat Kapazitätsreport von 2020 => Bekommt Helmuth täglich => Wichtige Infos für mich
