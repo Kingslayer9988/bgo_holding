@@ -27,6 +27,39 @@
         - 🔶 Ausnahme **Freitags 14:00: Nur DIREKT/POST** Lieferungen verplanen **(Runde der Mitarbeiter)** 
     - 📺 **TV's** machen die Anfallen! => **[Guide](#-guide-für-tv-tv--termin-Verspätung)**
 
+## 🌍 Gebiete Erik - Hersteller NOS 💚
+- **⛰️ Voradelberg - [VBG] - (SC Dornbirn) - {Partner=ULGB} +  Deutschland Süden (PLZ 8XXXX) [DE] + Liechtenstein [FL] + Schweiz [CH]**
+    - **🚀 Untertouren** macht **[⛰️ ULGB Voradelberg ist Anders](https://github.com/Kingslayer9988/bgo_holding/blob/main/documentation/Profi-Tour.md#%EF%B8%8F-vorarlberg-ist-anders)**
+    * **NOS = 1-2 WAB pro 📅 KW** lt. Helmuth  04.03.2025
+    * **(J)** = Zone in **Cargo-Support**
+    * **SC Dornbirn** = SC-Leiter => **Oliver L. (ULGB)**
+    * **❌ Kein Küchenmonteur** => **L&M Küchenmontage**
+
+- **🚠 Tirol - [T] - (SC Innsbruck) + 🇮🇹  Italien [ITA]**
+    - **1️⃣ Gebiet das ich verplanen soll**
+    - **NOS 💚 = 2-4 WAB pro 📅 KW** lt. Helmuth  04.03.2025
+    * **(I)** = Zone in **Cargo-Support**
+    * **SC-Leiter** => **Thonhauser F. & Agostini T.**
+    * **❌ Kein Küchenmonteur** => **L&M Küchenmontage**
+
+- **⛵ Kärnten - [KTN] - (SC Klagenfurt) - {Partner=Riegler}**
+    - **NOS 💚 = 1-2 WAB pro 📅 KW** lt. Helmuth  04.03.2025
+    * **(G)** = Zone in **Cargo-Support**
+    * **SC Klagenfurt** => SC-Leiter => **Koeck M.  & Bader S.**
+    * **🚀 Untertouren & 📗 Avisieren** macht **[⛵ Riegler Kärnten bei NOS ist Anders ~ Wie ULGB](https://github.com/Kingslayer9988/bgo_holding/blob/main/documentation/Profi-Tour.md#%EF%B8%8F-vorarlberg-ist-anders)**
+    * **Küchenmonteur vorhanden ✔️**
+    * **Kleines SC-Lager** => **Max. 2 LKW pro Tag (1x Platz & 1x Rampe)**
+
+- **🌳 Steiermark - [STMK] - (SC Graz) + Kroatien [HR] + Slovakei [SI] + Solvenien [SLO]**
+    - **NOS 💚 = 5 WAB pro 📅 KW** lt. Helmuth  04.03.2025
+    * **(F)** = Zone in **Cargo-Support**
+    * **SC Graz** => SC-Leiter => **Koeck M.  & Bader S.**
+    * **❌ Kein Küchenmonteur aber gute Monteure (Außnahme) ✔️** 
+
+- **🇩🇪 Deutschland Gesamt {Partner=Relogg}** => **❓ Noch nicht sicher für mich** => (UNSURE ASK DENISA❓)
+    * **(???) => probably  [DE]** = Zone in **Cargo-Support**
+    * **Ähnlich wie Voradelberg (Relogg ~ ULGB) = 🚀 Untertouren & 📗 Avisieren**
+
 # 🚥 Profi-Tour for Dummies 🚥
 
 ### ⚖️ LAW Number One ➡️ Don't mess with Profi-Tour-Profile from Isabel
@@ -379,39 +412,6 @@ Danke im Voraus.
 - Auftrag ist nun im **Unbearbeitet-Fenster** => Splitten, WAB, etc. => **behandeln wie neuen Auftag**
 - Bei **Verschiebungen** auch den **Vorproduktion-Nummernkreis** verwenden wenn Produktionsdatum **mehr als 1 Werktag** von **Lieferdatum** entfernt ist.
     - Außnahme bei **🍳 Küchen** nicht den **Vorproduktion-Nummernkreis** verwenden!
-
-## 🌍 Gebiete Erik - Hersteller NOS 💚
-- **⛰️ Voradelberg - [VBG] - (SC Dornbirn) - {Partner=ULGB} +  Deutschland Süden (PLZ 8XXXX) [DE] + Liechtenstein [FL] + Schweiz [CH]**
-    - **🚀 Untertouren** macht **[⛰️ ULGB Voradelberg ist Anders](https://github.com/Kingslayer9988/bgo_holding/blob/main/documentation/Profi-Tour.md#%EF%B8%8F-vorarlberg-ist-anders)**
-    * **NOS = 1-2 WAB pro 📅 KW** lt. Helmuth  04.03.2025
-    * **(J)** = Zone in **Cargo-Support**
-    * **SC Dornbirn** = SC-Leiter => **Oliver L. (ULGB)**
-    * **❌ Kein Küchenmonteur** => **L&M Küchenmontage**
-
-- **🚠 Tirol - [T] - (SC Innsbruck) + 🇮🇹  Italien [ITA]**
-    - **1️⃣ Gebiet das ich verplanen soll**
-    - **NOS 💚 = 2-4 WAB pro 📅 KW** lt. Helmuth  04.03.2025
-    * **(I)** = Zone in **Cargo-Support**
-    * **SC-Leiter** => **Thonhauser F. & Agostini T.**
-    * **❌ Kein Küchenmonteur** => **L&M Küchenmontage**
-
-- **⛵ Kärnten - [KTN] - (SC Klagenfurt) - {Partner=Riegler}**
-    - **NOS 💚 = 1-2 WAB pro 📅 KW** lt. Helmuth  04.03.2025
-    * **(G)** = Zone in **Cargo-Support**
-    * **SC Klagenfurt** => SC-Leiter => **Koeck M.  & Bader S.**
-    * **🚀 Untertouren & 📗 Avisieren** macht **[⛵ Riegler Kärnten bei NOS ist Anders ~ Wie ULGB](https://github.com/Kingslayer9988/bgo_holding/blob/main/documentation/Profi-Tour.md#%EF%B8%8F-vorarlberg-ist-anders)**
-    * **Küchenmonteur vorhanden ✔️**
-    * **Kleines SC-Lager** => **Max. 2 LKW pro Tag (1x Platz & 1x Rampe)**
-
-- **🌳 Steiermark - [STMK] - (SC Graz) + Kroatien [HR] + Slovakei [SI] + Solvenien [SLO]**
-    - **NOS 💚 = 5 WAB pro 📅 KW** lt. Helmuth  04.03.2025
-    * **(F)** = Zone in **Cargo-Support**
-    * **SC Graz** => SC-Leiter => **Koeck M.  & Bader S.**
-    * **❌ Kein Küchenmonteur aber gute Monteure (Außnahme) ✔️** 
-
-- **🇩🇪 Deutschland Gesamt {Partner=Relogg}** => **❓ Noch nicht sicher für mich** => (UNSURE ASK DENISA❓)
-    * **(???) => probably  [DE]** = Zone in **Cargo-Support**
-    * **Ähnlich wie Voradelberg (Relogg ~ ULGB) = 🚀 Untertouren & 📗 Avisieren**
 
 ## Profi-Tour besteht aus 2-Teilen bzw. Ansichten (Datenbank & Planungs - Ansicht)
 ### Ansicht_1 = Datenbank_Ansicht
