@@ -329,7 +329,9 @@ Danke im Voraus.
 - Aufpassen bei **Trennwänden(RS/RG)**, **Trennwand/Glaswand** etc. mit **SC-Leiter abklären**
 - Aufpassen bei **🍳 Küchen** => **Montagezeit** stimmt **Transportauftragsreport** teilen durch **Personen** => **Standzeit fixieren**
 - Bei **🍳 Kleinen Küchen** mit **SC-Leiter abklären** ob wir sie selbst machen können!
-    - **Küchenmonteure teilweise** selbst vorhanden! **[Siehe Hier für NOS💚](NOS.md)**
+- **Küchenmonteure teilweise** selbst vorhanden! **[Siehe Hier für NOS💚](NOS.md)**
+- In **Microsoft Teams Datein** nach Auftragsnummer suchen => **Pläne downloaden** => **An SC-Leiter weiterleiten**
+    - Aufpassen beim **Download von PDF's** => Downloaded gerne altes File! => **Teams is great Software**
 
 ## 📦 Guide für die Abgabe der Produktion:
 - Filter -> **[Transportaufträge & Hali: Lieferwoche]** => **[JJJJ/KW] auswählen**
@@ -430,9 +432,6 @@ Danke im Voraus.
     - Montage => pro 1 Laufmeter = 3h
     - Demontage => pro 1 Laufmeter = 1,5h
     - [RG] **Glaswand** => Kommt aktuell nur von **$Hersteller_B** => Bei anderen Hersteller => **Falsche Eingabe**
-
-- **Microsoft Teams**
-    - Aufpassen beim **Download von PDF's** => Downloaded gerne altes File! => **Teams is great Software**
   
 > [!NOTE]
 > Later make Guides switchable per $_Hersteller and Color them accordingly 🌈
