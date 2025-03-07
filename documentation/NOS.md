@@ -95,31 +95,36 @@
     - Ablauf: Cargo Tour planen (Teilweise mit Virt-Tour & Teils Ohne) => Ladelisten zusammenstellen => Verladung weitergeben => Ladelisten an SC-Leiter
 
 ## 🌍 Gebiete Erik - Hersteller NOS 💚
-- **⛰️ Voradelberg [VBG] - (SC Dornbirn) + DE (Deutschland) + FL (Liechtenstein) + CH (Schweiz)**
+- **⛰️ Voradelberg - [VBG] - (SC Dornbirn) + DE (Deutschland) + FL (Liechtenstein) + CH (Schweiz)**
     - **NOS = 1-2 WAB pro 📅 KW** lt. Helmuth  04.03.2025
     * **(J)** = Zone in **Cargo-Support**
-    * **SC Dornbirn** = SC-Leiter => **Oliver ULBG**
+    * **SC Dornbirn** = SC-Leiter => **Oliver L. (ULGB)**
     * **🚀 Untertouren** macht **[⛰️ ULGB Voradelberg ist Anders](https://github.com/Kingslayer9988/bgo_holding/blob/main/documentation/Profi-Tour.md#%EF%B8%8F-vorarlberg-ist-anders)**
-    * **❌ Kein Küchenmonteur** => L & M
-- **🚠 Tirol[T] (SC Innsbruck)** => **Start**
+    * **❌ Kein Küchenmonteur** => **L&M Küchenmontage**
+
+- **🚠 Tirol - [T] - (SC Innsbruck) + ITA (Italien)**
+    - **1️⃣ Gebiet das ich verplanen soll**
     - **NOS 💚 = 2-4 WAB pro 📅 KW** lt. Helmuth  04.03.2025
     * **(I)** = Zone in **Cargo-Support**
     * **SC-Leiter** => **Thonhauser F. & Agostini T.**
-    * **❌ Kein Küchenmonteur** => L & M
-- **⛵ Kärnten [KTN] (SC Klagenfurt) + ITA (Italien)**
+    * **❌ Kein Küchenmonteur** => **L&M Küchenmontage**
+
+- **⛵ Kärnten - [KTN] - (SC Klagenfurt)**
     - **NOS 💚 = 1-2 WAB pro 📅 KW** lt. Helmuth  04.03.2025
     * **(G)** = Zone in **Cargo-Support**
     * **SC Klagenfurt** => SC-Leiter => **Koeck M.  & Bader S.**
-    * **Untertouren & 📗 Avisieren** macht **[Riegler Kärnten ist bei NOS auch Anders ~ ULBG(Dornbin) ~ Relogg(DE)](https://github.com/Kingslayer9988/bgo_holding/blob/main/documentation/Profi-Tour.md#%EF%B8%8F-vorarlberg-ist-anders)**
+    * **Untertouren & 📗 Avisieren** macht **[⛵ Riegler Kärnten bei NOS ist Anders ~ Wie ULGB](https://github.com/Kingslayer9988/bgo_holding/blob/main/documentation/Profi-Tour.md#%EF%B8%8F-vorarlberg-ist-anders)**
     * **Küchenmonteur vorhanden ✔️**
     * **Kleines SC-Lager** => **Max. 2 LKW pro Tag (1x Platz & 1x Rampe)**
-- **🌳 Steiermark [STMK] (SC Graz) + HR (Kroatien) + SI (Slovakei) + SLO (Solvenien)**
+
+- **🌳 Steiermark - [STMK] - (SC Graz) + HR (Kroatien) + SI (Slovakei) + SLO (Solvenien)**
     - **NOS 💚 = 5 WAB pro 📅 KW** lt. Helmuth  04.03.2025
     * **(F)** = Zone in **Cargo-Support**
     * **SC Graz** => SC-Leiter => **Koeck M.  & Bader S.**
     * **❌ Kein Küchenmonteur aber gute Monteure (Außnahme) ✔️** 
+
 - **🇩🇪 Deutschland Gesamt (Relogg-Partner)** => **❓ Noch nicht sicher für mich** => (UNSURE ASK DENISA)
-    * **(???) => probably Export (DE)** = Zone in **Cargo-Support**
+    * **(???) => probably (DE)** = Zone in **Cargo-Support**
     * **Ähnlich wie Voradelberg (Relogg ~ ULGB)**
 
 > [!NOTE]
