@@ -434,17 +434,5 @@ Danke im Voraus.
 - **Microsoft Teams**
     - Aufpassen beim **Download von PDF's** => Downloaded gerne altes File! => **Teams is great Software**
   
-- **Konflikte** mit **BGO & SC-Leiter** (UNSURE ASK BIG-BOSS 😕)
-    - Wer ruft Kunden bei welchen Problem an ? 💀
-    - Abschieben auf $Hersteller & $SC-Leiter ==> **und Umgekehrt!**  💀
-    - **WHO THE FUCK IS TO BLAME AND FOR WHAT 💀**
-    - **Keine Verantwortung übernehmen :question: => Alles Problem von Hersteller** :question:
-    - Maybe ask all the Colleges ?
-
-- **$HERSTELLER**
-    - NOS -  🟢 - Hersteller_N -> 🔵 Schrift
-    - HALI - 🔵 - Hersteller_H -> 🟢 Schrift
-    - BENE - 🔴 - Hersteller_B -> ⚫ Schrift
-
 > [!NOTE]
 > Later make Guides switchable per $_Hersteller and Color them accordingly 🌈
