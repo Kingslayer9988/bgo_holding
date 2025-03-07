@@ -1,6 +1,6 @@
 # 🏢 BGO Mitschrift Erik Zellhofer 🏢
 
-## 📈 Wöchentlicher Chronologischer Ablauf (💙 Hersteller Hali)
+## 📈 Wöchentlicher Chronologischer Ablauf (Hersteller Hali 💙)
 
 - **📅 Montag:**
     - ⌛ **Daily Quests** 
@@ -27,7 +27,7 @@
         - 🔶 Ausnahme **Freitags 14:00: Nur DIREKT/POST** Lieferungen verplanen **(Runde der Mitarbeiter)** 
     - 📺 **TV's** machen die Anfallen! => **[Guide](#-guide-für-tv-tv--termin-Verspätung)**
 
-## 🌍 Gebiete Erik - Hersteller NOS 💚
+## 🌍 Gebiete Erik (Hersteller NOS 💚) 
 - **⛰️ Voradelberg - [VBG] - (SC Dornbirn) - {Partner=ULGB} +  Deutschland Süden (PLZ 8XXXX) [DE] + Liechtenstein [FL] + Schweiz [CH]**
     - **🚀 Untertouren** macht **[⛰️ ULGB Voradelberg ist Anders](https://github.com/Kingslayer9988/bgo_holding/blob/main/documentation/Profi-Tour.md#%EF%B8%8F-vorarlberg-ist-anders)**
     * **NOS = 1-2 WAB pro 📅 KW** lt. Helmuth  04.03.2025
