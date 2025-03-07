@@ -56,7 +56,7 @@
     * **SC Graz** => SC-Leiter => **Koeck M.  & Bader S.**
     * **❌ Kein Küchenmonteur aber gute Monteure (Außnahme) ✔️** 
 
-- **🇩🇪 Deutschland Gesamt {Partner=Relogg}** => **❓ Noch nicht sicher für mich** => (UNSURE ASK DENISA❓)
+- **🇩🇪 Deutschland [DE] {Partner=Relogg}** => **❓ Noch nicht sicher für mich** => (UNSURE ASK DENISA❓)
     * **(???) => probably  [DE]** = Zone in **Cargo-Support**
     * **Ähnlich wie Voradelberg (Relogg ~ ULGB) = 🚀 Untertouren & 📗 Avisieren**
 
