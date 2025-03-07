@@ -15,6 +15,19 @@
 - Bei Baustellen mit **Trennwänden** -> Trennwand vermerken = **Special Montage Workers**
 - Bei Baustellen mit **Küchen** -> **L&M Küchenmontage** oder **nach Gebiet gibt es Special Montage Workers**
 
+- **Konflikte** mit **BGO & SC-Leiter** (UNSURE ASK BIG-BOSS 😕)
+    - Wer ruft Kunden bei welchen Problem an ? 💀
+    - Abschieben auf $Hersteller & $SC-Leiter ==> **und Umgekehrt!**  💀
+    - **WHO THE FUCK IS TO BLAME AND FOR WHAT 💀**
+    - **Keine Verantwortung übernehmen :question: => Alles Problem von Hersteller** :question:
+    - Maybe ask all the Colleges ?
+
+- **$HERSTELLER**
+    - 💚 NOS  - 🟢 - $Hersteller_N => 🔵 Schrift
+    - 💙 HALI - 🔵 - $Hersteller_H => 🟢 Schrift
+    - ❤️ BENE - 🔴 - $Hersteller_B => ⚫ Schrift
+
+
 - Lösung für mich => **Local_Excel_File mit Extra Infos und Calculations für Lademenge etc**
 - **Force Sync** => **SC_Leiter_Excel_File + Removal of extra Infos**
 > [!NOTE]
