@@ -86,6 +86,13 @@
         - 🔶 Ausnahme **Freitags 14:00: Nur DIREKT/POST** Lieferungen verplanen **(Runde der Mitarbeiter)** 
     - 📺 **TV's** machen die Anfallen! => **[Guide](https://github.com/Kingslayer9988/bgo_holding/blob/main/documentation/Profi-Tour.md#-guide-für-tv-tv--termin-Verspätung)**
 
+- **Konflikte** mit **BGO & SC-Leiter**
+    - Wer ruft Kunden bei welchen Problem an ? 💀
+    - Abschieben auf $Hersteller & $SC-Leiter ==> **und Umgekehrt!**  💀
+    - **WHO THE FUCK IS TO BLAME AND FOR WHAT 💀**
+    - **Keine Verantwortung übernehmen :question: => Alles Problem von Hersteller** :question:
+    - Maybe ask all the Colleges ?
+
 - **Cargo Support NOS💚-Style**
 - **Akutelle Aufgabe** nur **Touren** in **Cargo-Support zusammenstellen & 📗 Avisieren & 🔄 Nachplanen**
     - Litterally look on the Sheet of Paper => Check AB-Number and Search in CS => Checkmark ✅
