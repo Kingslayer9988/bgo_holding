@@ -1,6 +1,6 @@
 # 🏢 BGO Mitschrift Erik Zellhofer 🏢
 
-## Chronologischer Ablauf (Will Still have Mistakes - Aktuell für $Hersteller_H)
+## 📈 Wöchentlicher Chronologischer Ablauf (💙 Hersteller Hali)
 
 - **📅 Montag:**
     - ⌛ **Daily Quests** 
