@@ -388,7 +388,7 @@ Danke im Voraus.
     * **SC Dornbirn** = SC-Leiter => **Oliver L. (ULGB)**
     * **❌ Kein Küchenmonteur** => **L&M Küchenmontage**
 
-- **🚠 Tirol - [T] - (SC Innsbruck) + 🇮🇹  Italien [ITA] (Export)**
+- **🚠 Tirol - [T] - (SC Innsbruck) + 🇮🇹  Italien [ITA]**
     - **1️⃣ Gebiet das ich verplanen soll**
     - **NOS 💚 = 2-4 WAB pro 📅 KW** lt. Helmuth  04.03.2025
     * **(I)** = Zone in **Cargo-Support**
