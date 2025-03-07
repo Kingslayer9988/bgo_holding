@@ -15,13 +15,6 @@
 - Bei Baustellen mit **Trennwänden** -> Trennwand vermerken = **Special Montage Workers**
 - Bei Baustellen mit **Küchen** -> **L&M Küchenmontage** oder **nach Gebiet gibt es Special Montage Workers**
 
-- **Konflikte** mit **BGO & SC-Leiter** (UNSURE ASK BIG-BOSS 😕)
-    - Wer ruft Kunden bei welchen Problem an ? 💀
-    - Abschieben auf $Hersteller & $SC-Leiter ==> **und Umgekehrt!**  💀
-    - **WHO THE FUCK IS TO BLAME AND FOR WHAT 💀**
-    - **Keine Verantwortung übernehmen :question: => Alles Problem von Hersteller** :question:
-    - Maybe ask all the Colleges ?
-
 - **$HERSTELLER**
     - 💚 NOS  - 🟢 - $Hersteller_N => 🔵 Schrift
     - 💙 HALI - 🔵 - $Hersteller_H => 🟢 Schrift
