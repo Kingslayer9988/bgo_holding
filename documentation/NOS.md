@@ -18,6 +18,7 @@
         - **📗 Avisieren** immer **[Donnerstags]** für **Folge_KW_4** => **(Bsp. KW09 für KW13)** und **Avis** immer nur für **ganzen Tag**
         - **♻️ Import der Cargo-Support Datensätze** = **[Täglich um 06:00 & 10:00 & 14:00 Uhr]**
         - **🛢️ WAB'S** => **bei 20-25m³ voll** => meist **nicht auf 30m³ füllbar**
+        - **📅 Kalender-Woche** bei **>= 10m³** = **NICHT FAHREN**
         - 🛑 Missing: **📦 Produktions_Datum manchmal unterschiedlich ? => Wieso ? => Schema ?**
         - 🛑 Missing: **WAB_Bereitstell_Uhrzeit: ??:?? Uhr pro Gebiet** => Hersteller_H 06:00
         - 🛑 Missing: **📑 Frachtbriefe und Auslieferliste für SC-Leiter** => Wird aktuell anderes gemacht => Montag für Folge_KW_1 ?
@@ -36,6 +37,8 @@
         - 🛑 Missing: In **Cargo-Support** = **Prod_Datum == Bereitstell_Datum** => Wie geht das bei **NOS 💚 ??**
         - 🛑 Missing: Sind **Auftragsnummern** gleich wie bei **Hersteller_H** => (Bsp.: 034=Internet / 04=Neutral etc.)
         - 🛑 Wie sieht es mit **hinterlegen Montagezeiten/Volumen/Gewichte** aus ? => Gibt es einer **Fehler-Liste**?
+        - 🛑 Innsbruck Anliefer-Tage/Anliefer-Uhrzeit NOS / Spedition = Kustrich ??
+        - 🛑 Voralberg => Wie ist die **Zusammenarbeit mit ULBG** (Wie Isabel ? Wer 📗 Avisiert ?)
 
     - 🚛 Fuhpark & Personal
         - haben eigenen LKW der 2 WAB laden kann
@@ -62,6 +65,8 @@
     - Cant be hard if its as bad as people say 🙉
     - **Schiebendrein Helmuth** disponiert **Gebiete: Wien, OÖ, NÖ**
     - **Nussbaumer Heinz** disponiert **Gebiete: Rest von Helmuth**
+
+## 17.03.2025 Start Erik: Innsbruck in Cargo-Support => Abgabewoche ist die KW_15
 
 ## Chronologischer Ablauf (Will Still have Mistakes - Aktuell für $Hersteller_N)
 
