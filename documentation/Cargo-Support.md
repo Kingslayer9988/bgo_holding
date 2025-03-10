@@ -40,6 +40,7 @@
 ## DB-Ansicht besteht aus 2 Teilen
 - Oben => Datenbank => Unverplante Datensätze ==> Pretty much 1:1 Datenbank-Ansicht in Profitour
 - Unten => Disponiert => Verplante Datensätze ==> Touren-Fenster in Profitour => in DB-Ansicht sichtbar!
+- **Datensätze in Roter Schrift** sind **Regie-Aufträge** => **Keine ❌📦 Produktion**
 - Standartansicht => **Std. Dispo Basis** => laut CS-Video
 - Aufträge können direkt in **DB-Ansicht gefilterd** werden => Feld: **Auftrags-Nr.**
 - Fahrzeug: Dropdown
@@ -65,7 +66,7 @@
 - Neues Fenster öffnet sich => Fenster: **[ZU_TOUR_VERBINDEN_FENSTER]()**
     - **Fahrzeug, Fahrer, Frachtführer, Freitext** => Laut CS-Video
     - **Namen** **Namens-Schema == Profitour**
-    - Alle anderen Einträge **können leer gelassen** werden!
+    - Alle anderen Felder **können leer gelassen** werden!
 
 - **Alle Stopps der Tour markieren** => Button **[Planungsdaten Ändern]()**
     - **Bereitstellungsdatum** vergeben! => Wie im Profi-Tour (Freitag für Montag / 1 Tag vorher)
