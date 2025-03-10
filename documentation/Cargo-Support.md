@@ -125,7 +125,7 @@
 
 ## Guide für das Erstellen von WAB-Touren VOR ERSTELLEN der UNTERTOUREN
 - **Makiere alle Datensätze** die auf den **Lager-WAB** kommen sollen => Rechtsclick => Button: **Multi-Split** => (Meist kl. Aufträge <= 15m³)
-- **Multi-Split** => **Teilen** des **Datensatzes (Auftrags)** in: **2 Datensätze LagerWAB + Untertour**
+- **Multi-Split + Dispo Kombi** => **Teilen** des **Datensatzes (Auftrags)** in: **2 Datensätze LagerWAB + Untertour**
 - Neues Fenster öffnet sich => Fenster: **Multisplit_Fenster**
 - Feld: **Adresse** => **SC-Lager** einstellen => (Bsp.: SC-Graz)
 - Feld: **Fahrttype** => **Zustellung** einstellen (NEU bzw. auto. in Profi-Tour) => Möglicherweise noch andere Zustellungsarten (ASK SOMEONE)
@@ -144,7 +144,29 @@
 - Button: **Löschen = Aus Tour entferenen**
 - Button: **Tour_erzeugen** => **Feld: Name** => (Bsp. SC 3,5 t Tour Graz - Gresten) => Again siehe Profi-Tour
 - **Feld: Freitext_1** => **WAB-Nummer** wie **Profitour** => Nummern-Kreis
-        
+
+## Multi-Split_Fenster
+- **"Datum"** Reiter => **totally Useless**
+
+- **"Split-Information"** Reiter:
+    - Feld: **Adresse** = **SC-Lager** hier im Drop-Down Menü auswählen => Bsp. (SC-Graz, SC-Innsbruck)
+    - Feld: **Fahrttyp** = Immer **Zustellung** im Drop-Down Menü auswählen (UNSURE ASK ALEX/HELMUTH)
+    - **❌ Rest Useless ?**
+
+- **"Fahrzeug-Info"** Reiter:
+    - **Fahrzeug** = Working
+    - **Anhänger** = ❌ Not used
+    - **WAB 1** = ❌ Useful but not working (tested)
+    - **WAB 2** = ❌ Useful but not working (un-tested)
+    - **Fahrer 1 & Fahrer 2** = ❌ Not used
+    - **Frachführer** = Spedition = Working
+    - **Freies Kennzeichen** = ❌ Useless
+
+- **"Abrechnung"** Reiter => **❌ totally Useless**
+- **"IC-Tochter"** Reiter => **❌ totally Useless**
+- **Checkmark ☑️ Zur Tour verbinden** => Auswählen falls **[Unter-Touren]()** noch **nicht erstellt** sind.
+- **Tourname** = Hier **Tourname** vergeben => Siehe **[Naming-Schema]()** => (Bsp. SC WAB GRAZ KW12 DI TT.MM.JJ)
+
 ## Minimap
 - Steuerung ist **Invertiert** im vergleich mit Profi-Tour **[STRG] [SHIFT]**
 - Farben sind ohne bedeutung ==> Should be fixed!
@@ -159,11 +181,13 @@
 - _Note: Should make moving inbetween them way faster ?_
 
 ## Export zum Hersteller
-- Bei **NOS 💚** leider noch **keine Möglichkeit (Schnittstelle)** in Software-2020 zu **exportieren.** 
+- Bei **NOS 💚** leider noch **keine Möglichkeit (Schnittstelle)** in Software-2020 zu **exportieren.**
+- Export => **Rechtsclick auf Datensatz oder markieren mehrerer Datensätze** => Button: **"Aktion->BGO Tourenfeedback"**  
 
-## Not sure about some things yet
-- Sinnhaftigkeit ? bzw. gibt es hier Felder die benützt werden die sonst nicht verwendet werden.
-- Felder == Startzeit_ab & Startzeit_bis = ???
+## Weird Shit
+- ❌ Useless_Felder == **Startzeit_ab** & **Startzeit_bis** & **Freitext_2** & **Freitext_3** & **ab** & **von(B)** & **bis (B)** & **bis** & **von (E)** & **bis(E)**
+- Felder = **Freitext_1** missing in **Fenster_Multi_Split**
+- Felder
 - Es soll Felder geben die wenn man sie verstellt sind sie für alle verstellet ??? (UNSURE ASK BIG BOSS) 
 - Button: **Tour drehen** & **Tour optimieren** im Virtuelle_Touren Fenster funktionieren nicht. 
 
