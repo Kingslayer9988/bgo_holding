@@ -52,6 +52,8 @@
 - **Dispotopf** => Filter => **ZONE** Auswählen => Zone siehe **.pptx Karte**
 - **⚠️ FIXTERMIN** => Eigene Spalte in **DB-Ansicht** mit **Checkmark ☑️** => Spalte: **"Erstmögliche Lieferung"** = Spalte: **"Letztmögliche Lieferung"**
     - **⚠️ FIXTERMIN** villeicht nur **"Grundfilter"** in **Cargo-Support**
+- **Bereitstelldatum == Prod_Datum** in **Cargo-Supprot** => **Wie geht das das bei NOS 💚??** (UNSURE ASK ALEX/HELMUTH)
+- **Frei_Text_1 (Freetext_1)** == **Interne WAB-Nr**
 
 ##
 
@@ -87,6 +89,7 @@
 - **Im Virtuellen_Touren_Fenster** => Nichts machen bei **Lager-WAB Useless**
 - Neues Fenster öffnet sich => Fenster: **[Planungsdaten Ändern_ODER_NEUES_FENSTER_1]()** => Namen vergeben (Bsp.: SC WAB für 3,5t Touren)
 - In der **DB-Ansicht** wird nun einen **generiete Tourennummer** vergen und in **gleicher Farbe** für die **Tour hinterlegt**
+- Bei **2 WAB's (Container) auf einer Tour** => Eg. **Sattel oder LKW + Anhänger** => in der **DB-Ansicht** die Container **Diagonal in die 2 Datensätze** reinziehen. 
 - Tipp: **Sortieren nach Tour-Nummer** => legt gewünschte **Tour-Stopps** untereinander!
 - **Container-Nummer => WAB-Nr.**
 - **Entladestart** ==> Auf **Stopp Nr.1 der Tour** stellen => **Anliefer_Datum** ausfüllen (Bereitstelldatum + 1 WKT)
