@@ -94,8 +94,6 @@
     - Aufpassen beim **Download von PDF's** => Downloaded gerne altes File! => **Teams is great Software**
 - Für **Kalkulations-Skript-Profi-Tour** => **[Siehe Hier](../README.md#working-still-needs-adoption-for-hersteller)**
 
-## Doppelclcik-Menü Wird von niemanden verwendet!
-
 ## Guide für das Erstellen von Unter-Touren
 - In DB-Ansicht **gewünschte Datensätze markieren** => Aufträge auf **Lager-WAB's**
 - Rechtsclick => Button: In den **[Planungspool]()**
@@ -180,6 +178,8 @@
 - "F5" => Auswahl vornehmen => PLanungspool nun sichbar!
 - _Note: Because multiple "Planungspools" are possible maybe make them according to "Zone's"_
 - _Note: Should make moving inbetween them way faster ?_
+
+## Doppelclcik-Menü Wird von niemanden verwendet!
 
 ## Export zum Hersteller
 - Bei **NOS 💚** leider noch **keine Möglichkeit (Schnittstelle)** in Software-2020 zu **exportieren.**
