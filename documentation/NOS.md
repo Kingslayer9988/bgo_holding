@@ -31,6 +31,9 @@
         - 🛑 Missing: **Wandmonteure & Küchenmonteure** => Wo und wieviel => Was machen wir selbst
         - 🛑 Missing: **Vorproduktion** und wie es gehandelt wird.
         - 🛑 Missing: **Spezielle NOS💚 Eigenheiten** die ich wissen sollte
+        - 🛑 Missing: **Mokledruck(Etiketten) wie viel Tage vor Produktion** == **Hali = 5 Tage vor Ausliefer_Datum**
+        - 🛑 Missing: **🔫 Schnellschuss** ab wann ? Eigenheiten der **📦 Produktion** => Wie wird es gehandelt.
+        - 🛑 Missing: In **Cargo-Support** = **Prod_Datum == Bereitstell_Datum** => Wie geht das bei **NOS 💚 ??**
 
     - 🚛 Fuhpark & Personal
         - haben eigenen LKW der 2 WAB laden kann
