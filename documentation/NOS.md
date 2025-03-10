@@ -34,6 +34,7 @@
         - 🛑 Missing: **Mokledruck(Etiketten) wie viel Tage vor Produktion** == **Hali = 5 Tage vor Ausliefer_Datum**
         - 🛑 Missing: **🔫 Schnellschuss** ab wann ? Eigenheiten der **📦 Produktion** => Wie wird es gehandelt.
         - 🛑 Missing: In **Cargo-Support** = **Prod_Datum == Bereitstell_Datum** => Wie geht das bei **NOS 💚 ??**
+        - 🛑 Missing: Sind **Auftragsnummern** gleich wie bei **Hersteller_H** => (Bsp.: 034=Internet / 04=Neutral etc.)
 
     - 🚛 Fuhpark & Personal
         - haben eigenen LKW der 2 WAB laden kann
