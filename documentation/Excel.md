@@ -37,7 +37,6 @@
 > **💡 Auto find of WAB auto. zuordnung zu Untertouren** => **DONE ✅** \
 > **💡 Auto Coloring for DIREKT Touren** => **DONE ✅** \
 > **💡 Auto Copy of WAB's (Vorletzte Zeilen)** => **DONE ✅** \
-> **💡 [BIG ONE] Make Export-Import Makro for Profi-Tour.csv => Tourenplan.xlsm**
 
 - **Excel Makros für Auslieferliste:**
     - Werden nur Lokal in Excel gespeichert - (New to me i always put them in the actual file) 
