@@ -129,7 +129,7 @@
 - **Multi-Split + Dispo Kombi** => **Teilen** des **Datensatzes (Auftrags)** in: **2 Datensätze LagerWAB + Untertour**
 - Neues Fenster öffnet sich => Fenster: **Multisplit_Fenster**
 - Feld: **Adresse** => **SC-Lager** einstellen => (Bsp.: SC-Graz)
-- Feld: **Fahrttype** => **Zustellung** einstellen (NEU bzw. auto. in Profi-Tour) => Möglicherweise noch andere Zustellungsarten (ASK SOMEONE)
+- Feld: **Fahrttype** => **Zustellung** einstellen (NEU bzw. auto. in Profi-Tour) 
 - **WAB-Tour** sollte hiermit **abgeschlossen** sein => In **DB-Ansicht** nun im oberen Teil in **Schwarzer-Schrift** und mit **WAB-Nummer** sichtbar!
 - Anschließend **markieren der WAB's** => Rechtsclick => **Veraldereihenfolge schreiben** => **Verladeplanung+ in Profi-Tour**
 
@@ -151,7 +151,7 @@
 
 - **"Split-Information"** Reiter:
     - Feld: **Adresse** = **SC-Lager** hier im Drop-Down Menü auswählen => Bsp. (SC-Graz, SC-Innsbruck)
-    - Feld: **Fahrttyp** = Immer **Zustellung** im Drop-Down Menü auswählen (UNSURE ASK ALEX/HELMUTH)
+    - Feld: **Fahrttyp** = Immer **Zustellung** im Drop-Down Menü auswählen => Möglicherweise noch andere (UNSURE ASK ALEX/HELMUTH)
     - **❌ Rest Useless ?**
 
 - **"Fahrzeug-Info"** Reiter:
