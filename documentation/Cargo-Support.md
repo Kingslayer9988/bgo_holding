@@ -53,9 +53,10 @@
 - **⚠️ FIXTERMIN** => Eigene Spalte in **DB-Ansicht** mit **Checkmark ☑️** => Spalte: **"Erstmögliche Lieferung"** = Spalte: **"Letztmögliche Lieferung"**
     - **⚠️ FIXTERMIN** villeicht nur **"Grundfilter"** in **Cargo-Support**
 - **Bereitstelldatum == Prod_Datum** in **Cargo-Supprot** => **Wie geht das das bei NOS 💚??** (UNSURE ASK ALEX/HELMUTH)
-- **Frei_Text_1 (Freetext_1)** == **Interne WAB-Nr**
-
-##
+- **Feld: Frei_Text_1 (Freetext_1)** == **Interne WAB-Nr**
+- **Spalte: Entlade_Start** == **Ankunft fixieren (Profi-Tour)** == **Liefer_Uhrzei** => **WICHTIG: Immer bei 1. Stopp in Tour setzen!**
+- **Aufpassen = Keine Softwarekontrolle** für **Bereitstell_Datum** ist **später** als **Entlade_Start_Datum**
+- **Bermerkungs_Felder** sind **1:1** wie in **Profi-Tour**
 
 ## Planung von DIREKT_BAUSTELLE Touren (In DB-Ansicht möglich)
 - Bei DIREKT_BAUSTELLE => In Datenbank-Ansicht => Tour markieren => **Zu Tour Verbinden**
@@ -76,6 +77,22 @@
 - Button: **In den Planungspool** = Datensätze in das Virtuelle_Touren_Fenster übernehmen!
 - Button: **Letztes_E_Avis_Termin** => 3h Aviszeit für Kunden hinterlegen => wird nicht gesendet!
 - Button: **Fahrt Bearbeiten** auf erstellter Tour öffnet Fenster: **Fahrt_Bearbeiten_Fenster**
+
+## ⏱️ Montagezeit kalkulieren bzw. Transportauftrag checken
+- Öffne **CS-JOB** => Sollte sowieso bei **jedem Start mitlaufen**
+- In **DB-Ansicht** **markieren des Datensatzes** => **Rechtsclick** => Für **Öffne is CS-JOB**
+- In **CS-JOB** gehe zum **Reiter** => **Ladungsinhalte**
+- Sollte bei **jedem Datensatz / Auftrag** kontrolliert bzw. **nachgerechnet** werden.
+- Datensätze die mit **(00:30 h)** eingegeben sind können **gemeinsam kontrolliert** werden => **Stimmen meistens!**
+- Aufpassen bei **Trennwänden(RS/RG)**, **Trennwand/Glaswand** etc. mit **SC-Leiter abklären**
+- Aufpassen bei **🍳 Küchen** => **Montagezeit** stimmt **Transportauftragsreport** teilen durch **Personen** => **Standzeit fixieren**
+- Bei **🍳 Kleinen Küchen** mit **SC-Leiter abklären** ob wir sie selbst machen können!
+- **Küchenmonteure teilweise** selbst vorhanden! **[Siehe Hier für NOS💚](NOS.md)**
+- In **Microsoft Teams Datein** nach Auftragsnummer suchen => **Pläne downloaden** => **An SC-Leiter weiterleiten**
+    - Aufpassen beim **Download von PDF's** => Downloaded gerne altes File! => **Teams is great Software**
+- Für **Kalkulations-Skript-Profi-Tour** => **[Siehe Hier](../README.md#working-still-needs-adoption-for-hersteller)**
+
+## Doppelclcik-Menü Wird von niemanden verwendet!
 
 ## Guide für das Erstellen von Lager-WAB's (HIER MACHEN WIR EINIGES DOPPELT => Könnte man optimieren) 
 - In DB-Ansicht gewünschte Datensätze markieren ==> Meist kleine Aufträge für Lager-WAB
