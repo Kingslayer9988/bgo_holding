@@ -17,6 +17,10 @@
 - Filter in der DB-Ansicht ist oben links => Keine "KW" => Montag bis Sonntag der gewünschten KW auswählen.
 - Gebiete **ZONE** nach Karte Filter => Karte .pptx per Mail von Isabel
 - **Dispotopf** => Filter => **ZONE** Auswählen => Zone siehe **.pptx Karte**
+- **⚠️ FIXTERMIN** => Eigene Spalte in **DB-Ansicht** mit **Checkmark ☑️** => Spalte: **"Erstmögliche Lieferung"** = Spalte: **"Letztmögliche Lieferung"**
+    - **⚠️ FIXTERMIN** villeicht nur **"Grundfilter"** in **Cargo-Support**
+
+##
 
 ## Planung von DIREKT_BAUSTELLE Touren (In DB-Ansicht möglich)
 - Bei DIREKT_BAUSTELLE => In Datenbank-Ansicht => Tour markieren => **Zu Tour Verbinden**
@@ -47,7 +51,7 @@
 - Sobald Datensätze im **Planungspool** liegen werden sie auf **[Minimap]()** angezeigt!
 - Nach Auswahl der Punkte auf **Minimap** => Rechtsclick => Button: **Hinzufügen**
 - Ausgewählte Datensätze sind nun im **Virtuelle_Touren_Fenster**
-- **Im Virtuellen_Touren_Fenster** => Tour nach **gewünschter Fahrt richten** => Button: **Tour erzeugen**
+- **Im Virtuellen_Touren_Fenster** => Nichts machen bei **Lager-WAB Useless**
 - Neues Fenster öffnet sich => Fenster: **[Planungsdaten Ändern_ODER_NEUES_FENSTER_1]()** => Namen vergeben (Bsp.: SC WAB für 3,5t Touren)
 - In der **DB-Ansicht** wird nun einen **generiete Tourennummer** vergen und in **gleicher Farbe** für die **Tour hinterlegt**
 - Tipp: **Sortieren nach Tour-Nummer** => legt gewünschte **Tour-Stopps** untereinander!
@@ -65,6 +69,8 @@
 - Feld: **Fahrttype** => **Zustellung** einstellen (NEU bzw. auto. in Profi-Tour) => Möglicherweise noch andere Zustellungsarten (ASK SOMEONE)
 - **Unter-Tour** sollte hiermit **abgeschlossen** sein => In **DB-Ansicht** nun im oberen Teil in **Schwarzer-Schrift** und mit **WAB-Nummer** sichtbar!
 - Anschließend **markieren der WAB's** => Rechtsclick => **Veraldereihenfolge schreiben** => **Verladeplanung+ in Profi-Tour**
+- NOCH NICHT VERBAUT == **Im Virtuellen_Touren_Fenster** => Tour nach **gewünschter Fahrt richten** => Button: **Tour erzeugen**
+
 
 ## Planungsdaten Ändern => bzw. Unterfenster zum bennen die sich öffnen
 - Abgleichen der Fenster => Logische Namen für Fenster überlegen => Aktuell Unübersichtlich
@@ -78,25 +84,6 @@
 - Button: **Löschen = Aus Tour entferenen**
 - Button: **Tour_erzeugen** => **Feld: Name** => (Bsp. SC 3,5 t Tour Graz - Gresten) => Again siehe Profi-Tour
 - **Feld: Freitext_1** => **WAB-Nummer** wie **Profitour** => Nummern-Kreis
-
-## Zonen Erik NOS
-- **Voradelberg[VBG] - (SC Dornbirn) + DE (Deutschland) + FL (Liechtenstein) + CH (Schweiz)**
-    - **(J)** = Cargo-Support
-    - Kein Küchenmonteur ⭕
-- **Tirol[T] (SC Innsbruck)**
-    - **(I)** = Cargo-Support
-    - Kein Küchenmonteur ⭕
-- **Kärnten[KTN] (SC Klagenfurt) + ITA (Italien)**
-    - **(G)** = Cargo-Support
-    - Küchenmonteur vorhanden ✔️
-    - Kleines SC => Max 2 LKW pro Tag (1x Platz & 1x Rampe)
-- **Steiermark[STMK] (SC Graz) + HR (Kroatien) + SI (Slovakei) + SLO (Solvenien)**
-    - **(F)** = Cargo-Support
-    - Kein Küchenmonteur aber gute Monteure(Außnahme) ✔️   
-- **Deutschland Gesamt (Relogg-Partner)** (UNSURE ASK ISABEL 😕)
-    - **(???)** = Cargo-Support
-    - Noch nicht sicher ❓ ❓ ❓
-    - Ähnlich wie Voradelberg (Relogg ~ ULGB)
         
 ## Minimap
 - Steuerung ist **Invertiert** im vergleich mit Profi-Tour **[STRG] [SHIFT]**
