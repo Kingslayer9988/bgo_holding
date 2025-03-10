@@ -45,6 +45,7 @@
 - Fahrzeug: Dropdown
 - Fahrtstatus in Standartansicht => Rechts => Disponiert / Offen => Bei uns Unten/Oben
 - Frachtbrief & Tourenplan & Transportauftrag & Auftragsbest => Alle von **DB-Ansicht** aus **druckbar** => **"F6"**
+- **Wichtig** = Arbeitsweise ist anders als in Profi-Tour => Zuerst Lager-WAB planen & Anschließend Tour teilen
 
 ## Programmstart & Filter der Aufträge
 - Filter in der DB-Ansicht ist oben links => Keine "KW" => Montag bis Sonntag der gewünschten KW auswählen.
@@ -94,16 +95,14 @@
 
 ## Doppelclcik-Menü Wird von niemanden verwendet!
 
-## Guide für das Erstellen von Lager-WAB's (HIER MACHEN WIR EINIGES DOPPELT => Könnte man optimieren) 
-- In DB-Ansicht gewünschte Datensätze markieren ==> Meist kleine Aufträge für Lager-WAB
+## Guide für das Erstellen von Unter-Touren
+- In DB-Ansicht **gewünschte Datensätze markieren** => Aufträge auf **Lager-WAB's**
 - Rechtsclick => Button: In den **[Planungspool]()**
-- Öffnet [Neues_Fenster_Planungspool]()
-- Mann kann neuen Pool erstellen => Fenster muss geschlossen werden um zu aktualisieren.
-- "F5" => Auswahl vornehmen => PLanungspool nun sichbar!
 - Sobald Datensätze im **Planungspool** liegen werden sie auf **[Minimap]()** angezeigt!
 - Nach Auswahl der Punkte auf **Minimap** => Rechtsclick => Button: **Hinzufügen**
 - Ausgewählte Datensätze sind nun im **Virtuelle_Touren_Fenster**
 - **Im Virtuellen_Touren_Fenster** => Nichts machen bei **Lager-WAB Useless**
+- **Tour** nach **gewünschter Fahrt richten** => Button: **Tour erzeugen**
 - Neues Fenster öffnet sich => Fenster: **[Planungsdaten Ändern_ODER_NEUES_FENSTER_1]()** => Namen vergeben (Bsp.: SC WAB für 3,5t Touren)
 - In der **DB-Ansicht** wird nun einen **generiete Tourennummer** vergen und in **gleicher Farbe** für die **Tour hinterlegt**
 - Bei **2 WAB's (Container) auf einer Tour** => Eg. **Sattel oder LKW + Anhänger** => in der **DB-Ansicht** die Container **Diagonal in die 2 Datensätze** reinziehen. 
@@ -113,17 +112,25 @@
 - Feld: **Entlade_Start** = zeigt **Entlade/Belade Reihenfolge für Stopps => 1, 2, 3, 4** etc.
 - Markieren der Tour => Fenster: **[Planungsdaten Ändern_ODER_NEUES_FENSTER_2]()** => Datum und Uhrzeit für LagerWAB einstellen => **06:00 Uhr + Anliefer_Datum**
 
-## Guide für das Erstellen von Unter-Touren
-- Wichtig = Arbeitsweise ist anders als in Profi-Tour => Zuerst Lager-WAB planen & Anschließend Tour teilen (PRO/CON = KEINE AHNUNG) => Isabel = Con
-- Makiere alle Datensätze die auf Lager-WAB liegen => Rechtsclick => Button: **Multi-Split**
-- **Multi-Split** => Teilen der Tour **LagerWAB + Untertour**
-- Neues Fenster öffnet sich => Fenster: **NEUES_FENSTER_3_SC_LAGERNAME**
+## Guide für das Erstellen von WAB-Touren NACH ERSTELLEN der UNTERTOUREN
+- **Makiere alle Datensätze** die auf den **Lager-WAB** kommen sollen =>
+- **In diesem Fall:** **Alle Datensätze der Untertouren** die von **diesem Lager-WAB laden** sollen.
+- Rechtsclick => Button: **Multi-Split**
+- **Multi-Split** => Teilen des Auftrags **LagerWAB-Tour + Unter-Tour**
+- Neues Fenster öffnet sich => Fenster: **Multisplit_Fenster**
 - Feld: **Adresse** => **SC-Lager** einstellen => (Bsp.: SC-Graz)
 - Feld: **Fahrttype** => **Zustellung** einstellen (NEU bzw. auto. in Profi-Tour) => Möglicherweise noch andere Zustellungsarten (ASK SOMEONE)
-- **Unter-Tour** sollte hiermit **abgeschlossen** sein => In **DB-Ansicht** nun im oberen Teil in **Schwarzer-Schrift** und mit **WAB-Nummer** sichtbar!
+- **WAB-Tour** sollte hiermit **abgeschlossen** sein => In **DB-Ansicht** nun im oberen Teil in **Schwarzer-Schrift** und mit **WAB-Nummer** sichtbar!
 - Anschließend **markieren der WAB's** => Rechtsclick => **Veraldereihenfolge schreiben** => **Verladeplanung+ in Profi-Tour**
-- NOCH NICHT VERBAUT == **Im Virtuellen_Touren_Fenster** => Tour nach **gewünschter Fahrt richten** => Button: **Tour erzeugen**
 
+## Guide für das Erstellen von WAB-Touren VOR ERSTELLEN der UNTERTOUREN
+- **Makiere alle Datensätze** die auf den **Lager-WAB** kommen sollen => Rechtsclick => Button: **Multi-Split** => (Meist kl. Aufträge <= 15m³)
+- **Multi-Split** => **Teilen** des **Datensatzes (Auftrags)** in: **2 Datensätze LagerWAB + Untertour**
+- Neues Fenster öffnet sich => Fenster: **Multisplit_Fenster**
+- Feld: **Adresse** => **SC-Lager** einstellen => (Bsp.: SC-Graz)
+- Feld: **Fahrttype** => **Zustellung** einstellen (NEU bzw. auto. in Profi-Tour) => Möglicherweise noch andere Zustellungsarten (ASK SOMEONE)
+- **WAB-Tour** sollte hiermit **abgeschlossen** sein => In **DB-Ansicht** nun im oberen Teil in **Schwarzer-Schrift** und mit **WAB-Nummer** sichtbar!
+- Anschließend **markieren der WAB's** => Rechtsclick => **Veraldereihenfolge schreiben** => **Verladeplanung+ in Profi-Tour**
 
 ## Planungsdaten Ändern => bzw. Unterfenster zum bennen die sich öffnen
 - Abgleichen der Fenster => Logische Namen für Fenster überlegen => Aktuell Unübersichtlich
@@ -146,8 +153,13 @@
 - Find out if this is better or worse than in Profitour.
 - Items vom Planungspool können nur one by one gelöscht werden => **Andere Kunden von Cargo-Support**
 - Falls Planungspool zu viele Unnötige Items enthält => Planungspool komplett löschen => Neu Anlegen
+- **Neues_Fenster_Planungspool** => Mann kann neuen Pool erstellen => Fenster muss geschlossen werden um zu aktualisieren.
+- "F5" => Auswahl vornehmen => PLanungspool nun sichbar!
 - _Note: Because multiple "Planungspools" are possible maybe make them according to "Zone's"_
 - _Note: Should make moving inbetween them way faster ?_
+
+## Export zum Hersteller
+- Bei **NOS 💚** leider noch **keine Möglichkeit (Schnittstelle)** in Software-2020 zu **exportieren.** 
 
 ## Not sure about some things yet
 - Sinnhaftigkeit ? bzw. gibt es hier Felder die benützt werden die sonst nicht verwendet werden.
