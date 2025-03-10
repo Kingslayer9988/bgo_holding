@@ -100,7 +100,6 @@
 - Sobald Datensätze im **Planungspool** liegen werden sie auf **[Minimap]()** angezeigt!
 - Nach Auswahl der Punkte auf **Minimap** => Rechtsclick => Button: **Hinzufügen**
 - Ausgewählte Datensätze sind nun im **Virtuelle_Touren_Fenster**
-- **Im Virtuellen_Touren_Fenster** => Nichts machen bei **Lager-WAB Useless**
 - **Tour** nach **gewünschter Fahrt richten** => Button: **Tour erzeugen**
 - Neues Fenster öffnet sich => Fenster: **[Planungsdaten Ändern_ODER_NEUES_FENSTER_1]()** => Namen vergeben (Bsp.: SC WAB für 3,5t Touren)
 - In der **DB-Ansicht** wird nun einen **generiete Tourennummer** vergen und in **gleicher Farbe** für die **Tour hinterlegt**
