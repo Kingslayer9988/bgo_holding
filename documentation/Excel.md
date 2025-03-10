@@ -1,3 +1,9 @@
+> [!NOTE]
+> **Automations & Fixes (Work in Progress): [LINK](../excel_makros/Modul1.bas)**
+> 
+> **💡 [BIG ONE] Make Export-Import Makro for Profi-Tour.csv File => Tourenplan.xlsm** \
+> **💡 [BIG ONE] Same thing for Cargo-Support** 
+
 ## Tipps für Excel-Listen: [Excel_Listen_Immer_pro_KW$$]
 - Werden **LIVE am Onedrive Ordner bearbeitet** 💀
 - SC-Leiter & BGO = **R,W,D-Rights** 💀
