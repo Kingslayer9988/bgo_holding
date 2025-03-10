@@ -39,6 +39,10 @@
         - 🛑 Wie sieht es mit **hinterlegen Montagezeiten/Volumen/Gewichte** aus ? => Gibt es einer **Fehler-Liste**?
         - 🛑 Missing-Isabel: Innsbruck Anliefer-Tage/Anliefer-Uhrzeit NOS / Spedition = Kustrich ??
         - 🛑 Missing-Isabel: Voralberg => Wie ist die **Zusammenarbeit mit ULBG** (Wie Isabel ? Wer 📗 Avisiert ?)
+        - 🛑 Missing-Isabel: Import => Auftragsänderungen wie sichtbar ? => CS-JOB wird Orange
+            - CS-JOB => Datei => Ladungs-Importe => Fenster mit allen Datensätzen die Importiert wurden => Links unten werden Reiter "Orange" wo eine Änderung vorgekommen ist
+        - 🛑 Missing-Isabel: **Aviso-Datum => auf 3h Zeit-Fenster setzten!** => Checken ob alles passt.
+        - 🛑🛑 2020 🛑🛑 => **Kann 2020 geteilte WAB-Aufträge übernehmen ? => Probieren über 30m³ Auftrag händisch zu teilen! und in 2020 eingeben!**
 
     - 🚛 Fuhpark & Personal
         - haben eigenen LKW der 2 WAB laden kann
