@@ -11,28 +11,50 @@
 
 - Make sure I know all the easy things 👻:
     - ☠️ Deadlines
-        - **❄️ Frozen Zone (NOS) ❄️** = **mindestens 12T vor Auslieferdatum** => **13. Tag vor Auslieferdatum => Schieben möglich**
-        - **📦 Bei Abgabe der Produktions_KW => 1 Woche hinter $Hersteller_H => gleich mit $Hersteller_B (Bsp.: KW_09 für KW_13)**
-        - **📦 Produktions_Datum für Auftrag = normalerweise -3 Werktage vor Ausliefer_Datum**
-        - **Bereitstell_Datum +1 Werktag zum 📦 Produktions_Datum** => Eg. **-2 Werktage vor Ausliefer_Datum**
-        - **📗 Avisieren** immer **[Donnerstags]** für **Folge_KW_4** => **(Bsp. KW09 für KW13)** und **Avis** immer nur für **ganzen Tag**
+        - **❄️ Frozen Zone (NOS) ❄️** = **mindestens 13T vor Auslieferdatum** => **14. Tag vor Auslieferdatum => Schieben möglich**
+        - **📦 Bei Abgabe der Produktions_KW => 1 Woche hinter $Hersteller_H => gleich mit $Hersteller_B (Bsp.: KW_11 für KW_14)**
+        - **📦 Produktions_Datum für Auftrag = im Idealfall -3 Werktage vor Ausliefer_Datum**
+        - **Bereitstell_Datum +2 Werktag zum 📦 Produktions_Datum** => Eg. **-1 Werktage vor Ausliefer_Datum** => **Bereitstelldatum_Uhrzeit** = (06:00 Uhr)
+        - **📗 Avisieren** immer **täglich** für **für alle fertigen Touren** => **normalerweise ca. 3 Folgewochen sind Avisiert.**
         - **♻️ Import der Cargo-Support Datensätze** = **[Täglich um 06:00 & 10:00 & 14:00 Uhr]**
         - **🛢️ WAB'S** => **bei 20-25m³ voll** => meist **nicht auf 30m³ füllbar**
-        - **📅 Kalender-Woche** bei **>= 10m³** = **NICHT FAHREN**
-        - 🛑 Missing: **📦 Produktions_Datum manchmal unterschiedlich ? => Wieso ? => Schema ?**
-        - 🛑 Missing: **WAB_Bereitstell_Uhrzeit: ??:?? Uhr pro Gebiet** => Hersteller_H 06:00
-        - 🛑 Missing: **📑 Frachtbriefe und Auslieferliste für SC-Leiter** => Wird aktuell anderes gemacht => Montag für Folge_KW_1 ?
-        - 🛑 Missing: **🚛 Fuhrpark => Fahrzeuge und Speditionen pro Gebiet**
-        - 🛑 Missing: **Unterschiedliche Kalenderwochen für Gebiete** (Falls existiert) (Bsp.: DI-DI / MI-MI)
-        - 🛑 Missing: **Produktions_Export_Datum** und **[WOCHENTAG]**
-        - 🛑 Missing: **Postversand / DIREKT-Versand Termine pro Gebiete**
-        - 🛑 Missing: **Rampe / Platz** für SC-Lager **pro Gebiete** => Prob. same as Hersteller_H
-        - 🛑 Missing: **FIXTERMINE** wo müssen sie gehalten werden und wo nicht.
+        - **📅 Kalender-Woche** bei **>= 10m³** = **NICHT FAHREN** => **ist mit Vertreib abklärt ? Peter fragen? - Gebiete ?**
+        - **📦 Produktions_Datum manchmal unterschiedlich ? => Wieso ? => Schema ?**
+        - **Einlastungsdatum:** => **-3 Werktage** immer und Nachträglich Liste in Teams mit Alex/Helmuth  
+        - **WAB_Bereitstell_Uhrzeit: ??:?? Uhr pro Gebiet** => **Hersteller_N 06:00**
+        - **📑 Frachtbriefe und Auslieferliste für SC-Leiter** => Helmut macht Listen mit **Ladelisten**
+        - **Wöchtenlich** => Immer **Mittwoch for Folge_KW2** => Keine **Möglichkeit außer Tourenplan an Helmuth**
+        - **Außer im 2020 gibt es eine Möglichkeit** 
+        - **🚛 Fuhrpark => Fahrzeuge und Speditionen pro Gebiet**
+        - Innsbruck = Spedition_Kusztrich / Heinz nochmal klären.
+        - Deutschland => Weiß, Nuri(Kameen) => Mit Silke klären. 🛑
+        - Neudörfl = Spedition_Kusztrich / ÜBEX (Bei viel Auslastung)
+        - Fahrzeuge: 3,5t Tonnen Sprinter (WY-871AW) ab KW 13. in Wiener Neudorf
+        - SC Wiener Neudorf =! Ab Neudörfel (Direkt)
+        - Fahrzeuge: 7,5t (WY-742AT)
+        - 5 WAB-LKW (WY-307AX, WY-308AX, WY-450AX, WY-659AN WY-741AT) alle Hänger möglich.
+        - **Unterschiedliche Kalenderwochen für Gebiete** (NEIN)
+        - Tirol und Voralberg => Eher anfangs der Woche => Aber alle Wochen (Mo - Do)
+        - **Produktions_Export_Datum** und **[WOCHENTAG]**
+        - Nicht wichtig in diesem Fall. => Siehge oben
+        - **Postversand / DIREKT-Versand Termine pro Gebiete**
+        - **ALLE POST/DIREKT => IMMER DONNERSTAG in der KW (keine Fixtermine)**
+        - **Prod.Datum => Mo. in der KW (ALLE GEBIETE) => Alle in eine Tour!**
+        - **Rampe / Platz** für SC-Lager **pro Gebiete**
+        - **4 Rampen können gleichzeit laden (Neudörfl)**
+        - **FIXTERMINE** wo müssen sie gehalten werden und wo nicht.
+        - **Fixtermine** => **Alle zum einhalten**
         - 🛑 Missing: **Naming-Scheme für Touren/WAB's**
-        - 🛑 Missing: **Wandmonteure & Küchenmonteure** => Wo und wieviel => Was machen wir selbst
-        - 🛑 Missing: **Vorproduktion** und wie es gehandelt wird.
+        - Sehen wir uns **gemeinsam CS an**
+        - **Wandmonteure & Küchenmonteure** => Wo und wieviel => Was machen wir selbst
+        - **Beides in Neudörfl vorhanden**
+        - **Vorproduktion** und wie es gehandelt wird.
+        - Im Regel bei **Terminverschiebungen durch kunden wird Prod.** trotzdem laut altem Datum durchgeführt & **Auf WAB verladen.** (Genug Container vorhanden)
+        - **Bei Kleinigkeiten => verschieben wir machmal die Produktion**
         - 🛑 Missing: **Spezielle NOS💚 Eigenheiten** die ich wissen sollte
+        - 
         - 🛑 Missing: **Mokledruck(Etiketten) wie viel Tage vor Produktion** == **Hali = 5 Tage vor Ausliefer_Datum**
+        - 
         - 🛑 Missing: **🔫 Schnellschuss** ab wann ? Eigenheiten der **📦 Produktion** => Wie wird es gehandelt.
         - 🛑 Missing: In **Cargo-Support** = **Prod_Datum == Bereitstell_Datum** => Wie geht das bei **NOS 💚 ??**
         - 🛑 Missing: Sind **Auftragsnummern** gleich wie bei **Hersteller_H** => (Bsp.: 034=Internet / 04=Neutral etc.)
