@@ -1,42 +1,34 @@
-## NOS 💚
-- Make sure I know all the easy things 👻:
-    - ☠️ Deadlines
-        - **❄️ Frozen Zone (NOS) ❄️** = **mindestens 13T vor Auslieferdatum** => **14. Tag vor Auslieferdatum => Schieben möglich**
-        - **📦 Bei Abgabe der Produktions_KW => 1 Woche hinter $Hersteller_H => gleich mit $Hersteller_B (Bsp.: KW_11 für KW_14)**
-        - **📦 Produktions_Datum für Auftrag = im Idealfall -3 Werktage vor Ausliefer_Datum**
-        - **📦 Bereitstell_Datum +2 Werktag zum Produktions_Datum** => Eg. **-1 Werktage vor Ausliefer_Datum** => **Bereitstelldatum_Uhrzeit** = (06:00 Uhr)
-        - **📗 Avisieren** immer **täglich** für **für alle fertigen Touren** => **normalerweise ca. 3 Folgewochen sind Avisiert.**
-        - **♻️ Import der Cargo-Support Datensätze** = **[Täglich um 06:00 & 10:00 & 14:00 Uhr]**
-        - **🛢️ WAB'S** => **bei 20-25m³ voll** => meist **nicht auf 30m³ füllbar**
-        - **📅 Kalender-Woche** bei **>= 10m³** = **NICHT FAHREN** => **ist mit Vertreib abklärt ? Peter fragen? - Gebiete ?**
-        - **📦 Produktions_Datum manchmal unterschiedlich ? => Wieso ? => Schema ?**
-        - **🔨 Einlastungsdatum:** => **-3 Werktage** == **📦 Prod_Datum**  => Liste in Teams mit Alex/Helmuth in Teams ablegen für WAB-Nr. 
-        - **⏰ WAB_Bereitstell_Uhrzeit: 06:00 Uhr pro Gebiet** | **Tour ab 08:00**
-        - **📑 Frachtbriefe und Auslieferliste für SC-Leiter** => Helmut macht Listen mit **Ladelisten + Tourenplan + Deckblatt**
-            - **Wöchtenlich** => Immer **Mittwoch for Folge_KW2**
-            - Neue Lösung für **Frachtbriefe & Tourenpläne** für SC-Leiter und Hersteller **[Siehe Unten](#)**
-        - **🚛 Fuhrpark => Fahrzeuge und Speditionen pro Gebiet**
-        - **📅 Unterschiedliche Kalenderwochen für Gebiete** => NEIN => Alles (Mo - Fr)
-        - **🌍 Tirol und Voralberg** => Eher anfangs der Woche => Aber alle Wochen (Mo - Fr)
-        - **📦 Produktions_Export_Datum** und **[WOCHENTAG]** => Nicht vorhanden abarbeiten der Listen! ca. 4_Folge_KW's
-        - **Postversand / DIREKT-Versand Termine pro Gebiete** => Immer **DONNERSTAG in der KW** **(keine Fixtermine)**
-        - **Postversand => Do. in der KW (ALLE GEBIETE) => Alle in eine Tour!** => Prod = Montag
-        - **↗️ 4 Rampen vorhanden die gleichzeit LKW beladen können (Neudörfel)**
-        - **⚠️ Fixtermine** => **Alle zum einhalten**
-        - **🔫 Schnellschuss** ab wann ? Eigenheiten der **📦 Produktion** => **🔫 Schnellschuss NUR bei Reklas & Eilaufträge**
-            - Besprechen mit **Auftragsabwickling** => **Datum in CS beachten**
-        - **📅 INNSBRUCK Mo - Mi WAB's Anlieferung => Donnerstag, Freitag => Touren Mo-Fr**
-        - **Import => Auftragsänderungen wie sichtbar ? => CS-JOB wird Orange**
-        - **CS-JOB => Datei => Ladungs-Importe => Fenster mit allen Datensätzen die Importiert wurden** => **Links unten werden Reiter "Orange"** wo eine Änderung vorgekommen ist
-        - **Alex sendet E-Mails an Helmuth mit Änderungen für Aufträge => Leitet mir Innsbruck weiter.**
-        - **HEUTE TEST__ Aviso-Datum => auf 3h Zeit-Fenster setzten!** => Checken ob alles passt. ???
-        - **🛑 Mokledruck (Etiketten) => Irrelevant aufgrund => Produktion verlagt es nicht**
-        - **🛑 Missing: Naming-Scheme für Touren/WAB's**
-        - **🛑 Missing:** **Spezielle NOS💚 Eigenheiten** die ich wissen sollte
-        - **🛑🛑 2020 🛑🛑** => **Kann 2020 geteilte WAB-Aufträge übernehmen ?**
-        - **Probieren über 30m³ Auftrag händisch zu teilen! und in 2020 eingeben!**
-        - **Wird nach Auftragsnummer inkl. WAB-Nr. In 2020 übernommen.**
-        - **2020 kann nicht mehr machen als aktuell möglich!**
+## NOS 💚 Deadlines ☠️ and other 👻 important things:
+- **❄️ Frozen Zone (NOS) ❄️** = **mindestens 13T vor Auslieferdatum** => **14. Tag vor Auslieferdatum => Schieben möglich**
+- **📦 Bei Abgabe der Produktions_KW => 1 Woche hinter $Hersteller_H => gleich mit $Hersteller_B (Bsp.: KW_11 für KW_14)**
+- **📦 Produktions_Datum für Auftrag = im Idealfall -3 Werktage vor Ausliefer_Datum**
+- **📦 Bereitstell_Datum +2 Werktag zum Produktions_Datum** => Eg. **-1 Werktage vor Ausliefer_Datum** => **Bereitstelldatum_Uhrzeit** = (06:00 Uhr)
+- **📗 Avisieren** immer **täglich** für **für alle fertigen Touren** => **normalerweise ca. 3 Folgewochen sind Avisiert.**
+- **♻️ Import der Cargo-Support Datensätze** = **[Täglich um 06:00 & 10:00 & 14:00 Uhr]**
+- **🛢️ WAB'S** => **bei 20-25m³ voll** => meist **nicht auf 30m³ füllbar**
+- **📅 Kalender-Woche** bei **>= 10m³** = **NICHT FAHREN** => **ist mit Vertreib abklärt ? Peter fragen? - Gebiete ?**
+- **📅 Unterschiedliche Auslifer-Kalenderwochen für Gebiete** => **NEIN** => **Alles (Mo - Fr)**
+- **📦 Produktions_Datum manchmal unterschiedlich ? => Wieso ? => Schema ?**
+- **🔨 Einlastungsdatum:** => **-3 Werktage** == **📦 Prod_Datum**  => Liste in Teams mit Alex/Helmuth in Teams ablegen für WAB-Nr. 
+- **⏰ WAB_Bereitstell_Uhrzeit: 06:00 Uhr pro Gebiet** | **Tour ab 08:00**
+- **📑 Frachtbriefe und Auslieferliste für SC-Leiter** => Helmut macht Listen mit **Ladelisten + Tourenplan + Deckblatt**
+    - **Wöchtenlich** => Immer **Mittwoch for Folge_KW2**
+    - Neue Lösung für **Frachtbriefe & Tourenpläne** für SC-Leiter und Hersteller **[Siehe Unten](#)**
+- **🚛 Fuhrpark => Fahrzeuge und Speditionen pro Gebiet**
+- **📦 Produktions_Export_Datum** und **[WOCHENTAG]** => Nicht vorhanden abarbeiten der Listen! ca. 4_Folge_KW's
+- **Postversand / DIREKT-Versand Termine pro Gebiete** => Immer **DONNERSTAG in der KW** **(keine Fixtermine)**
+- **Postversand => Do. in der KW (ALLE GEBIETE) => Alle in eine Tour!** => Prod = Montag
+- **↗️ 4 Rampen vorhanden die gleichzeit LKW beladen können (Neudörfel)**
+- **⚠️ Fixtermine** => **Alle zum einhalten**
+- **🔫 Schnellschuss** ab wann ? Eigenheiten der **📦 Produktion** => **🔫 Schnellschuss NUR bei Reklas & Eilaufträge**
+    - Besprechen mit **Auftragsabwickling** => **Datum in CS beachten**
+- **Mokledruck (Etiketten) => Irrelevant aufgrund => Produktion verlagt es nicht**
+- **🛑 Missing:** **Spezielle NOS💚 Eigenheiten** die ich wissen sollte
+- **🛑 Missing:** **HEUTE TEST__ Aviso-Datum => auf 3h Zeit-Fenster setzten!** => Checken ob alles passt ???
+
+## ♻️ Import der Aufträge / Datensätze
+- **Alex sendet E-Mails an Helmuth mit Änderungen für Aufträge => Leitet mir Innsbruck weiter.**
+- **CS-JOB => Datei => Ladungs-Importe => Fenster mit allen Datensätzen die Importiert wurden** => **Links unten werden Reiter "Orange"** wo eine Änderung vorgekommen ist
 
 ## Tourenplan für SC-Leiter 💚
 - **Rechtsclick** => **Archivierte Dokuemente** => **Archivierte Dokumente des Auftrages** => **Doppelclick auf Datensatz** => **Dokument_1**
@@ -110,6 +102,8 @@
 - Excel Urlaubs-Liste von Isabel kopieren und nutzen
 - 📅 $Hersteller_KW if it exits
 
+- **🛑 Missing:** => **Kann 2020 geteilte WAB-Aufträge übernehmen ?**
+- **🛑 Missing:** **Probieren über 30m³ Auftrag händisch zu teilen! und in 2020 eingeben!** => **Wird nach Auftragsnummer inkl. WAB-Nr. In 2020 übernommen** => **2020 kann nicht mehr machen als aktuell möglich!**
 - **Schiebendrein Helmuth** disponiert **Gebiete: Wien, OÖ, NÖ**
 - **Nussbaumer Heinz** disponiert **Gebiete: Rest von Helmuth**
 
@@ -143,6 +137,8 @@
         - 🔶 Ausnahme **Freitags 14:00: Nur DIREKT/POST** Lieferungen verplanen **(Runde der Mitarbeiter)** 
     - 📺 **TV's** machen die Anfallen! => **[Guide](https://github.com/Kingslayer9988/bgo_holding/blob/main/documentation/Profi-Tour.md#-guide-für-tv-tv--termin-Verspätung)**
 
+
+
 - **Konflikte** mit **BGO & SC-Leiter**
     - Wer ruft Kunden bei welchen Problem an ? 💀
     - Abschieben auf $Hersteller & $SC-Leiter ==> **und Umgekehrt!**  💀
@@ -164,6 +160,7 @@
     * **NOS = 1-2 WAB pro 📅 KW** lt. Helmuth  04.03.2025
     * **(J)** = Zone in **Cargo-Support**
     * **SC Dornbirn** = SC-Leiter => **Oliver L. (ULGB)**
+    * **📅 Liefertage** => Eher **Anfangs der Woche** => Aber Woche geht von **Mo. - Fr.**
     * **❌ Kein Küchenmonteur** => **L&M Küchenmontage**
 
 - **🚠 Tirol - [T] - (SC Innsbruck) + 🇮🇹  Italien [ITA] (Export)**
@@ -171,6 +168,7 @@
     - **NOS 💚 = 2-4 WAB pro 📅 KW** lt. Helmuth  04.03.2025
     * **(I)** = Zone in **Cargo-Support**
     * **SC-Leiter** => **Thonhauser F. & Agostini T.**
+    * **📅 Liefertage** => **WAB's** eher **MO - MI** => Woche geht von **Mo. - Fr.**
     * **❌ Kein Küchenmonteur** => **L&M Küchenmontage**
 
 - **⛵ Kärnten - [KTN] - (SC Klagenfurt) - {Partner=Riegler}**
