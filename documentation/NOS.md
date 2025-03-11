@@ -1,14 +1,4 @@
 ## NOS 💚
-
-- We are taking about Frontend when the way more important backend is not working 😂
-
-- Tische von $Hersteller_B are a big thing and its not working out well 😂
-    - 20 min extra für zerlegten Tisch
-    - Am WAB 20 zusammengebaute VS 100 zerlegte Tische
-    - lt. NOS nur sinnvoll bei max. 4 Großkunden oder Mega Baustelle => kleine Kunden sollten zusammengebaute bekommen.
-    - Bedienteile sind dauerend im Arsch so viele 📺 TV's
-    - Bedienteile können nicht alleine geliefert werden es sind überall Tischfüße, Schrauben etc. die unnötig kommen! 
-
 - Make sure I know all the easy things 👻:
     - ☠️ Deadlines
         - **❄️ Frozen Zone (NOS) ❄️** = **mindestens 13T vor Auslieferdatum** => **14. Tag vor Auslieferdatum => Schieben möglich**
@@ -107,12 +97,8 @@
 - Excel Urlaubs-Liste von Isabel kopieren und nutzen
 - 📅 $Hersteller_KW if it exits
 
-- Get Postversand-Termine for all Gebiete (ASK ISABEL)
-
-- Check how Disposition works there and how to fix shit
-    - Cant be hard if its as bad as people say 🙉
-    - **Schiebendrein Helmuth** disponiert **Gebiete: Wien, OÖ, NÖ**
-    - **Nussbaumer Heinz** disponiert **Gebiete: Rest von Helmuth**
+- **Schiebendrein Helmuth** disponiert **Gebiete: Wien, OÖ, NÖ**
+- **Nussbaumer Heinz** disponiert **Gebiete: Rest von Helmuth**
 
 ## 17.03.2025 Start Erik: Innsbruck in Cargo-Support => Abgabewoche ist die KW_15 => Heinz als SC-Leiter
 
