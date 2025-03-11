@@ -20,14 +20,13 @@
         - **🛢️ WAB'S** => **bei 20-25m³ voll** => meist **nicht auf 30m³ füllbar**
         - **📅 Kalender-Woche** bei **>= 10m³** = **NICHT FAHREN** => **ist mit Vertreib abklärt ? Peter fragen? - Gebiete ?**
         - **📦 Produktions_Datum manchmal unterschiedlich ? => Wieso ? => Schema ?**
-        - **Einlastungsdatum:** => **-3 Werktage** immer und Nachträglich Liste in Teams mit Alex/Helmuth  
-        - **WAB_Bereitstell_Uhrzeit: ??:?? Uhr pro Gebiet** => **Hersteller_N 06:00**
-        - **📑 Frachtbriefe und Auslieferliste für SC-Leiter** => Helmut macht Listen mit **Ladelisten**
-        - **Wöchtenlich** => Immer **Mittwoch for Folge_KW2** => Keine **Möglichkeit außer Tourenplan an Helmuth**
-        - **Außer im 2020 gibt es eine Möglichkeit** 
+        - **🔨 Einlastungsdatum:** => **-3 Werktage** == **📦 Prod_Datum**  => Liste in Teams mit Alex/Helmuth in Teams ablegen für WAB-Nr. 
+        - **⏱️ WAB_Bereitstell_Uhrzeit: 06:00 Uhr pro Gebiet**
+        - **📑 Frachtbriefe und Auslieferliste für SC-Leiter** => Helmut macht Listen mit **Ladelisten + Tourenplan + Deckblatt**
+            - **Wöchtenlich** => Immer **Mittwoch for Folge_KW2** 
         
     - **🚛 Fuhrpark => Fahrzeuge und Speditionen pro Gebiet**
-        - Innsbruck = Spedition_Kusztrich / Heinz nochmal klären.
+        - Innsbruck = Spedition_Kusztrich / Heinz nochmal klären
         - Deutschland => Weiß, Nuri(Kameen) => Mit Silke klären 🛑
         - Neudörfl = Spedition_Kusztrich / ÜBEX (Bei viel Auslastung)
         - 5 WAB-LKW (WY-307AX, WY-308AX, WY-450AX, WY-659AN WY-741AT) alle Hänger möglich.
@@ -38,53 +37,53 @@
         - **📦 Produktions_Export_Datum** und **[WOCHENTAG]** => Nicht vorhanden abarbeiten der Listen! ca. 4_Folge_KW's
         - **Postversand / DIREKT-Versand Termine pro Gebiete** => Immer **DONNERSTAG in der KW** **(keine Fixtermine)**
         - **Postversand => Do. in der KW (ALLE GEBIETE) => Alle in eine Tour!** => Prod = Montag
-        - **Rampe / Platz** für SC-Lager **pro Gebiete**
-        - **4 Rampen können gleichzeit laden (Neudörfl)**
-        - **FIXTERMINE** wo müssen sie gehalten werden und wo nicht.
-        - **Fixtermine** => **Alle zum einhalten**
-        - Sehen wir uns **gemeinsam CS an**
-        - **Wandmonteure & Küchenmonteure** => Wo und wieviel => Was machen wir selbst
-        - **Beides in Neudörfl vorhanden**
+        - **↗️ 4 Rampen vorhanden die gleichzeit LKW beladen können (Neudörfel)**
+        - **⚠️ Fixtermine** => **Alle zum einhalten**
+        - **Wandmonteure & Küchenmonteure** => **Beides in Neudörfl vorhanden**
         - **Vorproduktion** und wie es gehandelt wird.
-        - Im Regel bei **Terminverschiebungen durch kunden wird Prod.** trotzdem laut altem Datum durchgeführt & **Auf WAB verladen.** (Genug Container vorhanden)
+        - Im Regel bei **📅 Terminverschiebungen durch kunden wird Prod.** trotzdem laut altem Datum durchgeführt & **Auf WAB verladen.** (Genug Container vorhanden)
         - **Bei Kleinigkeiten => verschieben wir machmal die Produktion**
-        - **Mokledruck (Etiketten) wie viel Tage vor Produktion** == **Hali = 5 Tage vor Ausliefer_Datum**
-        - Irrelevant aufgrund => Produktion verlagt es nicht.
+        - **Mokledruck (Etiketten) => Irrelevant aufgrund => Produktion verlagt es nicht.
         - **🔫 Schnellschuss** ab wann ? Eigenheiten der **📦 Produktion** => Wie wird es gehandelt.
-        - Bei **Reklas & Eilaufträge** => Aufpassen - Besprechen mit **Auftragsabwickling** => **Datum in CS beachten**
-        -  **Auftragsnummern** gleich wie bei **Hersteller_H** => (Bsp.: 034=Internet / 04=Neutral etc.)
-        - **Nummern komplett Unterscheidlich** => **Ersten 2 sind Geschäftstelle**
+        - **🔫 Schnellschuss NUR bei Reklas & Eilaufträge**
+        - Besprechen mit **Auftragsabwickling** => **Datum in CS beachten**
+        - **Auftragsnummern** gleich wie bei **Hersteller_H** => (Bsp.: 034=Internet / 04=Neutral etc.) = **Nummern komplett Unterscheidlich** => **Ersten 2 sind Geschäftstelle**
         - 15 = Innsbruck / 11 = Wien / 12 = Neudörfel / 13 = Linz / 14 SBZ / 16 KTN / 17 Graz /
         - 18 Dornbirn / 43 DE / 45 Budapest / 47 Bratislava / 10 Werk / 23 Händler (Bene, Hali etc.)
-        - **hinterlegen Montagezeiten/Volumen/Gewichte** aus ? => Gibt es einer **Fehler-Liste**?
-        - **Alle nachrechnen** => **Montagezeiten vorallem bei Handelswaren (Zulieferant)**
-        - **🛢️ Volumen** => **Handelswaren (Zulieferant) nicht hinterlegt** => **Liste starten**
-        - **Riesige-Liste von 100 Artikeln** => Vorhanden => Kösung finden um Daten nachzureichen => Hali Vergleich / Bene fragen ? => Alex helfen sie brauchen jemadnen um das zu checken! 
-        - Innsbruck Anliefer-Tage (WAB = 06:00 Uhr / Tour 08:00 Uhr)
+        - **Innsbruck Anliefer-Tage** (WAB = 06:00 Uhr / Tour 08:00 Uhr)
         - **Mo-Mi WAB's Anlieferung => Donnerstag, Freitag => Touren Mo-Fr**
         - **Voralberg** => Wie ist die **Zusammenarbeit mit ULBG** (Wie Isabel ? Wer 📗 Avisiert ?)
         - **Helmuth** => Stellt Tour nach Kunden zusammen => Mail mit **Listen wie SC-Leiter** nur ohne **Stops**
         - **Nachtrag wird nicht erstellt** = Oliver anrufen absprechen **Listen Rücksendung -> Übernehmen in Cargo - ERIK** 
         - **Import => Auftragsänderungen wie sichtbar ? => CS-JOB wird Orange**
-        - CS-JOB => Datei => Ladungs-Importe => Fenster mit allen Datensätzen die Importiert wurden => Links unten werden Reiter "Orange" wo eine Änderung vorgekommen ist
-        - => **Alex sendet E-Mails an Helmuth mit Änderungen für Aufträge => Leitet mir Innsbruck weiter.**
+        - **CS-JOB => Datei => Ladungs-Importe => Fenster mit allen Datensätzen die Importiert wurden** => **Links unten werden Reiter "Orange"** wo eine Änderung vorgekommen ist
+        - **Alex sendet E-Mails an Helmuth mit Änderungen für Aufträge => Leitet mir Innsbruck weiter.**
         - **HEUTE TEST__ Aviso-Datum => auf 3h Zeit-Fenster setzten!** => Checken ob alles passt. ???
         - **🛑 Missing: Naming-Scheme für Touren/WAB's**
-        - 🛑 Missing: **Spezielle NOS💚 Eigenheiten** die ich wissen sollte
-        - 🛑🛑 2020 🛑🛑 => **Kann 2020 geteilte WAB-Aufträge übernehmen ?**
+        - **🛑 Missing:** **Spezielle NOS💚 Eigenheiten** die ich wissen sollte
+        - **🛑🛑 2020 🛑🛑** => **Kann 2020 geteilte WAB-Aufträge übernehmen ?**
         - **Probieren über 30m³ Auftrag händisch zu teilen! und in 2020 eingeben!**
         - **Wird nach Auftragsnummer inkl. WAB-Nr. In 2020 übernommen.**
         - **2020 kann nicht mehr machen als aktuell möglich!**
 
 ## Tourenplan für SC-Leiter 💚
-- **Rechtsclick** => Archierte Dokuemente => **Arivirte doks. des Auftrages => Doppelclick auf Datensatz => "Dok 1"**
-- **"F6" => Tourenplan => "Dok 2"**
-- **"Deckbaltt" => "Dok 3"**
+- **Rechtsclick** => **Archivierte Dokuemente** => **Archivierte Dokumente des Auftrages** => **Doppelclick auf Datensatz** => **Dokument_1**
+- Mehrfachdruck testen ??? - Möglich ?
+- **F6** => **Tourenplan** => **Dokument_2**
+- **Deckbaltt** => **Dokument_3**
 - **Sollte für SC-Leiter reichen => Aufpassen Preise sollten runter => (Archivierte Dokumente)**
 
 ## Excel-Tourenplan Listen 💚
-- Nussbaumer Heinz macht **Excel-Listen** für **Innsbruck**
+- **Nussbaumer Heinz** macht **Excel-Listen** für **Innsbruck**
 - **Ich und Helmuth** machen den Rest
+
+## Situation mit hinterlegten Volumen/Gewicht/Montagezeit
+- Hinterlegten **Montagezeiten/Volumen/Gewichte** aus ?
+- Gibt es einer **📅 Fehler-Liste** ?
+- **Alle nachrechnen** => **Montagezeiten vorallem bei Handelswaren (Zulieferant)**
+- **🛢️ Volumen** => **Handelswaren (Zulieferant) nicht hinterlegt** => **Liste starten**
+- **Riesige-Liste von 100 Artikeln** => Vorhanden => Kösung finden um Daten nachzureichen => Hali Vergleich / Bene fragen?
+- **Alex 💚** helfen sie brauchen jemadnen um das zu checken!
 
 ## 🚛 Fuhpark & Personal
 - haben eigenen LKW der 2 WAB laden kann
