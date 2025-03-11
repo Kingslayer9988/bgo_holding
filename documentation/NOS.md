@@ -68,41 +68,41 @@
         - CS-JOB => Datei => Ladungs-Importe => Fenster mit allen Datensätzen die Importiert wurden => Links unten werden Reiter "Orange" wo eine Änderung vorgekommen ist
         - => **Alex sendet E-Mails an Helmuth mit Änderungen für Aufträge => Leitet mir Innsbruck weiter.**
         - **HEUTE TEST__ Aviso-Datum => auf 3h Zeit-Fenster setzten!** => Checken ob alles passt. ???
-        - 🛑 Missing: **Naming-Scheme für Touren/WAB's**
+        - **🛑 Missing: Naming-Scheme für Touren/WAB's**
         - 🛑 Missing: **Spezielle NOS💚 Eigenheiten** die ich wissen sollte
         - 🛑🛑 2020 🛑🛑 => **Kann 2020 geteilte WAB-Aufträge übernehmen ?**
         - **Probieren über 30m³ Auftrag händisch zu teilen! und in 2020 eingeben!**
-        - **Wird nach Auftragsnummer inkl. WAB-Nr. In 2020 übernommen.** 
+        - **Wird nach Auftragsnummer inkl. WAB-Nr. In 2020 übernommen.**
+        - **2020 kann nicht mehr machen als aktuell möglich!**
 
 ## Tourenplan für SC-Leiter 💚
-- Rechtsclick => Archierte Dokuemente => Arivirte doks. des Auftrages => Doppelclick auf Datensatz => "Dok 1"
-- "F6" => Tourenplan => "Dok 2"
-- "Deckbaltt" => "Dok 3"
-- Sollte für SC-Leiter reichen => Aufpassen Preise sollten runter => (Archivierte Dokumente)
+- **Rechtsclick** => Archierte Dokuemente => **Arivirte doks. des Auftrages => Doppelclick auf Datensatz => "Dok 1"**
+- **"F6" => Tourenplan => "Dok 2"**
+- **"Deckbaltt" => "Dok 3"**
+- **Sollte für SC-Leiter reichen => Aufpassen Preise sollten runter => (Archivierte Dokumente)**
 
 ## Excel-Tourenplan Listen 💚
+- Nussbaumer Heinz macht **Excel-Listen** für **Innsbruck**
+- **Ich und Helmuth** machen den Rest
 
-
-
-
-- 🚛 Fuhpark & Personal
-    - haben eigenen LKW der 2 WAB laden kann
-    - 8 Monteure wurden nach SC-Wiener Neustadt geben => 4 Monteure über bei NOS direkt
-    - Sped_Kusztrich ist sehr zuverlässig laut NOS
-    - NOS Info in Cargo-Support fast nie 30m³ auf einem WAB => Mehr 20 - 25 m³
-    - Oft wird Produkion während des einräumen des WAB's fertiggstellet => Aber nicht in der richtigen Reihenfolge = Wird dann für den falschen Stopp verladen
-    - 🔨 Alex glättet Produktion => Ist hier alles ok ?
-    - 📑 Alex hat Kapazitätsreport von 2020 => Bekommt Helmuth täglich => Wichtige Infos für mich
-    - 📅 Team-Gespräch sollte eigeführt werden mind. 1x die Woche
-    - Deutschland hat NOS 💚 nur 10-15 m³ pro Woche => Lösung muss her manchmal Touren nach Hamburg/Berlin mit 2-5 Tischen etc.
-        - Lösung wie bei $Hersteller_B => Ware nach Eferding ?
-    - Export gibt es bei NOS nicht viel manchmal Bratislava, Budapest und (Slovenien => macht Riegler Klagenfurt)
-    - 💡 Excel-Listen mit Helmuth und Heinz müssen eingeführt werden => Teams & Excel vorbereiten (Screenshot von Isabel)
-    - 💡 PDF-Parser und Crap-Scripts für automation seems very powerful at NOS
-    - 📛 Extras
-        - Schieben von Positionen/Aufträgen ist in 2020 unmöglich => Das heißt jede TV etc. wird neuer Auftrag (Schieben = Keine Regeln) == Alte Ladeliste (Auftrag) kann nicht verändert werde
-        - Excel Urlaubs-Liste von Isabel kopieren und nutzen
-    - 📅 $Hersteller_KW if it exits
+## 🚛 Fuhpark & Personal
+- haben eigenen LKW der 2 WAB laden kann
+- 8 Monteure wurden nach SC-Wiener Neustadt geben => 4 Monteure über bei NOS direkt
+- Sped_Kusztrich ist sehr zuverlässig laut NOS
+- NOS Info in Cargo-Support fast nie 30m³ auf einem WAB => Mehr 20 - 25 m³
+- Oft wird Produkion während des einräumen des WAB's fertiggstellet => Aber nicht in der richtigen Reihenfolge = Wird dann für den falschen Stopp verladen
+- 🔨 Alex glättet Produktion => Ist hier alles ok ?
+- 📑 Alex hat Kapazitätsreport von 2020 => Bekommt Helmuth täglich => Wichtige Infos für mich
+- 📅 Team-Gespräch sollte eigeführt werden mind. 1x die Woche
+- Deutschland hat NOS 💚 nur 10-15 m³ pro Woche => Lösung muss her manchmal Touren nach Hamburg/Berlin mit 2-5 Tischen etc.
+    - Lösung wie bei $Hersteller_B => Ware nach Eferding ?
+- Export gibt es bei NOS nicht viel manchmal Bratislava, Budapest und (Slovenien => macht Riegler Klagenfurt)
+- 💡 Excel-Listen mit Helmuth und Heinz müssen eingeführt werden => Teams & Excel vorbereiten (Screenshot von Isabel)
+- 💡 PDF-Parser und Crap-Scripts für automation seems very powerful at NOS
+- 📛 Extras
+    - Schieben von Positionen/Aufträgen ist in 2020 unmöglich => Das heißt jede TV etc. wird neuer Auftrag (Schieben = Keine Regeln) == Alte Ladeliste (Auftrag) kann nicht verändert werde
+- Excel Urlaubs-Liste von Isabel kopieren und nutzen
+- 📅 $Hersteller_KW if it exits
 
 - Get Postversand-Termine for all Gebiete (ASK ISABEL)
 
@@ -111,7 +111,7 @@
     - **Schiebendrein Helmuth** disponiert **Gebiete: Wien, OÖ, NÖ**
     - **Nussbaumer Heinz** disponiert **Gebiete: Rest von Helmuth**
 
-## 17.03.2025 Start Erik: Innsbruck in Cargo-Support => Abgabewoche ist die KW_15
+## 17.03.2025 Start Erik: Innsbruck in Cargo-Support => Abgabewoche ist die KW_15 => Heinz als SC-Leiter
 
 ## Chronologischer Ablauf (Will Still have Mistakes - Aktuell für $Hersteller_N)
 
