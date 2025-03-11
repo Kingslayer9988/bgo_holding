@@ -4,19 +4,18 @@
         - **❄️ Frozen Zone (NOS) ❄️** = **mindestens 13T vor Auslieferdatum** => **14. Tag vor Auslieferdatum => Schieben möglich**
         - **📦 Bei Abgabe der Produktions_KW => 1 Woche hinter $Hersteller_H => gleich mit $Hersteller_B (Bsp.: KW_11 für KW_14)**
         - **📦 Produktions_Datum für Auftrag = im Idealfall -3 Werktage vor Ausliefer_Datum**
-        - **Bereitstell_Datum +2 Werktag zum 📦 Produktions_Datum** => Eg. **-1 Werktage vor Ausliefer_Datum** => **Bereitstelldatum_Uhrzeit** = (06:00 Uhr)
+        - **📦 Bereitstell_Datum +2 Werktag zum Produktions_Datum** => Eg. **-1 Werktage vor Ausliefer_Datum** => **Bereitstelldatum_Uhrzeit** = (06:00 Uhr)
         - **📗 Avisieren** immer **täglich** für **für alle fertigen Touren** => **normalerweise ca. 3 Folgewochen sind Avisiert.**
         - **♻️ Import der Cargo-Support Datensätze** = **[Täglich um 06:00 & 10:00 & 14:00 Uhr]**
         - **🛢️ WAB'S** => **bei 20-25m³ voll** => meist **nicht auf 30m³ füllbar**
         - **📅 Kalender-Woche** bei **>= 10m³** = **NICHT FAHREN** => **ist mit Vertreib abklärt ? Peter fragen? - Gebiete ?**
         - **📦 Produktions_Datum manchmal unterschiedlich ? => Wieso ? => Schema ?**
         - **🔨 Einlastungsdatum:** => **-3 Werktage** == **📦 Prod_Datum**  => Liste in Teams mit Alex/Helmuth in Teams ablegen für WAB-Nr. 
-        - **⏱️ WAB_Bereitstell_Uhrzeit: 06:00 Uhr pro Gebiet**
+        - **⏰ WAB_Bereitstell_Uhrzeit: 06:00 Uhr pro Gebiet** | **Tour ab 08:00**
         - **📑 Frachtbriefe und Auslieferliste für SC-Leiter** => Helmut macht Listen mit **Ladelisten + Tourenplan + Deckblatt**
             - **Wöchtenlich** => Immer **Mittwoch for Folge_KW2**
             - Neue Lösung für **Frachtbriefe & Tourenpläne** für SC-Leiter und Hersteller **[Siehe Unten](#)**
-        
-    - **🚛 Fuhrpark => Fahrzeuge und Speditionen pro Gebiet**
+        - **🚛 Fuhrpark => Fahrzeuge und Speditionen pro Gebiet**
         - **📅 Unterschiedliche Kalenderwochen für Gebiete** => NEIN => Alles (Mo - Fr)
         - **🌍 Tirol und Voralberg** => Eher anfangs der Woche => Aber alle Wochen (Mo - Fr)
         - **📦 Produktions_Export_Datum** und **[WOCHENTAG]** => Nicht vorhanden abarbeiten der Listen! ca. 4_Folge_KW's
@@ -29,14 +28,9 @@
         - Im Regel bei **📅 Terminverschiebungen durch kunden wird Prod.** trotzdem laut altem Datum durchgeführt & **Auf WAB verladen.** (Genug Container vorhanden)
         - **Bei Kleinigkeiten => verschieben wir machmal die Produktion**
         - **Mokledruck (Etiketten) => Irrelevant aufgrund => Produktion verlagt es nicht.
-        - **🔫 Schnellschuss** ab wann ? Eigenheiten der **📦 Produktion** => Wie wird es gehandelt.
-        - **🔫 Schnellschuss NUR bei Reklas & Eilaufträge**
-        - Besprechen mit **Auftragsabwickling** => **Datum in CS beachten**
-        - **Auftragsnummern** gleich wie bei **Hersteller_H** => (Bsp.: 034=Internet / 04=Neutral etc.) = **Nummern komplett Unterscheidlich** => **Ersten 2 sind Geschäftstelle**
-        - 15 = Innsbruck / 11 = Wien / 12 = Neudörfel / 13 = Linz / 14 SBZ / 16 KTN / 17 Graz /
-        - 18 Dornbirn / 43 DE / 45 Budapest / 47 Bratislava / 10 Werk / 23 Händler (Bene, Hali etc.)
-        - **Innsbruck Anliefer-Tage** (WAB = 06:00 Uhr / Tour 08:00 Uhr)
-        - **📅 Mo - Mi WAB's Anlieferung => Donnerstag, Freitag => Touren Mo-Fr**
+        - **🔫 Schnellschuss** ab wann ? Eigenheiten der **📦 Produktion** => **🔫 Schnellschuss NUR bei Reklas & Eilaufträge**
+            - Besprechen mit **Auftragsabwickling** => **Datum in CS beachten**
+        - **📅 INNSBRUCK Mo - Mi WAB's Anlieferung => Donnerstag, Freitag => Touren Mo-Fr**
         - **Import => Auftragsänderungen wie sichtbar ? => CS-JOB wird Orange**
         - **CS-JOB => Datei => Ladungs-Importe => Fenster mit allen Datensätzen die Importiert wurden** => **Links unten werden Reiter "Orange"** wo eine Änderung vorgekommen ist
         - **Alex sendet E-Mails an Helmuth mit Änderungen für Aufträge => Leitet mir Innsbruck weiter.**
@@ -71,6 +65,12 @@
 - **Voralberg** => Wie ist die **Zusammenarbeit mit ULBG** (Wie Isabel ? Wer 📗 Avisiert ?)
 - **Helmuth** => Stellt Tour nach Kunden zusammen => Mail mit **Listen wie SC-Leiter** nur ohne **Stops**
 - **Nachtrag wird nicht erstellt** = Oliver anrufen absprechen **Listen Rücksendung -> Übernehmen in Cargo - ERIK** 
+
+
+- **Auftragsnummern** gleich wie bei **Hersteller_H** => (Bsp.: 034=Internet / 04=Neutral etc.) = **Nummern komplett Unterscheidlich** => **Ersten 2 sind Geschäftstelle**
+- 15 = Innsbruck / 11 = Wien / 12 = Neudörfel / 13 = Linz / 14 SBZ / 16 KTN / 17 Graz /
+- 18 Dornbirn / 43 DE / 45 Budapest / 47 Bratislava / 10 Werk / 23 Händler (Bene, Hali etc.)
+
 
 ## 🚛 Fuhpark & Personal
 - Innsbruck = Spedition_Kusztrich / Heinz nochmal klären
