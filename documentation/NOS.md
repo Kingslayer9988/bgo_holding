@@ -42,15 +42,12 @@
         - **4 Rampen können gleichzeit laden (Neudörfl)**
         - **FIXTERMINE** wo müssen sie gehalten werden und wo nicht.
         - **Fixtermine** => **Alle zum einhalten**
-        - 🛑 Missing: **Naming-Scheme für Touren/WAB's**
         - Sehen wir uns **gemeinsam CS an**
         - **Wandmonteure & Küchenmonteure** => Wo und wieviel => Was machen wir selbst
         - **Beides in Neudörfl vorhanden**
         - **Vorproduktion** und wie es gehandelt wird.
         - Im Regel bei **Terminverschiebungen durch kunden wird Prod.** trotzdem laut altem Datum durchgeführt & **Auf WAB verladen.** (Genug Container vorhanden)
         - **Bei Kleinigkeiten => verschieben wir machmal die Produktion**
-        - 🛑 Missing: **Spezielle NOS💚 Eigenheiten** die ich wissen sollte
-        - 
         - **Mokledruck(Etiketten) wie viel Tage vor Produktion** == **Hali = 5 Tage vor Ausliefer_Datum**
         - Irrelevant aufgrund => Produktion verlagt es nicht.
         - **🔫 Schnellschuss** ab wann ? Eigenheiten der **📦 Produktion** => Wie wird es gehandelt.
@@ -71,7 +68,8 @@
         - CS-JOB => Datei => Ladungs-Importe => Fenster mit allen Datensätzen die Importiert wurden => Links unten werden Reiter "Orange" wo eine Änderung vorgekommen ist
         - => **Alex sendet E-Mails an Helmuth mit Änderungen für Aufträge => Leitet mir Innsbruck weiter.**
         - **HEUTE TEST__ Aviso-Datum => auf 3h Zeit-Fenster setzten!** => Checken ob alles passt. ???
-        
+        - 🛑 Missing: **Naming-Scheme für Touren/WAB's**
+        - 🛑 Missing: **Spezielle NOS💚 Eigenheiten** die ich wissen sollte
         - 🛑🛑 2020 🛑🛑 => **Kann 2020 geteilte WAB-Aufträge übernehmen ?**
         - **Probieren über 30m³ Auftrag händisch zu teilen! und in 2020 eingeben!**
         - **Wird nach Auftragsnummer inkl. WAB-Nr. In 2020 übernommen.** 
@@ -80,16 +78,21 @@
 - Rechtsclick => Archierte Dokuemente => Arivirte doks. des Auftrages => Doppelclick auf Datensatz => "Dok 1"
 - "F6" => Tourenplan => "Dok 2"
 - "Deckbaltt" => "Dok 3"
-- Sollte für SC-Leiter reichen => Aufpassen Preise sollten runter => (Arivirte Dokumente)
-    
-    - 🚛 Fuhpark & Personal
-        - haben eigenen LKW der 2 WAB laden kann
-        - 8 Monteure wurden nach SC-Wiener Neustadt geben => 4 Monteure über bei NOS direkt
-        - Sped_Kusztrich ist sehr zuverlässig laut NOS
-        - NOS Info in Cargo-Support fast nie 30m³ auf einem WAB => Mehr 20 - 25 m³
-        - Oft wird Produkion während des einräumen des WAB's fertiggstellet => Aber nicht in der richtigen Reihenfolge = Wird dann für den falschen Stopp verladen
-        - 🔨 Alex glättet Produktion => Ist hier alles ok ?
-        - 📑 Alex hat Kapazitätsreport von 2020 => Bekommt Helmuth täglich => Wichtige Infos für mich
+- Sollte für SC-Leiter reichen => Aufpassen Preise sollten runter => (Archivierte Dokumente)
+
+## Excel-Tourenplan Listen 💚
+
+
+
+
+- 🚛 Fuhpark & Personal
+    - haben eigenen LKW der 2 WAB laden kann
+    - 8 Monteure wurden nach SC-Wiener Neustadt geben => 4 Monteure über bei NOS direkt
+    - Sped_Kusztrich ist sehr zuverlässig laut NOS
+    - NOS Info in Cargo-Support fast nie 30m³ auf einem WAB => Mehr 20 - 25 m³
+    - Oft wird Produkion während des einräumen des WAB's fertiggstellet => Aber nicht in der richtigen Reihenfolge = Wird dann für den falschen Stopp verladen
+    - 🔨 Alex glättet Produktion => Ist hier alles ok ?
+    - 📑 Alex hat Kapazitätsreport von 2020 => Bekommt Helmuth täglich => Wichtige Infos für mich
     - 📅 Team-Gespräch sollte eigeführt werden mind. 1x die Woche
     - Deutschland hat NOS 💚 nur 10-15 m³ pro Woche => Lösung muss her manchmal Touren nach Hamburg/Berlin mit 2-5 Tischen etc.
         - Lösung wie bei $Hersteller_B => Ware nach Eferding ?
