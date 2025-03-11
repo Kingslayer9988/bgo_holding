@@ -63,8 +63,7 @@
 - **Nachtrag wird nicht erstellt** = Oliver anrufen absprechen **Listen Rücksendung -> Übernehmen in Cargo - ERIK** 
 
 ## Aufträge und 2020 Stuff
-- **Auftragsnummern** gleich wie bei **Hersteller_H** => (Bsp.: 034=Internet / 04=Neutral etc.) = **Nummern komplett Unterscheidlich** => **Ersten 2 sind Geschäftstelle**
-
+- **Auftragsnummern** = **Sind komplett Unterscheidlich** => **Ersten 2 sind Geschäftstelle**
 | NUMMER | ORT |
 | --- | --- |
 | **15** | **Innsbruck** |
@@ -80,7 +79,6 @@
 | **47** | **Bratislava** |
 | **10** | **Werk** |
 | **23** | **Händler** |
-
 
 ## Vorproduktion
 - Im Regel bei **📅 Terminverschiebungen durch kunden wird Prod.**
