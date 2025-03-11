@@ -26,18 +26,18 @@
         - **Wöchtenlich** => Immer **Mittwoch for Folge_KW2** => Keine **Möglichkeit außer Tourenplan an Helmuth**
         - **Außer im 2020 gibt es eine Möglichkeit** 
         
-        - **🚛 Fuhrpark => Fahrzeuge und Speditionen pro Gebiet**
-            - Innsbruck = Spedition_Kusztrich / Heinz nochmal klären.
-            - Deutschland => Weiß, Nuri(Kameen) => Mit Silke klären. 🛑
-            - Neudörfl = Spedition_Kusztrich / ÜBEX (Bei viel Auslastung)
-            - 5 WAB-LKW (WY-307AX, WY-308AX, WY-450AX, WY-659AN WY-741AT) alle Hänger möglich.
-            - Fahrzeuge: 7,5t (WY-742AT)
-            - Fahrzeuge: 3,5t Tonnen Sprinter (WY-871AW) ab KW 13. in Wiener Neudorf = SC Wiener Neudorf Keine Fahrzeuge für Neudörfel (Direkt)
-        - **Unterschiedliche Kalenderwochen für Gebiete** (NEIN)
-        - Tirol und Voralberg => Eher anfangs der Woche => Aber alle Wochen (Mo - Fr)
+    - **🚛 Fuhrpark => Fahrzeuge und Speditionen pro Gebiet**
+        - Innsbruck = Spedition_Kusztrich / Heinz nochmal klären.
+        - Deutschland => Weiß, Nuri(Kameen) => Mit Silke klären 🛑
+        - Neudörfl = Spedition_Kusztrich / ÜBEX (Bei viel Auslastung)
+        - 5 WAB-LKW (WY-307AX, WY-308AX, WY-450AX, WY-659AN WY-741AT) alle Hänger möglich.
+        - Fahrzeuge: 7,5t (WY-742AT)
+        - Fahrzeuge: 3,5t Tonnen Sprinter (WY-871AW) ab KW 13. in Wiener Neudorf = SC Wiener Neudorf Keine Fahrzeuge für Neudörfel (Direkt)
+        - **📅 Unterschiedliche Kalenderwochen für Gebiete** => NEIN => Alles (Mo - Fr)
+        - **🌍 Tirol und Voralberg** => Eher anfangs der Woche => Aber alle Wochen (Mo - Fr)
         - **📦 Produktions_Export_Datum** und **[WOCHENTAG]** => Nicht vorhanden abarbeiten der Listen! ca. 4_Folge_KW's
         - **Postversand / DIREKT-Versand Termine pro Gebiete** => Immer **DONNERSTAG in der KW** **(keine Fixtermine)**
-        - **Prod.Datum => Mo. in der KW (ALLE GEBIETE) => Alle in eine Tour!**
+        - **Postversand => Do. in der KW (ALLE GEBIETE) => Alle in eine Tour!** => Prod = Montag
         - **Rampe / Platz** für SC-Lager **pro Gebiete**
         - **4 Rampen können gleichzeit laden (Neudörfl)**
         - **FIXTERMINE** wo müssen sie gehalten werden und wo nicht.
@@ -48,16 +48,17 @@
         - **Vorproduktion** und wie es gehandelt wird.
         - Im Regel bei **Terminverschiebungen durch kunden wird Prod.** trotzdem laut altem Datum durchgeführt & **Auf WAB verladen.** (Genug Container vorhanden)
         - **Bei Kleinigkeiten => verschieben wir machmal die Produktion**
-        - **Mokledruck(Etiketten) wie viel Tage vor Produktion** == **Hali = 5 Tage vor Ausliefer_Datum**
+        - **Mokledruck (Etiketten) wie viel Tage vor Produktion** == **Hali = 5 Tage vor Ausliefer_Datum**
         - Irrelevant aufgrund => Produktion verlagt es nicht.
         - **🔫 Schnellschuss** ab wann ? Eigenheiten der **📦 Produktion** => Wie wird es gehandelt.
         - Bei **Reklas & Eilaufträge** => Aufpassen - Besprechen mit **Auftragsabwickling** => **Datum in CS beachten**
         -  **Auftragsnummern** gleich wie bei **Hersteller_H** => (Bsp.: 034=Internet / 04=Neutral etc.)
-        - Sind komplett Unterscheidlich => Ersten 2 sind Geschäftstelle
-        - 15 = Innsbruck / 11 = Wien / 12 = Neudörfel / 13 = Linz / 14 SBZ / 16 KTN / 17 Graz / 18 Dornbirn / 43 DE / 45 Budapest / 47 Bratislava / 10 Werk / 23 Händler (Bene, Hali etc.)
+        - **Nummern komplett Unterscheidlich** => **Ersten 2 sind Geschäftstelle**
+        - 15 = Innsbruck / 11 = Wien / 12 = Neudörfel / 13 = Linz / 14 SBZ / 16 KTN / 17 Graz /
+        - 18 Dornbirn / 43 DE / 45 Budapest / 47 Bratislava / 10 Werk / 23 Händler (Bene, Hali etc.)
         - **hinterlegen Montagezeiten/Volumen/Gewichte** aus ? => Gibt es einer **Fehler-Liste**?
         - **Alle nachrechnen** => **Montagezeiten vorallem bei Handelswaren (Zulieferant)**
-        - **Volumen** => **Handelswaren (Zulieferant) nicht hinterlegt** => **Liste starten**
+        - **🛢️ Volumen** => **Handelswaren (Zulieferant) nicht hinterlegt** => **Liste starten**
         - **Riesige-Liste von 100 Artikeln** => Vorhanden => Kösung finden um Daten nachzureichen => Hali Vergleich / Bene fragen ? => Alex helfen sie brauchen jemadnen um das zu checken! 
         - Innsbruck Anliefer-Tage (WAB = 06:00 Uhr / Tour 08:00 Uhr)
         - **Mo-Mi WAB's Anlieferung => Donnerstag, Freitag => Touren Mo-Fr**
