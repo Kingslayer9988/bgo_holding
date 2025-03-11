@@ -23,15 +23,10 @@
         - **🔨 Einlastungsdatum:** => **-3 Werktage** == **📦 Prod_Datum**  => Liste in Teams mit Alex/Helmuth in Teams ablegen für WAB-Nr. 
         - **⏱️ WAB_Bereitstell_Uhrzeit: 06:00 Uhr pro Gebiet**
         - **📑 Frachtbriefe und Auslieferliste für SC-Leiter** => Helmut macht Listen mit **Ladelisten + Tourenplan + Deckblatt**
-            - **Wöchtenlich** => Immer **Mittwoch for Folge_KW2** 
+            - **Wöchtenlich** => Immer **Mittwoch for Folge_KW2**
+            - Neue Lösung für **Frachtbriefe & Tourenpläne** für SC-Leiter und Hersteller **[Siehe Unten](#)**
         
     - **🚛 Fuhrpark => Fahrzeuge und Speditionen pro Gebiet**
-        - Innsbruck = Spedition_Kusztrich / Heinz nochmal klären
-        - Deutschland => Weiß, Nuri(Kameen) => Mit Silke klären 🛑
-        - Neudörfl = Spedition_Kusztrich / ÜBEX (Bei viel Auslastung)
-        - 5 WAB-LKW (WY-307AX, WY-308AX, WY-450AX, WY-659AN WY-741AT) alle Hänger möglich.
-        - Fahrzeuge: 7,5t (WY-742AT)
-        - Fahrzeuge: 3,5t Tonnen Sprinter (WY-871AW) ab KW 13. in Wiener Neudorf = SC Wiener Neudorf Keine Fahrzeuge für Neudörfel (Direkt)
         - **📅 Unterschiedliche Kalenderwochen für Gebiete** => NEIN => Alles (Mo - Fr)
         - **🌍 Tirol und Voralberg** => Eher anfangs der Woche => Aber alle Wochen (Mo - Fr)
         - **📦 Produktions_Export_Datum** und **[WOCHENTAG]** => Nicht vorhanden abarbeiten der Listen! ca. 4_Folge_KW's
@@ -52,9 +47,6 @@
         - 18 Dornbirn / 43 DE / 45 Budapest / 47 Bratislava / 10 Werk / 23 Händler (Bene, Hali etc.)
         - **Innsbruck Anliefer-Tage** (WAB = 06:00 Uhr / Tour 08:00 Uhr)
         - **📅 Mo - Mi WAB's Anlieferung => Donnerstag, Freitag => Touren Mo-Fr**
-        - **Voralberg** => Wie ist die **Zusammenarbeit mit ULBG** (Wie Isabel ? Wer 📗 Avisiert ?)
-        - **Helmuth** => Stellt Tour nach Kunden zusammen => Mail mit **Listen wie SC-Leiter** nur ohne **Stops**
-        - **Nachtrag wird nicht erstellt** = Oliver anrufen absprechen **Listen Rücksendung -> Übernehmen in Cargo - ERIK** 
         - **Import => Auftragsänderungen wie sichtbar ? => CS-JOB wird Orange**
         - **CS-JOB => Datei => Ladungs-Importe => Fenster mit allen Datensätzen die Importiert wurden** => **Links unten werden Reiter "Orange"** wo eine Änderung vorgekommen ist
         - **Alex sendet E-Mails an Helmuth mit Änderungen für Aufträge => Leitet mir Innsbruck weiter.**
@@ -85,7 +77,18 @@
 - **Riesige-Liste von 100 Artikeln** => Vorhanden => Kösung finden um Daten nachzureichen => Hali Vergleich / Bene fragen?
 - **Alex 💚** helfen sie brauchen jemadnen um das zu checken!
 
+## ULGB VORADLBERG IST ANDERS
+- **Voralberg** => Wie ist die **Zusammenarbeit mit ULBG** (Wie Isabel ? Wer 📗 Avisiert ?)
+- **Helmuth** => Stellt Tour nach Kunden zusammen => Mail mit **Listen wie SC-Leiter** nur ohne **Stops**
+- **Nachtrag wird nicht erstellt** = Oliver anrufen absprechen **Listen Rücksendung -> Übernehmen in Cargo - ERIK** 
+
 ## 🚛 Fuhpark & Personal
+- Innsbruck = Spedition_Kusztrich / Heinz nochmal klären
+        - Deutschland => Weiß, Nuri(Kameen) => Mit Silke klären 🛑
+        - Neudörfl = Spedition_Kusztrich / ÜBEX (Bei viel Auslastung)
+        - 5 WAB-LKW (WY-307AX, WY-308AX, WY-450AX, WY-659AN WY-741AT) alle Hänger möglich.
+        - Fahrzeuge: 7,5t (WY-742AT)
+        - Fahrzeuge: 3,5t Tonnen Sprinter (WY-871AW) ab KW 13. in Wiener Neudorf = SC Wiener Neudorf Keine Fahrzeuge für Neudörfel (Direkt)
 - haben eigenen LKW der 2 WAB laden kann
 - 8 Monteure wurden nach SC-Wiener Neustadt geben => 4 Monteure über bei NOS direkt
 - Sped_Kusztrich ist sehr zuverlässig laut NOS
