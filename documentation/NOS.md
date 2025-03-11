@@ -78,13 +78,11 @@
         - **Probieren über 30m³ Auftrag händisch zu teilen! und in 2020 eingeben!**
         - **Wird nach Auftragsnummer inkl. WAB-Nr. In 2020 übernommen.** 
 
-
 ## Tourenplan für SC-Leiter 💚
 - Rechtsclick => Archierte Dokuemente => Arivirte doks. des Auftrages => Doppelclick auf Datensatz => "Dok 1"
 - "F6" => Tourenplan => "Dok 2"
 - "Deckbaltt" => "Dok 3"
 - Sollte für SC-Leiter reichen => Aufpassen Preise sollten runter => (Arivirte Dokumente)
-    - 
     
     - 🚛 Fuhpark & Personal
         - haben eigenen LKW der 2 WAB laden kann
