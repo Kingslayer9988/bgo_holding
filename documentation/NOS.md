@@ -53,19 +53,39 @@
         - **Bei Kleinigkeiten => verschieben wir machmal die Produktion**
         - 🛑 Missing: **Spezielle NOS💚 Eigenheiten** die ich wissen sollte
         - 
-        - 🛑 Missing: **Mokledruck(Etiketten) wie viel Tage vor Produktion** == **Hali = 5 Tage vor Ausliefer_Datum**
-        - 
-        - 🛑 Missing: **🔫 Schnellschuss** ab wann ? Eigenheiten der **📦 Produktion** => Wie wird es gehandelt.
-        - 🛑 Missing: In **Cargo-Support** = **Prod_Datum == Bereitstell_Datum** => Wie geht das bei **NOS 💚 ??**
-        - 🛑 Missing: Sind **Auftragsnummern** gleich wie bei **Hersteller_H** => (Bsp.: 034=Internet / 04=Neutral etc.)
-        - 🛑 Wie sieht es mit **hinterlegen Montagezeiten/Volumen/Gewichte** aus ? => Gibt es einer **Fehler-Liste**?
-        - 🛑 Missing-Isabel: Innsbruck Anliefer-Tage/Anliefer-Uhrzeit NOS / Spedition = Kustrich ??
-        - 🛑 Missing-Isabel: Voralberg => Wie ist die **Zusammenarbeit mit ULBG** (Wie Isabel ? Wer 📗 Avisiert ?)
-        - 🛑 Missing-Isabel: Import => Auftragsänderungen wie sichtbar ? => CS-JOB wird Orange
-            - CS-JOB => Datei => Ladungs-Importe => Fenster mit allen Datensätzen die Importiert wurden => Links unten werden Reiter "Orange" wo eine Änderung vorgekommen ist
-        - 🛑 Missing-Isabel: **Aviso-Datum => auf 3h Zeit-Fenster setzten!** => Checken ob alles passt.
-        - 🛑🛑 2020 🛑🛑 => **Kann 2020 geteilte WAB-Aufträge übernehmen ? => Probieren über 30m³ Auftrag händisch zu teilen! und in 2020 eingeben!**
+        - **Mokledruck(Etiketten) wie viel Tage vor Produktion** == **Hali = 5 Tage vor Ausliefer_Datum**
+        - Irrelevant aufgrund => Produktion verlagt es nicht.
+        - **🔫 Schnellschuss** ab wann ? Eigenheiten der **📦 Produktion** => Wie wird es gehandelt.
+        - Bei **Reklas & Eilaufträge** => Aufpassen - Besprechen mit **Auftragsabwickling** => **Datum in CS beachten**
+        -  **Auftragsnummern** gleich wie bei **Hersteller_H** => (Bsp.: 034=Internet / 04=Neutral etc.)
+        - Sind komplett Unterscheidlich => Ersten 2 sind Geschäftstelle
+        - 15 = Innsbruck / 11 = Wien / 12 = Neudörfel / 13 = Linz / 14 SBZ / 16 KTN / 17 Graz / 18 Dornbirn / 43 DE / 45 Budapest / 47 Bratislava / 10 Werk / 23 Händler (Bene, Hali etc.)
+        - **hinterlegen Montagezeiten/Volumen/Gewichte** aus ? => Gibt es einer **Fehler-Liste**?
+        - **Alle nachrechnen** => **Montagezeiten vorallem bei Handelswaren (Zulieferant)**
+        - **Volumen** => **Handelswaren (Zulieferant) nicht hinterlegt** => **Liste starten**
+        - **Riesige-Liste von 100 Artikeln** => Vorhanden => Kösung finden um Daten nachzureichen => Hali Vergleich / Bene fragen ? => Alex helfen sie brauchen jemadnen um das zu checken! 
+        - Innsbruck Anliefer-Tage (WAB = 06:00 Uhr / Tour 08:00 Uhr)
+        - **Mo-Mi WAB's Anlieferung => Donnerstag, Freitag => Touren Mo-Fr**
+        - **Voralberg** => Wie ist die **Zusammenarbeit mit ULBG** (Wie Isabel ? Wer 📗 Avisiert ?)
+        - **Helmuth** => Stellt Tour nach Kunden zusammen => Mail mit **Listen wie SC-Leiter** nur ohne **Stops**
+        - **Nachtrag wird nicht erstellt** = Oliver anrufen absprechen **Listen Rücksendung -> Übernehmen in Cargo - ERIK** 
+        - **Import => Auftragsänderungen wie sichtbar ? => CS-JOB wird Orange**
+        - CS-JOB => Datei => Ladungs-Importe => Fenster mit allen Datensätzen die Importiert wurden => Links unten werden Reiter "Orange" wo eine Änderung vorgekommen ist
+        - => **Alex sendet E-Mails an Helmuth mit Änderungen für Aufträge => Leitet mir Innsbruck weiter.**
+        - **HEUTE TEST__ Aviso-Datum => auf 3h Zeit-Fenster setzten!** => Checken ob alles passt. ???
+        
+        - 🛑🛑 2020 🛑🛑 => **Kann 2020 geteilte WAB-Aufträge übernehmen ?**
+        - **Probieren über 30m³ Auftrag händisch zu teilen! und in 2020 eingeben!**
+        - **Wird nach Auftragsnummer inkl. WAB-Nr. In 2020 übernommen.** 
 
+
+## Tourenplan für SC-Leiter 💚
+- Rechtsclick => Archierte Dokuemente => Arivirte doks. des Auftrages => Doppelclick auf Datensatz => "Dok 1"
+- "F6" => Tourenplan => "Dok 2"
+- "Deckbaltt" => "Dok 3"
+- Sollte für SC-Leiter reichen => Aufpassen Preise sollten runter => (Arivirte Dokumente)
+    - 
+    
     - 🚛 Fuhpark & Personal
         - haben eigenen LKW der 2 WAB laden kann
         - 8 Monteure wurden nach SC-Wiener Neustadt geben => 4 Monteure über bei NOS direkt
