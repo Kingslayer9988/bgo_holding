@@ -64,8 +64,23 @@
 
 ## Aufträge und 2020 Stuff
 - **Auftragsnummern** gleich wie bei **Hersteller_H** => (Bsp.: 034=Internet / 04=Neutral etc.) = **Nummern komplett Unterscheidlich** => **Ersten 2 sind Geschäftstelle**
-- 15 = Innsbruck / 11 = Wien / 12 = Neudörfel / 13 = Linz / 14 SBZ / 16 KTN / 17 Graz /
-- 18 Dornbirn / 43 DE / 45 Budapest / 47 Bratislava / 10 Werk / 23 Händler (Bene, Hali etc.)
+
+| NUMMER | ORT |
+| --- | --- |
+| **15** | **Innsbruck** |
+| **11** | **Wien** |
+| **12** | **Neudörfel** |
+| **13** | **Linz** |
+| **14** | **Salzburg** |
+| **16** | **Kärnten** |
+| **17** | **Graz** |
+| **18** | **Dornbirn** |
+| **43** | **Deutschland** |
+| **45** | **Budapest** |
+| **47** | **Bratislava** |
+| **10** | **Werk** |
+| **23** | **Händler** |
+
 
 ## Vorproduktion
 - Im Regel bei **📅 Terminverschiebungen durch kunden wird Prod.**
