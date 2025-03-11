@@ -23,11 +23,6 @@
         - **Postversand => Do. in der KW (ALLE GEBIETE) => Alle in eine Tour!** => Prod = Montag
         - **↗️ 4 Rampen vorhanden die gleichzeit LKW beladen können (Neudörfel)**
         - **⚠️ Fixtermine** => **Alle zum einhalten**
-        - **Wandmonteure & Küchenmonteure** => **Beides in Neudörfl vorhanden**
-        - **Vorproduktion** und wie es gehandelt wird.
-        - Im Regel bei **📅 Terminverschiebungen durch kunden wird Prod.** trotzdem laut altem Datum durchgeführt & **Auf WAB verladen.** (Genug Container vorhanden)
-        - **Bei Kleinigkeiten => verschieben wir machmal die Produktion**
-        - **Mokledruck (Etiketten) => Irrelevant aufgrund => Produktion verlagt es nicht.
         - **🔫 Schnellschuss** ab wann ? Eigenheiten der **📦 Produktion** => **🔫 Schnellschuss NUR bei Reklas & Eilaufträge**
             - Besprechen mit **Auftragsabwickling** => **Datum in CS beachten**
         - **📅 INNSBRUCK Mo - Mi WAB's Anlieferung => Donnerstag, Freitag => Touren Mo-Fr**
@@ -35,6 +30,7 @@
         - **CS-JOB => Datei => Ladungs-Importe => Fenster mit allen Datensätzen die Importiert wurden** => **Links unten werden Reiter "Orange"** wo eine Änderung vorgekommen ist
         - **Alex sendet E-Mails an Helmuth mit Änderungen für Aufträge => Leitet mir Innsbruck weiter.**
         - **HEUTE TEST__ Aviso-Datum => auf 3h Zeit-Fenster setzten!** => Checken ob alles passt. ???
+        - **🛑 Mokledruck (Etiketten) => Irrelevant aufgrund => Produktion verlagt es nicht**
         - **🛑 Missing: Naming-Scheme für Touren/WAB's**
         - **🛑 Missing:** **Spezielle NOS💚 Eigenheiten** die ich wissen sollte
         - **🛑🛑 2020 🛑🛑** => **Kann 2020 geteilte WAB-Aufträge übernehmen ?**
@@ -61,16 +57,20 @@
 - **Riesige-Liste von 100 Artikeln** => Vorhanden => Kösung finden um Daten nachzureichen => Hali Vergleich / Bene fragen?
 - **Alex 💚** helfen sie brauchen jemadnen um das zu checken!
 
-## ULGB VORADLBERG IST ANDERS
+## ⛰️ Vorarlberg ist Anders
 - **Voralberg** => Wie ist die **Zusammenarbeit mit ULBG** (Wie Isabel ? Wer 📗 Avisiert ?)
 - **Helmuth** => Stellt Tour nach Kunden zusammen => Mail mit **Listen wie SC-Leiter** nur ohne **Stops**
 - **Nachtrag wird nicht erstellt** = Oliver anrufen absprechen **Listen Rücksendung -> Übernehmen in Cargo - ERIK** 
 
-
+## Aufträge und 2020 Stuff
 - **Auftragsnummern** gleich wie bei **Hersteller_H** => (Bsp.: 034=Internet / 04=Neutral etc.) = **Nummern komplett Unterscheidlich** => **Ersten 2 sind Geschäftstelle**
 - 15 = Innsbruck / 11 = Wien / 12 = Neudörfel / 13 = Linz / 14 SBZ / 16 KTN / 17 Graz /
 - 18 Dornbirn / 43 DE / 45 Budapest / 47 Bratislava / 10 Werk / 23 Händler (Bene, Hali etc.)
 
+## Vorproduktion
+- Im Regel bei **📅 Terminverschiebungen durch kunden wird Prod.**
+- trotzdem laut altem Datum durchgeführt & **Auf WAB verladen.** (Genug Container vorhanden)
+- **Bei Kleinigkeiten => verschieben wir machmal die Produktion**
 
 ## 🚛 Fuhpark & Personal
 - Innsbruck = Spedition_Kusztrich / Heinz nochmal klären
@@ -174,9 +174,12 @@
     * **SC Graz** => SC-Leiter => **Koeck M.  & Bader S.**
     * **❌ Kein Küchenmonteur aber gute Monteure (Außnahme) ✔️** 
 
-- **🇩🇪 Deutschland Gesamt {Partner=Relogg}** => **❓ Noch nicht sicher für mich** => (UNSURE ASK DENISA❓)
+- **🇩🇪 Deutschland Gesamt {Partner=Relogg}** => **❓ Noch nicht sicher für mich** => (UNSURE ASK DENISA❓ => Teams)
     * **(???) => probably  [DE]** = Zone in **Cargo-Support**
     * **Ähnlich wie Voradelberg (Relogg ~ ULGB) = 🚀 Untertouren & 📗 Avisieren**
+ 
+- **🛖 Neudörfel [BGLD] {Helmuth macht Alles}**
+    - **Wandmonteure & Küchenmonteure** => **Beides in Neudörfl vorhanden**
 
 > [!NOTE]
 > **SC = Service-Center 🏩**
