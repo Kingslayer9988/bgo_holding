@@ -51,7 +51,7 @@
         - 15 = Innsbruck / 11 = Wien / 12 = Neudörfel / 13 = Linz / 14 SBZ / 16 KTN / 17 Graz /
         - 18 Dornbirn / 43 DE / 45 Budapest / 47 Bratislava / 10 Werk / 23 Händler (Bene, Hali etc.)
         - **Innsbruck Anliefer-Tage** (WAB = 06:00 Uhr / Tour 08:00 Uhr)
-        - **Mo-Mi WAB's Anlieferung => Donnerstag, Freitag => Touren Mo-Fr**
+        - **📅 Mo - Mi WAB's Anlieferung => Donnerstag, Freitag => Touren Mo-Fr**
         - **Voralberg** => Wie ist die **Zusammenarbeit mit ULBG** (Wie Isabel ? Wer 📗 Avisiert ?)
         - **Helmuth** => Stellt Tour nach Kunden zusammen => Mail mit **Listen wie SC-Leiter** nur ohne **Stops**
         - **Nachtrag wird nicht erstellt** = Oliver anrufen absprechen **Listen Rücksendung -> Übernehmen in Cargo - ERIK** 
