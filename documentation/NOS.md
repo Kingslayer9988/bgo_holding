@@ -25,20 +25,18 @@
         - **📑 Frachtbriefe und Auslieferliste für SC-Leiter** => Helmut macht Listen mit **Ladelisten**
         - **Wöchtenlich** => Immer **Mittwoch for Folge_KW2** => Keine **Möglichkeit außer Tourenplan an Helmuth**
         - **Außer im 2020 gibt es eine Möglichkeit** 
+        
         - **🚛 Fuhrpark => Fahrzeuge und Speditionen pro Gebiet**
-        - Innsbruck = Spedition_Kusztrich / Heinz nochmal klären.
-        - Deutschland => Weiß, Nuri(Kameen) => Mit Silke klären. 🛑
-        - Neudörfl = Spedition_Kusztrich / ÜBEX (Bei viel Auslastung)
-        - Fahrzeuge: 3,5t Tonnen Sprinter (WY-871AW) ab KW 13. in Wiener Neudorf
-        - SC Wiener Neudorf =! Ab Neudörfel (Direkt)
-        - Fahrzeuge: 7,5t (WY-742AT)
-        - 5 WAB-LKW (WY-307AX, WY-308AX, WY-450AX, WY-659AN WY-741AT) alle Hänger möglich.
+            - Innsbruck = Spedition_Kusztrich / Heinz nochmal klären.
+            - Deutschland => Weiß, Nuri(Kameen) => Mit Silke klären. 🛑
+            - Neudörfl = Spedition_Kusztrich / ÜBEX (Bei viel Auslastung)
+            - 5 WAB-LKW (WY-307AX, WY-308AX, WY-450AX, WY-659AN WY-741AT) alle Hänger möglich.
+            - Fahrzeuge: 7,5t (WY-742AT)
+            - Fahrzeuge: 3,5t Tonnen Sprinter (WY-871AW) ab KW 13. in Wiener Neudorf = SC Wiener Neudorf Keine Fahrzeuge für Neudörfel (Direkt)
         - **Unterschiedliche Kalenderwochen für Gebiete** (NEIN)
-        - Tirol und Voralberg => Eher anfangs der Woche => Aber alle Wochen (Mo - Do)
-        - **Produktions_Export_Datum** und **[WOCHENTAG]**
-        - Nicht wichtig in diesem Fall. => Siehge oben
-        - **Postversand / DIREKT-Versand Termine pro Gebiete**
-        - **ALLE POST/DIREKT => IMMER DONNERSTAG in der KW (keine Fixtermine)**
+        - Tirol und Voralberg => Eher anfangs der Woche => Aber alle Wochen (Mo - Fr)
+        - **📦 Produktions_Export_Datum** und **[WOCHENTAG]** => Nicht vorhanden abarbeiten der Listen! ca. 4_Folge_KW's
+        - **Postversand / DIREKT-Versand Termine pro Gebiete** => Immer **DONNERSTAG in der KW** **(keine Fixtermine)**
         - **Prod.Datum => Mo. in der KW (ALLE GEBIETE) => Alle in eine Tour!**
         - **Rampe / Platz** für SC-Lager **pro Gebiete**
         - **4 Rampen können gleichzeit laden (Neudörfl)**
