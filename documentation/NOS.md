@@ -44,6 +44,10 @@
 - **Liefervorschläge Deckblätter** nach Touren sortiert.
 - **Deckblatt vonm Heinz == N=NUR Fahrer / J=MIT MONTEUR**
 - **Heinz-Fach => Alles nicht vermekrte Rückstände oder auf Plant SC-Leiter**
+- meistens **Dienstag & Mittwochs** => wird **Folge_KW_2** geschlossen!
+- Dann wird werden **Liefervorschläge** gedruckt.
+- Täglich um **ca. 11:00 Uhr werden Nachträge** gedruckt.
+-  
 
 ## ♻️ Import der Aufträge / Datensätze
 - **Alex sendet E-Mails an Helmuth mit Änderungen für Aufträge => Leitet mir Innsbruck weiter.**
@@ -53,7 +57,9 @@
 - Helmuth richtet **Lieferlisten zusammen mit Deckblatt** für Heinz
 - Gibt sie dann an Heinz weiter mit **wie vielen WAB's & WANN**
 - **Heinz** gibt nachträglich => **Durchführungs_Datum & Monteurname**
-- 
+- Liste wird von **Liefervorschägen** nach abgearbeitet.
+- Bei Multi-Split => Abkoffern => Zu Tour verbinden
+- **bis = Bereitstellungs_Datum  // bis(E) = 06:00 Uhr**
 
 ## Tourenplan für SC-Leiter 💚
 - **Rechtsclick** => **Archivierte Dokuemente** => **Archivierte Dokumente des Auftrages** => **Doppelclick auf Datensatz** => **Dokument_1**
@@ -74,10 +80,17 @@
 - **Riesige-Liste von 100 Artikeln** => Vorhanden => Kösung finden um Daten nachzureichen => Hali Vergleich / Bene fragen?
 - **Alex 💚** helfen sie brauchen jemadnen um das zu checken!
 
-## ⛰️ Vorarlberg ist Anders
+## ⛰️ Vorarlberg ist Anders (ULGB)
 - **Voralberg** => Wie ist die **Zusammenarbeit mit ULBG** (Wie Isabel ? Wer 📗 Avisiert ?)
 - **Helmuth** => Stellt Tour nach Kunden zusammen => Mail mit **Listen wie SC-Leiter** nur ohne **Stops**
-- **Nachtrag wird nicht erstellt** = Oliver anrufen absprechen **Listen Rücksendung -> Übernehmen in Cargo - ERIK** 
+- **Nachtrag wird nicht erstellt** = Oliver anrufen absprechen **Listen Rücksendung -> Übernehmen in Cargo - ERIK**
+
+## ⛵ Kärnten ist Anders (Riegler)
+- **Riegler** => **1:1** wie **ULGB**
+- **Verladereihenfolge** kommt zurück => Wird nicht im Cargo-Support nachgetragen!
+
+## **L&M Heinz schickt => Deckblatt, Liefervorschläge, Pläne** => L&M => Stops, Zeiten => kommen zurück und **wir Avisieren!**
+- 
 
 ## Aufträge und 2020 Stuff
 - **Auftragsnummern** = **Sind komplett Unterscheidlich** => **Ersten 2 sind Geschäftstelle**
