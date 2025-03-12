@@ -70,7 +70,7 @@
 
 ## Excel-Tourenplan Listen 💚
 - **Nussbaumer Heinz** macht **Excel-Listen** für **Innsbruck**
-- **Ich und Helmuth** machen den Rest
+- **Ich und Helmuth** machen den Rest => **Excel-Makro für Tourenplanliste von Helmuth**
 
 ## Situation mit hinterlegten Volumen/Gewicht/Montagezeit
 - Hinterlegten **Montagezeiten/Volumen/Gewichte** aus ?
