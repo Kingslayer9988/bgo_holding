@@ -109,6 +109,11 @@
 ## 🍳 L&M Küchennmontagen 
 - Heinz schickt => Deckblatt, Liefervorschläge, Pläne** => L&M => Stops, Zeiten => kommen zurück und **wir Avisieren!**
 
+| Kennzeichen | Fahrzeugklasse (3,5t/7,5t/LKW) | max. Volumen(m³) | max. Gewicht(kg) | Fahrzeug(Sprinter) |
+| --- | --- | --- | --- | --- |
+| **WY-742AT** | **7,5t** | **** | ~15m³ | ~1500kg | Iveco Eurocargo |
+
+
 ## Auftragsnummern => Ersten 2 Ziffern sind Geschäftstelle XX/XXXXXX/00/00
 | NUMMER | ORT |
 | --- | --- |
