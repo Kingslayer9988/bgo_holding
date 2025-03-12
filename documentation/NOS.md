@@ -78,11 +78,16 @@
 - **Excel-Makro für Tourenplan_Helmuth** => Zu **Tourenplan_BML**
 - **2020** => **Liefer-Vorschläge export as PDF's ??** => **Sortieren nach Gebieten (Zonen)** => **Auto. Mails** an Zuständigen!
 - Wie am besten **Sortiern:**
-    -   Als erstes wird nach **Prod_Datum** sortiert
+    -   Als erstes wird nach **Prod_Datum** sortiert => "KW"
     -   Gebiete => nach **PLZ** sortiert
     -   Filter nach **Gebiet (Zonen)**
     -   Auswahl der Tour nach **Volumen/Gewicht** => Tour anlegen und auf Liste vermerken.
     -   Senden **Alle** =>
+- **🔁 Beim Nachplanen:**
+    - POST / DIREKT Aufträge
+    - Filter nach KW bzw. Prod. Datum
+    - Achten auf: Montage-Aufträge mit wenig Gewicht, Blöde Lage => PLANT SC LEITER
+    - Aufträge können in Folge_KW verschieben => Muss keine Eingabe ins 202 erfolgen!
 
 ## Situation mit hinterlegten Volumen/Gewicht/Montagezeit
 - Hinterlegten **Montagezeiten/Volumen/Gewichte** aus ?
