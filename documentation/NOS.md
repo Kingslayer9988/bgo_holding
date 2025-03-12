@@ -27,7 +27,7 @@
 - **NOS Sprache: drucken => Einlastungs_Datum**
 - **🛑 Missing:** **HEUTE TEST__ Aviso-Datum => auf 3h Zeit-Fenster setzten!** => Checken ob alles passt ???
 
-## 📦 Einlastung der Produktion (Status 200)
+## 📦 Einlastung der Produktion (Status 200) => Liefervorschlag
 - **Auftrag Liefertermin & Prod_Einlastung**
 - **Einlastungs_Tag (Status 200) => max. -1T vor Liefertermin**
 - **Liefervorschläge werden anschließend Ausgedrückt => täglich bis max. 11:00Uhr**
@@ -39,6 +39,11 @@
 - **Tourenkonzept => Noch Platz / Etwas Platz (Vorhanden / DIREKT IN FARBE FEHLT)**
 - **Alex retuniert => Mails an Verkäufer.**
 - **Täglich immer vor 11:00 Uhr**
+- **Täglich anschließend dann druck der Ladelisten** => **Status Ändert sich nicht.**
+- **-1 Werkttag => Ausliefertag** => Heinz richtet **Ladelisten Tourenplan & Frachtbiefe**
+- **Liefervorschläge Deckblätter** nach Touren sortiert.
+- **N=NUR Fahrer / J=MIT MONTEUR**
+- **Heinz-Fach => Alles nicht vermekrte Rückstände oder auf Plant SC-Leiter**
 
 ## ♻️ Import der Aufträge / Datensätze
 - **Alex sendet E-Mails an Helmuth mit Änderungen für Aufträge => Leitet mir Innsbruck weiter.**
@@ -47,6 +52,7 @@
 ## Heinz Cargo-Support & Excel 
 - Helmuth richtet **Lieferlisten zusammen mit Deckblatt** für Heinz
 - Gibt sie dann an Heinz weiter mit **wie vielen WAB's & WANN**
+- 
 
 ## Tourenplan für SC-Leiter 💚
 - **Rechtsclick** => **Archivierte Dokuemente** => **Archivierte Dokumente des Auftrages** => **Doppelclick auf Datensatz** => **Dokument_1**
