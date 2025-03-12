@@ -111,7 +111,8 @@
 
 | Kennzeichen | Fahrzeugklasse (3,5t/7,5t/LKW) | max. Volumen(m³) | max. Gewicht(kg) | Fahrzeug(Sprinter) |
 | --- | --- | --- | --- | --- |
-| **WY-742AT** | **7,5t** | **** | ~15m³ | ~1500kg | Iveco Eurocargo |
+| **WY-742AT** | **7,5t** | ~15m³ | ~1500kg | Iveco Eurocargo |
+| **WY-871AW** | **3,5t** | X | ~300kg | Fiat Ducato |
 
 
 ## Auftragsnummern => Ersten 2 Ziffern sind Geschäftstelle XX/XXXXXX/00/00
