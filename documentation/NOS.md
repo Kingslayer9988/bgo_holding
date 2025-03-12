@@ -132,6 +132,14 @@
 | **10** | **Werk** |
 | **23** | **Händler** |
 
+## Personal Opinion and things that i saw:
+- 💡 Helmuth => This Guy is quite litterally the backbone of this whole company it seems.
+    - 💡 Super smart and very humble. Defenitly the best Dispatcher that I have ever seen working. (Who did they not send me also too this one?)
+    - 💡 People are a family there ofcourse sending someone that has no brain and 0 feel for people and tells them they are dumb is crazy.
+    - 💡 Whatever happens with this Company-hatered this guy always had a solution and always takes one for the Team.
+    - 💡 I think me and him can do great work together - He is better in his Job than everyone I saw in WY.
+    - 💡 He litterally plans Tours faster in his Head then i can do it with Software. How he is still happy is a wonder tho.
+
 ## Vorproduktion
 - Im Regel bei **📅 Terminverschiebungen durch kunden wird Prod.**
 - trotzdem laut altem Datum durchgeführt & **Auf WAB verladen.** (Genug Container vorhanden)
@@ -162,8 +170,8 @@
 - Excel Urlaubs-Liste von Isabel kopieren und nutzen
 - 📅 $Hersteller_KW if it exits
 
-- **🛑 Missing:** => **Kann 2020 geteilte WAB-Aufträge übernehmen ?**
-- **🛑 Missing:** **Probieren über 30m³ Auftrag händisch zu teilen! und in 2020 eingeben!** => **Wird nach Auftragsnummer inkl. WAB-Nr. In 2020 übernommen** => **2020 kann nicht mehr machen als aktuell möglich!**
+- **🛑 Not Tested but told not working:** => **Kann 2020 geteilte WAB-Aufträge übernehmen ?**
+
 - **Schiebendrein Helmuth** disponiert **Gebiete: Wien, OÖ, NÖ**
 - **Nussbaumer Heinz** disponiert **Gebiete: Rest von Helmuth**
 
