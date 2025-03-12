@@ -58,8 +58,10 @@
 - Gibt sie dann an Heinz weiter mit **wie vielen WAB's & WANN**
 - **Heinz** gibt nachträglich => **Durchführungs_Datum & Monteurname**
 - Liste wird von **Liefervorschägen** nach abgearbeitet.
-- Bei Multi-Split => Abkoffern => Zu Tour verbinden
+- Bei **Multi-Split => Abkoffern** => und **Checkmark: Zu Tour verbinden**
+- Immer **Abkoffern** => Button == **Useless**
 - **bis = Bereitstellungs_Datum  // bis(E) = 06:00 Uhr**
+- Bei **Multi-Split** ohne **Checkmark "zu Tour verbinden"** => 
 
 ## Tourenplan für SC-Leiter 💚
 - **Rechtsclick** => **Archivierte Dokuemente** => **Archivierte Dokumente des Auftrages** => **Doppelclick auf Datensatz** => **Dokument_1**
