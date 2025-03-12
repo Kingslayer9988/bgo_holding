@@ -137,7 +137,7 @@
     its a goddamn free for all ☠️☠️☠️ (ask people what this fat guy came screaming about and why?)
 - 💡 Helmuth => This Guy is quite litterally the backbone of this whole company it seems.
     - 💡 Super smart and very humble. Defenitly the best Dispatcher that I have ever seen working. (Who did they not send me also too this one?)
-    - 💡 People are a family there ofcourse sending someone that cant do half of them with 2x and tells them they are dumb is crazy.
+    - 💡 People are a family there ofcourse sending someone that cant do half of them with 2x 💵💵 and tells them they are dumb is crazy.
     - 💡 Whatever happens with this Company-hatered this guy always had a solution and always takes one for the Team.
     - 💡 I think me and him can do great work together - He is better in his Job than everyone I saw in WY.
     - 💡 He litterally plans Tours faster in his Head then i can do it with Software.
