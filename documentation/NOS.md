@@ -54,14 +54,18 @@
 - **Drucken** => **Einlastungs_Datum** festlegen im **2020** => **CS-Datensätze werden überspielt!**
 
 ## Heinz Cargo-Support & Excel
-- Helmuth richtet **Lieferlisten zusammen mit Deckblatt** für Heinz
-- Gibt sie dann an Heinz weiter mit **wie vielen WAB's & WANN**
-- **Heinz** gibt nachträglich => **Durchführungs_Datum & Monteurname**
+- H richtet **Lieferlisten zusammen mit Deckblatt**
+- **wie vielen WAB's & WANN**
 - Liste wird von **Liefervorschägen** nach abgearbeitet.
+
 - Bei **Multi-Split => Abkoffern** => und **Checkmark: Zu Tour verbinden**
-- Immer **Abkoffern** => Button == **Useless**
+- Immer **Abkoffern** => Button = **Useless** => Helmuth got it from far
 - **bis = Bereitstellungs_Datum  // bis(E) = 06:00 Uhr**
-- Bei **Multi-Split** ohne **Checkmark "zu Tour verbinden"** => 
+- Bei **Multi-Split** ohne **Checkmark "zu Tour verbinden"** => **Useless**
+    - Heinz just teached me Cargo-Support
+
+
+- Bei Plant_SC_Leiter Touren gibt **Heinz** nachträglich => **Durchführungs_Datum & Monteurname** ein.
 
 ## Tourenplan für SC-Leiter 💚
 - **Rechtsclick** => **Archivierte Dokuemente** => **Archivierte Dokumente des Auftrages** => **Doppelclick auf Datensatz** => **Dokument_1**
@@ -69,10 +73,6 @@
 - **F6** => **Tourenplan** => **Dokument_2**
 - **Deckbaltt** => **Dokument_3**
 - **Sollte für SC-Leiter reichen => Aufpassen Preise sollten runter => (Archivierte Dokumente)**
-
-## Excel-Tourenplan Listen 💚
-- **Nussbaumer Heinz** macht **Excel-Listen** für **Innsbruck**
-- **Ich und Helmuth** machen den Rest => **Excel-Makro für Tourenplanliste von Helmuth**
 
 ## Fixing 💚
 - **Excel-Makro für Tourenplan_Helmuth** => Zu **Tourenplan_BML**
@@ -147,6 +147,7 @@
 - People dont think they are wizards there because they can press buttons. (ps: I saw the fastest typing lady in history of my life)
 
 - Good and Simple solutions got found in 2 days. There will be no Papers in WY and if I can take enogh Cargo-Zones Helmuth can go enjoy life.
+    - Even if relations where so godamn pre-spoild you can also send a jew to a kkk party
 
 - 💡 Helmuth => This Guy is quite litterally the backbone of this whole company it seems.
     - 💡 Super smart and very humble and good humor. No bullshit type of guy.
