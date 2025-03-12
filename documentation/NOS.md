@@ -23,7 +23,7 @@
 - **🔫 Schnellschuss** ab wann ? Eigenheiten der **📦 Produktion** => **🔫 Schnellschuss NUR bei Reklas & Eilaufträge**
     - Besprechen mit **Auftragsabwickling** => **Datum in CS beachten**
 - **Mokledruck (Etiketten) => Irrelevant aufgrund => Produktion verlagt es nicht**
-- **🛑 Missing:** **HEUTE TEST__ Aviso-Datum => auf 3h Zeit-Fenster setzten!** => Checken ob alles passt ???
+- **🛑 Missing:** **HEUTE TEST__ Aviso-Datum => auf 3h Zeit-Fenster setzten!** => **MÖGLICH**
 
 ## 📦 Einlastung der Produktion (Status 200) => Liefervorschlag
 - **Auftrag Liefertermin & Prod_Einlastung**
