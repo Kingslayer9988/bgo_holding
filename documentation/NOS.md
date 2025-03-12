@@ -47,7 +47,6 @@
 - meistens **Dienstag & Mittwochs** => wird **Folge_KW_2** geschlossen!
 - Dann wird werden **Liefervorschläge** gedruckt.
 - Täglich um **ca. 11:00 Uhr werden Nachträge** gedruckt.
--  
 
 ## ♻️ Import der Aufträge / Datensätze
 - **Alex sendet E-Mails an Helmuth mit Änderungen für Aufträge => Leitet mir Innsbruck weiter.**
@@ -73,6 +72,10 @@
 ## Excel-Tourenplan Listen 💚
 - **Nussbaumer Heinz** macht **Excel-Listen** für **Innsbruck**
 - **Ich und Helmuth** machen den Rest => **Excel-Makro für Tourenplanliste von Helmuth**
+
+## Fixing 💚
+- **Excel-Makro für Tourenplan_Helmuth** => Zu **Tourenplan_BML**
+- **2020** => **Liefer-Vorschläge export as PDF's ??** => **Sortieren nach Gebieten (Zonen)** => **Auto. Mails** an Zuständigen!
 
 ## Situation mit hinterlegten Volumen/Gewicht/Montagezeit
 - Hinterlegten **Montagezeiten/Volumen/Gewichte** aus ?
