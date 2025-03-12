@@ -94,10 +94,10 @@
 - **Riegler** => **1:1** wie **ULGB**
 - **Verladereihenfolge** kommt zurück => Wird nicht im Cargo-Support nachgetragen!
 
-## **L&M Heinz schickt => Deckblatt, Liefervorschläge, Pläne** => L&M => Stops, Zeiten => kommen zurück und **wir Avisieren!**
-- 
+## 🍳 L&M Küchennmontagen 
+- Heinz schickt => Deckblatt, Liefervorschläge, Pläne** => L&M => Stops, Zeiten => kommen zurück und **wir Avisieren!**
 
-## Auftragsnummern = sind komplett unterscheidlich zum Hersteller_H => **Ersten 2 sind Geschäftstelle**
+## Auftragsnummern => Ersten 2 Ziffern sind Geschäftstelle XX/XXXXXX/00/00
 | NUMMER | ORT |
 | --- | --- |
 | **15** | **Innsbruck** |
