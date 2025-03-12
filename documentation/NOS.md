@@ -44,6 +44,10 @@
 - **Alex sendet E-Mails an Helmuth mit Änderungen für Aufträge => Leitet mir Innsbruck weiter.**
 - **CS-JOB => Datei => Ladungs-Importe => Fenster mit allen Datensätzen die Importiert wurden** => **Links unten werden Reiter "Orange"** wo eine Änderung vorgekommen ist
 
+## Heinz Cargo-Support & Excel 
+- Helmuth richtet **Lieferlisten zusammen mit Deckblatt** für Heinz
+- Gibt sie dann an Heinz weiter mit **wie vielen WAB's & WANN**
+
 ## Tourenplan für SC-Leiter 💚
 - **Rechtsclick** => **Archivierte Dokuemente** => **Archivierte Dokumente des Auftrages** => **Doppelclick auf Datensatz** => **Dokument_1**
 - Mehrfachdruck testen ??? - Möglich ?
