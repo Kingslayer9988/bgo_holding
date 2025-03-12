@@ -42,7 +42,7 @@
 - **Täglich anschließend dann druck der Ladelisten** => **Status Ändert sich nicht.**
 - **-1 Werkttag => Ausliefertag** => Heinz richtet **Ladelisten Tourenplan & Frachtbiefe**
 - **Liefervorschläge Deckblätter** nach Touren sortiert.
-- **N=NUR Fahrer / J=MIT MONTEUR**
+- **Deckblatt vonm Heinz == N=NUR Fahrer / J=MIT MONTEUR**
 - **Heinz-Fach => Alles nicht vermekrte Rückstände oder auf Plant SC-Leiter**
 
 ## ♻️ Import der Aufträge / Datensätze
@@ -52,6 +52,7 @@
 ## Heinz Cargo-Support & Excel 
 - Helmuth richtet **Lieferlisten zusammen mit Deckblatt** für Heinz
 - Gibt sie dann an Heinz weiter mit **wie vielen WAB's & WANN**
+- **Heinz** gibt nachträglich => **Durchführungs_Datum & Monteurname**
 - 
 
 ## Tourenplan für SC-Leiter 💚
