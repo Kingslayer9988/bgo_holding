@@ -97,8 +97,7 @@
 ## **L&M Heinz schickt => Deckblatt, Liefervorschläge, Pläne** => L&M => Stops, Zeiten => kommen zurück und **wir Avisieren!**
 - 
 
-## Aufträge und 2020 Stuff
-- **Auftragsnummern** = **Sind komplett Unterscheidlich** => **Ersten 2 sind Geschäftstelle**
+## Auftragsnummern = sind komplett unterscheidlich zum Hersteller_H => **Ersten 2 sind Geschäftstelle**
 | NUMMER | ORT |
 | --- | --- |
 | **15** | **Innsbruck** |
