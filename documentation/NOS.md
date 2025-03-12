@@ -24,9 +24,10 @@
     - Besprechen mit **Auftragsabwickling** => **Datum in CS beachten**
 - **Mokledruck (Etiketten) => Irrelevant aufgrund => Produktion verlagt es nicht**
 - **🛑 Missing:** **Spezielle NOS💚 Eigenheiten** die ich wissen sollte
+- **NOS Sprache: drucken => Einlastungs_Datum**
 - **🛑 Missing:** **HEUTE TEST__ Aviso-Datum => auf 3h Zeit-Fenster setzten!** => Checken ob alles passt ???
 
-## 📦 Einlastung der Produktion **Status 200**
+## 📦 Einlastung der Produktion (Status 200)
 - **Auftrag Liefertermin & Prod_Einlastung**
 - **Einlastungs_Tag (Status 200) => max. -1T vor Liefertermin**
 - **Liefervorschläge werden anschließend Ausgedrückt => täglich bis max. 11:00Uhr**
@@ -34,7 +35,6 @@
 - **Rückstände werden von Alex notiert.**
 - **Vergleich von Helmuts Liste & Kapazitätreports => Entschung für neues Einlastungdatum**
 - **Reklas wird nach Dispo gerichtet.**
-- **NOS Sprache: drucken => Einlastungs_Datum**
 - **2020 gibt selbe Auftragsbestätigung wie Cargo-Support** => **Nachbessern im System => Falscheingabe des Verkäfers.**
 - **Tourenkonzept => Noch Platz / Etwas Platz (Vorhanden / DIREKT IN FARBE FEHLT)**
 - **Alex retuniert => Mails an Verkäufer.**
