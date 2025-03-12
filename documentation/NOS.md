@@ -23,8 +23,6 @@
 - **🔫 Schnellschuss** ab wann ? Eigenheiten der **📦 Produktion** => **🔫 Schnellschuss NUR bei Reklas & Eilaufträge**
     - Besprechen mit **Auftragsabwickling** => **Datum in CS beachten**
 - **Mokledruck (Etiketten) => Irrelevant aufgrund => Produktion verlagt es nicht**
-- **🛑 Missing:** **Spezielle NOS💚 Eigenheiten** die ich wissen sollte
-- **NOS Sprache: drucken => Einlastungs_Datum**
 - **🛑 Missing:** **HEUTE TEST__ Aviso-Datum => auf 3h Zeit-Fenster setzten!** => Checken ob alles passt ???
 
 ## 📦 Einlastung der Produktion (Status 200) => Liefervorschlag
@@ -52,7 +50,10 @@
 - **Alex sendet E-Mails an Helmuth mit Änderungen für Aufträge => Leitet mir Innsbruck weiter.**
 - **CS-JOB => Datei => Ladungs-Importe => Fenster mit allen Datensätzen die Importiert wurden** => **Links unten werden Reiter "Orange"** wo eine Änderung vorgekommen ist
 
-## Heinz Cargo-Support & Excel 
+## Spezielle NOS 💚 Eigenheiten die ich wissen sollte
+- **Drucken** => **Einlastungs_Datum** festlegen im **2020** => **CS-Datensätze werden überspielt!**
+
+## Heinz Cargo-Support & Excel
 - Helmuth richtet **Lieferlisten zusammen mit Deckblatt** für Heinz
 - Gibt sie dann an Heinz weiter mit **wie vielen WAB's & WANN**
 - **Heinz** gibt nachträglich => **Durchführungs_Datum & Monteurname**
@@ -76,6 +77,8 @@
 ## Fixing 💚
 - **Excel-Makro für Tourenplan_Helmuth** => Zu **Tourenplan_BML**
 - **2020** => **Liefer-Vorschläge export as PDF's ??** => **Sortieren nach Gebieten (Zonen)** => **Auto. Mails** an Zuständigen!
+- Wie am besten **Sortiern:**
+    -     
 
 ## Situation mit hinterlegten Volumen/Gewicht/Montagezeit
 - Hinterlegten **Montagezeiten/Volumen/Gewichte** aus ?
