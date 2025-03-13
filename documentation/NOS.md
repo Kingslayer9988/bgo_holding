@@ -46,11 +46,11 @@
 - Dann wird werden **Liefervorschläge** gedruckt.
 - Täglich um **ca. 11:00 Uhr werden Nachträge** gedruckt.
 
-## Interner-WAB-Nummern-Kreis & Schema
-- WAB-Nummer = OO_W_AA
-- OO = ORTSKENNZAHL (Siehe Auftragsnummern-Tabelle)
-- W = WOCHENTAG = 1-5 = Mo-Fr
-- AA = ANZAHL DER CONT PRO TAG 01 - 99
+## 🛢️ Interner-WAB-Nummern-Kreis & Schema
+- **WAB-Nummer = OO_W_AA**
+- **OO** = **ORTSKENNZAHL** [Siehe Auftragsnummern-Tabelle]()
+- **W** = **WOCHENTAG = 1-5 = Mo-Fr**
+- **AA** = ANZAHL DER CONT PRO TAG 01 - 99
 - Beispiele:
     - 1. WAB Innsbruck Montags = 15_1_01
     - 2. WAB Innsbruck Montags = 15_1_02
@@ -66,7 +66,6 @@
     - 1. WAB Graz Mittwochs = 17_3_01
     - 1. WAB Graz Donnerstags = 17_4_01
     - 1. WAB Graz Freitags = 17_5_01
-
 
 ## ♻️ Import der Aufträge / Datensätze
 - **Alex sendet E-Mails an Helmuth mit Änderungen für Aufträge => Leitet mir Innsbruck weiter.**
