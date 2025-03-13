@@ -31,15 +31,14 @@
 - **Einlastungs_Tag (Status 200) => max. -1T vor Liefertermin**
 - **Liefervorschläge werden anschließend Ausgedrückt => täglich bis max. 11:00Uhr**
 - **Reklas kommen rein => System schlägt nächstmöglich vor => händisch vorgerückt**
-- **Rückstände werden von Alex notiert.**
+- **Rückstände werden von Alex notiert. = Keine Möglichkeit im 2020**
 - **Vergleich von Helmuts Liste & Kapazitätreports => Entschung für neues Einlastungdatum**
 - **Reklas wird nach Dispo gerichtet.**
 - **2020 gibt selbe Auftragsbestätigung wie Cargo-Support** => **Nachbessern im System => Falscheingabe des Verkäfers.**
-- **Tourenkonzept => Noch Platz / Etwas Platz (Vorhanden / DIREKT IN FARBE FEHLT)**
 - **Alex retuniert => Mails an Verkäufer.**
-- **Täglich immer vor 11:00 Uhr**
+- **Täglich immer bis spät. 11:00 Uhr**
 - **Täglich anschließend dann druck der Ladelisten** => **Status Ändert sich nicht.**
-- **-1 Werkttag => Ausliefertag** => Heinz richtet **Ladelisten Tourenplan & Frachtbiefe**
+
 - **Liefervorschläge Deckblätter** nach Touren sortiert.
 - **Deckblatt vonm Heinz == N=NUR Fahrer / J=MIT MONTEUR**
 - **Heinz-Fach => Alles nicht vermekrte Rückstände oder auf Plant SC-Leiter**
@@ -72,6 +71,7 @@
 - H richtet **Lieferlisten zusammen mit Deckblatt**
 - **wie vielen WAB's & WANN**
 - Liste wird von **Liefervorschägen** nach abgearbeitet.
+- **-1 Werkttag vor Ausliefertag** => Heinz richtet **Ladelisten Tourenplan & Frachtbiefe** für Monteure
 
 - Bei **Multi-Split => Abkoffern** => und **Checkmark: Zu Tour verbinden**
 - Immer **Abkoffern** => Button = **Useless** => Helmuth got it from far
