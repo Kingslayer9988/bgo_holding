@@ -60,6 +60,18 @@
     - WAB(1) Graz Donnerstags = **17_4_01**
     - WAB(1) Graz Freitags = **17_5_01**
 
+## 🚚 Transportbestellung
+- Macht aktuell immer Helmuth => Im Team abklären wie es weitergeht
+- Vorlage:
+````
+Sehr geehrte Damen und Herren! [Oder Persöhnliche Anrede]
+
+Abholung von [$WAB_ANZAHL] WAB am [$DATUM_ABH] ab [$UHRZEIT_ABH] Uhr ([$LADELISTE] + [$LADELISTE] + [$LADELISTE])
+Zustellung am [$DATUM_ZUS] um [$UHRZEIT_ZUS] Uhr an [$KUNDENNAME] [$KUNDENADRESSE]
+
+Danke im Voraus.
+````
+
 ## ♻️ Import der Aufträge / Datensätze
 - **Alex sendet E-Mails an Helmuth mit Änderungen für Aufträge => Leitet mir Innsbruck weiter.**
 - **CS-JOB => Datei => Ladungs-Importe => Fenster mit allen Datensätzen die Importiert wurden** => **Links unten werden Reiter "Orange"** wo eine Änderung vorgekommen ist
