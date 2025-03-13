@@ -138,25 +138,21 @@
   
 - NOS-People (Logistics-Office) are way nicer and more accepting of me (surley still enogh weirdness)
 
+- People their seem not lazy but rather overworked = (Logistics-Office)
+  
 - Will actually listen to what i have to say if Helmuth/Alex approves.
-
-- leadership seems fucked up mister m seems not very grounded maybe cocaine-cowboy type of guy.
-
-- People their seem not lazy but rather overworked = logistics office
 
 - People dont think they are wizards there because they can press buttons. (ps: I saw the fastest typing lady in history of my life)
 
-- Good and Simple solutions got found in 2 days. There will be no Papers in WY and if I can take enogh Cargo-Zones Helmuth can go enjoy life.
-    - Even if relations where so godamn pre-spoild you can also send a jew to a kkk party
+- Good and Simple solutions got found in 2 days. There will be no Papers in WY and if I can take enogh Cargo-Zones Helmuth can go enjoy life
 
 - 💡 Helmuth => This Guy is quite litterally the backbone of this whole company it seems.
     - 💡 Super smart and very humble and good humor. No bullshit type of guy.
-    - 💡 Defenitly the highest useful Disatcher++ that I have ever seen working. (Why did they not send me also too this one to learn)
-    - 💡 People are a family there ofcourse sending someone that cant do half of them with 2x💵 and tells them they are doing things wrong is crazy.
+    - 💡 Defenitly the highest useful Disatcher++ that I have ever seen working.
+    - 💡 Someone that cant do half of them with 2x💵 and tells them they are doing things wrong is crazy.
     - 💡 He will litterally do 3 or more Jobs just to see someone he wants to help happy.
     - 💡 I think me and him can do great work together - What he can I cant and I can try make his tech problems easier.
     - 💡 still ~10y till pension without him it cant work with him it can - Everybody underestimates what he does drastically
-    - 💡 Does it the old way but gets ~ 800% of the work done with like 120% of the workhours of someone else (This are numbers that are estimated even low)
     - 💡 The 2nd Guy i meet in this Company that is not entiteld for some random ass reason that has nothing to do with real life.
 
 ## Vorproduktion
