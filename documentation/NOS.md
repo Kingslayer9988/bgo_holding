@@ -187,28 +187,23 @@ Danke im Voraus.
 
 ## 🚛 Fuhpark & Personal
 - Innsbruck = Spedition_Kusztrich / Heinz nochmal klären
-        - Deutschland => Weiß, Nuri(Kameen) => Mit Silke klären 🛑
-        - Neudörfl = Spedition_Kusztrich / ÜBEX (Bei viel Auslastung)
-        - 5 WAB-LKW (WY-307AX, WY-308AX, WY-450AX, WY-659AN WY-741AT) alle Hänger möglich.
-        - Fahrzeuge: 7,5t (WY-742AT)
-        - Fahrzeuge: 3,5t Tonnen Sprinter (WY-871AW) ab KW 13. in Wiener Neudorf = SC Wiener Neudorf Keine Fahrzeuge für Neudörfel (Direkt)
+    - Deutschland => Weiß, Nuri(Kameen) => Mit Silke klären 🛑
+    - Neudörfl = Spedition_Kusztrich / ÜBEX (Bei viel Auslastung)
+    - 5 WAB-LKW (WY-307AX, WY-308AX, WY-450AX, WY-659AN WY-741AT) alle Hänger möglich.
+    - Fahrzeuge: 7,5t (WY-742AT)
+    - Fahrzeuge: 3,5t Tonnen Sprinter (WY-871AW) ab KW 13. in Wiener Neudorf = SC Wiener Neudorf Keine Fahrzeuge für Neudörfel (Direkt)
 - haben eigenen LKW der 2 WAB laden kann
 - 8 Monteure wurden nach SC-Wiener Neustadt geben => 4 Monteure über bei NOS direkt
 - Sped_Kusztrich ist sehr zuverlässig laut NOS
 - NOS Info in Cargo-Support fast nie 30m³ auf einem WAB => Mehr 20 - 25 m³
 - Oft wird Produkion während des einräumen des WAB's fertiggstellet => Aber nicht in der richtigen Reihenfolge = Wird dann für den falschen Stopp verladen
-- 🔨 Alex glättet Produktion => Ist hier alles ok ?
-- 📑 Alex hat Kapazitätsreport von 2020 => Bekommt Helmuth täglich => Wichtige Infos für mich
+- 🔨 Alex glättet Produktion
+- 📑 Alex hat Kapazitätsreport von 2020 => Bekommt Helmuth täglich
 - 📅 Team-Gespräch sollte eigeführt werden mind. 1x die Woche
-- Deutschland hat NOS 💚 nur 10-15 m³ pro Woche => Lösung muss her manchmal Touren nach Hamburg/Berlin mit 2-5 Tischen etc.
-    - Lösung wie bei $Hersteller_B => Ware nach Eferding ?
+- Deutschland hat NOS 💚 nur 10-15 m³ pro Woche => Lösung muss her
 - Export gibt es bei NOS nicht viel manchmal Bratislava, Budapest und (Slovenien => macht Riegler Klagenfurt)
-- 💡 Excel-Listen mit Helmuth und Heinz müssen eingeführt werden => Teams & Excel vorbereiten (Screenshot von Isabel)
+- 💡 Excel-Listen mit Helmuth und Heinz müssen eingeführt werden => Teams & Excel vorbereiten => ALMOST DONE
 - 💡 PDF-Parser und Crap-Scripts für automation seems very powerful at NOS
-- 📛 Extras
-    - Schieben von Positionen/Aufträgen ist in 2020 unmöglich => Das heißt jede TV etc. wird neuer Auftrag (Schieben = Keine Regeln) == Alte Ladeliste (Auftrag) kann nicht verändert werde
-- Excel Urlaubs-Liste von Isabel kopieren und nutzen
-- 📅 $Hersteller_KW if it exits
 
 ## 17.03.2025 Start Erik: Innsbruck in Cargo-Support => Abgabewoche ist die KW_15 => Heinz als SC-Leiter
 
