@@ -2,7 +2,7 @@ Random Questions 💭
 
 I dont know what exactly human resourcement is for but this sound like it should be Nr1 Priority.
 
-If my Wage is coming from 3 Guys and 1 of them is doing bad how am I now happy and not sad ?
+If my Imcome is coming from 3 Companies and 1 of them is doing bad how am I now happy and not sad ?
 
 Am I really a better human being if my Hersteller makes better chairs than another Hersteller ?
 
