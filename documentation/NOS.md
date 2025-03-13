@@ -24,6 +24,7 @@
     - Besprechen mit **Auftragsabwickling** => **Datum in CS beachten**
 - **Mokledruck (Etiketten) => Irrelevant aufgrund => Produktion verlagt es nicht**
 - **📗 Aviso-Datum => auf 3h Zeit-Fenster setzten!** => **MÖGLICH** => Siehe **Test-Mail**
+- **🛑 Not Tested but told not working:** => **Kann 2020 geteilte WAB-Aufträge übernehmen ?**
 
 ## 📦 Einlastung der Produktion (Status 200) => Liefervorschlag
 - **Auftrag Liefertermin & Prod_Einlastung**
@@ -197,55 +198,10 @@
 - Excel Urlaubs-Liste von Isabel kopieren und nutzen
 - 📅 $Hersteller_KW if it exits
 
-- **🛑 Not Tested but told not working:** => **Kann 2020 geteilte WAB-Aufträge übernehmen ?**
-
-- **Schiebendrein Helmuth** disponiert **Gebiete: Wien, OÖ, NÖ**
-- **Nussbaumer Heinz** disponiert **Gebiete: Rest von Helmuth**
-
 ## 17.03.2025 Start Erik: Innsbruck in Cargo-Support => Abgabewoche ist die KW_15 => Heinz als SC-Leiter
-
-## Chronologischer Ablauf (Will Still have Mistakes - Aktuell für $Hersteller_N)
-
-- **📅 Montag:**
-    - ⌛ **Daily Quests**
-    * ▶️ **Starten der Planung von mindestens $Folge_KW_4** => Bsp.: **Montag_KW_08 für KW_12** => **[Guide](https://github.com/Kingslayer9988/bgo_holding/blob/main/documentation/Profi-Tour.md#-guide-für-das-erstellen-von-wab-touren--direktpost)** 
-    * 🔨 **Feinplanung für Abgabe_KW => Glätten?**
-    * 🚚 **Transportbestellung** => Für **$Folge_KW_02** (Bsp: **Freitag_KW_08 für KW_10**) => **[Guide](https://github.com/Kingslayer9988/bgo_holding/blob/main/documentation/Profi-Tour.md#-guide-für-die-transportbestellung)**
-- **📅 Dienstag:**
-    - ⌛ **Daily Quests**
-    - **Vertragepersonal bestellen** => Nicht unsere Arbeit eigentlich 
-- **📅 Mittwoch:**
-    - ⌛ **Daily Quests**
-    * 📑 **Auslieferlisten für SC-Leiter** => Für **$Folge_KW_01** -> Bsp.: **Montag_KW_08 für KW_09** => **[Guide](https://github.com/Kingslayer9988/bgo_holding/blob/main/documentation/Profi-Tour.md#-guide-für-auslieferlisten)**
-- **📅 Donnerstag:**
-    - ⌛ **Daily Quests**
-    * **📙 Vorraus Avisieren (Vor-Avisieren)** wird für alle gemacht **[Guide](https://github.com/Kingslayer9988/bgo_holding/blob/main/documentation/Profi-Tour.md#-vorraus-avisieren-vor-avisieren)**
-    * **📗 Avisieren mindestens $Folge_KW_4**=> Bsp.: **Dienstag_KW08 für KW_12** => **[Guide](https://github.com/Kingslayer9988/bgo_holding/blob/main/documentation/Profi-Tour.md#-avisieren)**
-- **📅 Freitag:**
-    - ⌛ **Daily Quests** 
-    * 📑 **FEHLT AKTUELL Auslieferliste für Hersteller** => Für **$Folge_KW_01** (Bsp: **Freitag_KW_08 für KW_09**) => **[Guide](https://github.com/Kingslayer9988/bgo_holding/blob/main/documentation/Profi-Tour.md#-guide-für-auslieferlisten)**
-    * 🔨 **MONTAGS ?? Möglicherweise Glättung der Produktion** => Für **Abgabe_KW** der **Produktion** (Bsp.: **Freitag_KW_08 für KW_12**) => **[Guide](https://github.com/Kingslayer9988/bgo_holding/blob/main/documentation/Profi-Tour.md#-guide-für-die-glättung-der-produktion)**
-
-- **⌛ Daily Quests:**
-    - ♻️ Bei jedem Import von Hersteller_H **06:30 & 14:00 Täglich** (Hr. Roither für Probleme)
-        - 🔄 **Nachplanen** => **Alle neuen Aufträge** wieder verplanen für **$Folge_KW_1 & $Folge_KW_2 & $Folge_KW_3 & $Folge_KW_4** => **[Guide](https://github.com/Kingslayer9988/bgo_holding/blob/main/documentation/Profi-Tour.md#-nachplanen)**
-        - 🔶 Ausnahme **Freitags 14:00: Nur DIREKT/POST** Lieferungen verplanen **(Runde der Mitarbeiter)** 
-    - 📺 **TV's** machen die Anfallen! => **[Guide](https://github.com/Kingslayer9988/bgo_holding/blob/main/documentation/Profi-Tour.md#-guide-für-tv-tv--termin-Verspätung)**
-
-- **Konflikte** mit **BGO & SC-Leiter**
-    - Wer ruft Kunden bei welchen Problem an ? 💀
-    - Abschieben auf $Hersteller & $SC-Leiter ==> **und Umgekehrt!**  💀
-    - **WHO THE FUCK IS TO BLAME AND FOR WHAT 💀**
-    - **Keine Verantwortung übernehmen :question: => Alles Problem von Hersteller** :question:
-    - Maybe ask all the Colleges ?
 
 - **Cargo Support NOS💚-Style**
 - **Akutelle Aufgabe** nur **Touren** in **Cargo-Support zusammenstellen & 📗 Avisieren & 🔄 Nachplanen**
-    - Litterally look on the Sheet of Paper => Check AB-Number and Search in CS => Checkmark ✅
-    - Literally look at Sheet of Paper (Selfwritten) => Check Tour-Number and Search in CS => Checkmark ✅
-    - Litterally make rightclick => Combine Tours => 📺 TV done
-    - They say they have a bug where $Fahrzeug => Overwrites $Spediton => Not true i think
-    - Ablauf: Cargo Tour planen (Teilweise mit Virt-Tour & Teils Ohne) => Ladelisten zusammenstellen => Verladung weitergeben => Ladelisten an SC-Leiter
 
 ## 🌍 Gebiete Erik - Hersteller NOS 💚
 - **⛰️ Voradelberg - [VBG] - (SC Dornbirn) - {Partner=ULGB} +  Deutschland Süden (PLZ 8XXXX) [DE] + Liechtenstein [FL] + Schweiz [CH]**
