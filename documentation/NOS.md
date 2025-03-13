@@ -46,6 +46,28 @@
 - Dann wird werden **Liefervorschläge** gedruckt.
 - Täglich um **ca. 11:00 Uhr werden Nachträge** gedruckt.
 
+## Interner-WAB-Nummern-Kreis & Schema
+- WAB-Nummer = OO_W_AA
+- OO = ORTSKENNZAHL (Siehe Auftragsnummern-Tabelle)
+- W = WOCHENTAG = 1-5 = Mo-Fr
+- AA = ANZAHL DER CONT PRO TAG 01 - 99
+- Beispiele:
+    - 1. WAB Innsbruck Montags = 15_1_01
+    - 2. WAB Innsbruck Montags = 15_1_02
+    - 3. WAB Innsbruck Montags = 15_1_03
+    - 1. WAB Innsbruck Dienstags = 15_2_01
+    - 1. WAB Innsbruck Mittwochs = 15_3_01
+    - 1. WAB Innsbruck Donnerstags = 15_4_01
+    - 1. WAB Innsbruck Freitags = 15_5_01
+    - 1. WAB Graz Montags = 17_1_01
+    - 2. WAB Graz Montags = 17_1_02
+    - 3. WAB Graz Montags = 17_1_03
+    - 1. WAB Graz Dienstags = 17_2_01
+    - 1. WAB Graz Mittwochs = 17_3_01
+    - 1. WAB Graz Donnerstags = 17_4_01
+    - 1. WAB Graz Freitags = 17_5_01
+
+
 ## ♻️ Import der Aufträge / Datensätze
 - **Alex sendet E-Mails an Helmuth mit Änderungen für Aufträge => Leitet mir Innsbruck weiter.**
 - **CS-JOB => Datei => Ladungs-Importe => Fenster mit allen Datensätzen die Importiert wurden** => **Links unten werden Reiter "Orange"** wo eine Änderung vorgekommen ist
@@ -63,8 +85,6 @@
 - **bis = Bereitstellungs_Datum  // bis(E) = 06:00 Uhr**
 - Bei **Multi-Split** ohne **Checkmark "zu Tour verbinden"** => **Useless**
     - Heinz just teached me Cargo-Support
-
-
 - Bei Plant_SC_Leiter Touren gibt **Heinz** nachträglich => **Durchführungs_Datum & Monteurname** ein.
 
 ## Tourenplan für SC-Leiter 💚
