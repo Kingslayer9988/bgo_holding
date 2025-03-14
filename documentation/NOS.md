@@ -61,9 +61,8 @@
     - WAB(1) Graz Freitags = **17_5_01**
 
 ## Ausliefer-Karte und Postleitzahlen 
-Cargo-Zone | SC-Lager | SC-Leiter | PLZ
 
-| Cargo-Zone | SC-Lager+Leiter | PLZ |
+| Zone | SC | PLZ |
 | --- | --- | --- |
 | **A & B & C & E** | **SC W. Neudorf-Roman** | 890x-894x,87,86,73,72,71,70,39,38,37,36,35,34,330x-336x,337x-339x,32,31,30,29,28,27,26,25,24,23,22,21,20,10,11,12 |
 | **H & D** | **SC Linz-Öhlinger** | (Teil1 von 57),56,55,54,53,52,51,50,49,48,47,46,45,44,43,42,41,40, 895x-899x |
