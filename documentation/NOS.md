@@ -62,6 +62,9 @@
 
 ## Ausliefer-Karte und Postleitzahlen 
 
+![NOS_PLZ_MAP](https://github.com/user-attachments/assets/745f37ad-3b19-42a3-a310-5828f0e3dd53)
+
+
 | Zone | SC | PLZ |
 | --- | --- | --- |
 | **A B C E** | **SC W. Neudorf-Roman** | 890x-894x,87,86,73,72,71,70,39,38,37,36,35,34,330x-336x,337x-339x,32,31,30,29,28,27,26,25,24,23,22,21,20,10,11,12 |
