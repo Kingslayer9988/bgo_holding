@@ -60,7 +60,7 @@
     - WAB(1) Graz Donnerstags = **17_4_01**
     - WAB(1) Graz Freitags = **17_5_01**
 
-## Ausliefer-Karte und Postleitzahlen 
+## Interaktive Ausliefer-Karte und Postleitzahlen Zuordnung
 
 FORGET THIS BULLSHIT MAP ALSO ALL THE PLZ EVERYTHING IS WRONG GETS FIXED => **[Interactive Map-Coming](https://github.com/Kingslayer9988/austria-post-and-area-code)**
 ![NOS_PLZ_MAP](https://github.com/user-attachments/assets/745f37ad-3b19-42a3-a310-5828f0e3dd53)
@@ -107,16 +107,17 @@ Danke im Voraus.
     - Heinz just teached me Cargo-Support
 - Bei Plant_SC_Leiter Touren gibt **Heinz** nachträglich => **Durchführungs_Datum & Monteurname** ein.
 
-## Tourenplan für SC-Leiter 💚
+## Tourenplan für SC-Leiter
 - **Rechtsclick** => **Archivierte Dokuemente** => **Archivierte Dokumente des Auftrages** => **Doppelclick auf Datensatz** => **Dokument_1**
-- Mehrfachdruck testen ??? - Möglich ?
+- **Mehrfachdruck testen ??? - Möglich ?**
 - **F6** => **Tourenplan** => **Dokument_2**
 - **Deckbaltt** => **Dokument_3**
 - **Sollte für SC-Leiter reichen => Aufpassen Preise sollten runter => (Archivierte Dokumente)**
 
-## Fixing 💚
-- **Excel-Makro für Tourenplan_Helmuth** => Zu **Tourenplan_BML**
+## Fixing NOS 💚
+- **Excel-Makro für Tourenplan_Helmuth** => Zu **Tourenplan_BML** (Almost working)
 - **2020** => **Liefer-Vorschläge export as PDF's ??** => **Sortieren nach Gebieten (Zonen)** => **Auto. Mails** an Zuständigen!
+- **Sorting nach neuer PLZ Methode** => **[Siehe Interaktive Aus-Lieferkarte]()**
 - Wie am besten **Sortiern:**
     -   Als erstes wird nach **Prod_Datum** sortiert => "KW"
     -   Gebiete => nach **PLZ** sortiert
