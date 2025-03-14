@@ -62,6 +62,7 @@
 
 ## Ausliefer-Karte und Postleitzahlen 
 
+FORGET THIS BULLSHIT MAP => **[Interactive Map-Coming](https://github.com/Kingslayer9988/austria-post-and-area-code)**
 ![NOS_PLZ_MAP](https://github.com/user-attachments/assets/745f37ad-3b19-42a3-a310-5828f0e3dd53)
 
 
